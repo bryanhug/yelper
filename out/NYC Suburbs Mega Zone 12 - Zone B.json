@@ -1,0 +1,469 @@
+{
+    "businesses": [
+        {
+            "alias": "prime-1024-roslyn",
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.79724,
+                "longitude": -73.66731
+            },
+            "display_phone": "(516) 621-1024",
+            "distance": 1621.8311832388347,
+            "id": "d8J4e8XlErYrM2F6hI5GPA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YBtYRQ-_VKXhQhuR7s0M0w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1024 Northern Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Roslyn",
+                "country": "US",
+                "display_address": [
+                    "1024 Northern Blvd",
+                    "Roslyn, NY 11576"
+                ],
+                "state": "NY",
+                "zip_code": "11576"
+            },
+            "name": "Prime 1024",
+            "phone": "+15166211024",
+            "rating": 4.0,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/prime-1024-roslyn?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "boychiks-bagels-port-washington",
+            "categories": [
+                {
+                    "alias": "bagels",
+                    "title": "Bagels"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.82884,
+                "longitude": -73.68404
+            },
+            "display_phone": "(516) 918-9444",
+            "distance": 2471.0455325902176,
+            "id": "MVhpnGt_KDNIupTlSa5XIg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NoOXHvmIeF6_j39bTAfsaQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "900 Port Washington Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Port Washington",
+                "country": "US",
+                "display_address": [
+                    "900 Port Washington Blvd",
+                    "Port Washington, NY 11050"
+                ],
+                "state": "NY",
+                "zip_code": "11050"
+            },
+            "name": "Boychiks Bagels",
+            "phone": "+15169189444",
+            "rating": 4.0,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/boychiks-bagels-port-washington?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "empire-dynasty-barber-shop-and-unisex-salon-roslyn-heights",
+            "categories": [
+                {
+                    "alias": "barbers",
+                    "title": "Barbers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.7888184668429,
+                "longitude": -73.6513465880579
+            },
+            "display_phone": "(646) 651-7572",
+            "distance": 2831.979118819164,
+            "id": "_GA7RwqpGwPDQdWYwmOvtg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_GaxRsPb-1siV-rg3sfkvg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "102 Mineola Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Roslyn Heights",
+                "country": "US",
+                "display_address": [
+                    "102 Mineola Ave",
+                    "Roslyn Heights, NY 11577"
+                ],
+                "state": "NY",
+                "zip_code": "11577"
+            },
+            "name": "Empire Dynasty Barber Shop & Unisex Salon",
+            "phone": "+16466517572",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/empire-dynasty-barber-shop-and-unisex-salon-roslyn-heights?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "maldon-and-mignonette-sea-cliff",
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.84618,
+                "longitude": -73.63605
+            },
+            "display_phone": "(516) 801-3250",
+            "distance": 4497.318773602546,
+            "id": "iLBMHGa-HR0Id0T0fp0jow",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LHMTYWB9g2qM6ZDffkzekA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "243 Glen Cove Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Sea Cliff",
+                "country": "US",
+                "display_address": [
+                    "243 Glen Cove Ave",
+                    "Sea Cliff, NY 11579"
+                ],
+                "state": "NY",
+                "zip_code": "11579"
+            },
+            "name": "Maldon & Mignonette",
+            "phone": "+15168013250",
+            "rating": 4.5,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/maldon-and-mignonette-sea-cliff?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ny-chicken-and-rice-glen-cove",
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.8480848794968,
+                "longitude": -73.6356019265759
+            },
+            "display_phone": "(516) 801-8080",
+            "distance": 4685.975284419528,
+            "id": "bm1ldPiPdGBLve418s5Uvw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/i-ZwZutgaixwfo2hR5oAnQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "214 Glen Cove Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Glen Cove",
+                "country": "US",
+                "display_address": [
+                    "214 Glen Cove Ave",
+                    "Glen Cove, NY 11542"
+                ],
+                "state": "NY",
+                "zip_code": "11542"
+            },
+            "name": "NY Chicken & Rice",
+            "phone": "+15168018080",
+            "rating": 3.5,
+            "review_count": 19,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/ny-chicken-and-rice-glen-cove?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "avo-taco-new-hyde-park-2",
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.741878,
+                "longitude": -73.660556
+            },
+            "display_phone": "(516) 373-2340",
+            "distance": 7823.240108853373,
+            "id": "-g2lGwZRjy_p2aml01sUWg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/f-jLeYYga6sspQJBq8y4Pg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2340 Jericho Turnpike",
+                "address2": null,
+                "address3": null,
+                "city": "New Hyde Park",
+                "country": "US",
+                "display_address": [
+                    "2340 Jericho Turnpike",
+                    "New Hyde Park, NY 11040"
+                ],
+                "state": "NY",
+                "zip_code": "11040"
+            },
+            "name": "AVO TACO",
+            "phone": "+15163732340",
+            "rating": 4.0,
+            "review_count": 79,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/avo-taco-new-hyde-park-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "halal-n-out-new-hyde-park",
+            "categories": [
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                },
+                {
+                    "alias": "falafel",
+                    "title": "Falafel"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.74323,
+                "longitude": -73.69449
+            },
+            "display_phone": "(516) 502-6791",
+            "distance": 8069.8720171514115,
+            "id": "Z0G2F2Z3eV_I3dWKizElPQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yqwVWI8CpX0gFeevSEFBuQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "783 Hillside Ave",
+                "address2": null,
+                "address3": "",
+                "city": "New Hyde Park",
+                "country": "US",
+                "display_address": [
+                    "783 Hillside Ave",
+                    "New Hyde Park, NY 11040"
+                ],
+                "state": "NY",
+                "zip_code": "11040"
+            },
+            "name": "Halal-N-out",
+            "phone": "+15165026791",
+            "rating": 4.5,
+            "review_count": 13,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/halal-n-out-new-hyde-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "small-batch-garden-city",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.74262,
+                "longitude": -73.61572
+            },
+            "display_phone": "(516) 548-8162",
+            "distance": 9252.123851677345,
+            "id": "cwIHgX9lELFZOXAtoPNgVQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/asaxd-9-_n0EfDdiwpr1bQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "630 Old Country Rd",
+                "address2": "",
+                "address3": null,
+                "city": "Garden City",
+                "country": "US",
+                "display_address": [
+                    "630 Old Country Rd",
+                    "Garden City, NY 11530"
+                ],
+                "state": "NY",
+                "zip_code": "11530"
+            },
+            "name": "Small Batch",
+            "phone": "+15165488162",
+            "rating": 4.5,
+            "review_count": 20,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/small-batch-garden-city?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kung-fu-kitchen-garden-city",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.7380483415529,
+                "longitude": -73.6128174281723
+            },
+            "display_phone": "",
+            "distance": 9328.57037511342,
+            "id": "tnXikL8Qq3wMOypdGaZSJA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PQwG8vZJE6KtbL1DH1HbZg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "630 Old Country Rd",
+                "address2": null,
+                "address3": "Roosevelt Field Mall",
+                "city": "Garden City",
+                "country": "US",
+                "display_address": [
+                    "630 Old Country Rd",
+                    "Roosevelt Field Mall",
+                    "Garden City, NY 11530"
+                ],
+                "state": "NY",
+                "zip_code": "11530"
+            },
+            "name": "Kung Fu Kitchen",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kung-fu-kitchen-garden-city?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "dolce-aesthetics-queens-2",
+            "categories": [
+                {
+                    "alias": "medicalspa",
+                    "title": "Medical Spas"
+                },
+                {
+                    "alias": "laser_hair_removal",
+                    "title": "Laser Hair Removal"
+                },
+                {
+                    "alias": "skincare",
+                    "title": "Skin Care"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.65558,
+                "longitude": -73.8394
+            },
+            "display_phone": "(718) 322-5300",
+            "distance": 22794.562615354243,
+            "id": "5G2-yEXlsCsOfjFqRU60wA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IytPD_r4qNc2ir2Iyy4RbA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "161-02 Cross Bay Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Queens",
+                "country": "US",
+                "display_address": [
+                    "161-02 Cross Bay Blvd",
+                    "Queens, NY 11414"
+                ],
+                "state": "NY",
+                "zip_code": "11414"
+            },
+            "name": "Dolce Aesthetics",
+            "phone": "+17183225300",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dolce-aesthetics-queens-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "just4move-nyc-brooklyn",
+            "categories": [
+                {
+                    "alias": "movers",
+                    "title": "Movers"
+                },
+                {
+                    "alias": "packingservices",
+                    "title": "Packing Services"
+                },
+                {
+                    "alias": "packingsupplies",
+                    "title": "Packing Supplies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.6698599111662,
+                "longitude": -73.9560807868838
+            },
+            "display_phone": "(516) 399-1055",
+            "distance": 29204.45975538926,
+            "id": "SMTa4VpGZRBm3KjYkEMOkg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VB_SkT1ozb1ZcUwoqqUy-w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "390 Eastern Pkwy",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "country": "US",
+                "display_address": [
+                    "390 Eastern Pkwy",
+                    "Brooklyn, NY 11225"
+                ],
+                "state": "NY",
+                "zip_code": "11225"
+            },
+            "name": "Just4Move NYC",
+            "phone": "+15163991055",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/just4move-nyc-brooklyn?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 40.81216329563791,
+            "longitude": -73.66472515124919
+        }
+    },
+    "total": 11
+}

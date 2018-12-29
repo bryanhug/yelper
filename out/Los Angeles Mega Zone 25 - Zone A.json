@@ -1,0 +1,266 @@
+{
+    "businesses": [
+        {
+            "alias": "the-green-room-burbank",
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.20344,
+                "longitude": -118.30106
+            },
+            "display_phone": "(818) 962-4446",
+            "distance": 1314.4878610944456,
+            "id": "t2i3XskWAAPn6A7dpZLNAA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NnIXMVhy00jBHBtrAoG-2g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1250 E Harvard Rd",
+                "address2": null,
+                "address3": null,
+                "city": "Burbank",
+                "country": "US",
+                "display_address": [
+                    "1250 E Harvard Rd",
+                    "Burbank, CA 91501"
+                ],
+                "state": "CA",
+                "zip_code": "91501"
+            },
+            "name": "The Green Room",
+            "phone": "+18189624446",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-green-room-burbank?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "h-and-m-burbank",
+            "categories": [
+                {
+                    "alias": "fashion",
+                    "title": "Fashion"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.18343,
+                "longitude": -118.31217
+            },
+            "display_phone": "(855) 466-7467",
+            "distance": 1768.6673842416083,
+            "id": "HUZ5jcb5pCJgb_ytGq7I5A",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MdIj7Nk8iFN-U5nL8qtO-Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "201 E Magnolia Blvd",
+                "address2": "",
+                "address3": "Burbank Town Ctr",
+                "city": "Burbank",
+                "country": "US",
+                "display_address": [
+                    "201 E Magnolia Blvd",
+                    "Burbank Town Ctr",
+                    "Burbank, CA 91502"
+                ],
+                "state": "CA",
+                "zip_code": "91502"
+            },
+            "name": "H&M",
+            "phone": "+18554667467",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/h-and-m-burbank?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "shake-shack-burbank",
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.18205,
+                "longitude": -118.30962
+            },
+            "display_phone": "(747) 333-3040",
+            "distance": 1943.4883284137306,
+            "id": "RDqioHCAMda4Ie7hiuun1w",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/E5Wwfe63tstrzh2haahfzg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "200 N San Fernando Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Burbank",
+                "country": "US",
+                "display_address": [
+                    "200 N San Fernando Blvd",
+                    "Burbank, CA 91502"
+                ],
+                "state": "CA",
+                "zip_code": "91502"
+            },
+            "name": "Shake Shack",
+            "phone": "+17473333040",
+            "rating": 3.5,
+            "review_count": 28,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/shake-shack-burbank?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "monster-noodle-house-burbank",
+            "categories": [
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.1806,
+                "longitude": -118.30783
+            },
+            "display_phone": "(818) 524-2588",
+            "distance": 2133.2354825047187,
+            "id": "_xB4_3YKPg5WtxiN2WHqog",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/N2I5iqw0p07WWQFRFWnfHw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "150 S San Fernando Blvd",
+                "address2": "Ste 30",
+                "address3": null,
+                "city": "Burbank",
+                "country": "US",
+                "display_address": [
+                    "150 S San Fernando Blvd",
+                    "Ste 30",
+                    "Burbank, CA 91502"
+                ],
+                "state": "CA",
+                "zip_code": "91502"
+            },
+            "name": "Monster Noodle House",
+            "phone": "+18185242588",
+            "rating": 3.5,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/monster-noodle-house-burbank?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-woke-truck-burbank",
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.15592,
+                "longitude": -118.34321
+            },
+            "display_phone": "(516) 233-6368",
+            "distance": 4921.304040509229,
+            "id": "IpumvReJGi1eih4hG7Nelw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IT0GqAtv7QRB7Ml4ib751w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "Burbank",
+                "country": "US",
+                "display_address": [
+                    "Burbank, CA 91505"
+                ],
+                "state": "CA",
+                "zip_code": "91505"
+            },
+            "name": "The Woke Truck",
+            "phone": "+15162336368",
+            "rating": 4.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-woke-truck-burbank?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "vitaminologie-pasadena",
+            "categories": [
+                {
+                    "alias": "ivhydration",
+                    "title": "IV Hydration"
+                },
+                {
+                    "alias": "medicalspa",
+                    "title": "Medical Spas"
+                },
+                {
+                    "alias": "vitaminssupplements",
+                    "title": "Vitamins & Supplements"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.1460449,
+                "longitude": -118.1301306
+            },
+            "display_phone": "(833) 800-8487",
+            "distance": 17786.18720569581,
+            "id": "UKc9-OXIg9IAs-v6YgXaMQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QImFrrsko7J_WcYfrSLjkQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "977 East Colorado Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "977 East Colorado Blvd",
+                    "Pasadena, CA 91106"
+                ],
+                "state": "CA",
+                "zip_code": "91106"
+            },
+            "name": "Vitaminologie",
+            "phone": "+18338008487",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/vitaminologie-pasadena?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 34.19933273316589,
+            "longitude": -118.31256123470462
+        }
+    },
+    "total": 6
+}

@@ -1,0 +1,196 @@
+{
+    "businesses": [
+        {
+            "alias": "e-sushi-2-brooklyn",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.58884,
+                "longitude": -73.9492099
+            },
+            "display_phone": "(718) 891-5898",
+            "distance": 428.0737287123413,
+            "id": "4UqmQ-zLrbICQFoDhr5XnQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hO6AlNZa5oRUGgzGW9Yb3Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2971 Ocean Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "country": "US",
+                "display_address": [
+                    "2971 Ocean Ave",
+                    "Brooklyn, NY 11235"
+                ],
+                "state": "NY",
+                "zip_code": "11235"
+            },
+            "name": "E Sushi 2",
+            "phone": "+17188915898",
+            "rating": 4.0,
+            "review_count": 45,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/e-sushi-2-brooklyn?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "flaming-grill-and-modern-buffet-brooklyn",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "buffets",
+                    "title": "Buffets"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.59064,
+                "longitude": -73.93957
+            },
+            "display_phone": "(718) 648-6888",
+            "distance": 632.7323515441626,
+            "id": "e96uZ0XXMwO8l7vfxH9jDQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ywGvEODBNth6uZ5b4DcvSA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3839 Nostrand Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Brooklyn",
+                "country": "US",
+                "display_address": [
+                    "3839 Nostrand Ave",
+                    "Brooklyn, NY 11235"
+                ],
+                "state": "NY",
+                "zip_code": "11235"
+            },
+            "name": "Flaming Grill & Modern Buffet",
+            "phone": "+17186486888",
+            "rating": 4.0,
+            "review_count": 44,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/flaming-grill-and-modern-buffet-brooklyn?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "poke-stop-brooklyn-2",
+            "categories": [
+                {
+                    "alias": "poke",
+                    "title": "Poke"
+                },
+                {
+                    "alias": "hawaiian",
+                    "title": "Hawaiian"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.58558,
+                "longitude": -73.95176
+            },
+            "display_phone": "(718) 676-7878",
+            "distance": 861.6066125941707,
+            "id": "EXyJa7Y6YEhTGCM5QjQ5ww",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fBXu3tmr8LovNCSB-gyrng/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1720 Sheepshead Bay Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "country": "US",
+                "display_address": [
+                    "1720 Sheepshead Bay Rd",
+                    "Brooklyn, NY 11235"
+                ],
+                "state": "NY",
+                "zip_code": "11235"
+            },
+            "name": "Poke Stop",
+            "phone": "+17186767878",
+            "rating": 4.0,
+            "review_count": 11,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/poke-stop-brooklyn-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "rayhon-cafe-brooklyn-3",
+            "categories": [
+                {
+                    "alias": "uzbek",
+                    "title": "Uzbek"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                },
+                {
+                    "alias": "modern_european",
+                    "title": "Modern European"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.59943,
+                "longitude": -73.95212
+            },
+            "display_phone": "(347) 673-5288",
+            "distance": 943.6543022513808,
+            "id": "Dyirp6W1VfAYxV2jq7NGPg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FaB6sfO-wJHqQ83fAWKlBw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1915 Ave U",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "country": "US",
+                "display_address": [
+                    "1915 Ave U",
+                    "Brooklyn, NY 11229"
+                ],
+                "state": "NY",
+                "zip_code": "11229"
+            },
+            "name": "Rayhon cafe",
+            "phone": "+13476735288",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/rayhon-cafe-brooklyn-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 40.592116861160264,
+            "longitude": -73.94648199636981
+        }
+    },
+    "total": 4
+}

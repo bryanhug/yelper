@@ -1,0 +1,70 @@
+Taj Mahal
+10066 Pacific Heights Blvd, Ste 106, San Diego, CA 92121, 
++18584533672
+https://www.yelp.com/biz/taj-mahal-san-diego-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Pho Kitchen
+6755 Mira Mesa Blvd, Ste 144, San Diego, CA 92121, 
++18582466545
+https://www.yelp.com/biz/pho-kitchen-san-diego-7?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+85°C Bakery Cafe
+4313 La Jolla Village Dr, Ste 2275, San Diego, CA 92122, 
++18583526098
+https://www.yelp.com/biz/85-c-bakery-cafe-san-diego-12?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Acai House
+4545 La Jolla Village Dr, Ste F-14, San Diego, CA 92122, 
+
+https://www.yelp.com/biz/acai-house-san-diego-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Peet's Coffee
+8905 Towne Centre Dr, San Diego, CA 92122, 
++16193170034
+https://www.yelp.com/biz/peets-coffee-san-diego-10?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Menya Ultra
+8141 Mira Mesa Blvd, San Diego, CA 92126, 
++18585712010
+https://www.yelp.com/biz/menya-ultra-san-diego-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Little Sakana Japanese Sushi Bar & Grill
+8270 Mira Mesa Blvd, Ste E, San Diego, CA 92126, 
++18588605000
+https://www.yelp.com/biz/little-sakana-japanese-sushi-bar-and-grill-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+CVS Pharmacy
+8260 Mira Mesa Blvd, Mira Mesa, CA 92126, 
++18585663031
+https://www.yelp.com/biz/cvs-pharmacy-mira-mesa-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Kimae Ramen
+8657 Villa La Jolla Dr, Ste 103, San Diego, CA 92037, 
++18588867636
+https://www.yelp.com/biz/kimae-ramen-san-diego-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Panini Kabob Grill
+12955 El Camino Real, Ste G4, San Diego, CA 92130, 
++18585239336
+https://www.yelp.com/biz/panini-kabob-grill-san-diego-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Nail Superstars
+7825 Highlands Village Pl, Ste E103, San Diego, CA 92129, 
++18584846484
+https://www.yelp.com/biz/nail-superstars-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+STP Bar-N-Grill
+5487 Clairemont Mesa Blvd, San Diego, CA 92117, 
++18584306911
+https://www.yelp.com/biz/stp-bar-n-grill-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Pinto's Pizza Cones
+San Diego, CA 92109, 
++19136330700
+https://www.yelp.com/biz/pintos-pizza-cones-san-diego-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Looksbyalia
+San Diego, CA 92128, 
++18583299947
+https://www.yelp.com/biz/looksbyalia-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+

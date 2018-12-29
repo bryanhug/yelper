@@ -1,0 +1,173 @@
+{
+    "businesses": [
+        {
+            "alias": "kuma-san-antonio-2",
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "waffles",
+                    "title": "Waffles"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.5143758398477,
+                "longitude": -98.6965018138289
+            },
+            "display_phone": "",
+            "distance": 5704.119304810173,
+            "id": "D0km_1sZhY8rHx3R4PlIsQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LR65cvc2s5bgmwbtoF6mIg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7915 W Loop 1604 N",
+                "address2": null,
+                "address3": null,
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "7915 W Loop 1604 N",
+                    "San Antonio, TX 78254"
+                ],
+                "state": "TX",
+                "zip_code": "78254"
+            },
+            "name": "Kuma",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kuma-san-antonio-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mr-c-s-fried-chicken-and-waffles-san-antonio",
+            "categories": [
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.51326,
+                "longitude": -98.69638
+            },
+            "display_phone": "",
+            "distance": 5737.594472052519,
+            "id": "d8QFhR3kG6iFnPxznZ0PTA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jJczKAaCRpb2UqBGfcx-lg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7907 W Lp 1604 N",
+                "address2": "Ste 102",
+                "address3": null,
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "7907 W Lp 1604 N",
+                    "Ste 102",
+                    "San Antonio, TX 78254"
+                ],
+                "state": "TX",
+                "zip_code": "78254"
+            },
+            "name": "Mr C\u2019s Fried Chicken & Waffles",
+            "phone": "",
+            "rating": 3.5,
+            "review_count": 54,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mr-c-s-fried-chicken-and-waffles-san-antonio?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "wapo-taco-san-antonio-2",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.513193,
+                "longitude": -98.696376
+            },
+            "display_phone": "(210) 455-2188",
+            "distance": 5739.3693954173805,
+            "id": "jISbsAvnYBixZosDyt3-Zg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LS6kS7lQqjUGY0t2aYWBKg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7907 W Loop 1604 N",
+                "address2": "Ste 101",
+                "address3": "",
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "7907 W Loop 1604 N",
+                    "Ste 101",
+                    "San Antonio, TX 78254"
+                ],
+                "state": "TX",
+                "zip_code": "78254"
+            },
+            "name": "Wapo Taco",
+            "phone": "+12104552188",
+            "rating": 4.0,
+            "review_count": 29,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/wapo-taco-san-antonio-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "cleo-nailspa-san-antonio",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.4427408,
+                "longitude": -98.6621777
+            },
+            "display_phone": "",
+            "distance": 12652.385801058368,
+            "id": "x30LcEPvXCGp-WkC3wOpaw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FowkNwpX5Cq1EsGdTLj1Kw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8771 TX-151",
+                "address2": "",
+                "address3": null,
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "8771 TX-151",
+                    "San Antonio, TX 78245"
+                ],
+                "state": "TX",
+                "zip_code": "78245"
+            },
+            "name": "Cleo NailSpa",
+            "phone": "",
+            "rating": 3.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/cleo-nailspa-san-antonio?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 29.52287507480802,
+            "longitude": -98.75463753775063
+        }
+    },
+    "total": 4
+}

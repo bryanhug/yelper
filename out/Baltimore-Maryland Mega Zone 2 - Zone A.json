@@ -1,0 +1,141 @@
+{
+    "businesses": [
+        {
+            "alias": "bodhi-corner-baltimore",
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.33003,
+                "longitude": -76.6296
+            },
+            "display_phone": "(443) 438-4068",
+            "distance": 4014.2129656430347,
+            "id": "Ibh1sWpE2SReWUnvuxiK8A",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RzUrxnuSU6Cyf1EO35inCQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3500 Chestnut Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Baltimore",
+                "country": "US",
+                "display_address": [
+                    "3500 Chestnut Ave",
+                    "Baltimore, MD 21211"
+                ],
+                "state": "MD",
+                "zip_code": "21211"
+            },
+            "name": "Bodhi Corner",
+            "phone": "+14434384068",
+            "rating": 4.5,
+            "review_count": 18,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bodhi-corner-baltimore?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "fod-poke-bar-towson",
+            "categories": [
+                {
+                    "alias": "hawaiian",
+                    "title": "Hawaiian"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "poke",
+                    "title": "Poke"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.39958,
+                "longitude": -76.60248
+            },
+            "display_phone": "(443) 841-7085",
+            "distance": 4204.770590210219,
+            "id": "vKHXgovOulfY9eqXxVJksA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cP10OOuruZV0fej9bK3R6w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "402 York Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Towson",
+                "country": "US",
+                "display_address": [
+                    "402 York Rd",
+                    "Towson, MD 21204"
+                ],
+                "state": "MD",
+                "zip_code": "21204"
+            },
+            "name": "FOD Poke Bar",
+            "phone": "+14438417085",
+            "rating": 4.5,
+            "review_count": 22,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/fod-poke-bar-towson?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "maimura-sushi-noodle-and-korean-bbq-towson",
+            "categories": [
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.40144,
+                "longitude": -76.60065
+            },
+            "display_phone": "(410) 832-5300",
+            "distance": 4467.79775612757,
+            "id": "4iqvbEFgMs__AmY9vqsE-g",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hyucoaJt2b8spqn_ZrmuKA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "105E Joppa Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Towson",
+                "country": "US",
+                "display_address": [
+                    "105E Joppa Rd",
+                    "Towson, MD 21286"
+                ],
+                "state": "MD",
+                "zip_code": "21286"
+            },
+            "name": "Maimura Sushi Noodle & Korean BBQ",
+            "phone": "+14108325300",
+            "rating": 4.5,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/maimura-sushi-noodle-and-korean-bbq-towson?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 39.36596618234423,
+            "longitude": -76.62498059987736
+        }
+    },
+    "total": 3
+}

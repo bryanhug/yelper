@@ -1,0 +1,146 @@
+{
+    "businesses": [
+        {
+            "alias": "sharetea-lakewood-3",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.7088001,
+                "longitude": -105.0767351
+            },
+            "display_phone": "(720) 708-4354",
+            "distance": 1946.8388190610856,
+            "id": "rSu8tJ3gZgjpBHHYUTOcsg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rWHnKPKKMMGIHBMcUZ66zw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "424 S Teller St",
+                "address2": null,
+                "address3": "",
+                "city": "Lakewood",
+                "country": "US",
+                "display_address": [
+                    "424 S Teller St",
+                    "Lakewood, CO 80226"
+                ],
+                "state": "CO",
+                "zip_code": "80226"
+            },
+            "name": "Sharetea",
+            "phone": "+17207084354",
+            "rating": 3.0,
+            "review_count": 28,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sharetea-lakewood-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "winstons-pub-and-grill-belmar-lakewood",
+            "categories": [
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                },
+                {
+                    "alias": "british",
+                    "title": "British"
+                },
+                {
+                    "alias": "fishnchips",
+                    "title": "Fish & Chips"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.70875,
+                "longitude": -105.07756
+            },
+            "display_phone": "(303) 953-5510",
+            "distance": 1980.4868595975643,
+            "id": "JfK3Pb0pT4ydktoFfNP-mQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7JtEhBFmDtN8GiaZ8SNaUw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7260 W Alaska Dr",
+                "address2": "",
+                "address3": null,
+                "city": "Lakewood",
+                "country": "US",
+                "display_address": [
+                    "7260 W Alaska Dr",
+                    "Lakewood, CO 80226"
+                ],
+                "state": "CO",
+                "zip_code": "80226"
+            },
+            "name": "Winston's Pub & Grill - Belmar",
+            "phone": "+13039535510",
+            "rating": 3.0,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/winstons-pub-and-grill-belmar-lakewood?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "i-ce-ny-denver-denver-3",
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.74106,
+                "longitude": -105.04203
+            },
+            "display_phone": "(303) 856-3690",
+            "distance": 6239.570315303928,
+            "id": "FYgd4ACAD-BAD4YKtk6WfQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/t14g4gTE8ZTXGMNl_4te4Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1525 N Raleigh St",
+                "address2": "Ste 110",
+                "address3": "",
+                "city": "Denver",
+                "country": "US",
+                "display_address": [
+                    "1525 N Raleigh St",
+                    "Ste 110",
+                    "Denver, CO 80204"
+                ],
+                "state": "CO",
+                "zip_code": "80204"
+            },
+            "name": "I-CE-NY Denver",
+            "phone": "+13038563690",
+            "rating": 4.5,
+            "review_count": 14,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/i-ce-ny-denver-denver-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 39.69121620084382,
+            "longitude": -105.0750546746638
+        }
+    },
+    "total": 3
+}

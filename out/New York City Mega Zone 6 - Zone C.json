@@ -1,0 +1,194 @@
+{
+    "businesses": [
+        {
+            "alias": "kingston-food-truck-bronx",
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "caribbean",
+                    "title": "Caribbean"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.8199828644325,
+                "longitude": -73.8418828923859
+            },
+            "display_phone": "(929) 288-6551",
+            "distance": 466.4535551460161,
+            "id": "ZK3bFxIOaGQ__uU_4pcTLQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lmkAJTAAPMeq86xHTUKMtA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "570 Zerega Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Bronx",
+                "country": "US",
+                "display_address": [
+                    "570 Zerega Ave",
+                    "Bronx, NY 10473"
+                ],
+                "state": "NY",
+                "zip_code": "10473"
+            },
+            "name": "Kingston Food Truck",
+            "phone": "+19292886551",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kingston-food-truck-bronx?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bagels-and-cream-bronx",
+            "categories": [
+                {
+                    "alias": "bagels",
+                    "title": "Bagels"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.84719,
+                "longitude": -73.84437
+            },
+            "display_phone": "(718) 975-5101",
+            "distance": 2909.2768170393197,
+            "id": "r0K4sHp8u97oqo473r_lOA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DHp423FWod_zP5XocG8JgA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1728 Eastchester Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Bronx",
+                "country": "US",
+                "display_address": [
+                    "1728 Eastchester Rd",
+                    "Bronx, NY 10461"
+                ],
+                "state": "NY",
+                "zip_code": "10461"
+            },
+            "name": "Bagels and Cream",
+            "phone": "+17189755101",
+            "rating": 4.0,
+            "review_count": 20,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/bagels-and-cream-bronx?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "dolce-aesthetics-queens-2",
+            "categories": [
+                {
+                    "alias": "medicalspa",
+                    "title": "Medical Spas"
+                },
+                {
+                    "alias": "laser_hair_removal",
+                    "title": "Laser Hair Removal"
+                },
+                {
+                    "alias": "skincare",
+                    "title": "Skin Care"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.65558,
+                "longitude": -73.8394
+            },
+            "display_phone": "(718) 322-5300",
+            "distance": 18466.074224132426,
+            "id": "5G2-yEXlsCsOfjFqRU60wA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IytPD_r4qNc2ir2Iyy4RbA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "161-02 Cross Bay Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Queens",
+                "country": "US",
+                "display_address": [
+                    "161-02 Cross Bay Blvd",
+                    "Queens, NY 11414"
+                ],
+                "state": "NY",
+                "zip_code": "11414"
+            },
+            "name": "Dolce Aesthetics",
+            "phone": "+17183225300",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dolce-aesthetics-queens-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "just4move-nyc-brooklyn",
+            "categories": [
+                {
+                    "alias": "movers",
+                    "title": "Movers"
+                },
+                {
+                    "alias": "packingservices",
+                    "title": "Packing Services"
+                },
+                {
+                    "alias": "packingsupplies",
+                    "title": "Packing Supplies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.6698599111662,
+                "longitude": -73.9560807868838
+            },
+            "display_phone": "(516) 399-1055",
+            "distance": 19655.311659117182,
+            "id": "SMTa4VpGZRBm3KjYkEMOkg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VB_SkT1ozb1ZcUwoqqUy-w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "390 Eastern Pkwy",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "country": "US",
+                "display_address": [
+                    "390 Eastern Pkwy",
+                    "Brooklyn, NY 11225"
+                ],
+                "state": "NY",
+                "zip_code": "11225"
+            },
+            "name": "Just4Move NYC",
+            "phone": "+15163991055",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/just4move-nyc-brooklyn?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 40.821692424502025,
+            "longitude": -73.83660917618053
+        }
+    },
+    "total": 4
+}

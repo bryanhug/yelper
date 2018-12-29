@@ -1,0 +1,302 @@
+{
+    "businesses": [
+        {
+            "alias": "mekong-cafe-midvale-3",
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.62079,
+                "longitude": -111.89918
+            },
+            "display_phone": "(385) 900-5574",
+            "distance": 928.1930963461784,
+            "id": "mf1JCDjGcRyW5Ej7Lz8Xig",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mNsu3Iek7RYxgIln0jx6cw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "282 West 7200 S",
+                "address2": "",
+                "address3": null,
+                "city": "Midvale",
+                "country": "US",
+                "display_address": [
+                    "282 West 7200 S",
+                    "Midvale, UT 84047"
+                ],
+                "state": "UT",
+                "zip_code": "84047"
+            },
+            "name": "Mekong Cafe",
+            "phone": "+13859005574",
+            "rating": 4.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mekong-cafe-midvale-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sagato-bakery-and-cafe-midvale",
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.621116,
+                "longitude": -111.89244
+            },
+            "display_phone": "(385) 557-1728",
+            "distance": 984.3107908011576,
+            "id": "9H1utYOM93Pg0BwxlHA3xw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eI_PFQuRwuEUmM6PtTAtwQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "44 W 7200th S",
+                "address2": "",
+                "address3": null,
+                "city": "Midvale",
+                "country": "US",
+                "display_address": [
+                    "44 W 7200th S",
+                    "Midvale, UT 84047"
+                ],
+                "state": "UT",
+                "zip_code": "84047"
+            },
+            "name": "Sagato Bakery & Cafe",
+            "phone": "+13855571728",
+            "rating": 4.5,
+            "review_count": 22,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sagato-bakery-and-cafe-midvale?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hello-k-tea-murray",
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.6369696370235,
+                "longitude": -111.885397914898
+            },
+            "display_phone": "",
+            "distance": 1337.3673941108561,
+            "id": "tkHK07tHKFy0t5_nThdr9Q",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HtUmeyM2Yr9lbx4JtIGypg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6191 State St",
+                "address2": "",
+                "address3": null,
+                "city": "Murray",
+                "country": "US",
+                "display_address": [
+                    "6191 State St",
+                    "Murray, UT 84107"
+                ],
+                "state": "UT",
+                "zip_code": "84107"
+            },
+            "name": "Hello K Tea",
+            "phone": "",
+            "rating": 3.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hello-k-tea-murray?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "billy-bs-hash-house-midvale",
+            "categories": [
+                {
+                    "alias": "donuts",
+                    "title": "Donuts"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.6189684378208,
+                "longitude": -111.910665370524
+            },
+            "display_phone": "(801) 613-9851",
+            "distance": 1589.5600245625117,
+            "id": "P6NhPuDeZu_4OrXQxzsSwA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/m_QPZV2rKcjz0tKh7akW6g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "718 Coliseum Way",
+                "address2": "",
+                "address3": null,
+                "city": "Midvale",
+                "country": "US",
+                "display_address": [
+                    "718 Coliseum Way",
+                    "Midvale, UT 84047"
+                ],
+                "state": "UT",
+                "zip_code": "84047"
+            },
+            "name": "Billy B's Hash House",
+            "phone": "+18016139851",
+            "rating": 4.0,
+            "review_count": 52,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/billy-bs-hash-house-midvale?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "paradise-buffet-murray",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "buffets",
+                    "title": "Buffets"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.6748,
+                "longitude": -111.88732
+            },
+            "display_phone": "(801) 293-8190",
+            "distance": 5153.083355172092,
+            "id": "GHjOWnuYvyrlGqZtMtcyAg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vVddrB2NTOOz3vaTRh6bNg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4425 S State St",
+                "address2": "",
+                "address3": null,
+                "city": "Murray",
+                "country": "US",
+                "display_address": [
+                    "4425 S State St",
+                    "Murray, UT 84107"
+                ],
+                "state": "UT",
+                "zip_code": "84107"
+            },
+            "name": "Paradise Buffet",
+            "phone": "+18012938190",
+            "rating": 3.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/paradise-buffet-murray?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bff-turon-west-jordan",
+            "categories": [
+                {
+                    "alias": "filipino",
+                    "title": "Filipino"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.5905,
+                "longitude": -111.93935
+            },
+            "display_phone": "(801) 280-6344",
+            "distance": 5571.9212675539775,
+            "id": "RflqO8kc-B5BkRQekW4VsA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/827M71FA8f9KLL2tS5mN0w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8860 S Redwood Rd",
+                "address2": "Ste 103",
+                "address3": null,
+                "city": "West Jordan",
+                "country": "US",
+                "display_address": [
+                    "8860 S Redwood Rd",
+                    "Ste 103",
+                    "West Jordan, UT 84088"
+                ],
+                "state": "UT",
+                "zip_code": "84088"
+            },
+            "name": "BFF Turon",
+            "phone": "+18012806344",
+            "rating": 4.5,
+            "review_count": 6,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bff-turon-west-jordan?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "nagoya-hibachi-and-sushi-burrito-west-jordan",
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.585819,
+                "longitude": -111.938058
+            },
+            "display_phone": "(801) 565-0909",
+            "distance": 5912.833089684411,
+            "id": "GeoqFLGkvlH9TMti7wRnYw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pfUY_T-BYNr6kYdeOwfLfg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "9105 Redwood Rd",
+                "address2": null,
+                "address3": "",
+                "city": "West Jordan",
+                "country": "US",
+                "display_address": [
+                    "9105 Redwood Rd",
+                    "West Jordan, UT 84088"
+                ],
+                "state": "UT",
+                "zip_code": "84088"
+            },
+            "name": "Nagoya Hibachi & Sushi Burrito",
+            "phone": "+18015650909",
+            "rating": 4.5,
+            "review_count": 5,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/nagoya-hibachi-and-sushi-burrito-west-jordan?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 40.629124118931536,
+            "longitude": -111.89741018084882
+        }
+    },
+    "total": 7
+}

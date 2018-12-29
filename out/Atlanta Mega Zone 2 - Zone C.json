@@ -1,0 +1,425 @@
+{
+    "businesses": [
+        {
+            "alias": "hobnob-neighborhood-tavern-dunwoody-atlanta",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.9290171091407,
+                "longitude": -84.3447320990111
+            },
+            "display_phone": "(470) 395-7904",
+            "distance": 946.2775743349971,
+            "id": "QfBPiPJDEOad4eddttvXYQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TCnpbpzaFXWWGkv3XSefaA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1221 Ashford Crossing",
+                "address2": "",
+                "address3": null,
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "1221 Ashford Crossing",
+                    "Atlanta, GA 30346"
+                ],
+                "state": "GA",
+                "zip_code": "30346"
+            },
+            "name": "HOBNOB Neighborhood Tavern - Dunwoody",
+            "phone": "+14703957904",
+            "rating": 3.5,
+            "review_count": 6,
+            "transactions": [
+                "pickup",
+                "delivery",
+                "restaurant_reservation"
+            ],
+            "url": "https://www.yelp.com/biz/hobnob-neighborhood-tavern-dunwoody-atlanta?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "del-friscos-double-eagle-steakhouse-dunwoody",
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.92007,
+                "longitude": -84.34463
+            },
+            "display_phone": "(770) 274-0309",
+            "distance": 1880.28161531374,
+            "id": "71G0fH5Pccflge5QpRX_mg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4KXert8I34yfHTjzYdzl3A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "236 Perimeter Center Pkwy NE",
+                "address2": "Ste 120",
+                "address3": null,
+                "city": "Dunwoody",
+                "country": "US",
+                "display_address": [
+                    "236 Perimeter Center Pkwy NE",
+                    "Ste 120",
+                    "Dunwoody, GA 30346"
+                ],
+                "state": "GA",
+                "zip_code": "30346"
+            },
+            "name": "Del Frisco's Double Eagle Steakhouse",
+            "phone": "+17702740309",
+            "rating": 4.0,
+            "review_count": 32,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/del-friscos-double-eagle-steakhouse-dunwoody?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "zambawango-sandy-springs-3",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.93268,
+                "longitude": -84.3611
+            },
+            "display_phone": "(404) 879-9731",
+            "distance": 2064.5115135475244,
+            "id": "TguCOeqh6EgCLv_L-Nmpkw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zzcRErXkzJzx1GPyE7zPZQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "901 Abernathy Rd NE",
+                "address2": null,
+                "address3": null,
+                "city": "Sandy Springs",
+                "country": "US",
+                "display_address": [
+                    "901 Abernathy Rd NE",
+                    "Sandy Springs, GA 30328"
+                ],
+                "state": "GA",
+                "zip_code": "30328"
+            },
+            "name": "Zambawango",
+            "phone": "+14048799731",
+            "rating": 5.0,
+            "review_count": 23,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/zambawango-sandy-springs-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "flower-child-sandy-springs-3",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "vegetarian",
+                    "title": "Vegetarian"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.9254443166298,
+                "longitude": -84.3816758367706
+            },
+            "display_phone": "(470) 481-7850",
+            "distance": 4113.64691273611,
+            "id": "9m5zXmSzm4SjeBRHmur2CQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_98zbrK4Tiv36C-ainTL5g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6400 Bluestone Rd",
+                "address2": "Ste 170",
+                "address3": null,
+                "city": "Sandy Springs",
+                "country": "US",
+                "display_address": [
+                    "6400 Bluestone Rd",
+                    "Ste 170",
+                    "Sandy Springs, GA 30328"
+                ],
+                "state": "GA",
+                "zip_code": "30328"
+            },
+            "name": "Flower Child",
+            "phone": "+14704817850",
+            "rating": 4.0,
+            "review_count": 23,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/flower-child-sandy-springs-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "pho-24-sandy-springs",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.9193217725808,
+                "longitude": -84.3791735172272
+            },
+            "display_phone": "(678) 705-7424",
+            "distance": 4150.451816653292,
+            "id": "0K-qCS0dQJ-ipL5lgnXH5w",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PrUlU5ODR9Or4rrvR4oCpw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6050 Roswell Rd",
+                "address2": "",
+                "address3": null,
+                "city": "Sandy Springs",
+                "country": "US",
+                "display_address": [
+                    "6050 Roswell Rd",
+                    "Sandy Springs, GA 30328"
+                ],
+                "state": "GA",
+                "zip_code": "30328"
+            },
+            "name": "Pho 24",
+            "phone": "+16787057424",
+            "rating": 3.0,
+            "review_count": 49,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/pho-24-sandy-springs?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hugh-cuti-hair-salon-atlanta",
+            "categories": [
+                {
+                    "alias": "hair",
+                    "title": "Hair Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8948698,
+                "longitude": -84.307443
+            },
+            "display_phone": "(404) 513-1335",
+            "distance": 5424.732395193297,
+            "id": "EsxJ2UP91f6KYYyS0rp-og",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qHq1THeNfKMSAfeDJQxm4A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3580 Pierce Dr",
+                "address2": "Ste 140",
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "3580 Pierce Dr",
+                    "Ste 140",
+                    "Atlanta, GA 30341"
+                ],
+                "state": "GA",
+                "zip_code": "30341"
+            },
+            "name": "Hugh Cuti Hair Salon",
+            "phone": "+14045131335",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hugh-cuti-hair-salon-atlanta?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "f\u00fado-chamblee",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.88851,
+                "longitude": -84.31489
+            },
+            "display_phone": "(678) 691-7088",
+            "distance": 5780.422596761292,
+            "id": "9ThQ2ad1pLnuhxkmpKOc1w",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/a3WqcDSrGAnL_3giO8fbUA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5070 Peachtree Blvd",
+                "address2": "Ste A100",
+                "address3": null,
+                "city": "Chamblee",
+                "country": "US",
+                "display_address": [
+                    "5070 Peachtree Blvd",
+                    "Ste A100",
+                    "Chamblee, GA 30341"
+                ],
+                "state": "GA",
+                "zip_code": "30341"
+            },
+            "name": "F\u00fado",
+            "phone": "+16786917088",
+            "rating": 4.5,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/f%C3%BAdo-chamblee?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "poke-bar-atlanta-4",
+            "categories": [
+                {
+                    "alias": "poke",
+                    "title": "Poke"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.889924,
+                "longitude": -84.383282
+            },
+            "display_phone": "(404) 228-1373",
+            "distance": 6560.207510618577,
+            "id": "3tJZYCMzE6ZGZM95uXSIow",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/f9XhbeXFTCD51FD3Jgkc3A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4920 Roswell Rd NE",
+                "address2": "",
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "4920 Roswell Rd NE",
+                    "Atlanta, GA 30342"
+                ],
+                "state": "GA",
+                "zip_code": "30342"
+            },
+            "name": "Poke Bar",
+            "phone": "+14042281373",
+            "rating": 4.0,
+            "review_count": 5,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/poke-bar-atlanta-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "cupanion-s-kitchen-and-coffee-atlanta-3",
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.88946,
+                "longitude": -84.38167
+            },
+            "display_phone": "(770) 376-8940",
+            "distance": 6627.558989282196,
+            "id": "cFalfbfc6E2m2ssN9keZbQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Vq36t2ydpeL3IJR6GsYc2g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4920 Roswell Rd",
+                "address2": "Ste 14",
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "4920 Roswell Rd",
+                    "Ste 14",
+                    "Atlanta, GA 30342"
+                ],
+                "state": "GA",
+                "zip_code": "30342"
+            },
+            "name": "Cupanion\u2019s Kitchen & Coffee",
+            "phone": "+17703768940",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/cupanion-s-kitchen-and-coffee-atlanta-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "healthland-massage-atlanta-2",
+            "categories": [
+                {
+                    "alias": "massage",
+                    "title": "Massage"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.84856,
+                "longitude": -84.36011
+            },
+            "display_phone": "(404) 254-3246",
+            "distance": 9892.553892107997,
+            "id": "cl1ZfdqjqrvR7ET_3bJqow",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/H4L-o1WfLjpXIbf1vlm9yw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3427 Lenox Rd NE",
+                "address2": "",
+                "address3": null,
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "3427 Lenox Rd NE",
+                    "Atlanta, GA 30326"
+                ],
+                "state": "GA",
+                "zip_code": "30326"
+            },
+            "name": "Healthland Massage",
+            "phone": "+14042543246",
+            "rating": 4.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/healthland-massage-atlanta-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 33.93605197078349,
+            "longitude": -84.3389603783318
+        }
+    },
+    "total": 10
+}

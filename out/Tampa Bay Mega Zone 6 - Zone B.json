@@ -1,0 +1,138 @@
+{
+    "businesses": [
+        {
+            "alias": "mr-and-mrs-crab-pinellas-park",
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "cajun",
+                    "title": "Cajun/Creole"
+                }
+            ],
+            "coordinates": {
+                "latitude": 27.84077,
+                "longitude": -82.68536
+            },
+            "display_phone": "(727) 541-2722",
+            "distance": 4212.689767643757,
+            "id": "tsx84z4c0B-y6J5fqfvBqg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XyDREDazGBWNsCFytYqCqg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7550 US Hwy 19 N",
+                "address2": "",
+                "address3": null,
+                "city": "Pinellas Park",
+                "country": "US",
+                "display_address": [
+                    "7550 US Hwy 19 N",
+                    "Pinellas Park, FL 33781"
+                ],
+                "state": "FL",
+                "zip_code": "33781"
+            },
+            "name": "Mr and Mrs Crab",
+            "phone": "+17275412722",
+            "rating": 4.0,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mr-and-mrs-crab-pinellas-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "campanellas-bar-and-grill-clearwater-2",
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "fooddeliveryservices",
+                    "title": "Food Delivery Services"
+                }
+            ],
+            "coordinates": {
+                "latitude": 27.89297,
+                "longitude": -82.68229
+            },
+            "display_phone": "(727) 256-9537",
+            "distance": 5683.4272128652965,
+            "id": "Rh4dx2yxmE1YKvZ--u780w",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ttAjCyk9P2Gn5bY5kdKuuQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3580 Ulmerton Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Clearwater",
+                "country": "US",
+                "display_address": [
+                    "3580 Ulmerton Rd",
+                    "Clearwater, FL 33762"
+                ],
+                "state": "FL",
+                "zip_code": "33762"
+            },
+            "name": "Campanellas Bar&Grill",
+            "phone": "+17272569537",
+            "rating": 3.0,
+            "review_count": 12,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/campanellas-bar-and-grill-clearwater-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "nails-on-ninth-natural-healthy-nails-saint-petersburg-2",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 27.80157,
+                "longitude": -82.64708
+            },
+            "display_phone": "(727) 289-9300",
+            "distance": 5830.328236453658,
+            "id": "GlmLkbkOtdzTHnTFeWwxyA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/a5tNB9dboOlUoRpxzXP6JA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3214 9th St N",
+                "address2": null,
+                "address3": "",
+                "city": "Saint Petersburg",
+                "country": "US",
+                "display_address": [
+                    "3214 9th St N",
+                    "Saint Petersburg, FL 33704"
+                ],
+                "state": "FL",
+                "zip_code": "33704"
+            },
+            "name": "Nails on Ninth - Natural Healthy Nails",
+            "phone": "+17272899300",
+            "rating": 5.0,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/nails-on-ninth-natural-healthy-nails-saint-petersburg-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 27.85391599429837,
+            "longitude": -82.64523329736603
+        }
+    },
+    "total": 3
+}

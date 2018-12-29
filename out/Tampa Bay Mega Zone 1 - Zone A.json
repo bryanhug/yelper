@@ -1,0 +1,456 @@
+{
+    "businesses": [
+        {
+            "alias": "spookeasy-lounge-tampa",
+            "categories": [
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                }
+            ],
+            "coordinates": {
+                "latitude": 27.96004,
+                "longitude": -82.43722
+            },
+            "display_phone": "(813) 857-5125",
+            "distance": 3494.479526105089,
+            "id": "p-CA14qMUraWvppFqOsSgg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wQ3s2xqsMflNNGqAUIt8qg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1919 E 7th Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Tampa",
+                "country": "US",
+                "display_address": [
+                    "1919 E 7th Ave",
+                    "Tampa, FL 33605"
+                ],
+                "state": "FL",
+                "zip_code": "33605"
+            },
+            "name": "SpookEasy Lounge",
+            "phone": "+18138575125",
+            "rating": 4.5,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/spookeasy-lounge-tampa?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "whatever-pops-sparkman-wharf-tampa",
+            "categories": [
+                {
+                    "alias": "acaibowls",
+                    "title": "Acai Bowls"
+                },
+                {
+                    "alias": "gelato",
+                    "title": "Gelato"
+                }
+            ],
+            "coordinates": {
+                "latitude": 27.9432415405516,
+                "longitude": -82.4466497815009
+            },
+            "display_phone": "",
+            "distance": 3958.9937470490163,
+            "id": "dX09i4yYO3CYHSRijblM7Q",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FuIi3R-7xpbQRdgvL-OhLg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "615 Channelside Dr",
+                "address2": "Unit 7",
+                "address3": null,
+                "city": "Tampa",
+                "country": "US",
+                "display_address": [
+                    "615 Channelside Dr",
+                    "Unit 7",
+                    "Tampa, FL 33602"
+                ],
+                "state": "FL",
+                "zip_code": "33602"
+            },
+            "name": "Whatever Pops @ Sparkman Wharf",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/whatever-pops-sparkman-wharf-tampa?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sparkman-wharf-tampa-2",
+            "categories": [
+                {
+                    "alias": "beer_and_wine",
+                    "title": "Beer, Wine & Spirits"
+                },
+                {
+                    "alias": "food_court",
+                    "title": "Food Court"
+                }
+            ],
+            "coordinates": {
+                "latitude": 27.9433929598293,
+                "longitude": -82.4466647218995
+            },
+            "display_phone": "",
+            "distance": 3959.9456148618474,
+            "id": "W57360g1e7xMGerm7wPW0Q",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Onm0Q-255U5A9WHUCNyC9A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "615 Channelside Dr",
+                "address2": "",
+                "address3": null,
+                "city": "Tampa",
+                "country": "US",
+                "display_address": [
+                    "615 Channelside Dr",
+                    "Tampa, FL 33602"
+                ],
+                "state": "FL",
+                "zip_code": "33602"
+            },
+            "name": "Sparkman Wharf",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 40,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sparkman-wharf-tampa-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "boat-run-oyster-company-tampa",
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "gourmet",
+                    "title": "Specialty Food"
+                },
+                {
+                    "alias": "raw_food",
+                    "title": "Live/Raw Food"
+                }
+            ],
+            "coordinates": {
+                "latitude": 27.943205,
+                "longitude": -82.446814
+            },
+            "display_phone": "(813) 670-2370",
+            "distance": 4046.9697895193954,
+            "id": "NH9LSB4Qz2v0fHTMz9sQ0w",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HXYHYjSmeSB_e9Pr85dG7w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "615 Channelside Dr",
+                "address2": "Ste 5",
+                "address3": "",
+                "city": "Tampa",
+                "country": "US",
+                "display_address": [
+                    "615 Channelside Dr",
+                    "Ste 5",
+                    "Tampa, FL 33602"
+                ],
+                "state": "FL",
+                "zip_code": "33602"
+            },
+            "name": "Boat Run Oyster Company",
+            "phone": "+18136702370",
+            "rating": 4.5,
+            "review_count": 12,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/boat-run-oyster-company-tampa?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "foundation-coffee-sparkman-wharf-tampa",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 27.943205,
+                "longitude": -82.446814
+            },
+            "display_phone": "(813) 345-5881",
+            "distance": 4046.9697895193954,
+            "id": "GIp-fd7s7Eon6iqfC-vyyw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6PYwkSfGw2RJK8cYe6bNTg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "615 Channelside Dr",
+                "address2": "",
+                "address3": null,
+                "city": "Tampa",
+                "country": "US",
+                "display_address": [
+                    "615 Channelside Dr",
+                    "Tampa, FL 33602"
+                ],
+                "state": "FL",
+                "zip_code": "33602"
+            },
+            "name": "Foundation Coffee @ Sparkman Wharf",
+            "phone": "+18133455881",
+            "rating": 4.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/foundation-coffee-sparkman-wharf-tampa?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "fermented-reality-biergarten-tampa-2",
+            "categories": [
+                {
+                    "alias": "beergardens",
+                    "title": "Beer Gardens"
+                }
+            ],
+            "coordinates": {
+                "latitude": 27.943205,
+                "longitude": -82.446814
+            },
+            "display_phone": "(813) 803-6116",
+            "distance": 4046.9697895193954,
+            "id": "l68dMciq9BdVBrCG1GWoDA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TtKry3YMTBKChEIlQ36adA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "615 Channelside Dr",
+                "address2": "",
+                "address3": null,
+                "city": "Tampa",
+                "country": "US",
+                "display_address": [
+                    "615 Channelside Dr",
+                    "Tampa, FL 33602"
+                ],
+                "state": "FL",
+                "zip_code": "33602"
+            },
+            "name": "Fermented Reality Biergarten",
+            "phone": "+18138036116",
+            "rating": 3.5,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/fermented-reality-biergarten-tampa-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "edisons-swigamajig-tampa",
+            "categories": [
+                {
+                    "alias": "divebars",
+                    "title": "Dive Bars"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 27.9429750314897,
+                "longitude": -82.4476128816605
+            },
+            "display_phone": "",
+            "distance": 4054.6058522301278,
+            "id": "vdn4iT0KaBOl5XNMe4Cofw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/om5yYBtjcGpC6Yqo0cJe_A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "615 Channelside Dr",
+                "address2": null,
+                "address3": null,
+                "city": "Tampa",
+                "country": "US",
+                "display_address": [
+                    "615 Channelside Dr",
+                    "Tampa, FL 33602"
+                ],
+                "state": "FL",
+                "zip_code": "33602"
+            },
+            "name": "Edison's Swigamajig",
+            "phone": "",
+            "rating": 3.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/edisons-swigamajig-tampa?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "cirque-du-soleil-crystal-tampa",
+            "categories": [
+                {
+                    "alias": "theater",
+                    "title": "Performing Arts"
+                },
+                {
+                    "alias": "musicvenues",
+                    "title": "Music Venues"
+                }
+            ],
+            "coordinates": {
+                "latitude": 27.9428,
+                "longitude": -82.45172
+            },
+            "display_phone": "",
+            "distance": 4458.507483827068,
+            "id": "BVWvDqdmVGf8gcbx8irR2A",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zSVaXdlugh_e8mZ7MaQ7cQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "401 Channelside Dr",
+                "address2": "",
+                "address3": null,
+                "city": "Tampa",
+                "country": "US",
+                "display_address": [
+                    "401 Channelside Dr",
+                    "Tampa, FL 33602"
+                ],
+                "state": "FL",
+                "zip_code": "33602"
+            },
+            "name": "Cirque du Soleil - Crystal",
+            "phone": "",
+            "rating": 3.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/cirque-du-soleil-crystal-tampa?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "osteria-bar-and-kitchen-tampa",
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 27.9516576,
+                "longitude": -82.4595269
+            },
+            "display_phone": "(813) 563-5000",
+            "distance": 5280.3242699756665,
+            "id": "rjD3trrEDAGeQPIkyyKyUQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9OniyyxmwC-bDjCgaVtsvg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "903 N Franklin St",
+                "address2": null,
+                "address3": "",
+                "city": "Tampa",
+                "country": "US",
+                "display_address": [
+                    "903 N Franklin St",
+                    "Tampa, FL 33602"
+                ],
+                "state": "FL",
+                "zip_code": "33602"
+            },
+            "name": "Osteria Bar & Kitchen",
+            "phone": "+18135635000",
+            "rating": 4.5,
+            "review_count": 81,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/osteria-bar-and-kitchen-tampa?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "remedy-tampa",
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 27.94769,
+                "longitude": -82.46072
+            },
+            "display_phone": "(813) 223-7746",
+            "distance": 5330.454424935743,
+            "id": "9jgHNGBVAkD2xMNB4j4deg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PLyGtOCAjyisJsY84to2_A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "400 N Ashley Dr",
+                "address2": "",
+                "address3": null,
+                "city": "Tampa",
+                "country": "US",
+                "display_address": [
+                    "400 N Ashley Dr",
+                    "Tampa, FL 33602"
+                ],
+                "state": "FL",
+                "zip_code": "33602"
+            },
+            "name": "Remedy",
+            "phone": "+18132237746",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/remedy-tampa?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "get-up-and-go-kayaking-crystal-river",
+            "categories": [
+                {
+                    "alias": "rafting",
+                    "title": "Rafting/Kayaking"
+                },
+                {
+                    "alias": "boattours",
+                    "title": "Boat Tours"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.8968550340356,
+                "longitude": -82.5944999714781
+            },
+            "display_phone": "(407) 212-7306",
+            "distance": 107526.82014654083,
+            "id": "W_k1CzXj1zf0zIXcEAmwWg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9Ray-7UyodoJflXkIfvEMw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "268 NW 3rd St",
+                "address2": null,
+                "address3": "",
+                "city": "Crystal River",
+                "country": "US",
+                "display_address": [
+                    "268 NW 3rd St",
+                    "Crystal River, FL 34428"
+                ],
+                "state": "FL",
+                "zip_code": "34428"
+            },
+            "name": "Get Up And Go Kayaking",
+            "phone": "+14072127306",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/get-up-and-go-kayaking-crystal-river?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 27.94440065599897,
+            "longitude": -82.40636797114608
+        }
+    },
+    "total": 11
+}

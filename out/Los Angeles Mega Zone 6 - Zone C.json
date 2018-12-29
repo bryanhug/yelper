@@ -1,0 +1,581 @@
+{
+    "businesses": [
+        {
+            "alias": "tacos-ensenada-alhambra",
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0776624109029,
+                "longitude": -118.135459944606
+            },
+            "display_phone": "",
+            "distance": 700.7237642385111,
+            "id": "EoAgwrN9R8dY5CtBEe5YQA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8s4TKKw-RCHjeK8gK1mDXA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1142 W Valley Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Alhambra",
+                "country": "US",
+                "display_address": [
+                    "1142 W Valley Blvd",
+                    "Alhambra, CA 91803"
+                ],
+                "state": "CA",
+                "zip_code": "91803"
+            },
+            "name": "Tacos Ensenada",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 29,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tacos-ensenada-alhambra?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sweethoney-dessert-alhambra",
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0926,
+                "longitude": -118.13145
+            },
+            "display_phone": "(626) 818-1778",
+            "distance": 1024.4442341068636,
+            "id": "3kiwN1wFl7HKSgagbzAWpQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ivy5HZzC54otrsvJzgsloQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "410 W Main St",
+                "address2": "Ste 110",
+                "address3": null,
+                "city": "Alhambra",
+                "country": "US",
+                "display_address": [
+                    "410 W Main St",
+                    "Ste 110",
+                    "Alhambra, CA 91801"
+                ],
+                "state": "CA",
+                "zip_code": "91801"
+            },
+            "name": "Sweethoney Dessert",
+            "phone": "+16268181778",
+            "rating": 3.5,
+            "review_count": 38,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sweethoney-dessert-alhambra?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "wonderland-cakes-alhambra",
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0936715,
+                "longitude": -118.1303286
+            },
+            "display_phone": "(626) 899-5006",
+            "distance": 1191.361316354532,
+            "id": "jfFrsSrzDPbnWhnlnWXBnw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DJ_ncA6L561QDuZlc296ew/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "301 W Main St",
+                "address2": null,
+                "address3": "",
+                "city": "Alhambra",
+                "country": "US",
+                "display_address": [
+                    "301 W Main St",
+                    "Alhambra, CA 91801"
+                ],
+                "state": "CA",
+                "zip_code": "91801"
+            },
+            "name": "Wonderland Cakes",
+            "phone": "+16268995006",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/wonderland-cakes-alhambra?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "pho-n-mor-alhambra-2",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0878050340763,
+                "longitude": -118.149794879909
+            },
+            "display_phone": "(626) 458-3405",
+            "distance": 1396.137479016303,
+            "id": "lI_zW6EHWfKkEbOpLGT2qQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gTyYn5u1ebK28hK1JVsIxQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2320 W Commonwealth Ave",
+                "address2": "Ste 305",
+                "address3": "",
+                "city": "Alhambra",
+                "country": "US",
+                "display_address": [
+                    "2320 W Commonwealth Ave",
+                    "Ste 305",
+                    "Alhambra, CA 91803"
+                ],
+                "state": "CA",
+                "zip_code": "91803"
+            },
+            "name": "Pho N Mor",
+            "phone": "+16264583405",
+            "rating": 4.0,
+            "review_count": 81,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/pho-n-mor-alhambra-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "pepper-lunch-alhambra",
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0949135658334,
+                "longitude": -118.127023873678
+            },
+            "display_phone": "(626) 588-1788",
+            "distance": 1448.304214540394,
+            "id": "dSDChfkjtJOtFxMHfHRqdg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oHsJnxa8Q5CAfPWvvxJo0w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6 W Main St",
+                "address2": "",
+                "address3": null,
+                "city": "Alhambra",
+                "country": "US",
+                "display_address": [
+                    "6 W Main St",
+                    "Alhambra, CA 91801"
+                ],
+                "state": "CA",
+                "zip_code": "91801"
+            },
+            "name": "Pepper Lunch",
+            "phone": "+16265881788",
+            "rating": 4.0,
+            "review_count": 59,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/pepper-lunch-alhambra?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "qiwei-kitchen-alhambra-3",
+            "categories": [
+                {
+                    "alias": "hotpot",
+                    "title": "Hot Pot"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.097648,
+                "longitude": -118.123791
+            },
+            "display_phone": "",
+            "distance": 1863.2985340331595,
+            "id": "jIFtwW3g3YqAhdFzECfQVg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BuQLB3CBokvpMmUbasxwwA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "345 E Main St",
+                "address2": "",
+                "address3": null,
+                "city": "Alhambra",
+                "country": "US",
+                "display_address": [
+                    "345 E Main St",
+                    "Alhambra, CA 91801"
+                ],
+                "state": "CA",
+                "zip_code": "91801"
+            },
+            "name": "QiWei Kitchen",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/qiwei-kitchen-alhambra-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-brow-story-alhambra-2",
+            "categories": [
+                {
+                    "alias": "permanentmakeup",
+                    "title": "Permanent Makeup"
+                },
+                {
+                    "alias": "eyelashservice",
+                    "title": "Eyelash Service"
+                },
+                {
+                    "alias": "eyebrowservices",
+                    "title": "Eyebrow Services"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0705678,
+                "longitude": -118.1498567
+            },
+            "display_phone": "(626) 808-3885",
+            "distance": 2031.3541536788105,
+            "id": "bGazGpBoTUAjL9rIJPGZVw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5cdKkeqG8bU4IZF5T7Vh5g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2023 S Primrose Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Alhambra",
+                "country": "US",
+                "display_address": [
+                    "2023 S Primrose Ave",
+                    "Alhambra, CA 91803"
+                ],
+                "state": "CA",
+                "zip_code": "91803"
+            },
+            "name": "The Brow Story",
+            "phone": "+16268083885",
+            "rating": 5.0,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-brow-story-alhambra-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "smokey-j-bakery-and-cafe-monterey-park-2",
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0653,
+                "longitude": -118.12328
+            },
+            "display_phone": "",
+            "distance": 2382.5546821454855,
+            "id": "E0h-XrY_zQ1l5USSmv2z3w",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/I18zwePZafy2l36sQdlNLQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "301 N Garfield Ave",
+                "address2": "Ste A",
+                "address3": "",
+                "city": "Monterey Park",
+                "country": "US",
+                "display_address": [
+                    "301 N Garfield Ave",
+                    "Ste A",
+                    "Monterey Park, CA 91754"
+                ],
+                "state": "CA",
+                "zip_code": "91754"
+            },
+            "name": "Smokey J. Bakery & Cafe",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 15,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/smokey-j-bakery-and-cafe-monterey-park-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "good-brothers-garden-monterey-park",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.06196,
+                "longitude": -118.12354
+            },
+            "display_phone": "(626) 280-3276",
+            "distance": 2678.3274528937445,
+            "id": "xTd56JVxL1qypD88wRQgRg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nXsXN6iZlpk47DTmHMDWcw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "122 W Garvey Ave",
+                "address2": "Ste 122C",
+                "address3": null,
+                "city": "Monterey Park",
+                "country": "US",
+                "display_address": [
+                    "122 W Garvey Ave",
+                    "Ste 122C",
+                    "Monterey Park, CA 91754"
+                ],
+                "state": "CA",
+                "zip_code": "91754"
+            },
+            "name": "Good Brothers Garden",
+            "phone": "+16262803276",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/good-brothers-garden-monterey-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "jasmine-creamery-alhambra",
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.101512,
+                "longitude": -118.112998
+            },
+            "display_phone": "(626) 380-9661",
+            "distance": 2848.9554551749266,
+            "id": "mP6iX9JjYHzMB_Jeg3m_NA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/byLeiUsgDQdzqhbIyLmUNw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1340 E Main St",
+                "address2": null,
+                "address3": "",
+                "city": "Alhambra",
+                "country": "US",
+                "display_address": [
+                    "1340 E Main St",
+                    "Alhambra, CA 91801"
+                ],
+                "state": "CA",
+                "zip_code": "91801"
+            },
+            "name": "Jasmine Creamery",
+            "phone": "+16263809661",
+            "rating": 5.0,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/jasmine-creamery-alhambra?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "serviceapple-montebello-montebello",
+            "categories": [
+                {
+                    "alias": "mobilephonerepair",
+                    "title": "Mobile Phone Repair"
+                },
+                {
+                    "alias": "mobilephones",
+                    "title": "Mobile Phones"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.036152,
+                "longitude": -118.084297
+            },
+            "display_phone": "(323) 471-7721",
+            "distance": 7090.646553960094,
+            "id": "Y8PIFfGIGm_p5WZOwPJWvQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WB0gFH3d-NdYkS2S3DVA8w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2134 Montebello Town Ctr",
+                "address2": null,
+                "address3": "",
+                "city": "Montebello",
+                "country": "US",
+                "display_address": [
+                    "2134 Montebello Town Ctr",
+                    "Montebello, CA 90640"
+                ],
+                "state": "CA",
+                "zip_code": "90640"
+            },
+            "name": "ServiceApple Montebello",
+            "phone": "+13234717721",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/serviceapple-montebello-montebello?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "otto-s-pizza-stix-los-angeles-2",
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0624708095338,
+                "longitude": -118.358365834324
+            },
+            "display_phone": "(562) 743-1964",
+            "distance": 20661.99839974145,
+            "id": "s-nSluuP5yRFqcdPOMbWNQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/H_f3gpWrxEWJ0pJWXAn9gw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5900 Wilshire Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "country": "US",
+                "display_address": [
+                    "5900 Wilshire Blvd",
+                    "Los Angeles, CA 90036"
+                ],
+                "state": "CA",
+                "zip_code": "90036"
+            },
+            "name": "Otto\u2019s Pizza Stix",
+            "phone": "+15627431964",
+            "rating": 4.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/otto-s-pizza-stix-los-angeles-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "energy-haus-long-beach",
+            "categories": [
+                {
+                    "alias": "reiki",
+                    "title": "Reiki"
+                },
+                {
+                    "alias": "spiritual_shop",
+                    "title": "Spiritual Shop"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.76421,
+                "longitude": -118.15339
+            },
+            "display_phone": "(562) 506-5386",
+            "distance": 35589.28300380213,
+            "id": "7A7czRDduVGb4javOVXWdQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aBUmbDuC6jjcvwveIQnwAg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3300 E Broadway",
+                "address2": "",
+                "address3": "",
+                "city": "Long Beach",
+                "country": "US",
+                "display_address": [
+                    "3300 E Broadway",
+                    "Long Beach, CA 90803"
+                ],
+                "state": "CA",
+                "zip_code": "90803"
+            },
+            "name": "Energy Haus",
+            "phone": "+15625065386",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/energy-haus-long-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hair-makeup-by-sydney-orange",
+            "categories": [
+                {
+                    "alias": "makeupartists",
+                    "title": "Makeup Artists"
+                },
+                {
+                    "alias": "hairstylists",
+                    "title": "Hair Stylists"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7874,
+                "longitude": -117.82252
+            },
+            "display_phone": "(951) 552-5675",
+            "distance": 43825.65037563499,
+            "id": "lM7he-sB9ItDgdNz6xOxHg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EZmQYEkZ-tjK6nVsSS-SEQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2922 E Chapman Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Orange",
+                "country": "US",
+                "display_address": [
+                    "2922 E Chapman Ave",
+                    "Orange, CA 92869"
+                ],
+                "state": "CA",
+                "zip_code": "92869"
+            },
+            "name": "Hair + Makeup by Sydney",
+            "phone": "+19515525675",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hair-makeup-by-sydney-orange?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 34.08396382131912,
+            "longitude": -118.13554090665708
+        }
+    },
+    "total": 14
+}

@@ -1,0 +1,252 @@
+{
+    "businesses": [
+        {
+            "alias": "snowy-village-dessert-cafe-austin-3",
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "shavedsnow",
+                    "title": "Shaved Snow"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.41305,
+                "longitude": -97.68822
+            },
+            "display_phone": "(512) 494-4232",
+            "distance": 619.478997905362,
+            "id": "CFCBYIvmuGpizyEKAq91IQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/56Bz6bkFFwUrwRahjK7Bew/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1700 W Parmer Ln",
+                "address2": "Ste 244",
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "1700 W Parmer Ln",
+                    "Ste 244",
+                    "Austin, TX 78727"
+                ],
+                "state": "TX",
+                "zip_code": "78727"
+            },
+            "name": "Snowy Village Dessert Cafe",
+            "phone": "+15124944232",
+            "rating": 4.5,
+            "review_count": 14,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/snowy-village-dessert-cafe-austin-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tsukimi-austin-2",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.40295,
+                "longitude": -97.67534
+            },
+            "display_phone": "(512) 386-1037",
+            "distance": 2087.2576726360107,
+            "id": "NxLE-_uSPCRbdRoC1zcRVg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NzvAes-YzVHBnt_ABjVWkg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "12400 N Interstate 35",
+                "address2": "Ste A-111",
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "12400 N Interstate 35",
+                    "Ste A-111",
+                    "Austin, TX 78753"
+                ],
+                "state": "TX",
+                "zip_code": "78753"
+            },
+            "name": "Tsukimi",
+            "phone": "+15123861037",
+            "rating": 5.0,
+            "review_count": 42,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/tsukimi-austin-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bakery-lorraine-austin",
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.40183,
+                "longitude": -97.7227
+            },
+            "display_phone": "(512) 300-0300",
+            "distance": 2786.711993721242,
+            "id": "OlKdIDTXbiF1Y7gE-7gLSQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/apDnaV-CyevldwpnQdC_xQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "11600 Rock Rose",
+                "address2": "Ste.100",
+                "address3": null,
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "11600 Rock Rose",
+                    "Ste.100",
+                    "Austin, TX 78758"
+                ],
+                "state": "TX",
+                "zip_code": "78758"
+            },
+            "name": "Bakery Lorraine",
+            "phone": "+15123000300",
+            "rating": 4.0,
+            "review_count": 43,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bakery-lorraine-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "houndstooth-austin",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.40101,
+                "longitude": -97.72247
+            },
+            "display_phone": "",
+            "distance": 2842.598297821482,
+            "id": "yX7IVJ6nCHF-Z4k1crV5Gw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/w8iSeoqlQhx5Ca0GfhB07w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "11501 Rock Rose Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "11501 Rock Rose Ave",
+                    "Austin, TX 78758"
+                ],
+                "state": "TX",
+                "zip_code": "78758"
+            },
+            "name": "Houndstooth",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/houndstooth-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "new-sitara-indian-cuisine-austin",
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.43549,
+                "longitude": -97.6744
+            },
+            "display_phone": "(512) 358-6283",
+            "distance": 3382.963329002625,
+            "id": "k_5_nzVFVpyRYUeyvpqttQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5Akodw8r2QbF2Y3zzwNoQw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1779 Wells Branch Pkwy",
+                "address2": "Ste 102",
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "1779 Wells Branch Pkwy",
+                    "Ste 102",
+                    "Austin, TX 78728"
+                ],
+                "state": "TX",
+                "zip_code": "78728"
+            },
+            "name": "New Sitara Indian Cuisine",
+            "phone": "+15123586283",
+            "rating": 5.0,
+            "review_count": 15,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/new-sitara-indian-cuisine-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tonys-jamaican-food-pflugerville-3",
+            "categories": [
+                {
+                    "alias": "caribbean",
+                    "title": "Caribbean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.45002,
+                "longitude": -97.65656
+            },
+            "display_phone": "(512) 358-4949",
+            "distance": 5776.668740337357,
+            "id": "kDN3ed4AW4si3iRws9NiPg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pcIjs_o4dsiswdynQOhU7g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2700 W Pecan St",
+                "address2": "Ste 650",
+                "address3": "",
+                "city": "Pflugerville",
+                "country": "US",
+                "display_address": [
+                    "2700 W Pecan St",
+                    "Ste 650",
+                    "Pflugerville, TX 78660"
+                ],
+                "state": "TX",
+                "zip_code": "78660"
+            },
+            "name": "Tony's Jamaican Food",
+            "phone": "+15123584949",
+            "rating": 4.5,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tonys-jamaican-food-pflugerville-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 30.41109599388852,
+            "longitude": -97.69566375482158
+        }
+    },
+    "total": 6
+}

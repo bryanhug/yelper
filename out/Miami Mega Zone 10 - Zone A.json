@@ -1,0 +1,48 @@
+{
+    "businesses": [
+        {
+            "alias": "yummy-bbq-sunrise",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.1536875,
+                "longitude": -80.2569303
+            },
+            "display_phone": "(754) 701-5823",
+            "distance": 3112.755484426661,
+            "id": "xxjTqWVgi2XwDcwUH4De4A",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/q7n2b27sGCmCoQ10vzycPQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2350 N University Dr",
+                "address2": "",
+                "address3": null,
+                "city": "Sunrise",
+                "country": "US",
+                "display_address": [
+                    "2350 N University Dr",
+                    "Sunrise, FL 33322"
+                ],
+                "state": "FL",
+                "zip_code": "33322"
+            },
+            "name": "Yummy BBQ",
+            "phone": "+17547015823",
+            "rating": 4.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/yummy-bbq-sunrise?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 26.144234112013713,
+            "longitude": -80.2261892513426
+        }
+    },
+    "total": 1
+}

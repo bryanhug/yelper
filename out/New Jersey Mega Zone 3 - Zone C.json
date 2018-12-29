@@ -1,0 +1,186 @@
+{
+    "businesses": [
+        {
+            "alias": "johnny-napkins-lodi-lodi",
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.8790678,
+                "longitude": -74.0844735
+            },
+            "display_phone": "(973) 574-7777",
+            "distance": 1260.7640821276987,
+            "id": "R2-r0j8LimroVRuoTCvpkg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZsDc48kCZS5OauHwrRIN5Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "170 Main St",
+                "address2": null,
+                "address3": "",
+                "city": "Lodi",
+                "country": "US",
+                "display_address": [
+                    "170 Main St",
+                    "Lodi, NJ 07644"
+                ],
+                "state": "NJ",
+                "zip_code": "07644"
+            },
+            "name": "Johnny Napkins - Lodi",
+            "phone": "+19735747777",
+            "rating": 4.0,
+            "review_count": 9,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/johnny-napkins-lodi-lodi?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hair-boutique-garfield-2",
+            "categories": [
+                {
+                    "alias": "hair",
+                    "title": "Hair Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.88646,
+                "longitude": -74.11967
+            },
+            "display_phone": "(862) 225-9599",
+            "distance": 2023.4654776491036,
+            "id": "Mcl5CsIGy7Bb2wYxv2h6FQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/j4Zu1kZEFzjvkulvEbDXBQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "160 Lanza Ave",
+                "address2": "Ste 1",
+                "address3": "",
+                "city": "Garfield",
+                "country": "US",
+                "display_address": [
+                    "160 Lanza Ave",
+                    "Ste 1",
+                    "Garfield, NJ 07026"
+                ],
+                "state": "NJ",
+                "zip_code": "07026"
+            },
+            "name": "Hair Boutique",
+            "phone": "+18622259599",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hair-boutique-garfield-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "classic-nirala-restaurant-elmwood-park",
+            "categories": [
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                },
+                {
+                    "alias": "pakistani",
+                    "title": "Pakistani"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.89376,
+                "longitude": -74.11694
+            },
+            "display_phone": "(201) 773-6073",
+            "distance": 2350.5717068500544,
+            "id": "s4nLGFvSINH6SekvC8s9iA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2OVZXqaRJ0iObhALUo4_Lw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "213 Route 46",
+                "address2": "store  5",
+                "address3": "",
+                "city": "Elmwood Park",
+                "country": "US",
+                "display_address": [
+                    "213 Route 46",
+                    "store  5",
+                    "Elmwood Park, NJ 07407"
+                ],
+                "state": "NJ",
+                "zip_code": "07407"
+            },
+            "name": "Classic Nirala Restaurant",
+            "phone": "+12017736073",
+            "rating": 4.5,
+            "review_count": 26,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/classic-nirala-restaurant-elmwood-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "viva-margarita-wallington",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.843516,
+                "longitude": -74.10575
+            },
+            "display_phone": "(201) 935-8484",
+            "distance": 3855.4562096938407,
+            "id": "gz4jQDLdzGP1RdL0moEqww",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/F38gclzhqOz_k2kZcdKC_g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "413 Paterson Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Wallington",
+                "country": "US",
+                "display_address": [
+                    "413 Paterson Ave",
+                    "Wallington, NJ 07057"
+                ],
+                "state": "NJ",
+                "zip_code": "07057"
+            },
+            "name": "Viva Margarita",
+            "phone": "+12019358484",
+            "rating": 4.5,
+            "review_count": 31,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/viva-margarita-wallington?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 40.87769337883589,
+            "longitude": -74.09857616579447
+        }
+    },
+    "total": 4
+}

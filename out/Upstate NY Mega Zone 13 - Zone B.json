@@ -1,0 +1,138 @@
+{
+    "businesses": [
+        {
+            "alias": "gourmet-lao-foods-buffalo-2",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                },
+                {
+                    "alias": "burmese",
+                    "title": "Burmese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.931427793691,
+                "longitude": -78.8886887220901
+            },
+            "display_phone": "(716) 882-4664",
+            "distance": 926.7984399296009,
+            "id": "xwSL908wXOa6e7p7WaCUCg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HYljmuy6mKI7G8mauRqwiA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "643 Grant St",
+                "address2": "",
+                "address3": null,
+                "city": "Buffalo",
+                "country": "US",
+                "display_address": [
+                    "643 Grant St",
+                    "Buffalo, NY 14213"
+                ],
+                "state": "NY",
+                "zip_code": "14213"
+            },
+            "name": "Gourmet Lao Foods",
+            "phone": "+17168824664",
+            "rating": 4.5,
+            "review_count": 12,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/gourmet-lao-foods-buffalo-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-little-club-buffalo",
+            "categories": [
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.94746,
+                "longitude": -78.86383
+            },
+            "display_phone": "(716) 427-6400",
+            "distance": 1785.6187008500362,
+            "id": "PRYQj6POpGFxn88Fc0IFDw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sIvSqEGm0WK4_7sFsMcZJQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1197 Hertel Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Buffalo",
+                "country": "US",
+                "display_address": [
+                    "1197 Hertel Ave",
+                    "Buffalo, NY 14216"
+                ],
+                "state": "NY",
+                "zip_code": "14216"
+            },
+            "name": "The Little Club",
+            "phone": "+17164276400",
+            "rating": 5.0,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-little-club-buffalo?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "street-asian-food-buffalo-2",
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                },
+                {
+                    "alias": "panasian",
+                    "title": "Pan Asian"
+                },
+                {
+                    "alias": "burmese",
+                    "title": "Burmese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.91108,
+                "longitude": -78.87734
+            },
+            "display_phone": "(716) 886-4001",
+            "distance": 2853.3472373607474,
+            "id": "LObJBmxNQQbDDWgGWheulw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/v3dLYMvW3xQHvG3aVcBBBQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "516 Elmwood Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Buffalo",
+                "country": "US",
+                "display_address": [
+                    "516 Elmwood Ave",
+                    "Buffalo, NY 14222"
+                ],
+                "state": "NY",
+                "zip_code": "14222"
+            },
+            "name": "Street Asian Food",
+            "phone": "+17168864001",
+            "rating": 4.0,
+            "review_count": 14,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/street-asian-food-buffalo-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 42.93663706802657,
+            "longitude": -78.87980178276727
+        }
+    },
+    "total": 3
+}

@@ -1,0 +1,209 @@
+{
+    "businesses": [
+        {
+            "alias": "poetic-republic-coffee-co-san-antonio",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.472141314165,
+                "longitude": -98.534447524921
+            },
+            "display_phone": "",
+            "distance": 2994.2279136601533,
+            "id": "ejgbCp__BulWu5DH2D-y9A",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XDD6yMIrHzsYszA0EUT3Bg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "150 Babcock Rd",
+                "address2": "Ste 102",
+                "address3": null,
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "150 Babcock Rd",
+                    "Ste 102",
+                    "San Antonio, TX 78201"
+                ],
+                "state": "TX",
+                "zip_code": "78201"
+            },
+            "name": "Poetic Republic Coffee Co",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/poetic-republic-coffee-co-san-antonio?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "el-canelo-6-mexican-grill-san-antonio-2",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.4451159023807,
+                "longitude": -98.5228304564953
+            },
+            "display_phone": "(210) 455-2610",
+            "distance": 2999.92814832701,
+            "id": "RTFY7weq33Hv8CSFvO3O7g",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/e59nUg__dO-GBozbTCi_rw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1003 Culebra Rd",
+                "address2": "",
+                "address3": null,
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "1003 Culebra Rd",
+                    "San Antonio, TX 78201"
+                ],
+                "state": "TX",
+                "zip_code": "78201"
+            },
+            "name": "El Canelo #6 Mexican Grill",
+            "phone": "+12104552610",
+            "rating": 4.5,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/el-canelo-6-mexican-grill-san-antonio-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sohill-cafe-san-antonio-2",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.46222,
+                "longitude": -98.50805
+            },
+            "display_phone": "(210) 455-2177",
+            "distance": 4541.843921391259,
+            "id": "BOkC5cpT3lkVljfDkFDilQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/okuU090Kk1kmboRnJsjazw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1719 Blanco Rd",
+                "address2": null,
+                "address3": "",
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "1719 Blanco Rd",
+                    "San Antonio, TX 78212"
+                ],
+                "state": "TX",
+                "zip_code": "78212"
+            },
+            "name": "SoHill Cafe",
+            "phone": "+12104552177",
+            "rating": 5.0,
+            "review_count": 24,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sohill-cafe-san-antonio-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "rolling-reys-san-antonio-2",
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.50052,
+                "longitude": -98.57965
+            },
+            "display_phone": "(210) 265-3918",
+            "distance": 6119.3669633251475,
+            "id": "gkeXN_sdwCNaKJ-lhf3c-w",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ins3bZLdeDBM-JPFehBFBw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2026 Babcock Rd",
+                "address2": null,
+                "address3": "",
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "2026 Babcock Rd",
+                    "San Antonio, TX 78229"
+                ],
+                "state": "TX",
+                "zip_code": "78229"
+            },
+            "name": "Rolling Reys",
+            "phone": "+12102653918",
+            "rating": 4.5,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/rolling-reys-san-antonio-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kimura-at-freight-san-antonio",
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                },
+                {
+                    "alias": "izakaya",
+                    "title": "Izakaya"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.40553,
+                "longitude": -98.50299
+            },
+            "display_phone": "(210) 332-5005",
+            "distance": 6990.868802108012,
+            "id": "n68kDOq_oY_vRvCGvOCXrg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JpQ7f5tmyVy2X_5AAtabjw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1913 S Flores St",
+                "address2": "",
+                "address3": null,
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "1913 S Flores St",
+                    "San Antonio, TX 78204"
+                ],
+                "state": "TX",
+                "zip_code": "78204"
+            },
+            "name": "Kimura at Freight",
+            "phone": "+12103325005",
+            "rating": 4.0,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kimura-at-freight-san-antonio?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 29.450690928749257,
+            "longitude": -98.55314354190524
+        }
+    },
+    "total": 5
+}

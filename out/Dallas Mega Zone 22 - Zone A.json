@@ -1,0 +1,426 @@
+{
+    "businesses": [
+        {
+            "alias": "rodeo-goat-plano",
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.007537,
+                "longitude": -96.717958
+            },
+            "display_phone": "(469) 409-4628",
+            "distance": 2553.7428370738076,
+            "id": "TbFcU9Nq_QoSqkt1-kBwlw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_LxMjImLzXudatB_Q6KlLg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "641 Powell Ln",
+                "address2": "",
+                "address3": null,
+                "city": "Plano",
+                "country": "US",
+                "display_address": [
+                    "641 Powell Ln",
+                    "Plano, TX 75075"
+                ],
+                "state": "TX",
+                "zip_code": "75075"
+            },
+            "name": "Rodeo Goat",
+            "phone": "+14694094628",
+            "rating": 4.0,
+            "review_count": 58,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/rodeo-goat-plano?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "vivi-bubble-tea-plano-2",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.0184161,
+                "longitude": -96.7355171
+            },
+            "display_phone": "(469) 661-8801",
+            "distance": 2567.306711755713,
+            "id": "AIS7omaUQLRS8iJyIXeQWg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/E9wUpCYqWitsD63Gb5-3yQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1301 Custer Rd",
+                "address2": "Ste 200 Unit 100",
+                "address3": null,
+                "city": "Plano",
+                "country": "US",
+                "display_address": [
+                    "1301 Custer Rd",
+                    "Ste 200 Unit 100",
+                    "Plano, TX 75075"
+                ],
+                "state": "TX",
+                "zip_code": "75075"
+            },
+            "name": "Vivi Bubble Tea",
+            "phone": "+14696618801",
+            "rating": 4.0,
+            "review_count": 10,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/vivi-bubble-tea-plano-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "flying-fish-plano",
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.008171,
+                "longitude": -96.718244
+            },
+            "display_phone": "(469) 616-1234",
+            "distance": 2567.572832489828,
+            "id": "O_CQb_aGMl_3KlFLsvd0BA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YI8yigPLUU5kb2WmGWyv-Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "649 Powell Ln",
+                "address2": null,
+                "address3": "",
+                "city": "Plano",
+                "country": "US",
+                "display_address": [
+                    "649 Powell Ln",
+                    "Plano, TX 75075"
+                ],
+                "state": "TX",
+                "zip_code": "75075"
+            },
+            "name": "Flying Fish",
+            "phone": "+14696161234",
+            "rating": 4.0,
+            "review_count": 23,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/flying-fish-plano?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "rudys-donut-shop-plano",
+            "categories": [
+                {
+                    "alias": "donuts",
+                    "title": "Donuts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.0201702843846,
+                "longitude": -96.746863424778
+            },
+            "display_phone": "(214) 578-8230",
+            "distance": 2744.6534700445704,
+            "id": "DnHFQMVLHlfytjpYvEDfIA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tETiFTnsMDcek4LMOizTpg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2729 W 15th St",
+                "address2": "",
+                "address3": null,
+                "city": "Plano",
+                "country": "US",
+                "display_address": [
+                    "2729 W 15th St",
+                    "Plano, TX 75075"
+                ],
+                "state": "TX",
+                "zip_code": "75075"
+            },
+            "name": "Rudy's Donut Shop",
+            "phone": "+12145788230",
+            "rating": 4.5,
+            "review_count": 6,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/rudys-donut-shop-plano?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kolache-factory-richardson",
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.97732,
+                "longitude": -96.71654
+            },
+            "display_phone": "(214) 272-9204",
+            "distance": 3173.6934368649877,
+            "id": "tlOT9U71SRQTUipS8qMqjw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Mrhmo9U9D161PaX7CQuV3w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2051 N Central Expy",
+                "address2": "Ste 101",
+                "address3": null,
+                "city": "Richardson",
+                "country": "US",
+                "display_address": [
+                    "2051 N Central Expy",
+                    "Ste 101",
+                    "Richardson, TX 75080"
+                ],
+                "state": "TX",
+                "zip_code": "75080"
+            },
+            "name": "Kolache Factory",
+            "phone": "+12142729204",
+            "rating": 4.0,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kolache-factory-richardson?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "shipley-do-nuts-plano-plano",
+            "categories": [
+                {
+                    "alias": "donuts",
+                    "title": "Donuts"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.02669,
+                "longitude": -96.71055
+            },
+            "display_phone": "(469) 298-0400",
+            "distance": 4480.924412912826,
+            "id": "PgXSIhzgQrC_QgDjFbJxLw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-wify2wBCbG-vLz3YbLq2A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1881 N Central Expy",
+                "address2": "Ste 200",
+                "address3": "",
+                "city": "Plano",
+                "country": "US",
+                "display_address": [
+                    "1881 N Central Expy",
+                    "Ste 200",
+                    "Plano, TX 75075"
+                ],
+                "state": "TX",
+                "zip_code": "75075"
+            },
+            "name": "Shipley Do-nuts Plano",
+            "phone": "+14692980400",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/shipley-do-nuts-plano-plano?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ztao-marketplace-plano-2",
+            "categories": [
+                {
+                    "alias": "grocery",
+                    "title": "Grocery"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.0295,
+                "longitude": -96.77125
+            },
+            "display_phone": "(972) 798-8088",
+            "distance": 4697.1315541325885,
+            "id": "q19QbLeEfe3-AcEuyzH2iw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yT38iAtyujojH_In5zmFGA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2049 Coit Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Plano",
+                "country": "US",
+                "display_address": [
+                    "2049 Coit Rd",
+                    "Plano, TX 75075"
+                ],
+                "state": "TX",
+                "zip_code": "75075"
+            },
+            "name": "zTAO Marketplace",
+            "phone": "+19727988088",
+            "rating": 3.0,
+            "review_count": 6,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ztao-marketplace-plano-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "portos-peri-peri-plano",
+            "categories": [
+                {
+                    "alias": "portuguese",
+                    "title": "Portuguese"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.030846099743,
+                "longitude": -96.7089042295832
+            },
+            "display_phone": "(972) 423-3440",
+            "distance": 4937.531199916755,
+            "id": "9ph1eSA7QlTgW7RY7KUfag",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WFa1B8pz3ar4fU5m0QKU2Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2301 Central Expy",
+                "address2": "Ste 165",
+                "address3": "",
+                "city": "Plano",
+                "country": "US",
+                "display_address": [
+                    "2301 Central Expy",
+                    "Ste 165",
+                    "Plano, TX 75074"
+                ],
+                "state": "TX",
+                "zip_code": "75074"
+            },
+            "name": "Porto's Peri Peri",
+            "phone": "+19724233440",
+            "rating": 3.5,
+            "review_count": 46,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/portos-peri-peri-plano?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "beard-papa-s-plano-plano",
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.0309344,
+                "longitude": -96.708927
+            },
+            "display_phone": "(972) 703-3677",
+            "distance": 4943.956144426941,
+            "id": "baitr1-5pewHPT2LdmQv3A",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xZtMA6BFAf7VMHllPLOEKQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2301 N Central Expressway",
+                "address2": "Ste 158",
+                "address3": null,
+                "city": "Plano",
+                "country": "US",
+                "display_address": [
+                    "2301 N Central Expressway",
+                    "Ste 158",
+                    "Plano, TX 75075"
+                ],
+                "state": "TX",
+                "zip_code": "75075"
+            },
+            "name": "Beard Papa\u2019s Plano",
+            "phone": "+19727033677",
+            "rating": 4.0,
+            "review_count": 64,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/beard-papa-s-plano-plano?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-corn-dog-guy-dallas",
+            "categories": [
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.96473,
+                "longitude": -96.82557
+            },
+            "display_phone": "(210) 239-8609",
+            "distance": 8893.143531004038,
+            "id": "Rh1fllQplmPZYl27vWYJAQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lJTqr0bwJoOmGOx6i4_wXA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "Dallas, TX 75001"
+                ],
+                "state": "TX",
+                "zip_code": "75001"
+            },
+            "name": "The Corn Dog Guy",
+            "phone": "+12102398609",
+            "rating": 3.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-corn-dog-guy-dallas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 32.995890860893574,
+            "longitude": -96.74156069764395
+        }
+    },
+    "total": 10
+}

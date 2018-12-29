@@ -1,0 +1,809 @@
+{
+    "businesses": [
+        {
+            "alias": "koma-sushi-portola-valley-portola-valley",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.4019962126581,
+                "longitude": -122.193258010023
+            },
+            "display_phone": "(650) 367-6547",
+            "distance": 1922.0032853108696,
+            "id": "sXkSDM67TBLW6G7PcH79_w",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qun0ZU0p-AYXCDA7GjjrfA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3130 Alpine Rd",
+                "address2": "Ste 240",
+                "address3": null,
+                "city": "Portola Valley",
+                "country": "US",
+                "display_address": [
+                    "3130 Alpine Rd",
+                    "Ste 240",
+                    "Portola Valley, CA 94028"
+                ],
+                "state": "CA",
+                "zip_code": "94028"
+            },
+            "name": "Koma Sushi Portola Valley",
+            "phone": "+16503676547",
+            "rating": 4.5,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/koma-sushi-portola-valley-portola-valley?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "specialtys-cafe-and-bakery-palo-alto",
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.42118,
+                "longitude": -122.14149
+            },
+            "display_phone": "(877) 502-2837",
+            "distance": 3199.347485172362,
+            "id": "jn4kzPl-A2ryj3uferXFNQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/px2wB9Q9t90GVuIIV7XAUA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3000 El Camino Real",
+                "address2": null,
+                "address3": "",
+                "city": "Palo Alto",
+                "country": "US",
+                "display_address": [
+                    "3000 El Camino Real",
+                    "Palo Alto, CA 94306"
+                ],
+                "state": "CA",
+                "zip_code": "94306"
+            },
+            "name": "Specialty's Cafe & Bakery",
+            "phone": "+18775022837",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/specialtys-cafe-and-bakery-palo-alto?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sunlife-organics-palo-alto",
+            "categories": [
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "healthmarkets",
+                    "title": "Health Markets"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.42716,
+                "longitude": -122.14456
+            },
+            "display_phone": "(650) 665-7562",
+            "distance": 3396.9242841909436,
+            "id": "hL3-4JWvpfGLQjG1UIBTvg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vu2OeKE5kR_MjC9AcdyoTg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "344 South California Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Palo Alto",
+                "country": "US",
+                "display_address": [
+                    "344 South California Ave",
+                    "Palo Alto, CA 94306"
+                ],
+                "state": "CA",
+                "zip_code": "94306"
+            },
+            "name": "SunLife Organics",
+            "phone": "+16506657562",
+            "rating": 4.5,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sunlife-organics-palo-alto?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "babka-by-ayelet-palo-alto",
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.43844,
+                "longitude": -122.159
+            },
+            "display_phone": "(650) 494-4634",
+            "distance": 3816.9244608401746,
+            "id": "hfUmwYlS8K54ufojvChvUg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2Da5S7K0bPMLkN21-GLqxg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "855 El Camino Real",
+                "address2": "Ste 15",
+                "address3": null,
+                "city": "Palo Alto",
+                "country": "US",
+                "display_address": [
+                    "855 El Camino Real",
+                    "Ste 15",
+                    "Palo Alto, CA 94301"
+                ],
+                "state": "CA",
+                "zip_code": "94301"
+            },
+            "name": "Babka by Ayelet",
+            "phone": "+16504944634",
+            "rating": 4.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/babka-by-ayelet-palo-alto?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "joe-and-the-juice-palo-alto-5",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.442519,
+                "longitude": -122.1702468
+            },
+            "display_phone": "",
+            "distance": 4094.781321589502,
+            "id": "I5hHFhXFqXLH6cn5YYefPQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WeZQJtXZOJuAPfyd5dLkjg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "669 Stanford Shopping Center",
+                "address2": null,
+                "address3": null,
+                "city": "Palo Alto",
+                "country": "US",
+                "display_address": [
+                    "669 Stanford Shopping Center",
+                    "Palo Alto, CA 94304"
+                ],
+                "state": "CA",
+                "zip_code": "94304"
+            },
+            "name": "JOE & THE JUICE",
+            "phone": "",
+            "rating": 3.0,
+            "review_count": 18,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/joe-and-the-juice-palo-alto-5?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "shake-shack-palo-alto",
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.443605462723,
+                "longitude": -122.16846
+            },
+            "display_phone": "(650) 509-5101",
+            "distance": 4224.276226824806,
+            "id": "gzwD--_8Ho5rOSGLy45cXQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QQhXu2IHWtbhpRgtFY7Vug/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "180 El Camino Real",
+                "address2": "Ste 950",
+                "address3": "",
+                "city": "Palo Alto",
+                "country": "US",
+                "display_address": [
+                    "180 El Camino Real",
+                    "Ste 950",
+                    "Palo Alto, CA 94025"
+                ],
+                "state": "CA",
+                "zip_code": "94025"
+            },
+            "name": "Shake Shack",
+            "phone": "+16505095101",
+            "rating": 3.5,
+            "review_count": 101,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/shake-shack-palo-alto?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "joe-and-the-juice-palo-alto-4",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.44426,
+                "longitude": -122.16083
+            },
+            "display_phone": "",
+            "distance": 4397.3998602628435,
+            "id": "N3TplKeXdKfRKkpBXCVcDA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OIYlATAv5UqggAU2AH9ceA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "240 Hamilton Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Palo Alto",
+                "country": "US",
+                "display_address": [
+                    "240 Hamilton Ave",
+                    "Palo Alto, CA 94301"
+                ],
+                "state": "CA",
+                "zip_code": "94301"
+            },
+            "name": "JOE & THE JUICE",
+            "phone": "",
+            "rating": 3.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/joe-and-the-juice-palo-alto-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "carem-gelato-classico-palo-alto-2",
+            "categories": [
+                {
+                    "alias": "gelato",
+                    "title": "Gelato"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.44523,
+                "longitude": -122.16321
+            },
+            "display_phone": "(650) 391-9492",
+            "distance": 4462.324108085103,
+            "id": "0JfzyOdqz82f3c4ex6EdJQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/p_Ag6u0F7ysubVQzYUOveQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "435 Emerson St",
+                "address2": "",
+                "address3": null,
+                "city": "Palo Alto",
+                "country": "US",
+                "display_address": [
+                    "435 Emerson St",
+                    "Palo Alto, CA 94301"
+                ],
+                "state": "CA",
+                "zip_code": "94301"
+            },
+            "name": "Carem Gelato Classico",
+            "phone": "+16503919492",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/carem-gelato-classico-palo-alto-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "salt-and-straw-palo-alto-2",
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.44526,
+                "longitude": -122.16173
+            },
+            "display_phone": "(650) 656-9224",
+            "distance": 4489.337823686081,
+            "id": "1DTKu92gOYrjqeeiXKZHMQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wx4JxGL508ly8QL7LHhVDA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "250 University Ave",
+                "address2": "Ste 110",
+                "address3": null,
+                "city": "Palo Alto",
+                "country": "US",
+                "display_address": [
+                    "250 University Ave",
+                    "Ste 110",
+                    "Palo Alto, CA 94301"
+                ],
+                "state": "CA",
+                "zip_code": "94301"
+            },
+            "name": "Salt & Straw",
+            "phone": "+16506569224",
+            "rating": 4.5,
+            "review_count": 41,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/salt-and-straw-palo-alto-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "leafy-palo-alto",
+            "categories": [
+                {
+                    "alias": "homedecor",
+                    "title": "Home Decor"
+                },
+                {
+                    "alias": "gardening",
+                    "title": "Nurseries & Gardening"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.44722,
+                "longitude": -122.15798
+            },
+            "display_phone": "(917) 865-1758",
+            "distance": 4779.577761720796,
+            "id": "jxniteFxOryvBKGl5AUiWg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zCg_mED7jrqRve2WNvPRpA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "482 Hamilton Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Palo Alto",
+                "country": "US",
+                "display_address": [
+                    "482 Hamilton Ave",
+                    "Palo Alto, CA 94301"
+                ],
+                "state": "CA",
+                "zip_code": "94301"
+            },
+            "name": "Leafy",
+            "phone": "+19178651758",
+            "rating": 5.0,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/leafy-palo-alto?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ikes-place-palo-alto-2",
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.44814,
+                "longitude": -122.16172
+            },
+            "display_phone": "",
+            "distance": 4799.2745816234565,
+            "id": "sONEG3LmGbURqHTBeI9YUw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/l9TLFsFI2npb9N-MTqSkeQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "401 Lytton Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Palo Alto",
+                "country": "US",
+                "display_address": [
+                    "401 Lytton Ave",
+                    "Palo Alto, CA 94301"
+                ],
+                "state": "CA",
+                "zip_code": "94301"
+            },
+            "name": "Ike's Place",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 19,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ikes-place-palo-alto-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "oak-violet-menlo-park",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.45633,
+                "longitude": -122.18775
+            },
+            "display_phone": "(650) 304-3880",
+            "distance": 5787.952813831954,
+            "id": "clV0aKY87pWK5sykEu6T6w",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JzMcOgzDvq_ElfB-bGPAfw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1400 El Camino Real",
+                "address2": null,
+                "address3": "",
+                "city": "Menlo Park",
+                "country": "US",
+                "display_address": [
+                    "1400 El Camino Real",
+                    "Menlo Park, CA 94025"
+                ],
+                "state": "CA",
+                "zip_code": "94025"
+            },
+            "name": "Oak + Violet",
+            "phone": "+16503043880",
+            "rating": 4.0,
+            "review_count": 30,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/oak-violet-menlo-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kolkhida-mountain-view",
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "georgian",
+                    "title": "Georgian"
+                },
+                {
+                    "alias": "catering",
+                    "title": "Caterers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.4218345,
+                "longitude": -122.1009728
+            },
+            "display_phone": "(650) 906-0991",
+            "distance": 6524.734064624121,
+            "id": "baZWfQN1mx7yd6DAvPhKcw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8Qnoj0EfL6oOJnz3XbS9hQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "E Charleston Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Mountain View",
+                "country": "US",
+                "display_address": [
+                    "E Charleston Rd",
+                    "Mountain View, CA 94043"
+                ],
+                "state": "CA",
+                "zip_code": "94043"
+            },
+            "name": "Kolkhida",
+            "phone": "+16509060991",
+            "rating": 5.0,
+            "review_count": 33,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kolkhida-mountain-view?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "apres-winter-lounge-east-palo-alto",
+            "categories": [
+                {
+                    "alias": "popuprestaurants",
+                    "title": "Pop-Up Restaurants"
+                },
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                },
+                {
+                    "alias": "fondue",
+                    "title": "Fondue"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.46038,
+                "longitude": -122.14228
+            },
+            "display_phone": "(650) 566-1200",
+            "distance": 6621.812296675914,
+            "id": "AetT9D58DYiv0xl6KEKLcQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/T160apNS2sg1EVUwE3CtGA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2050 University Ave",
+                "address2": null,
+                "address3": "",
+                "city": "East Palo Alto",
+                "country": "US",
+                "display_address": [
+                    "2050 University Ave",
+                    "East Palo Alto, CA 94303"
+                ],
+                "state": "CA",
+                "zip_code": "94303"
+            },
+            "name": "Apres Winter Lounge",
+            "phone": "+16505661200",
+            "rating": 3.5,
+            "review_count": 18,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/apres-winter-lounge-east-palo-alto?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "menlo-wellness-massage-menlo-park",
+            "categories": [
+                {
+                    "alias": "massage",
+                    "title": "Massage"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.46429,
+                "longitude": -122.15726
+            },
+            "display_phone": "(650) 384-6858",
+            "distance": 6649.703862789137,
+            "id": "TmofanuTOy1hDt2ZmUROGQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-GFoUsrgbFInoN38ojBmnA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "718 Willow Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Menlo Park",
+                "country": "US",
+                "display_address": [
+                    "718 Willow Rd",
+                    "Menlo Park, CA 94025"
+                ],
+                "state": "CA",
+                "zip_code": "94025"
+            },
+            "name": "Menlo Wellness Massage",
+            "phone": "+16503846858",
+            "rating": 4.5,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/menlo-wellness-massage-menlo-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "woodside-nail-spa-redwood-city-4",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.46801,
+                "longitude": -122.22336
+            },
+            "display_phone": "(650) 701-1096",
+            "distance": 8271.618936208042,
+            "id": "Cl6XptF3td1gxIC0PhMFWQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1gHq4_X7JXQt7GKAQnkfog/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "703 Woodside Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Redwood City",
+                "country": "US",
+                "display_address": [
+                    "703 Woodside Rd",
+                    "Redwood City, CA 94063"
+                ],
+                "state": "CA",
+                "zip_code": "94063"
+            },
+            "name": "Woodside Nail Spa",
+            "phone": "+16507011096",
+            "rating": 3.5,
+            "review_count": 12,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/woodside-nail-spa-redwood-city-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "keeku-da-dhaba-fremont",
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.5530508,
+                "longitude": -121.9798298
+            },
+            "display_phone": "(510) 789-3437",
+            "distance": 23685.48544037254,
+            "id": "40DtuR_HxNuBVf_uSoy66Q",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/01Lkj-1u8DwBhRfzPqPFjw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "39200 Paseo Padre Pkwy",
+                "address2": "",
+                "address3": "Gateway Plaza",
+                "city": "Fremont",
+                "country": "US",
+                "display_address": [
+                    "39200 Paseo Padre Pkwy",
+                    "Gateway Plaza",
+                    "Fremont, CA 94538"
+                ],
+                "state": "CA",
+                "zip_code": "94538"
+            },
+            "name": "Keeku da Dhaba",
+            "phone": "+15107893437",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/keeku-da-dhaba-fremont?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "momo-noodle-san-francisco",
+            "categories": [
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "szechuan",
+                    "title": "Szechuan"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.74434,
+                "longitude": -122.47868
+            },
+            "display_phone": "(408) 800-6819",
+            "distance": 41775.85006992247,
+            "id": "7dHj1XDVA_7AYXTfp5i-BQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JNjSRfVc8x6-EQMLNlOUOg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "San Francisco, CA 94016"
+                ],
+                "state": "CA",
+                "zip_code": "94016"
+            },
+            "name": "MOMO noodle",
+            "phone": "+14088006819",
+            "rating": 4.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/momo-noodle-san-francisco?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kerb-san-francisco-2",
+            "categories": [
+                {
+                    "alias": "vehicleshipping",
+                    "title": "Vehicle Shipping"
+                },
+                {
+                    "alias": "movers",
+                    "title": "Movers"
+                },
+                {
+                    "alias": "packingsupplies",
+                    "title": "Packing Supplies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.757438659668,
+                "longitude": -122.419372558594
+            },
+            "display_phone": "(628) 219-1170",
+            "distance": 43874.58717748418,
+            "id": "94OGPwlE_nS8RI_m3rm84Q",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/s_Kj-fihwfRirz0amRsa6g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "San Francisco, CA 94110"
+                ],
+                "state": "CA",
+                "zip_code": "94110"
+            },
+            "name": "Kerb",
+            "phone": "+16282191170",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kerb-san-francisco-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 37.405720330293214,
+            "longitude": -122.17200975463172
+        }
+    },
+    "total": 19
+}

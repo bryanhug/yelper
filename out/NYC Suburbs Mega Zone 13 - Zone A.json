@@ -1,0 +1,257 @@
+{
+    "businesses": [
+        {
+            "alias": "danny-nails-and-spa-massapequa-park-2",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.666694,
+                "longitude": -73.454347
+            },
+            "display_phone": "(516) 797-2216",
+            "distance": 3232.428199327943,
+            "id": "BG0I_t1mo7tk5Tp4E3YnQQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MLd62lHqjO_tIZ-AB87Yyw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4907 Merrick Rd",
+                "address2": "",
+                "address3": null,
+                "city": "Massapequa Park",
+                "country": "US",
+                "display_address": [
+                    "4907 Merrick Rd",
+                    "Massapequa Park, NY 11762"
+                ],
+                "state": "NY",
+                "zip_code": "11762"
+            },
+            "name": "Danny Nails & Spa",
+            "phone": "+15167972216",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/danny-nails-and-spa-massapequa-park-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "longhorn-steakhouse-farmingdale",
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.7280716268829,
+                "longitude": -73.4245598546311
+            },
+            "display_phone": "(631) 249-0317",
+            "distance": 4083.222762138839,
+            "id": "QwDGQ4Bpl1U9L9WBF3RFGw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Tv7Irux6qgsnfPgEQLudew/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1000 Broad Hollow Rd",
+                "address2": "",
+                "address3": null,
+                "city": "Farmingdale",
+                "country": "US",
+                "display_address": [
+                    "1000 Broad Hollow Rd",
+                    "Farmingdale, NY 11735"
+                ],
+                "state": "NY",
+                "zip_code": "11735"
+            },
+            "name": "LongHorn Steakhouse",
+            "phone": "+16312490317",
+            "rating": 3.5,
+            "review_count": 48,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/longhorn-steakhouse-farmingdale?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kai-poke-massapequa",
+            "categories": [
+                {
+                    "alias": "poke",
+                    "title": "Poke"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.66693,
+                "longitude": -73.47568
+            },
+            "display_phone": "",
+            "distance": 4223.877012553671,
+            "id": "snujhskvR8Izo-Rj65Erpg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ac-a7gVwAbtWmQkAO5weLA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7 Hicksville Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Massapequa",
+                "country": "US",
+                "display_address": [
+                    "7 Hicksville Rd",
+                    "Massapequa, NY 11758"
+                ],
+                "state": "NY",
+                "zip_code": "11758"
+            },
+            "name": "Kai Poke",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 18,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kai-poke-massapequa?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "chiddy-s-cheese-steaks-farmingdale",
+            "categories": [
+                {
+                    "alias": "cheesesteaks",
+                    "title": "Cheesesteaks"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.73446,
+                "longitude": -73.44597
+            },
+            "display_phone": "(516) 927-8770",
+            "distance": 4729.47995394478,
+            "id": "8dRtymQHYXbAZ6buSl_r8A",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-1B7zIOZdRWJwgeN7swdxA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "191 Main St",
+                "address2": "",
+                "address3": null,
+                "city": "Farmingdale",
+                "country": "US",
+                "display_address": [
+                    "191 Main St",
+                    "Farmingdale, NY 11735"
+                ],
+                "state": "NY",
+                "zip_code": "11735"
+            },
+            "name": "Chiddy\u2019s Cheese Steaks",
+            "phone": "+15169278770",
+            "rating": 4.5,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/chiddy-s-cheese-steaks-farmingdale?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "dolce-aesthetics-queens-2",
+            "categories": [
+                {
+                    "alias": "medicalspa",
+                    "title": "Medical Spas"
+                },
+                {
+                    "alias": "laser_hair_removal",
+                    "title": "Laser Hair Removal"
+                },
+                {
+                    "alias": "skincare",
+                    "title": "Skin Care"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.65558,
+                "longitude": -73.8394
+            },
+            "display_phone": "(718) 322-5300",
+            "distance": 34200.7495225042,
+            "id": "5G2-yEXlsCsOfjFqRU60wA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IytPD_r4qNc2ir2Iyy4RbA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "161-02 Cross Bay Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Queens",
+                "country": "US",
+                "display_address": [
+                    "161-02 Cross Bay Blvd",
+                    "Queens, NY 11414"
+                ],
+                "state": "NY",
+                "zip_code": "11414"
+            },
+            "name": "Dolce Aesthetics",
+            "phone": "+17183225300",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dolce-aesthetics-queens-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "just4move-nyc-brooklyn",
+            "categories": [
+                {
+                    "alias": "movers",
+                    "title": "Movers"
+                },
+                {
+                    "alias": "packingservices",
+                    "title": "Packing Services"
+                },
+                {
+                    "alias": "packingsupplies",
+                    "title": "Packing Supplies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.6698599111662,
+                "longitude": -73.9560807868838
+            },
+            "display_phone": "(516) 399-1055",
+            "distance": 43859.93738102476,
+            "id": "SMTa4VpGZRBm3KjYkEMOkg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VB_SkT1ozb1ZcUwoqqUy-w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "390 Eastern Pkwy",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "country": "US",
+                "display_address": [
+                    "390 Eastern Pkwy",
+                    "Brooklyn, NY 11225"
+                ],
+                "state": "NY",
+                "zip_code": "11225"
+            },
+            "name": "Just4Move NYC",
+            "phone": "+15163991055",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/just4move-nyc-brooklyn?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 40.69254320285421,
+            "longitude": -73.43680729076993
+        }
+    },
+    "total": 6
+}

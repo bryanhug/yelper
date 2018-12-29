@@ -1,0 +1,813 @@
+{
+    "businesses": [
+        {
+            "alias": "kkw-beauty-costa-mesa",
+            "categories": [
+                {
+                    "alias": "makeupartists",
+                    "title": "Makeup Artists"
+                },
+                {
+                    "alias": "cosmetics",
+                    "title": "Cosmetics & Beauty Supply"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.6911386772303,
+                "longitude": -117.88903531865
+            },
+            "display_phone": "",
+            "distance": 636.9921131447335,
+            "id": "P8SReI__6t_nC8s_qUp_aQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1GQYqNAO5IOJ1wzUApDckw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3333 Bristol St",
+                "address2": "",
+                "address3": null,
+                "city": "Costa Mesa",
+                "country": "US",
+                "display_address": [
+                    "3333 Bristol St",
+                    "Costa Mesa, CA 92626"
+                ],
+                "state": "CA",
+                "zip_code": "92626"
+            },
+            "name": "KKW BEAUTY",
+            "phone": "",
+            "rating": 3.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kkw-beauty-costa-mesa?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "beautytap-costa-mesa-4",
+            "categories": [
+                {
+                    "alias": "cosmetics",
+                    "title": "Cosmetics & Beauty Supply"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.691885,
+                "longitude": -117.889819
+            },
+            "display_phone": "",
+            "distance": 699.0579027454613,
+            "id": "FNEFTvR0rB8l8KQNn_UVag",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/q3ujLlL2407t1OlL3hav8w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3333 Bristol St",
+                "address2": null,
+                "address3": null,
+                "city": "Costa Mesa",
+                "country": "US",
+                "display_address": [
+                    "3333 Bristol St",
+                    "Costa Mesa, CA 92626"
+                ],
+                "state": "CA",
+                "zip_code": "92626"
+            },
+            "name": "Beautytap",
+            "phone": "",
+            "rating": 3.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/beautytap-costa-mesa-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "valerie-porcara-south-coast-santa-ana",
+            "categories": [
+                {
+                    "alias": "hairstylists",
+                    "title": "Hair Stylists"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.69505,
+                "longitude": -117.8856949
+            },
+            "display_phone": "(619) 343-2334",
+            "distance": 1081.2331654457528,
+            "id": "LlK1IsaVuhLOltVx511x6g",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RsrAutadNbsIZfl3ypWmtA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3930 S Bristol St",
+                "address2": null,
+                "address3": "Alkali Salon",
+                "city": "Santa Ana",
+                "country": "US",
+                "display_address": [
+                    "3930 S Bristol St",
+                    "Alkali Salon",
+                    "Santa Ana, CA 92704"
+                ],
+                "state": "CA",
+                "zip_code": "92704"
+            },
+            "name": "Valerie Porcara - South Coast",
+            "phone": "+16193432334",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/valerie-porcara-south-coast-santa-ana?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "philz-coffee-south-coast-metro-costa-mesa",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.69373,
+                "longitude": -117.885
+            },
+            "display_phone": "",
+            "distance": 1096.4441428100624,
+            "id": "BwZssCAW2ZulKpqdiWdU8w",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VoadZyj3wEF3qMiJFJLqsg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3420 Bristol St",
+                "address2": null,
+                "address3": "",
+                "city": "Costa Mesa",
+                "country": "US",
+                "display_address": [
+                    "3420 Bristol St",
+                    "Costa Mesa, CA 92626"
+                ],
+                "state": "CA",
+                "zip_code": "92626"
+            },
+            "name": "Philz Coffee - South Coast Metro",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 37,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/philz-coffee-south-coast-metro-costa-mesa?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "7-leaves-cafe-costa-mesa-4",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "macarons",
+                    "title": "Macarons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.6816144,
+                "longitude": -117.8867306
+            },
+            "display_phone": "(657) 247-5711",
+            "distance": 1199.1930911264062,
+            "id": "QdPHVzr004nPZWxRGh2V4A",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UIMJn6jJOrJWNSM3SMpYlw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3033 Bristol St",
+                "address2": "",
+                "address3": null,
+                "city": "Costa Mesa",
+                "country": "US",
+                "display_address": [
+                    "3033 Bristol St",
+                    "Costa Mesa, CA 92626"
+                ],
+                "state": "CA",
+                "zip_code": "92626"
+            },
+            "name": "7 Leaves Cafe",
+            "phone": "+16572475711",
+            "rating": 4.0,
+            "review_count": 27,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/7-leaves-cafe-costa-mesa-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bootleggers-brewery-costa-mesa-costa-mesa-2",
+            "categories": [
+                {
+                    "alias": "breweries",
+                    "title": "Breweries"
+                },
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.67743,
+                "longitude": -117.88583
+            },
+            "display_phone": "(714) 871-2337",
+            "distance": 1592.7277035953718,
+            "id": "1Q38usEp1dWuw3PeW5La4A",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MQn6dSpWkWfouCNOs-fv2A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2930 Bristol St",
+                "address2": "",
+                "address3": null,
+                "city": "Costa Mesa",
+                "country": "US",
+                "display_address": [
+                    "2930 Bristol St",
+                    "Costa Mesa, CA 92626"
+                ],
+                "state": "CA",
+                "zip_code": "92626"
+            },
+            "name": "Bootlegger's Brewery - Costa Mesa",
+            "phone": "+17148712337",
+            "rating": 4.5,
+            "review_count": 22,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bootleggers-brewery-costa-mesa-costa-mesa-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "blaze-fast-fired-pizza-santa-ana-2",
+            "categories": [
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7001349,
+                "longitude": -117.9063798
+            },
+            "display_phone": "(714) 880-7860",
+            "distance": 1641.2733328661373,
+            "id": "ZUByPVv19cHKNjwe-48zoA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Q26opscsJRziEu9ot3sk5A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2841 West MacArthur Boulevard",
+                "address2": "Suite #B",
+                "address3": null,
+                "city": "Santa Ana",
+                "country": "US",
+                "display_address": [
+                    "2841 West MacArthur Boulevard",
+                    "Suite #B",
+                    "Santa Ana, CA 92704"
+                ],
+                "state": "CA",
+                "zip_code": "92704"
+            },
+            "name": "Blaze Fast-Fire'd Pizza",
+            "phone": "+17148807860",
+            "rating": 4.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/blaze-fast-fired-pizza-santa-ana-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kids-in-sports-costa-mesa",
+            "categories": [
+                {
+                    "alias": "kids_activities",
+                    "title": "Kids Activities"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.67413,
+                "longitude": -117.88985
+            },
+            "display_phone": "(949) 566-3412",
+            "distance": 1773.430099915031,
+            "id": "JXvJt8_N2g5YdqE2Mat7Ow",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8ECI733d5LjGm_3Xo-vyMA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2777 Bristol St",
+                "address2": null,
+                "address3": "",
+                "city": "Costa Mesa",
+                "country": "US",
+                "display_address": [
+                    "2777 Bristol St",
+                    "Costa Mesa, CA 92626"
+                ],
+                "state": "CA",
+                "zip_code": "92626"
+            },
+            "name": "Kids In Sports",
+            "phone": "+19495663412",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kids-in-sports-costa-mesa?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kashiwa-ramen-costa-mesa",
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.6802049,
+                "longitude": -117.9171134
+            },
+            "display_phone": "(657) 232-0223",
+            "distance": 2228.9506196010307,
+            "id": "la1bR8A0mNkIm2syADBD-Q",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bArZZBkR_6yYoRMCvTm3ng/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1420 Baker St",
+                "address2": "C",
+                "address3": null,
+                "city": "Costa Mesa",
+                "country": "US",
+                "display_address": [
+                    "1420 Baker St",
+                    "C",
+                    "Costa Mesa, CA 92626"
+                ],
+                "state": "CA",
+                "zip_code": "92626"
+            },
+            "name": "Kashiwa Ramen",
+            "phone": "+16572320223",
+            "rating": 4.0,
+            "review_count": 90,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kashiwa-ramen-costa-mesa?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kanok-thai-bistro-costa-mesa",
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.68049,
+                "longitude": -117.91764
+            },
+            "display_phone": "(657) 247-5999",
+            "distance": 2269.7831019336154,
+            "id": "tzbn03uc6YC7YTZ-Nj7vDQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/afcXPh0c9JOkCMsA-G5x5w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1450 Baker St",
+                "address2": "Ste C",
+                "address3": null,
+                "city": "Costa Mesa",
+                "country": "US",
+                "display_address": [
+                    "1450 Baker St",
+                    "Ste C",
+                    "Costa Mesa, CA 92626"
+                ],
+                "state": "CA",
+                "zip_code": "92626"
+            },
+            "name": "Kanok Thai Bistro",
+            "phone": "+16572475999",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kanok-thai-bistro-costa-mesa?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "beyond-the-baguette-santa-ana-3",
+            "categories": [
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "soup",
+                    "title": "Soup"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.6965327,
+                "longitude": -117.9192405
+            },
+            "display_phone": "(714) 549-2899",
+            "distance": 2270.082031503123,
+            "id": "47krQQE3BHEGrT9yDqi72A",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JinN9N9gBWucZMQSnERryA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3751 S Harbor Blvd",
+                "address2": "Ste C",
+                "address3": "",
+                "city": "Santa Ana",
+                "country": "US",
+                "display_address": [
+                    "3751 S Harbor Blvd",
+                    "Ste C",
+                    "Santa Ana, CA 92704"
+                ],
+                "state": "CA",
+                "zip_code": "92704"
+            },
+            "name": "Beyond The Baguette",
+            "phone": "+17145492899",
+            "rating": 4.5,
+            "review_count": 127,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/beyond-the-baguette-santa-ana-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ai-pono-cafe-costa-mesa",
+            "categories": [
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "hawaiian",
+                    "title": "Hawaiian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.6674764,
+                "longitude": -117.8785779
+            },
+            "display_phone": "(213) 373-6432",
+            "distance": 2836.5032156955617,
+            "id": "v5ZeXrXzHqnRzdGFcndi8w",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9sz8qF_JPSUJ77PoWzKS6A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "350 Clinton St",
+                "address2": "Ste A",
+                "address3": "",
+                "city": "Costa Mesa",
+                "country": "US",
+                "display_address": [
+                    "350 Clinton St",
+                    "Ste A",
+                    "Costa Mesa, CA 92626"
+                ],
+                "state": "CA",
+                "zip_code": "92626"
+            },
+            "name": "'Ai Pono Cafe",
+            "phone": "+12133736432",
+            "rating": 5.0,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ai-pono-cafe-costa-mesa?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "rich-elixirs-costa-mesa",
+            "categories": [
+                {
+                    "alias": "kombucha",
+                    "title": "Kombucha"
+                },
+                {
+                    "alias": "beverage_stores",
+                    "title": "Beverage Store"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.6944092,
+                "longitude": -117.9259071
+            },
+            "display_phone": "(949) 445-0102",
+            "distance": 2855.621510415521,
+            "id": "WpPPHz2MLMbCvLqC6hOrHg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/SLMTU7s1Jl326dhJiaFVsw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3313 Hyland Ave",
+                "address2": "Ste A1B",
+                "address3": null,
+                "city": "Costa Mesa",
+                "country": "US",
+                "display_address": [
+                    "3313 Hyland Ave",
+                    "Ste A1B",
+                    "Costa Mesa, CA 92626"
+                ],
+                "state": "CA",
+                "zip_code": "92626"
+            },
+            "name": "Rich Elixirs",
+            "phone": "+19494450102",
+            "rating": 5.0,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/rich-elixirs-costa-mesa?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "descanso-restaurant-costa-mesa",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.67297,
+                "longitude": -117.92147
+            },
+            "display_phone": "(714) 486-3798",
+            "distance": 3012.4907240751104,
+            "id": "YrBLt1Bq6D9WJ3y9hQ6lGA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6M3kBNy4weBTO8vcY4TvqQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1555 Adams Ave",
+                "address2": "Ste 103",
+                "address3": "",
+                "city": "Costa Mesa",
+                "country": "US",
+                "display_address": [
+                    "1555 Adams Ave",
+                    "Ste 103",
+                    "Costa Mesa, CA 92626"
+                ],
+                "state": "CA",
+                "zip_code": "92626"
+            },
+            "name": "Descanso Restaurant",
+            "phone": "+17144863798",
+            "rating": 4.0,
+            "review_count": 115,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/descanso-restaurant-costa-mesa?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bright-night-santa-ana-2",
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "szechuan",
+                    "title": "Szechuan"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.69961,
+                "longitude": -117.86481
+            },
+            "display_phone": "(657) 212-5558",
+            "distance": 3044.7900852757607,
+            "id": "8-HFG1RwlI4D7UrQ_Nm7VQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/G-MyLSKoj0OAOgl4GipvQg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2 Hutton Center Dr",
+                "address2": null,
+                "address3": "",
+                "city": "Santa Ana",
+                "country": "US",
+                "display_address": [
+                    "2 Hutton Center Dr",
+                    "Santa Ana, CA 92707"
+                ],
+                "state": "CA",
+                "zip_code": "92707"
+            },
+            "name": "Bright Night",
+            "phone": "+16572125558",
+            "rating": 4.0,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bright-night-santa-ana-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "miss-mini-donuts-newport-beach",
+            "categories": [
+                {
+                    "alias": "donuts",
+                    "title": "Donuts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.66985,
+                "longitude": -117.86526
+            },
+            "display_phone": "(949) 204-7413",
+            "distance": 3531.1504486364383,
+            "id": "Dkmi4Jx-jwe5zeQ-S1KpSQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XeqBCemPZq_d-loqqpBWtg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4647 MacArthur Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Newport Beach",
+                "country": "US",
+                "display_address": [
+                    "4647 MacArthur Blvd",
+                    "Newport Beach, CA 92660"
+                ],
+                "state": "CA",
+                "zip_code": "92660"
+            },
+            "name": "Miss. Mini Donuts",
+            "phone": "+19492047413",
+            "rating": 5.0,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/miss-mini-donuts-newport-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ca-bakery-and-cafe-costa-mesa-3",
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "cakeshop",
+                    "title": "Patisserie/Cake Shop"
+                },
+                {
+                    "alias": "customcakes",
+                    "title": "Custom Cakes"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.6559243,
+                "longitude": -117.9037383
+            },
+            "display_phone": "(949) 287-6953",
+            "distance": 3837.4759186277824,
+            "id": "dSWZPabvX71KSQlEUDaKjQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YvsJpdDUFqtXsJLluT5PEg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2346 Newport Blvd",
+                "address2": "Ste A3",
+                "address3": "",
+                "city": "Costa Mesa",
+                "country": "US",
+                "display_address": [
+                    "2346 Newport Blvd",
+                    "Ste A3",
+                    "Costa Mesa, CA 92627"
+                ],
+                "state": "CA",
+                "zip_code": "92627"
+            },
+            "name": "CA Bakery and Cafe",
+            "phone": "+19492876953",
+            "rating": 5.0,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ca-bakery-and-cafe-costa-mesa-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "oc-snowsports-costa-mesa",
+            "categories": [
+                {
+                    "alias": "skishops",
+                    "title": "Ski & Snowboard Shops"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.65464,
+                "longitude": -117.90472
+            },
+            "display_phone": "(844) 619-7669",
+            "distance": 3959.6809215006324,
+            "id": "2n7VXbpISJ4F-6yBNDGedg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fqzX29zxTml-talVMd5MQQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2306 Newport Blvd",
+                "address2": null,
+                "address3": null,
+                "city": "Costa Mesa",
+                "country": "US",
+                "display_address": [
+                    "2306 Newport Blvd",
+                    "Costa Mesa, CA 92627"
+                ],
+                "state": "CA",
+                "zip_code": "92627"
+            },
+            "name": "OC Snowsports",
+            "phone": "+18446197669",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/oc-snowsports-costa-mesa?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bella-1-nails-and-spa-fountain-valley-5",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7240524,
+                "longitude": -117.9199549
+            },
+            "display_phone": "(714) 617-4988",
+            "distance": 4472.086956592834,
+            "id": "O0iH3IB4PAO_EwXCvMqXxw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/x6qVuHwO6My55xoVerCFYg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "16475 Harbor Blvd",
+                "address2": "Ste B",
+                "address3": "",
+                "city": "Fountain Valley",
+                "country": "US",
+                "display_address": [
+                    "16475 Harbor Blvd",
+                    "Ste B",
+                    "Fountain Valley, CA 92708"
+                ],
+                "state": "CA",
+                "zip_code": "92708"
+            },
+            "name": "Bella # 1 nails & spa",
+            "phone": "+17146174988",
+            "rating": 4.0,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bella-1-nails-and-spa-fountain-valley-5?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tierra-mia-santa-ana",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7249240414131,
+                "longitude": -117.867873524966
+            },
+            "display_phone": "",
+            "distance": 4704.7502002900565,
+            "id": "b92MWTSCcY2duTiu_fZX9A",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zG2A7TYvHEorZMaTHuqMDA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1708 S Main St",
+                "address2": "",
+                "address3": null,
+                "city": "Santa Ana",
+                "country": "US",
+                "display_address": [
+                    "1708 S Main St",
+                    "Santa Ana, CA 92707"
+                ],
+                "state": "CA",
+                "zip_code": "92707"
+            },
+            "name": "Tierra Mia",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 6,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tierra-mia-santa-ana?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 33.6894632483053,
+            "longitude": -117.89561923473686
+        }
+    },
+    "total": 20
+}

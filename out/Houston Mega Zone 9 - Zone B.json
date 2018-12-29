@@ -1,0 +1,97 @@
+{
+    "businesses": [
+        {
+            "alias": "chicken-express-houston",
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.981994,
+                "longitude": -95.425093
+            },
+            "display_phone": "(832) 602-5667",
+            "distance": 2057.3674980147525,
+            "id": "_vrYP_6wUGG9qevIFOSK8A",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/di7TQtffoTZIMhxagfglBw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "132 E Airtex Dr",
+                "address2": "",
+                "address3": null,
+                "city": "Houston",
+                "country": "US",
+                "display_address": [
+                    "132 E Airtex Dr",
+                    "Houston, TX 77090"
+                ],
+                "state": "TX",
+                "zip_code": "77090"
+            },
+            "name": "Chicken Express",
+            "phone": "+18326025667",
+            "rating": 3.5,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/chicken-express-houston?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "moon-valley-nurseries-houston",
+            "categories": [
+                {
+                    "alias": "landscaping",
+                    "title": "Landscaping"
+                },
+                {
+                    "alias": "gardening",
+                    "title": "Nurseries & Gardening"
+                },
+                {
+                    "alias": "christmastrees",
+                    "title": "Christmas Trees"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.785892,
+                "longitude": -95.571646
+            },
+            "display_phone": "(713) 234-1966",
+            "distance": 27098.16815983678,
+            "id": "mD3l4mD0baWjXiFvY9v-dg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LUBxy4F5_od8GeSf1wrlRw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "10910 Katy Fwy",
+                "address2": null,
+                "address3": null,
+                "city": "Houston",
+                "country": "US",
+                "display_address": [
+                    "10910 Katy Fwy",
+                    "Houston, TX 77043"
+                ],
+                "state": "TX",
+                "zip_code": "77043"
+            },
+            "name": "Moon Valley Nurseries",
+            "phone": "+17132341966",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/moon-valley-nurseries-houston?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 29.998569193020565,
+            "longitude": -95.43458597786737
+        }
+    },
+    "total": 2
+}

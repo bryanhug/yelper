@@ -1,0 +1,223 @@
+{
+    "businesses": [
+        {
+            "alias": "old-pueblo-grill-rochester-2",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 43.1553663646895,
+                "longitude": -77.5787217624346
+            },
+            "display_phone": "(585) 730-8057",
+            "distance": 2028.5404822166115,
+            "id": "hnJRvjkUueNBxQRKv6AWYA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TM0cGB5doT03CnJwpNCpnQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "55 Russell St",
+                "address2": "",
+                "address3": null,
+                "city": "Rochester",
+                "country": "US",
+                "display_address": [
+                    "55 Russell St",
+                    "Rochester, NY 14607"
+                ],
+                "state": "NY",
+                "zip_code": "14607"
+            },
+            "name": "Old Pueblo Grill",
+            "phone": "+15857308057",
+            "rating": 4.5,
+            "review_count": 60,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/old-pueblo-grill-rochester-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sager-beer-works-rochester-2",
+            "categories": [
+                {
+                    "alias": "brewpubs",
+                    "title": "Brewpubs"
+                }
+            ],
+            "coordinates": {
+                "latitude": 43.150498135824,
+                "longitude": -77.5698751673693
+            },
+            "display_phone": "(585) 417-5404",
+            "distance": 2409.9206873759063,
+            "id": "e7yEAgeudL12AJLjwvKOLw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OXZtjiIxS3y_zn3oPXOksg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "46 Sager Dr E",
+                "address2": "Ste E",
+                "address3": null,
+                "city": "Rochester",
+                "country": "US",
+                "display_address": [
+                    "46 Sager Dr E",
+                    "Ste E",
+                    "Rochester, NY 14607"
+                ],
+                "state": "NY",
+                "zip_code": "14607"
+            },
+            "name": "Sager Beer Works",
+            "phone": "+15854175404",
+            "rating": 4.5,
+            "review_count": 15,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sager-beer-works-rochester-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "caramel-bakery-and-bar-rochester-2",
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "coordinates": {
+                "latitude": 43.14812,
+                "longitude": -77.57839
+            },
+            "display_phone": "(585) 978-7898",
+            "distance": 2782.440319819497,
+            "id": "-P9kr0UrQ-D_o4lA93K8jA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RO3GhkHOP6_scNDvJ2xM_w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "647 Park Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Rochester",
+                "country": "US",
+                "display_address": [
+                    "647 Park Ave",
+                    "Rochester, NY 14607"
+                ],
+                "state": "NY",
+                "zip_code": "14607"
+            },
+            "name": "Caramel Bakery and Bar",
+            "phone": "+15859787898",
+            "rating": 4.5,
+            "review_count": 7,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/caramel-bakery-and-bar-rochester-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "80w-rochester",
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                },
+                {
+                    "alias": "restaurants",
+                    "title": "Restaurants"
+                }
+            ],
+            "coordinates": {
+                "latitude": 43.1557389,
+                "longitude": -77.59556
+            },
+            "display_phone": "(585) 730-4046",
+            "distance": 2826.8196620529134,
+            "id": "z29101lwBqUnBJysHkpL3g",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/J0GwIV74WdKulGxCbC74AA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7 Lawrence St",
+                "address2": "",
+                "address3": null,
+                "city": "Rochester",
+                "country": "US",
+                "display_address": [
+                    "7 Lawrence St",
+                    "Rochester, NY 14607"
+                ],
+                "state": "NY",
+                "zip_code": "14607"
+            },
+            "name": "80W",
+            "phone": "+15857304046",
+            "rating": 5.0,
+            "review_count": 23,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/80w-rochester?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "roc-holiday-village-igloo-bar-rochester",
+            "categories": [
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                }
+            ],
+            "coordinates": {
+                "latitude": 43.15395,
+                "longitude": -77.60194
+            },
+            "display_phone": "",
+            "distance": 3374.8639785799937,
+            "id": "QDNVhnx7yGerFpA1HSm6Cw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OCMlp3AQz7QNd7E_9mQd0Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "353 Court St",
+                "address2": null,
+                "address3": "",
+                "city": "Rochester",
+                "country": "US",
+                "display_address": [
+                    "353 Court St",
+                    "Rochester, NY 14607"
+                ],
+                "state": "NY",
+                "zip_code": "14607"
+            },
+            "name": "Roc Holiday Village Igloo Bar",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/roc-holiday-village-igloo-bar-rochester?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 43.17216067338199,
+            "longitude": -77.56895375665597
+        }
+    },
+    "total": 5
+}

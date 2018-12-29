@@ -1,0 +1,232 @@
+{
+    "businesses": [
+        {
+            "alias": "cozy-corner-restaurant-and-pancake-house-chicago-5",
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.97991,
+                "longitude": -87.80741
+            },
+            "display_phone": "(773) 867-6500",
+            "distance": 1983.3958097887876,
+            "id": "u4TcDBrhso7qjGBiu3-vdQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/u3U53f7xm-dAro2NuUz20Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5454 N Harlem Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "5454 N Harlem Ave",
+                    "Chicago, IL 60656"
+                ],
+                "state": "IL",
+                "zip_code": "60656"
+            },
+            "name": "Cozy Corner Restaurant & Pancake House",
+            "phone": "+17738676500",
+            "rating": 4.0,
+            "review_count": 10,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/cozy-corner-restaurant-and-pancake-house-chicago-5?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "rocky-patel-cigar-lounge-norridge-3",
+            "categories": [
+                {
+                    "alias": "tobaccoshops",
+                    "title": "Tobacco Shops"
+                },
+                {
+                    "alias": "cigarbars",
+                    "title": "Cigar Bars"
+                },
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.95834,
+                "longitude": -87.80766
+            },
+            "display_phone": "(708) 867-6222",
+            "distance": 2875.451184191012,
+            "id": "ez9BTw7atJAU5n2SFgU_7g",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WihhwwsJGqGIFLGNYWV94g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4300 N Harlem Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Norridge",
+                "country": "US",
+                "display_address": [
+                    "4300 N Harlem Ave",
+                    "Norridge, IL 60706"
+                ],
+                "state": "IL",
+                "zip_code": "60706"
+            },
+            "name": "Rocky Patel Cigar Lounge",
+            "phone": "+17088676222",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/rocky-patel-cigar-lounge-norridge-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ci-ci-nails-1-chicago-2",
+            "categories": [
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                },
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.9428862727618,
+                "longitude": -87.7663929124493
+            },
+            "display_phone": "(773) 930-3450",
+            "distance": 4078.964816556279,
+            "id": "aV4R8q_pIlk2qrWBebtHLQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/42odiUdt8OJwMPsN1sPdkA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3419 N Central Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "3419 N Central Ave",
+                    "Chicago, IL 60634"
+                ],
+                "state": "IL",
+                "zip_code": "60634"
+            },
+            "name": "Ci Ci Nails 1",
+            "phone": "+17739303450",
+            "rating": 5.0,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ci-ci-nails-1-chicago-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "lotus-garden-chicago",
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.01194,
+                "longitude": -87.8087199
+            },
+            "display_phone": "(773) 631-8882",
+            "distance": 4372.36926464068,
+            "id": "0WX3yI30QmG3SyME9kboCg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/X06MS56J5HH-fhd7ArcEAg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7254 W Touhy Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "7254 W Touhy Ave",
+                    "Chicago, IL 60631"
+                ],
+                "state": "IL",
+                "zip_code": "60631"
+            },
+            "name": "Lotus Garden",
+            "phone": "+17736318882",
+            "rating": 3.0,
+            "review_count": 12,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/lotus-garden-chicago?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "jibaritos-on-harlem-chicago",
+            "categories": [
+                {
+                    "alias": "puertorican",
+                    "title": "Puerto Rican"
+                },
+                {
+                    "alias": "comfortfood",
+                    "title": "Comfort Food"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.9403601057798,
+                "longitude": -87.806540094316
+            },
+            "display_phone": "(773) 647-1122",
+            "distance": 4509.8183570798665,
+            "id": "30zk6IO36tbutrSvpv9IKA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/riuy9GpvmRxCak77efkHpg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3317 N Harlem Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "3317 N Harlem Ave",
+                    "Chicago, IL 60634"
+                ],
+                "state": "IL",
+                "zip_code": "60634"
+            },
+            "name": "Jibarito's on Harlem",
+            "phone": "+17736471122",
+            "rating": 3.5,
+            "review_count": 75,
+            "transactions": [
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/jibaritos-on-harlem-chicago?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 41.977216366975725,
+            "longitude": -87.78377614773775
+        }
+    },
+    "total": 5
+}

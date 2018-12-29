@@ -1,0 +1,59 @@
+{
+    "businesses": [
+        {
+            "alias": "mogambo-clifton",
+            "categories": [
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.89019,
+                "longitude": -74.14978
+            },
+            "display_phone": "(862) 225-9633",
+            "distance": 2919.024681725666,
+            "id": "yEoHE-Vkrzk2WqRH6KlvUQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/n94cJCs-bfSmJrt756V2iQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "441 Crooks Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Clifton",
+                "country": "US",
+                "display_address": [
+                    "441 Crooks Ave",
+                    "Clifton, NJ 07011"
+                ],
+                "state": "NJ",
+                "zip_code": "07011"
+            },
+            "name": "Mogambo",
+            "phone": "+18622259633",
+            "rating": 5.0,
+            "review_count": 6,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/mogambo-clifton?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 40.91468624563875,
+            "longitude": -74.16240445367522
+        }
+    },
+    "total": 1
+}

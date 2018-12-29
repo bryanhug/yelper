@@ -1,0 +1,55 @@
+{
+    "businesses": [
+        {
+            "alias": "blended-flavors-linden",
+            "categories": [
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                },
+                {
+                    "alias": "caribbean",
+                    "title": "Caribbean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.6243,
+                "longitude": -74.25186
+            },
+            "display_phone": "(908) 290-3149",
+            "distance": 2460.5723234862717,
+            "id": "8bMJXkoUAQQDNqu5ZP6xmQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uC9hjUTO8nlGE86HzBji_A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "222 South Stiles St",
+                "address2": null,
+                "address3": "",
+                "city": "Linden",
+                "country": "US",
+                "display_address": [
+                    "222 South Stiles St",
+                    "Linden, NJ 07036"
+                ],
+                "state": "NJ",
+                "zip_code": "07036"
+            },
+            "name": "Blended Flavors",
+            "phone": "+19082903149",
+            "rating": 4.5,
+            "review_count": 4,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/blended-flavors-linden?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 40.602292503079546,
+            "longitude": -74.24927118561281
+        }
+    },
+    "total": 1
+}

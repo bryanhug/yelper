@@ -1,0 +1,436 @@
+{
+    "businesses": [
+        {
+            "alias": "modern-man-s-barber-yorba-linda",
+            "categories": [
+                {
+                    "alias": "barbers",
+                    "title": "Barbers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8911249,
+                "longitude": -117.7762862
+            },
+            "display_phone": "(951) 963-4098",
+            "distance": 863.4451808484291,
+            "id": "IgvL0LhaT74l75UiqD6FEA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tbkEgAvkV2ZDzDcfoYXeew/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "20469 Yorba Linda Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Yorba Linda",
+                "country": "US",
+                "display_address": [
+                    "20469 Yorba Linda Blvd",
+                    "Yorba Linda, CA 92886"
+                ],
+                "state": "CA",
+                "zip_code": "92886"
+            },
+            "name": "Modern Man\u2019s Barber",
+            "phone": "+19519634098",
+            "rating": 5.0,
+            "review_count": 6,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/modern-man-s-barber-yorba-linda?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "natura-bowls-yorba-linda-3",
+            "categories": [
+                {
+                    "alias": "acaibowls",
+                    "title": "Acai Bowls"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.88778,
+                "longitude": -117.81346
+            },
+            "display_phone": "(657) 444-2005",
+            "distance": 3112.230787254392,
+            "id": "4wlR8JoePX47ptBGZ0LUfQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/C6kTUqfIBa53N_rmTEzY1w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "18340 Yorba Linda Blvd",
+                "address2": "Ste 106",
+                "address3": "",
+                "city": "Yorba Linda",
+                "country": "US",
+                "display_address": [
+                    "18340 Yorba Linda Blvd",
+                    "Ste 106",
+                    "Yorba Linda, CA 92886"
+                ],
+                "state": "CA",
+                "zip_code": "92886"
+            },
+            "name": "Natura Bowls",
+            "phone": "+16574442005",
+            "rating": 4.5,
+            "review_count": 26,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/natura-bowls-yorba-linda-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "nikki-s-kitchen-yorba-linda",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.88695,
+                "longitude": -117.82707
+            },
+            "display_phone": "(714) 986-9808",
+            "distance": 4400.490576844547,
+            "id": "clQSnroLjvM2MnrTrpU0HA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kLRTDMfhhxhyRUXV0T4rzA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5091 Richfield Rd",
+                "address2": "Ste B",
+                "address3": null,
+                "city": "Yorba Linda",
+                "country": "US",
+                "display_address": [
+                    "5091 Richfield Rd",
+                    "Ste B",
+                    "Yorba Linda, CA 92886"
+                ],
+                "state": "CA",
+                "zip_code": "92886"
+            },
+            "name": "Nikki\u2019s Kitchen",
+            "phone": "+17149869808",
+            "rating": 4.5,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/nikki-s-kitchen-yorba-linda?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "street-taco-anaheim",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8432653050126,
+                "longitude": -117.832721695304
+            },
+            "display_phone": "",
+            "distance": 6903.3948520102,
+            "id": "LJZq0Co99m4V_xci4lkp_A",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lakxwbKc6TEki0rIzzLvhA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "122 N Tustin Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Anaheim",
+                "country": "US",
+                "display_address": [
+                    "122 N Tustin Ave",
+                    "Anaheim, CA 92807"
+                ],
+                "state": "CA",
+                "zip_code": "92807"
+            },
+            "name": "Street Taco",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/street-taco-anaheim?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "choco-fruit-orange-5",
+            "categories": [
+                {
+                    "alias": "creperies",
+                    "title": "Creperies"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8255553,
+                "longitude": -117.838103
+            },
+            "display_phone": "(310) 910-2772",
+            "distance": 8706.498553536543,
+            "id": "Voww9_820RQLB84GB9Rcvw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/imknhlhX9vZNArPVt2y_9w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1500 E Village Way",
+                "address2": "Ste 2229",
+                "address3": "",
+                "city": "Orange",
+                "country": "US",
+                "display_address": [
+                    "1500 E Village Way",
+                    "Ste 2229",
+                    "Orange, CA 92865"
+                ],
+                "state": "CA",
+                "zip_code": "92865"
+            },
+            "name": "Choco Fruit",
+            "phone": "+13109102772",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/choco-fruit-orange-5?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bobateaque-orange-2",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8205855,
+                "longitude": -117.8361619
+            },
+            "display_phone": "(657) 888-5238",
+            "distance": 9058.013556162932,
+            "id": "QmSjeXIE7jF0RDiWoa6ecQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vgqZ_zqv6vtjEpd9WuFYIQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1960 N Tustin St",
+                "address2": null,
+                "address3": "",
+                "city": "Orange",
+                "country": "US",
+                "display_address": [
+                    "1960 N Tustin St",
+                    "Orange, CA 92865"
+                ],
+                "state": "CA",
+                "zip_code": "92865"
+            },
+            "name": "bobaTEAque",
+            "phone": "+16578885238",
+            "rating": 5.0,
+            "review_count": 55,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bobateaque-orange-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tacovation-orange-5",
+            "categories": [
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                },
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8205391,
+                "longitude": -117.8361599
+            },
+            "display_phone": "(714) 600-1404",
+            "distance": 9086.427551441471,
+            "id": "DImjnX81v_0S4Kj4CJ8FPA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sFG3ZZioAkAxEniji8ULIQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1948 N Tustin St",
+                "address2": null,
+                "address3": "",
+                "city": "Orange",
+                "country": "US",
+                "display_address": [
+                    "1948 N Tustin St",
+                    "Orange, CA 92865"
+                ],
+                "state": "CA",
+                "zip_code": "92865"
+            },
+            "name": "Tacovation",
+            "phone": "+17146001404",
+            "rating": 4.5,
+            "review_count": 58,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tacovation-orange-5?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hair-makeup-by-sydney-orange",
+            "categories": [
+                {
+                    "alias": "makeupartists",
+                    "title": "Makeup Artists"
+                },
+                {
+                    "alias": "hairstylists",
+                    "title": "Hair Stylists"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7874,
+                "longitude": -117.82252
+            },
+            "display_phone": "(951) 552-5675",
+            "distance": 11761.81678870969,
+            "id": "lM7he-sB9ItDgdNz6xOxHg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EZmQYEkZ-tjK6nVsSS-SEQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2922 E Chapman Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Orange",
+                "country": "US",
+                "display_address": [
+                    "2922 E Chapman Ave",
+                    "Orange, CA 92869"
+                ],
+                "state": "CA",
+                "zip_code": "92869"
+            },
+            "name": "Hair + Makeup by Sydney",
+            "phone": "+19515525675",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hair-makeup-by-sydney-orange?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "energy-haus-long-beach",
+            "categories": [
+                {
+                    "alias": "reiki",
+                    "title": "Reiki"
+                },
+                {
+                    "alias": "spiritual_shop",
+                    "title": "Spiritual Shop"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.76421,
+                "longitude": -118.15339
+            },
+            "display_phone": "(562) 506-5386",
+            "distance": 37128.69551530822,
+            "id": "7A7czRDduVGb4javOVXWdQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aBUmbDuC6jjcvwveIQnwAg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3300 E Broadway",
+                "address2": "",
+                "address3": "",
+                "city": "Long Beach",
+                "country": "US",
+                "display_address": [
+                    "3300 E Broadway",
+                    "Long Beach, CA 90803"
+                ],
+                "state": "CA",
+                "zip_code": "90803"
+            },
+            "name": "Energy Haus",
+            "phone": "+15625065386",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/energy-haus-long-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "otto-s-pizza-stix-los-angeles-2",
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0624708095338,
+                "longitude": -118.358365834324
+            },
+            "display_phone": "(562) 743-1964",
+            "distance": 56822.164878035954,
+            "id": "s-nSluuP5yRFqcdPOMbWNQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/H_f3gpWrxEWJ0pJWXAn9gw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5900 Wilshire Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "country": "US",
+                "display_address": [
+                    "5900 Wilshire Blvd",
+                    "Los Angeles, CA 90036"
+                ],
+                "state": "CA",
+                "zip_code": "90036"
+            },
+            "name": "Otto\u2019s Pizza Stix",
+            "phone": "+15627431964",
+            "rating": 4.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/otto-s-pizza-stix-los-angeles-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 33.88697893868813,
+            "longitude": -117.7796293447707
+        }
+    },
+    "total": 10
+}

@@ -1,0 +1,235 @@
+{
+    "businesses": [
+        {
+            "alias": "shake-shack-arlington-9",
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.88051,
+                "longitude": -77.11097
+            },
+            "display_phone": "(571) 620-1323",
+            "distance": 1863.3212205575983,
+            "id": "bYUuoS5yTop77Ypbzius8Q",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Hqe7ABsaaOpL7CXWwyvipQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4201 Wilson Blvd",
+                "address2": "Ste 0180",
+                "address3": "",
+                "city": "Arlington",
+                "country": "US",
+                "display_address": [
+                    "4201 Wilson Blvd",
+                    "Ste 0180",
+                    "Arlington, VA 22203"
+                ],
+                "state": "VA",
+                "zip_code": "22203"
+            },
+            "name": "Shake Shack",
+            "phone": "+15716201323",
+            "rating": 3.5,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/shake-shack-arlington-9?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "punch-bowl-social-arlington-arlington",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "gastropubs",
+                    "title": "Gastropubs"
+                },
+                {
+                    "alias": "eatertainment",
+                    "title": "Eatertainment"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.879678,
+                "longitude": -77.110889
+            },
+            "display_phone": "",
+            "distance": 1940.4615879029234,
+            "id": "k3GbLvsOYBDIob0vasYpVg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yXUJQs4ZOjf3WFhOFpYh8w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4238 Wilson Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Arlington",
+                "country": "US",
+                "display_address": [
+                    "4238 Wilson Blvd",
+                    "Arlington, VA 22203"
+                ],
+                "state": "VA",
+                "zip_code": "22203"
+            },
+            "name": "Punch Bowl Social Arlington",
+            "phone": "",
+            "rating": 3.0,
+            "review_count": 46,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/punch-bowl-social-arlington-arlington?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "dc-lash-bar-arlington-arlington",
+            "categories": [
+                {
+                    "alias": "eyelashservice",
+                    "title": "Eyelash Service"
+                },
+                {
+                    "alias": "spraytanning",
+                    "title": "Spray Tanning"
+                },
+                {
+                    "alias": "hairremoval",
+                    "title": "Hair Removal"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.87984,
+                "longitude": -77.11131
+            },
+            "display_phone": "(571) 312-8891",
+            "distance": 1973.094625965857,
+            "id": "68oBMNcgZJ8-zrfMrwRiUw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ztRMfITbCb0thzTpl_dbAA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4238 Wilson Blvd",
+                "address2": "Ste 1150",
+                "address3": "",
+                "city": "Arlington",
+                "country": "US",
+                "display_address": [
+                    "4238 Wilson Blvd",
+                    "Ste 1150",
+                    "Arlington, VA 22203"
+                ],
+                "state": "VA",
+                "zip_code": "22203"
+            },
+            "name": "DC Lash Bar- Arlington",
+            "phone": "+15713128891",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dc-lash-bar-arlington-arlington?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "chick-fil-a-arlington-12",
+            "categories": [
+                {
+                    "alias": "food_court",
+                    "title": "Food Court"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.8791501091012,
+                "longitude": -77.1111981136916
+            },
+            "display_phone": "(730) 243-8088",
+            "distance": 1976.1330905818559,
+            "id": "JAEbvK-ws8NbptIrLYD5MQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/j7JIBUgl5KWzLP_bJeSc8A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "671 N Glebe Rd",
+                "address2": "Ste 1270",
+                "address3": null,
+                "city": "Arlington",
+                "country": "US",
+                "display_address": [
+                    "671 N Glebe Rd",
+                    "Ste 1270",
+                    "Arlington, VA 22203"
+                ],
+                "state": "VA",
+                "zip_code": "22203"
+            },
+            "name": "Chick-fil-A",
+            "phone": "+17302438088",
+            "rating": 4.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/chick-fil-a-arlington-12?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-waterhouse-coffee-and-juice-bar-arlington-2",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "acaibowls",
+                    "title": "Acai Bowls"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.88803,
+                "longitude": -77.09465
+            },
+            "display_phone": "(571) 312-4524",
+            "distance": 2561.9528210259823,
+            "id": "bs50OxjsBZID9s15_ojYAg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kB6rVOEOq6vyALwGPB9CXA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3033 Wilson Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Arlington",
+                "country": "US",
+                "display_address": [
+                    "3033 Wilson Blvd",
+                    "Arlington, VA 22201"
+                ],
+                "state": "VA",
+                "zip_code": "22201"
+            },
+            "name": "The Waterhouse Coffee and Juice Bar",
+            "phone": "+15713124524",
+            "rating": 5.0,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-waterhouse-coffee-and-juice-bar-arlington-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 38.89436032452018,
+            "longitude": -77.12300669463485
+        }
+    },
+    "total": 5
+}

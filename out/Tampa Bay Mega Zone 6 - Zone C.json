@@ -1,0 +1,97 @@
+{
+    "businesses": [
+        {
+            "alias": "nine-spices-hot-pot-pinellas-park-2",
+            "categories": [
+                {
+                    "alias": "hotpot",
+                    "title": "Hot Pot"
+                },
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 27.83403,
+                "longitude": -82.72763
+            },
+            "display_phone": "(727) 350-3772",
+            "distance": 2660.4633981746197,
+            "id": "DWjkGAmWLM-ZQuDBMGP-dQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yUO-1qi85-lrUxaxxUMMxA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6851 66th St N",
+                "address2": "",
+                "address3": null,
+                "city": "Pinellas Park",
+                "country": "US",
+                "display_address": [
+                    "6851 66th St N",
+                    "Pinellas Park, FL 33781"
+                ],
+                "state": "FL",
+                "zip_code": "33781"
+            },
+            "name": "Nine Spices Hot Pot",
+            "phone": "+17273503772",
+            "rating": 4.0,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/nine-spices-hot-pot-pinellas-park-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mr-and-mrs-crab-pinellas-park",
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "cajun",
+                    "title": "Cajun/Creole"
+                }
+            ],
+            "coordinates": {
+                "latitude": 27.84077,
+                "longitude": -82.68536
+            },
+            "display_phone": "(727) 541-2722",
+            "distance": 3651.526856979413,
+            "id": "tsx84z4c0B-y6J5fqfvBqg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XyDREDazGBWNsCFytYqCqg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7550 US Hwy 19 N",
+                "address2": "",
+                "address3": null,
+                "city": "Pinellas Park",
+                "country": "US",
+                "display_address": [
+                    "7550 US Hwy 19 N",
+                    "Pinellas Park, FL 33781"
+                ],
+                "state": "FL",
+                "zip_code": "33781"
+            },
+            "name": "Mr and Mrs Crab",
+            "phone": "+17275412722",
+            "rating": 4.0,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mr-and-mrs-crab-pinellas-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 27.81600535412824,
+            "longitude": -82.7097868583784
+        }
+    },
+    "total": 2
+}

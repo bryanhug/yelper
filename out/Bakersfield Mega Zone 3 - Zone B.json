@@ -1,0 +1,515 @@
+{
+    "businesses": [
+        {
+            "alias": "garrisons-seafood-express-bakersfield",
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "fishnchips",
+                    "title": "Fish & Chips"
+                }
+            ],
+            "coordinates": {
+                "latitude": 35.2945104265459,
+                "longitude": -119.074942594209
+            },
+            "display_phone": "(661) 735-7772",
+            "distance": 8217.141355732912,
+            "id": "EPF7J6Sw03l-mqMT_es_Ow",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/N55bbwYB6Kx8nBQjI84Dpg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6509 Panama Ln",
+                "address2": "Ste 102",
+                "address3": null,
+                "city": "Bakersfield",
+                "country": "US",
+                "display_address": [
+                    "6509 Panama Ln",
+                    "Ste 102",
+                    "Bakersfield, CA 93313"
+                ],
+                "state": "CA",
+                "zip_code": "93313"
+            },
+            "name": "Garrison's Seafood Express",
+            "phone": "+16617357772",
+            "rating": 4.5,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/garrisons-seafood-express-bakersfield?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "papa-hills-fish-grill-bakersfield-3",
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 35.32928,
+                "longitude": -119.01168
+            },
+            "display_phone": "(661) 564-9083",
+            "distance": 12786.352613806492,
+            "id": "PBCFs1ngg2uk0HSCVuT-4g",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/L5n3WpfHPYrh1YqiZiXjvQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2850 S Chester Ave",
+                "address2": "Ste D",
+                "address3": null,
+                "city": "Bakersfield",
+                "country": "US",
+                "display_address": [
+                    "2850 S Chester Ave",
+                    "Ste D",
+                    "Bakersfield, CA 93304"
+                ],
+                "state": "CA",
+                "zip_code": "93304"
+            },
+            "name": "Papa Hills Fish Grill",
+            "phone": "+16615649083",
+            "rating": 3.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/papa-hills-fish-grill-bakersfield-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "cowboy-chicken-bakersfield-5",
+            "categories": [
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                }
+            ],
+            "coordinates": {
+                "latitude": 35.35576,
+                "longitude": -119.0614
+            },
+            "display_phone": "(661) 479-7606",
+            "distance": 14951.230618345455,
+            "id": "mHTL9F7IGEBDHdSCfQdG-A",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LxB18KsLpBeoVDoS2hUs1A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5620 California Ave",
+                "address2": "Ste A",
+                "address3": null,
+                "city": "Bakersfield",
+                "country": "US",
+                "display_address": [
+                    "5620 California Ave",
+                    "Ste A",
+                    "Bakersfield, CA 93309"
+                ],
+                "state": "CA",
+                "zip_code": "93309"
+            },
+            "name": "Cowboy Chicken",
+            "phone": "+16614797606",
+            "rating": 4.0,
+            "review_count": 71,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/cowboy-chicken-bakersfield-5?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "happy-wings-bakersfield-4",
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "waffles",
+                    "title": "Waffles"
+                }
+            ],
+            "coordinates": {
+                "latitude": 35.355766,
+                "longitude": -119.09376
+            },
+            "display_phone": "(661) 282-5223",
+            "distance": 15214.716449357597,
+            "id": "wg-7iOp1zpEByp9iRkT4nA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Lo8sZarJE95WDoGzHtumnA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8200 Stockdale Hwy",
+                "address2": "Ste k-4",
+                "address3": "",
+                "city": "Bakersfield",
+                "country": "US",
+                "display_address": [
+                    "8200 Stockdale Hwy",
+                    "Ste k-4",
+                    "Bakersfield, CA 93311"
+                ],
+                "state": "CA",
+                "zip_code": "93311"
+            },
+            "name": "Happy Wings",
+            "phone": "+16612825223",
+            "rating": 3.0,
+            "review_count": 4,
+            "transactions": [
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/happy-wings-bakersfield-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "viceroy-bakersfield-4",
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 35.3505821,
+                "longitude": -119.1207522
+            },
+            "display_phone": "(661) 564-9621",
+            "distance": 15504.599409251154,
+            "id": "I0yeIeoN53RlTfjX0htlAQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FwGSlWHAZqRC43aMs06DAw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "10650 Stockdale Hwy",
+                "address2": "Ste 100",
+                "address3": null,
+                "city": "Bakersfield",
+                "country": "US",
+                "display_address": [
+                    "10650 Stockdale Hwy",
+                    "Ste 100",
+                    "Bakersfield, CA 93311"
+                ],
+                "state": "CA",
+                "zip_code": "93311"
+            },
+            "name": "Viceroy",
+            "phone": "+16615649621",
+            "rating": 4.0,
+            "review_count": 44,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/viceroy-bakersfield-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "shoyu-sushi-bakersfield-3",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 35.36834,
+                "longitude": -119.11012
+            },
+            "display_phone": "(661) 213-3557",
+            "distance": 16929.837047456247,
+            "id": "sG_kwLUPx7DrNA_-naf_6g",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CzncaHjWs6l-_qT_BxiG9A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1120 Calloway Dr",
+                "address2": "Unit 100",
+                "address3": null,
+                "city": "Bakersfield",
+                "country": "US",
+                "display_address": [
+                    "1120 Calloway Dr",
+                    "Unit 100",
+                    "Bakersfield, CA 93312"
+                ],
+                "state": "CA",
+                "zip_code": "93312"
+            },
+            "name": "Shoyu Sushi",
+            "phone": "+16612133557",
+            "rating": 4.0,
+            "review_count": 19,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/shoyu-sushi-bakersfield-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hon-ramen-bakersfield-2",
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "coordinates": {
+                "latitude": 35.37608,
+                "longitude": -119.01823
+            },
+            "display_phone": "(661) 558-4000",
+            "distance": 17601.698415901563,
+            "id": "j_AxOnzKmYl1cYeyAD1tPg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nA79IXwpEta54q-uDF6iDA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1419 19th St",
+                "address2": "Ste A",
+                "address3": "",
+                "city": "Bakersfield",
+                "country": "US",
+                "display_address": [
+                    "1419 19th St",
+                    "Ste A",
+                    "Bakersfield, CA 93301"
+                ],
+                "state": "CA",
+                "zip_code": "93301"
+            },
+            "name": "Hon Ramen",
+            "phone": "+16615584000",
+            "rating": 3.5,
+            "review_count": 15,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hon-ramen-bakersfield-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ono-hawaiian-bbq-bakersfield-6",
+            "categories": [
+                {
+                    "alias": "hawaiian",
+                    "title": "Hawaiian"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 35.38444,
+                "longitude": -119.11042
+            },
+            "display_phone": "(661) 679-7081",
+            "distance": 18663.93673767942,
+            "id": "ySb3clMogyhxz6uGVp1gMg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qq2LA1goTrsIA-u37hyPPg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2665 Calloway Dr",
+                "address2": "Ste 208",
+                "address3": "",
+                "city": "Bakersfield",
+                "country": "US",
+                "display_address": [
+                    "2665 Calloway Dr",
+                    "Ste 208",
+                    "Bakersfield, CA 93312"
+                ],
+                "state": "CA",
+                "zip_code": "93312"
+            },
+            "name": "Ono Hawaiian BBQ",
+            "phone": "+16616797081",
+            "rating": 4.0,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ono-hawaiian-bbq-bakersfield-6?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "salt-water-poke-bakersfield-2",
+            "categories": [
+                {
+                    "alias": "hawaiian",
+                    "title": "Hawaiian"
+                },
+                {
+                    "alias": "poke",
+                    "title": "Poke"
+                },
+                {
+                    "alias": "acaibowls",
+                    "title": "Acai Bowls"
+                }
+            ],
+            "coordinates": {
+                "latitude": 35.3925729,
+                "longitude": -119.0926127
+            },
+            "display_phone": "(661) 368-2338",
+            "distance": 19238.036761979125,
+            "id": "0WGksyyDCq0s8PCaSOpSiw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1VzxNflVpesQRcVDGWq06A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3615 Coffee Rd",
+                "address2": "Ste 400",
+                "address3": null,
+                "city": "Bakersfield",
+                "country": "US",
+                "display_address": [
+                    "3615 Coffee Rd",
+                    "Ste 400",
+                    "Bakersfield, CA 93308"
+                ],
+                "state": "CA",
+                "zip_code": "93308"
+            },
+            "name": "Salt Water Poke",
+            "phone": "+16613682338",
+            "rating": 3.5,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/salt-water-poke-bakersfield-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "renaes-cafe-bakersfield",
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 35.3936219272936,
+                "longitude": -119.088671452401
+            },
+            "display_phone": "(661) 368-2444",
+            "distance": 19303.24643612103,
+            "id": "h0kdw3zWHcKbyA2QMzsxxg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1X9SycSzMr7c30X9Y8YhoQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7737 Meany Ave",
+                "address2": "Ste 5",
+                "address3": null,
+                "city": "Bakersfield",
+                "country": "US",
+                "display_address": [
+                    "7737 Meany Ave",
+                    "Ste 5",
+                    "Bakersfield, CA 93308"
+                ],
+                "state": "CA",
+                "zip_code": "93308"
+            },
+            "name": "Renae's Cafe",
+            "phone": "+16613682444",
+            "rating": 4.5,
+            "review_count": 19,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/renaes-cafe-bakersfield?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hollywood-nails-and-salon-bakersfield",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 35.40246,
+                "longitude": -119.09289
+            },
+            "display_phone": "(661) 234-8888",
+            "distance": 20336.30694417503,
+            "id": "Yqn2Ib6bMNAmRSjVWCJe4w",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZapCJHNVatZAaLYa6lvJ-w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4715 Coffee Rd",
+                "address2": "Ste B",
+                "address3": null,
+                "city": "Bakersfield",
+                "country": "US",
+                "display_address": [
+                    "4715 Coffee Rd",
+                    "Ste B",
+                    "Bakersfield, CA 93308"
+                ],
+                "state": "CA",
+                "zip_code": "93308"
+            },
+            "name": "Hollywood Nails & Salon",
+            "phone": "+16612348888",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hollywood-nails-and-salon-bakersfield?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "valentino-s-pizza-bakersfield",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 35.3759,
+                "longitude": -118.91348
+            },
+            "display_phone": "(661) 493-0532",
+            "distance": 21744.47608856509,
+            "id": "_ZZyX9539n64SQlwJlXJtA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/L-M0aoK9uAGZ8bo985q4Fg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8105 Kern Canyon Rd",
+                "address2": null,
+                "address3": null,
+                "city": "Bakersfield",
+                "country": "US",
+                "display_address": [
+                    "8105 Kern Canyon Rd",
+                    "Bakersfield, CA 93306"
+                ],
+                "state": "CA",
+                "zip_code": "93306"
+            },
+            "name": "Valentino\u2019s Pizza",
+            "phone": "+16614930532",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/valentino-s-pizza-bakersfield?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 35.22152090093348,
+            "longitude": -119.06079095011816
+        }
+    },
+    "total": 12
+}

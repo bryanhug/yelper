@@ -1,0 +1,130 @@
+{
+    "businesses": [
+        {
+            "alias": "el-palenque-grill-san-pablo-3",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.95482,
+                "longitude": -122.34762
+            },
+            "display_phone": "(510) 374-6570",
+            "distance": 867.3468084053801,
+            "id": "QtEi0uZJSJ7EOcfrhRKGXg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Rek4hI56dQcCv4nWVa8qBw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1439 23rd St",
+                "address2": null,
+                "address3": "",
+                "city": "San Pablo",
+                "country": "US",
+                "display_address": [
+                    "1439 23rd St",
+                    "San Pablo, CA 94806"
+                ],
+                "state": "CA",
+                "zip_code": "94806"
+            },
+            "name": "El Palenque Grill",
+            "phone": "+15103746570",
+            "rating": 4.5,
+            "review_count": 15,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/el-palenque-grill-san-pablo-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "chicagos-pizza-with-a-twist-el-sobrante-2",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.96359,
+                "longitude": -122.31632
+            },
+            "display_phone": "(510) 650-0011",
+            "distance": 3298.309770083315,
+            "id": "TEoGIPXITTTUnTSkD7TxeA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KRDvqxlLR4VHDgc_d20NeA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3716 San Pablo Dam Rd",
+                "address2": "Ste A",
+                "address3": "",
+                "city": "El Sobrante",
+                "country": "US",
+                "display_address": [
+                    "3716 San Pablo Dam Rd",
+                    "Ste A",
+                    "El Sobrante, CA 94803"
+                ],
+                "state": "CA",
+                "zip_code": "94803"
+            },
+            "name": "Chicago's Pizza With A Twist",
+            "phone": "+15106500011",
+            "rating": 4.0,
+            "review_count": 28,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/chicagos-pizza-with-a-twist-el-sobrante-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mashallah-halal-food-indian-and-pakistani-food-truck-el-cerrito-2",
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "catering",
+                    "title": "Caterers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.9256714190511,
+                "longitude": -122.319032438099
+            },
+            "display_phone": "(510) 685-5254",
+            "distance": 3430.4464119138324,
+            "id": "E6fGRBp2bTbaveuu6ltWCw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cuz3a3C5qDeiu4pGyUaXAw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "11615 San Pablo Ave",
+                "address2": "",
+                "address3": "",
+                "city": "El Cerrito",
+                "country": "US",
+                "display_address": [
+                    "11615 San Pablo Ave",
+                    "El Cerrito, CA 94530"
+                ],
+                "state": "CA",
+                "zip_code": "94530"
+            },
+            "name": "Mashallah Halal Food Indian and Pakistani   FOOD TRUCK",
+            "phone": "+15106855254",
+            "rating": 5.0,
+            "review_count": 29,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mashallah-halal-food-indian-and-pakistani-food-truck-el-cerrito-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 37.94702076040593,
+            "longitude": -122.34726964751466
+        }
+    },
+    "total": 3
+}

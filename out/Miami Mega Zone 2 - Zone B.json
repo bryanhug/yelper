@@ -1,0 +1,216 @@
+{
+    "businesses": [
+        {
+            "alias": "leroys-smokehouse-bbq-hallandale-beach",
+            "categories": [
+                {
+                    "alias": "smokehouse",
+                    "title": "Smokehouse"
+                },
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                }
+            ],
+            "coordinates": {
+                "latitude": 25.9854283757324,
+                "longitude": -80.1593600213528
+            },
+            "display_phone": "(954) 613-4077",
+            "distance": 3112.3572867772446,
+            "id": "3KF3mzuGZgB7W6pkDs-Hmg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IwPBmLO3lPLAoN61xy2Myg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "812 W Hallandale Beach Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Hallandale Beach",
+                "country": "US",
+                "display_address": [
+                    "812 W Hallandale Beach Blvd",
+                    "Hallandale Beach, FL 33009"
+                ],
+                "state": "FL",
+                "zip_code": "33009"
+            },
+            "name": "Leroy's Smokehouse BBQ",
+            "phone": "+19546134077",
+            "rating": 4.0,
+            "review_count": 12,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/leroys-smokehouse-bbq-hallandale-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "dunns-river-island-cafe-hallandale-beach",
+            "categories": [
+                {
+                    "alias": "caribbean",
+                    "title": "Caribbean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 25.98541,
+                "longitude": -80.16099
+            },
+            "display_phone": "(954) 842-3268",
+            "distance": 3156.007416967569,
+            "id": "wSuuNY1lc5a-zXuK2LMqHw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FMPSuxgfup4Seh2aEwkRug/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "908 W Hallandale Beach Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Hallandale Beach",
+                "country": "US",
+                "display_address": [
+                    "908 W Hallandale Beach Blvd",
+                    "Hallandale Beach, FL 33009"
+                ],
+                "state": "FL",
+                "zip_code": "33009"
+            },
+            "name": "Dunns River Island Cafe",
+            "phone": "+19548423268",
+            "rating": 4.5,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dunns-river-island-cafe-hallandale-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "viva-brazil-signature-north-miami-beach",
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                }
+            ],
+            "coordinates": {
+                "latitude": 25.93112,
+                "longitude": -80.1313
+            },
+            "display_phone": "(305) 454-0009",
+            "distance": 3623.5773312944293,
+            "id": "-pDZNbsYsaiepdoGlbOG9g",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NpInY8pbfYVcuXFl7Lasyw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3933 NE 163rd St",
+                "address2": null,
+                "address3": "",
+                "city": "North Miami Beach",
+                "country": "US",
+                "display_address": [
+                    "3933 NE 163rd St",
+                    "North Miami Beach, FL 33160"
+                ],
+                "state": "FL",
+                "zip_code": "33160"
+            },
+            "name": "Viva Brazil Signature",
+            "phone": "+13054540009",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/viva-brazil-signature-north-miami-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "fatboys-wings-and-tings-north-miami-beach-2",
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "caribbean",
+                    "title": "Caribbean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 25.9273986,
+                "longitude": -80.1688956
+            },
+            "display_phone": "(305) 209-2533",
+            "distance": 3864.8588839831223,
+            "id": "VT81cxpzFUI5-BVUyplwyA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8byq3rFc9sBJy9eLN3WCtw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1562 NE 165th St",
+                "address2": "",
+                "address3": null,
+                "city": "North Miami Beach",
+                "country": "US",
+                "display_address": [
+                    "1562 NE 165th St",
+                    "North Miami Beach, FL 33162"
+                ],
+                "state": "FL",
+                "zip_code": "33162"
+            },
+            "name": "Fatboys Wings & Tings",
+            "phone": "+13052092533",
+            "rating": 5.0,
+            "review_count": 6,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/fatboys-wings-and-tings-north-miami-beach-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "korean-kitchen-north-miami-beach",
+            "categories": [
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 25.92621,
+                "longitude": -80.16672
+            },
+            "display_phone": "(954) 766-5558",
+            "distance": 3874.6731473950886,
+            "id": "abW5_zMnc3bPzGqtig0FNA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JBZwVDUQ6i5xWGW8vYQTlQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1661 NE 163rd St",
+                "address2": "Ste A",
+                "address3": "",
+                "city": "North Miami Beach",
+                "country": "US",
+                "display_address": [
+                    "1661 NE 163rd St",
+                    "Ste A",
+                    "North Miami Beach, FL 33162"
+                ],
+                "state": "FL",
+                "zip_code": "33162"
+            },
+            "name": "Korean Kitchen",
+            "phone": "+19547665558",
+            "rating": 5.0,
+            "review_count": 21,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/korean-kitchen-north-miami-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 25.958321499336154,
+            "longitude": -80.15160035117496
+        }
+    },
+    "total": 5
+}

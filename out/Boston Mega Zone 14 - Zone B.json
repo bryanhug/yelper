@@ -1,0 +1,216 @@
+{
+    "businesses": [
+        {
+            "alias": "bonapita-boston-5",
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.27758,
+                "longitude": -71.16339
+            },
+            "display_phone": "(978) 224-4030",
+            "distance": 3565.7657570252677,
+            "id": "1KwC91T4YS3Ok6ebWZnXJA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nzFGcEBXIUT_2Mf8TU0mqA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "75 Spring St",
+                "address2": null,
+                "address3": "",
+                "city": "Boston",
+                "country": "US",
+                "display_address": [
+                    "75 Spring St",
+                    "Boston, MA 02132"
+                ],
+                "state": "MA",
+                "zip_code": "02132"
+            },
+            "name": "BONAPITA",
+            "phone": "+19782244030",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bonapita-boston-5?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "leisure-nails-newton",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                },
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.35016,
+                "longitude": -71.20667
+            },
+            "display_phone": "(857) 297-2193",
+            "distance": 6485.197878300352,
+            "id": "9-0slB_NZbDIadZfmWxvgQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jPLEGZot40MxP6j7YARbCQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "310 Walnut St",
+                "address2": null,
+                "address3": "",
+                "city": "Newton",
+                "country": "US",
+                "display_address": [
+                    "310 Walnut St",
+                    "Newton, MA 02460"
+                ],
+                "state": "MA",
+                "zip_code": "02460"
+            },
+            "name": "Leisure Nails",
+            "phone": "+18572972193",
+            "rating": 4.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/leisure-nails-newton?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ginger-exchange-watertown",
+            "categories": [
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.36681,
+                "longitude": -71.18688
+            },
+            "display_phone": "(617) 393-9889",
+            "distance": 8422.726136063693,
+            "id": "avTVcbCyG7Mf7eW8MnYbDQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cM5rzuFsx7ScoNLRr1-COw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "98 Main St",
+                "address2": "",
+                "address3": null,
+                "city": "Watertown",
+                "country": "US",
+                "display_address": [
+                    "98 Main St",
+                    "Watertown, MA 02472"
+                ],
+                "state": "MA",
+                "zip_code": "02472"
+            },
+            "name": "Ginger Exchange",
+            "phone": "+16173939889",
+            "rating": 3.5,
+            "review_count": 22,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ginger-exchange-watertown?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "joyful-garden-watertown-2",
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "dimsum",
+                    "title": "Dim Sum"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.36412,
+                "longitude": -71.15755
+            },
+            "display_phone": "(617) 356-1234",
+            "distance": 8822.483091569342,
+            "id": "GJB0z9sgr4KLrvyPNAFSKg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JIoh3I3AY0OGP28bDUxkEg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "550 Arsenal St",
+                "address2": "",
+                "address3": null,
+                "city": "Watertown",
+                "country": "US",
+                "display_address": [
+                    "550 Arsenal St",
+                    "Watertown, MA 02472"
+                ],
+                "state": "MA",
+                "zip_code": "02472"
+            },
+            "name": "Joyful Garden",
+            "phone": "+16173561234",
+            "rating": 3.0,
+            "review_count": 39,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/joyful-garden-watertown-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "balani-restaurant-waltham",
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.3681438,
+                "longitude": -71.2377775110451
+            },
+            "display_phone": "(781) 472-2805",
+            "distance": 8944.590939749089,
+            "id": "QYy4oSeyRqsVchIFCedhYQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RbKFebyDrcUxFXqyY_e91w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "469 Moody St",
+                "address2": null,
+                "address3": "",
+                "city": "Waltham",
+                "country": "US",
+                "display_address": [
+                    "469 Moody St",
+                    "Waltham, MA 02453"
+                ],
+                "state": "MA",
+                "zip_code": "02453"
+            },
+            "name": "Balani Restaurant",
+            "phone": "+17814722805",
+            "rating": 4.5,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/balani-restaurant-waltham?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 42.29196790069498,
+            "longitude": -71.2028182618321
+        }
+    },
+    "total": 5
+}

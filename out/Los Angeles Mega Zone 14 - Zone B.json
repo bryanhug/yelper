@@ -1,0 +1,254 @@
+{
+    "businesses": [
+        {
+            "alias": "seido-karate-van-nuys-van-nuys",
+            "categories": [
+                {
+                    "alias": "karate",
+                    "title": "Karate"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.20383,
+                "longitude": -118.4492
+            },
+            "display_phone": "(818) 571-7317",
+            "distance": 1080.523591700143,
+            "id": "Q9g0mgK0TGE-sR8Hwbt9KQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tvJrIS_E8h6JxomrW-D4rg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7335 Van Nuys Blvd",
+                "address2": "Ste 109",
+                "address3": "",
+                "city": "Van Nuys",
+                "country": "US",
+                "display_address": [
+                    "7335 Van Nuys Blvd",
+                    "Ste 109",
+                    "Van Nuys, CA 91405"
+                ],
+                "state": "CA",
+                "zip_code": "91405"
+            },
+            "name": "Seido Karate Van Nuys",
+            "phone": "+18185717317",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/seido-karate-van-nuys-van-nuys?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kristina-nails-panorama-city",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                },
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                },
+                {
+                    "alias": "eyebrowservices",
+                    "title": "Eyebrow Services"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.22174,
+                "longitude": -118.46504
+            },
+            "display_phone": "(818) 697-3588",
+            "distance": 1948.7903812714198,
+            "id": "QL_oUZmaxAHw1DzlnjxFpw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-yWPOrQmS9ZoXNsdrEv3uw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "15249 Roscoe Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Panorama City",
+                "country": "US",
+                "display_address": [
+                    "15249 Roscoe Blvd",
+                    "Panorama City, CA 91402"
+                ],
+                "state": "CA",
+                "zip_code": "91402"
+            },
+            "name": "Kristina Nails",
+            "phone": "+18186973588",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kristina-nails-panorama-city?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "nellie-s-bakery-los-angeles",
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "armenian",
+                    "title": "Armenian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.20088,
+                "longitude": -118.42975
+            },
+            "display_phone": "(818) 904-0578",
+            "distance": 2039.331760220992,
+            "id": "0amdux6mqM7bNF02H75iWg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3g8RBRl2IHveb7wjXIDu1Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "13630 Sherman Way",
+                "address2": "",
+                "address3": null,
+                "city": "Los Angeles",
+                "country": "US",
+                "display_address": [
+                    "13630 Sherman Way",
+                    "Los Angeles, CA 91405"
+                ],
+                "state": "CA",
+                "zip_code": "91405"
+            },
+            "name": "Nellie\u2019s Bakery",
+            "phone": "+18189040578",
+            "rating": 4.0,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/nellie-s-bakery-los-angeles?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "nest-indoor-playground-van-nuys",
+            "categories": [
+                {
+                    "alias": "indoor_playcenter",
+                    "title": "Indoor Playcentre"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.19424,
+                "longitude": -118.43038
+            },
+            "display_phone": "(424) 320-6378",
+            "distance": 2129.8782560749196,
+            "id": "YG_8TTn5hgBRqMIbMyYLVQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/m7uTm6-0ZeasFdnTslqLww/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "13645 1/2 Vanowen St",
+                "address2": null,
+                "address3": null,
+                "city": "Van Nuys",
+                "country": "US",
+                "display_address": [
+                    "13645 1/2 Vanowen St",
+                    "Van Nuys, CA 91405"
+                ],
+                "state": "CA",
+                "zip_code": "91405"
+            },
+            "name": "Nest Indoor Playground",
+            "phone": "+14243206378",
+            "rating": 5.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/nest-indoor-playground-van-nuys?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "travelers-coffee-cup-north-hills",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "themedcafes",
+                    "title": "Themed Cafes"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.22219,
+                "longitude": -118.46714
+            },
+            "display_phone": "(760) 580-5310",
+            "distance": 2171.3771548506015,
+            "id": "VpOynWq97cV7G53-2EPUNg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/afxidDpwQTm4SxlinajyEg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8332 Sepulveda Blvd",
+                "address2": "Unit 4",
+                "address3": "",
+                "city": "North Hills",
+                "country": "US",
+                "display_address": [
+                    "8332 Sepulveda Blvd",
+                    "Unit 4",
+                    "North Hills, CA 91343"
+                ],
+                "state": "CA",
+                "zip_code": "91343"
+            },
+            "name": "Traveler's Coffee Cup",
+            "phone": "+17605805310",
+            "rating": 4.5,
+            "review_count": 22,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/travelers-coffee-cup-north-hills?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-woke-truck-burbank",
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.15592,
+                "longitude": -118.34321
+            },
+            "display_phone": "(516) 233-6368",
+            "distance": 11324.67998217338,
+            "id": "IpumvReJGi1eih4hG7Nelw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IT0GqAtv7QRB7Ml4ib751w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "Burbank",
+                "country": "US",
+                "display_address": [
+                    "Burbank, CA 91505"
+                ],
+                "state": "CA",
+                "zip_code": "91505"
+            },
+            "name": "The Woke Truck",
+            "phone": "+15162336368",
+            "rating": 4.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-woke-truck-burbank?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 34.21326926146312,
+            "longitude": -118.44638786976705
+        }
+    },
+    "total": 6
+}

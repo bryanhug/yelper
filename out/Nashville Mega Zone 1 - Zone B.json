@@ -1,0 +1,182 @@
+{
+    "businesses": [
+        {
+            "alias": "boom-burgers-nashville",
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 36.13541,
+                "longitude": -86.72369
+            },
+            "display_phone": "",
+            "distance": 3810.5864126501356,
+            "id": "0CNti1ZrS6d1Ar2nu9J7Og",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xw9jvWKXZAKAQ9T__AHxnw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "818 Murfreesboro Pike",
+                "address2": null,
+                "address3": "",
+                "city": "Nashville",
+                "country": "US",
+                "display_address": [
+                    "818 Murfreesboro Pike",
+                    "Nashville, TN 37217"
+                ],
+                "state": "TN",
+                "zip_code": "37217"
+            },
+            "name": "Boom Burgers",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 24,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/boom-burgers-nashville?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "babo-korean-bar-nashville",
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 36.19564,
+                "longitude": -86.72301
+            },
+            "display_phone": "",
+            "distance": 5541.431392814167,
+            "id": "BRewtSoPssadaodaIS_Sdw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9ytouRi9uWmDjrEBqhEdkg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1601 Riverside Dr",
+                "address2": "",
+                "address3": null,
+                "city": "Nashville",
+                "country": "US",
+                "display_address": [
+                    "1601 Riverside Dr",
+                    "Nashville, TN 37216"
+                ],
+                "state": "TN",
+                "zip_code": "37216"
+            },
+            "name": "Babo Korean Bar",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/babo-korean-bar-nashville?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "boombozz-craft-pizza-and-taphouse-nashville",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 36.17615,
+                "longitude": -86.75134
+            },
+            "display_phone": "(615) 505-3217",
+            "distance": 6154.68395473318,
+            "id": "sKkIIJHAFev0a28vboj60g",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Hl2NyzEw8onYRhmLFH9Nbw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1003 Russell St",
+                "address2": null,
+                "address3": "",
+                "city": "Nashville",
+                "country": "US",
+                "display_address": [
+                    "1003 Russell St",
+                    "Nashville, TN 37206"
+                ],
+                "state": "TN",
+                "zip_code": "37206"
+            },
+            "name": "Boombozz Craft Pizza & Taphouse",
+            "phone": "+16155053217",
+            "rating": 3.5,
+            "review_count": 27,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/boombozz-craft-pizza-and-taphouse-nashville?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "slow-hand-coffee-bakeshop-nashville",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 36.1886179,
+                "longitude": -86.7464576
+            },
+            "display_phone": "(615) 730-8032",
+            "distance": 6487.70634116848,
+            "id": "y6jIrZYjVaxDbGXKpSlacA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UkVpyk391kskGClf-pBCGw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1012 Gallatin Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Nashville",
+                "country": "US",
+                "display_address": [
+                    "1012 Gallatin Ave",
+                    "Nashville, TN 37206"
+                ],
+                "state": "TN",
+                "zip_code": "37206"
+            },
+            "name": "Slow Hand Coffee + Bakeshop",
+            "phone": "+16157308032",
+            "rating": 4.0,
+            "review_count": 17,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/slow-hand-coffee-bakeshop-nashville?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 36.15440255126794,
+            "longitude": -86.68836643296456
+        }
+    },
+    "total": 4
+}

@@ -1,0 +1,52 @@
+{
+    "businesses": [
+        {
+            "alias": "dutch-bros-coffee-tucson-2",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.2200718974012,
+                "longitude": -110.858440105541
+            },
+            "display_phone": "(541) 955-4700",
+            "distance": 3418.569232963572,
+            "id": "zKu9lcDwlkCEmVDWJnJ8WQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lm-5uxroQ71lA3Ff5DcogA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "120 S Wilmot Rd",
+                "address2": "",
+                "address3": null,
+                "city": "Tucson",
+                "country": "US",
+                "display_address": [
+                    "120 S Wilmot Rd",
+                    "Tucson, AZ 85711"
+                ],
+                "state": "AZ",
+                "zip_code": "85711"
+            },
+            "name": "Dutch Bros Coffee",
+            "phone": "+15419554700",
+            "rating": 4.5,
+            "review_count": 28,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dutch-bros-coffee-tucson-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 32.21055250499929,
+            "longitude": -110.8238877163068
+        }
+    },
+    "total": 1
+}

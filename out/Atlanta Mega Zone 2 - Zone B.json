@@ -1,0 +1,503 @@
+{
+    "businesses": [
+        {
+            "alias": "gu-s-kitchen-chamblee",
+            "categories": [
+                {
+                    "alias": "szechuan",
+                    "title": "Szechuan"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.88443,
+                "longitude": -84.28765
+            },
+            "display_phone": "(470) 299-2388",
+            "distance": 667.0396011014277,
+            "id": "fuMKWLOTXH-Q8Om6hVNeKA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nFWLNz4SmS8m6_sKyciFXw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4897 Buford Hwy",
+                "address2": "Ste 104",
+                "address3": "",
+                "city": "Chamblee",
+                "country": "US",
+                "display_address": [
+                    "4897 Buford Hwy",
+                    "Ste 104",
+                    "Chamblee, GA 30341"
+                ],
+                "state": "GA",
+                "zip_code": "30341"
+            },
+            "name": "Gu\u2019s Kitchen",
+            "phone": "+14702992388",
+            "rating": 4.0,
+            "review_count": 15,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/gu-s-kitchen-chamblee?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "good-harvest-modern-chinese-hot-pot-doraville",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "hotpot",
+                    "title": "Hot Pot"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.892644,
+                "longitude": -84.284999
+            },
+            "display_phone": "",
+            "distance": 1549.7609726079663,
+            "id": "6Mi-sw4QdsyryXRVwBXlSw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZENtG9p4bIrxA7KG_TGtGw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5150 Buford Hwy NE",
+                "address2": null,
+                "address3": null,
+                "city": "Doraville",
+                "country": "US",
+                "display_address": [
+                    "5150 Buford Hwy NE",
+                    "Doraville, GA 30340"
+                ],
+                "state": "GA",
+                "zip_code": "30340"
+            },
+            "name": "Good Harvest Modern Chinese Hot Pot",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 15,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/good-harvest-modern-chinese-hot-pot-doraville?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "koi-tea-and-coffee-doraville-3",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8934591,
+                "longitude": -84.2843342
+            },
+            "display_phone": "(912) 441-7547",
+            "distance": 1658.6883455013376,
+            "id": "q0t2Kq1mfL1n9C6KvZWZ3Q",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fCiGP5_91iYoOMUaJunppQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5150 Buford Hwy NE",
+                "address2": "Ste C150",
+                "address3": null,
+                "city": "Doraville",
+                "country": "US",
+                "display_address": [
+                    "5150 Buford Hwy NE",
+                    "Ste C150",
+                    "Doraville, GA 30340"
+                ],
+                "state": "GA",
+                "zip_code": "30340"
+            },
+            "name": "Koi Tea & Coffee",
+            "phone": "+19124417547",
+            "rating": 3.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/koi-tea-and-coffee-doraville-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hot-melody-\u716e\u70e4\u5b98-doraville-3",
+            "categories": [
+                {
+                    "alias": "hotpot",
+                    "title": "Hot Pot"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8963309644377,
+                "longitude": -84.2811899999284
+            },
+            "display_phone": "(770) 936-0532",
+            "distance": 2080.5791970792307,
+            "id": "4u3LVBEe4YlMwk4SIVmCBA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6zjbGUAVJr8P93mDuFvO9A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5283 Buford Hwy NE",
+                "address2": null,
+                "address3": null,
+                "city": "Doraville",
+                "country": "US",
+                "display_address": [
+                    "5283 Buford Hwy NE",
+                    "Doraville, GA 30340"
+                ],
+                "state": "GA",
+                "zip_code": "30340"
+            },
+            "name": "Hot Melody \u716e\u70e4\u5b98",
+            "phone": "+17709360532",
+            "rating": 4.0,
+            "review_count": 21,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hot-melody-%E7%85%AE%E7%83%A4%E5%AE%98-doraville-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hugh-cuti-hair-salon-atlanta",
+            "categories": [
+                {
+                    "alias": "hair",
+                    "title": "Hair Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8948698,
+                "longitude": -84.307443
+            },
+            "display_phone": "(404) 513-1335",
+            "distance": 2094.696310066956,
+            "id": "EsxJ2UP91f6KYYyS0rp-og",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qHq1THeNfKMSAfeDJQxm4A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3580 Pierce Dr",
+                "address2": "Ste 140",
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "3580 Pierce Dr",
+                    "Ste 140",
+                    "Atlanta, GA 30341"
+                ],
+                "state": "GA",
+                "zip_code": "30341"
+            },
+            "name": "Hugh Cuti Hair Salon",
+            "phone": "+14045131335",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hugh-cuti-hair-salon-atlanta?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "f\u00fado-chamblee",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.88851,
+                "longitude": -84.31489
+            },
+            "display_phone": "(678) 691-7088",
+            "distance": 2181.621983453483,
+            "id": "9ThQ2ad1pLnuhxkmpKOc1w",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/a3WqcDSrGAnL_3giO8fbUA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5070 Peachtree Blvd",
+                "address2": "Ste A100",
+                "address3": null,
+                "city": "Chamblee",
+                "country": "US",
+                "display_address": [
+                    "5070 Peachtree Blvd",
+                    "Ste A100",
+                    "Chamblee, GA 30341"
+                ],
+                "state": "GA",
+                "zip_code": "30341"
+            },
+            "name": "F\u00fado",
+            "phone": "+16786917088",
+            "rating": 4.5,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/f%C3%BAdo-chamblee?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "chichop-hibachi-grill-and-fried-chicken-cafe-atlanta-2",
+            "categories": [
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "taiwanese",
+                    "title": "Taiwanese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.9076705676334,
+                "longitude": -84.2873779956416
+            },
+            "display_phone": "(678) 825-2155",
+            "distance": 3078.922742294539,
+            "id": "JS27cd6iOZ0Bmtg9VBIIhw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/i-AT9QfNbRXZNlvxi8Bxog/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6035 Peachtree Rd",
+                "address2": "Unit C108",
+                "address3": null,
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "6035 Peachtree Rd",
+                    "Unit C108",
+                    "Atlanta, GA 30360"
+                ],
+                "state": "GA",
+                "zip_code": "30360"
+            },
+            "name": "ChiChop Hibachi, Grill & Fried Chicken Cafe",
+            "phone": "+16788252155",
+            "rating": 4.0,
+            "review_count": 20,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/chichop-hibachi-grill-and-fried-chicken-cafe-atlanta-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hansel-and-gretel-bakery-atlanta-2",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.9083847253829,
+                "longitude": -84.2885585129669
+            },
+            "display_phone": "(470) 375-7447",
+            "distance": 3141.3192937386643,
+            "id": "mG9whezG33MF43yoA9BDYA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kSiHKZEa9YO1-aB7jNweiQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6035 Peachtree Rd",
+                "address2": "Ste C-103",
+                "address3": null,
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "6035 Peachtree Rd",
+                    "Ste C-103",
+                    "Atlanta, GA 30360"
+                ],
+                "state": "GA",
+                "zip_code": "30360"
+            },
+            "name": "Hansel & Gretel Bakery",
+            "phone": "+14703757447",
+            "rating": 4.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hansel-and-gretel-bakery-atlanta-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "your-pie-tucker-embry-hills-atlanta-2",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8845138,
+                "longitude": -84.249939
+            },
+            "display_phone": "(470) 273-5984",
+            "distance": 3997.507547107526,
+            "id": "tzb-oPPQ34zHNqORyUSXsw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/D9u80oQ0zxc1zz86Ww9S5w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3499 Chamblee Tucker Rd",
+                "address2": "",
+                "address3": null,
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "3499 Chamblee Tucker Rd",
+                    "Atlanta, GA 30341"
+                ],
+                "state": "GA",
+                "zip_code": "30341"
+            },
+            "name": "Your Pie -Tucker Embry Hills",
+            "phone": "+14702735984",
+            "rating": 4.0,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/your-pie-tucker-embry-hills-atlanta-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "wayback-burgers-atlanta",
+            "categories": [
+                {
+                    "alias": "restaurants",
+                    "title": "Restaurants"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.8854351,
+                "longitude": -84.2493259
+            },
+            "display_phone": "(770) 452-0337",
+            "distance": 4146.396553641872,
+            "id": "EDm3EkIja4aNbCcxC8RKDw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0S6LQd_Ic4EKJvIeMY8QEw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3515 Chamblee Tucker Rd",
+                "address2": "Ste A",
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "3515 Chamblee Tucker Rd",
+                    "Ste A",
+                    "Atlanta, GA 30341"
+                ],
+                "state": "GA",
+                "zip_code": "30341"
+            },
+            "name": "Wayback Burgers",
+            "phone": "+17704520337",
+            "rating": 4.0,
+            "review_count": 12,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/wayback-burgers-atlanta?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "el-tannur-bakery-and-cafe-atlanta",
+            "categories": [
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.91898,
+                "longitude": -84.25591
+            },
+            "display_phone": "(678) 691-3821",
+            "distance": 5479.420588759681,
+            "id": "Ccbba4YYqqjencPTeyGQGQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pK_tj7zeLej2JRYmz8a5dg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7130 Buford Hwy NE",
+                "address2": "C100",
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "7130 Buford Hwy NE",
+                    "C100",
+                    "Atlanta, GA 30340"
+                ],
+                "state": "GA",
+                "zip_code": "30340"
+            },
+            "name": "El Tannur Bakery and Cafe",
+            "phone": "+16786913821",
+            "rating": 4.5,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/el-tannur-bakery-and-cafe-atlanta?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "healthland-massage-atlanta-2",
+            "categories": [
+                {
+                    "alias": "massage",
+                    "title": "Massage"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.84856,
+                "longitude": -84.36011
+            },
+            "display_phone": "(404) 254-3246",
+            "distance": 7120.533022722111,
+            "id": "cl1ZfdqjqrvR7ET_3bJqow",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/H4L-o1WfLjpXIbf1vlm9yw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3427 Lenox Rd NE",
+                "address2": "",
+                "address3": null,
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "3427 Lenox Rd NE",
+                    "Atlanta, GA 30326"
+                ],
+                "state": "GA",
+                "zip_code": "30326"
+            },
+            "name": "Healthland Massage",
+            "phone": "+14042543246",
+            "rating": 4.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/healthland-massage-atlanta-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 33.880370809060906,
+            "longitude": -84.29295477119848
+        }
+    },
+    "total": 12
+}

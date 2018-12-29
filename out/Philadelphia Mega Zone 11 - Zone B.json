@@ -1,0 +1,52 @@
+{
+    "businesses": [
+        {
+            "alias": "ne-flower-boutique-philadelphia-3",
+            "categories": [
+                {
+                    "alias": "florists",
+                    "title": "Florists"
+                },
+                {
+                    "alias": "floraldesigners",
+                    "title": "Floral Designers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.9515,
+                "longitude": -75.14356
+            },
+            "display_phone": "(267) 570-7707",
+            "distance": 10420.798963868398,
+            "id": "p9bz6eZT4y7He03nfLlQxQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/IatsUTK4X5NkXtBVHA8U_Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "60 N 2nd St",
+                "address2": null,
+                "address3": "",
+                "city": "Philadelphia",
+                "country": "US",
+                "display_address": [
+                    "60 N 2nd St",
+                    "Philadelphia, PA 19106"
+                ],
+                "state": "PA",
+                "zip_code": "19106"
+            },
+            "name": "NE Flower Boutique",
+            "phone": "+12675707707",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ne-flower-boutique-philadelphia-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 39.99534861953952,
+            "longitude": -75.2515791596571
+        }
+    },
+    "total": 1
+}

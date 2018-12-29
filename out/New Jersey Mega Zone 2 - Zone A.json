@@ -1,0 +1,220 @@
+{
+    "businesses": [
+        {
+            "alias": "ruths-chris-steak-house-maywood-2",
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.9137024,
+                "longitude": -74.0596944
+            },
+            "display_phone": "(551) 258-0013",
+            "distance": 1607.4955542904042,
+            "id": "c509mQNdwg-sB_M7ut__fw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_DHFnnorpGcYZP7IzVTLSw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "83 W Spring Valley Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Maywood",
+                "country": "US",
+                "display_address": [
+                    "83 W Spring Valley Ave",
+                    "Maywood, NJ 07607"
+                ],
+                "state": "NJ",
+                "zip_code": "07607"
+            },
+            "name": "Ruth's Chris Steak House",
+            "phone": "+15512580013",
+            "rating": 3.5,
+            "review_count": 12,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ruths-chris-steak-house-maywood-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "badaya-paramus-4",
+            "categories": [
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.9156187894758,
+                "longitude": -74.0717366337776
+            },
+            "display_phone": "(201) 708-2822",
+            "distance": 1994.4865082072029,
+            "id": "PehyA-duPTKYXFEgoV-zXQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/b5xyUSjWQ_pPzrLnLvem0Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "60 St Rt 17 N H-Mart",
+                "address2": "",
+                "address3": null,
+                "city": "Paramus",
+                "country": "US",
+                "display_address": [
+                    "60 St Rt 17 N H-Mart",
+                    "Paramus, NJ 07652"
+                ],
+                "state": "NJ",
+                "zip_code": "07652"
+            },
+            "name": "Badaya",
+            "phone": "+12017082822",
+            "rating": 4.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/badaya-paramus-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "beard-papas-paramus",
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.91572,
+                "longitude": -74.07786
+            },
+            "display_phone": "",
+            "distance": 2439.544262912476,
+            "id": "OebKj1Q9KMd-6YUdrW-rRQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FYZOj-3ArpvwDjMYCpe5XA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1 Garden State Plaza Blvd",
+                "address2": "Ste 9134",
+                "address3": null,
+                "city": "Paramus",
+                "country": "US",
+                "display_address": [
+                    "1 Garden State Plaza Blvd",
+                    "Ste 9134",
+                    "Paramus, NJ 07652"
+                ],
+                "state": "NJ",
+                "zip_code": "07652"
+            },
+            "name": "Beard Papa's",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/beard-papas-paramus?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "johnny-napkins-lodi-lodi",
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.8790678,
+                "longitude": -74.0844735
+            },
+            "display_phone": "(973) 574-7777",
+            "distance": 3112.950748174947,
+            "id": "R2-r0j8LimroVRuoTCvpkg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZsDc48kCZS5OauHwrRIN5Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "170 Main St",
+                "address2": null,
+                "address3": "",
+                "city": "Lodi",
+                "country": "US",
+                "display_address": [
+                    "170 Main St",
+                    "Lodi, NJ 07644"
+                ],
+                "state": "NJ",
+                "zip_code": "07644"
+            },
+            "name": "Johnny Napkins - Lodi",
+            "phone": "+19735747777",
+            "rating": 4.0,
+            "review_count": 9,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/johnny-napkins-lodi-lodi?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "just4move-nyc-brooklyn",
+            "categories": [
+                {
+                    "alias": "movers",
+                    "title": "Movers"
+                },
+                {
+                    "alias": "packingservices",
+                    "title": "Packing Services"
+                },
+                {
+                    "alias": "packingsupplies",
+                    "title": "Packing Supplies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.6698599111662,
+                "longitude": -73.9560807868838
+            },
+            "display_phone": "(516) 399-1055",
+            "distance": 27054.71188398195,
+            "id": "SMTa4VpGZRBm3KjYkEMOkg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VB_SkT1ozb1ZcUwoqqUy-w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "390 Eastern Pkwy",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "country": "US",
+                "display_address": [
+                    "390 Eastern Pkwy",
+                    "Brooklyn, NY 11225"
+                ],
+                "state": "NY",
+                "zip_code": "11225"
+            },
+            "name": "Just4Move NYC",
+            "phone": "+15163991055",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/just4move-nyc-brooklyn?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 40.9001897243002,
+            "longitude": -74.05963308763998
+        }
+    },
+    "total": 5
+}

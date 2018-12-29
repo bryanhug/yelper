@@ -1,0 +1,453 @@
+{
+    "businesses": [
+        {
+            "alias": "pho-24-san-jose-3",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.25113,
+                "longitude": -121.85841
+            },
+            "display_phone": "(408) 224-3888",
+            "distance": 5517.892911071155,
+            "id": "mYd2pUZ7BHc0WiB7dBjx6Q",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dduEdeYSsgTMdEUpj6f3iw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5592 Santa Teresa Blvd",
+                "address2": "Ste 100",
+                "address3": "",
+                "city": "San Jose",
+                "country": "US",
+                "display_address": [
+                    "5592 Santa Teresa Blvd",
+                    "Ste 100",
+                    "San Jose, CA 95123"
+                ],
+                "state": "CA",
+                "zip_code": "95123"
+            },
+            "name": "Pho 24",
+            "phone": "+14082243888",
+            "rating": 4.5,
+            "review_count": 24,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/pho-24-san-jose-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "divine-palace-nail-spa-san-jose",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                },
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.2635411437591,
+                "longitude": -121.876119934022
+            },
+            "display_phone": "(408) 978-8898",
+            "distance": 6106.539802972963,
+            "id": "IkACnNh59Pupjqi8o7NaXg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MCBbexvSILq0vGZzVCn-Uw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1095 Branham Ln",
+                "address2": "Ste 104",
+                "address3": null,
+                "city": "San Jose",
+                "country": "US",
+                "display_address": [
+                    "1095 Branham Ln",
+                    "Ste 104",
+                    "San Jose, CA 95136"
+                ],
+                "state": "CA",
+                "zip_code": "95136"
+            },
+            "name": "Divine Palace Nail Spa",
+            "phone": "+14089788898",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/divine-palace-nail-spa-san-jose?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "elite-hair-designs-san-jose-2",
+            "categories": [
+                {
+                    "alias": "hair",
+                    "title": "Hair Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.2375,
+                "longitude": -121.83158
+            },
+            "display_phone": "(408) 390-4280",
+            "distance": 6388.917425081991,
+            "id": "BA0z0CAcSfSvAB2-tzUCzQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kVuWedj4xOzJELlw1P95Bw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6049 Snell Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "country": "US",
+                "display_address": [
+                    "6049 Snell Ave",
+                    "San Jose, CA 95123"
+                ],
+                "state": "CA",
+                "zip_code": "95123"
+            },
+            "name": "Elite Hair Designs",
+            "phone": "+14083904280",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/elite-hair-designs-san-jose-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ginza-sushi-san-jose-2",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.2686609,
+                "longitude": -121.905171
+            },
+            "display_phone": "(408) 841-9837",
+            "distance": 6520.379146791866,
+            "id": "NJUdnIuCWW0ItIBN4jJzVQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5VsBsl732LUaHxZNrw5l8g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3153 Meridian Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "country": "US",
+                "display_address": [
+                    "3153 Meridian Ave",
+                    "San Jose, CA 95124"
+                ],
+                "state": "CA",
+                "zip_code": "95124"
+            },
+            "name": "Ginza Sushi",
+            "phone": "+14088419837",
+            "rating": 4.5,
+            "review_count": 33,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ginza-sushi-san-jose-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "meraki-salon-san-jose",
+            "categories": [
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                },
+                {
+                    "alias": "hairstylists",
+                    "title": "Hair Stylists"
+                },
+                {
+                    "alias": "permanentmakeup",
+                    "title": "Permanent Makeup"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.2538723,
+                "longitude": -121.8310995
+            },
+            "display_phone": "(408) 972-1732",
+            "distance": 7362.58147927429,
+            "id": "cZGovrGsKiziFyZ-XJRVDg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PyUdHdWcOGbJVsHaMnWaQw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5489 Snell Ave",
+                "address2": "Ste 35",
+                "address3": "",
+                "city": "San Jose",
+                "country": "US",
+                "display_address": [
+                    "5489 Snell Ave",
+                    "Ste 35",
+                    "San Jose, CA 95123"
+                ],
+                "state": "CA",
+                "zip_code": "95123"
+            },
+            "name": "Meraki Salon",
+            "phone": "+14089721732",
+            "rating": 5.0,
+            "review_count": 19,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/meraki-salon-san-jose?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "taqueria-milagro-san-jose",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.29041,
+                "longitude": -121.88763
+            },
+            "display_phone": "(408) 978-3665",
+            "distance": 8900.759973332624,
+            "id": "9CPjdOROEb9L9fWAcD2c6w",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LY2PGmcpyDNzTyatJROO_w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2222 Lincoln Ave",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "country": "US",
+                "display_address": [
+                    "2222 Lincoln Ave",
+                    "San Jose, CA 95125"
+                ],
+                "state": "CA",
+                "zip_code": "95125"
+            },
+            "name": "Taqueria Milagro",
+            "phone": "+14089783665",
+            "rating": 4.0,
+            "review_count": 21,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/taqueria-milagro-san-jose?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "niki-nails-san-jose",
+            "categories": [
+                {
+                    "alias": "nailtechnicians",
+                    "title": "Nail Technicians"
+                },
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.29345,
+                "longitude": -121.87458
+            },
+            "display_phone": "(408) 960-6069",
+            "distance": 9368.129370662899,
+            "id": "bpfVwUB7TWPmrfdBlZ6MLw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qGHrGhqJOnt0WDAcZ9XDzA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "699 Curtner Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Jose",
+                "country": "US",
+                "display_address": [
+                    "699 Curtner Ave",
+                    "San Jose, CA 95125"
+                ],
+                "state": "CA",
+                "zip_code": "95125"
+            },
+            "name": "Niki Nails",
+            "phone": "+14089606069",
+            "rating": 4.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/niki-nails-san-jose?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "philz-coffee-campbell-campbell",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.2894205251325,
+                "longitude": -121.931558753867
+            },
+            "display_phone": "",
+            "distance": 9373.09945320249,
+            "id": "UDVMEVrMm0P2_s8kyG4bfQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gh9usEon5qUfUDrg88J4Pg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1876 S Bascom Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Campbell",
+                "country": "US",
+                "display_address": [
+                    "1876 S Bascom Ave",
+                    "Campbell, CA 95008"
+                ],
+                "state": "CA",
+                "zip_code": "95008"
+            },
+            "name": "Philz Coffee - Campbell",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/philz-coffee-campbell-campbell?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "campbell-coffee-house-campbell",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.2847467,
+                "longitude": -121.9499649
+            },
+            "display_phone": "(408) 628-4170",
+            "distance": 9587.969572597665,
+            "id": "SU-AlZedHBOn-HebmuYaaw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/f839V8gCCWApubBFuAxrxQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2135 S Winchester Blvd",
+                "address2": "Ste 100",
+                "address3": "",
+                "city": "Campbell",
+                "country": "US",
+                "display_address": [
+                    "2135 S Winchester Blvd",
+                    "Ste 100",
+                    "Campbell, CA 95008"
+                ],
+                "state": "CA",
+                "zip_code": "95008"
+            },
+            "name": "Campbell Coffee House",
+            "phone": "+14086284170",
+            "rating": 3.5,
+            "review_count": 15,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/campbell-coffee-house-campbell?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "manresa-bread-caf\u00e9-campbell",
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.28726,
+                "longitude": -121.94653
+            },
+            "display_phone": "(408) 340-5171",
+            "distance": 9709.679602604578,
+            "id": "3RnQR-RAqAbQvo3--Fr7GA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9__1-XsMfxLcamb3aVPFsg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "195 E Campbell Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Campbell",
+                "country": "US",
+                "display_address": [
+                    "195 E Campbell Ave",
+                    "Campbell, CA 95008"
+                ],
+                "state": "CA",
+                "zip_code": "95008"
+            },
+            "name": "Manresa Bread Caf\u00e9",
+            "phone": "+14083405171",
+            "rating": 4.0,
+            "review_count": 31,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/manresa-bread-caf%C3%A9-campbell?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "momo-noodle-san-francisco",
+            "categories": [
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "szechuan",
+                    "title": "Szechuan"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.74434,
+                "longitude": -122.47868
+            },
+            "display_phone": "(408) 800-6819",
+            "distance": 74095.76699373858,
+            "id": "7dHj1XDVA_7AYXTfp5i-BQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JNjSRfVc8x6-EQMLNlOUOg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "San Francisco, CA 94016"
+                ],
+                "state": "CA",
+                "zip_code": "94016"
+            },
+            "name": "MOMO noodle",
+            "phone": "+14088006819",
+            "rating": 4.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/momo-noodle-san-francisco?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 37.21055711700728,
+            "longitude": -121.89426227398262
+        }
+    },
+    "total": 11
+}

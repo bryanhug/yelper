@@ -1,0 +1,413 @@
+{
+    "businesses": [
+        {
+            "alias": "blink-fitness-nutley-nutley",
+            "categories": [
+                {
+                    "alias": "gyms",
+                    "title": "Gyms"
+                },
+                {
+                    "alias": "healthtrainers",
+                    "title": "Trainers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.8151,
+                "longitude": -74.16138
+            },
+            "display_phone": "(973) 798-1490",
+            "distance": 2104.9511236645494,
+            "id": "Cx5LLF5rj44CfoZYpZ8jGg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wDxA93pLEG_46L15dWA61A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "364 Centre St",
+                "address2": "",
+                "address3": null,
+                "city": "Nutley",
+                "country": "US",
+                "display_address": [
+                    "364 Centre St",
+                    "Nutley, NJ 07110"
+                ],
+                "state": "NJ",
+                "zip_code": "07110"
+            },
+            "name": "Blink Fitness - Nutley",
+            "phone": "+19737981490",
+            "rating": 4.5,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/blink-fitness-nutley-nutley?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "montclair-brewery-montclair",
+            "categories": [
+                {
+                    "alias": "breweries",
+                    "title": "Breweries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.81692,
+                "longitude": -74.21128
+            },
+            "display_phone": "",
+            "distance": 2131.263695929306,
+            "id": "rpS7dgBxEvY6EM4nMtleWg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BDDTA7fyJ0uGsmjAbJfcPA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "101 Walnut St",
+                "address2": "",
+                "address3": null,
+                "city": "Montclair",
+                "country": "US",
+                "display_address": [
+                    "101 Walnut St",
+                    "Montclair, NJ 07042"
+                ],
+                "state": "NJ",
+                "zip_code": "07042"
+            },
+            "name": "Montclair Brewery",
+            "phone": "",
+            "rating": 3.0,
+            "review_count": 21,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/montclair-brewery-montclair?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kung-fu-tea-montclair",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.8125600097157,
+                "longitude": -74.2153799906373
+            },
+            "display_phone": "(973) 744-1647",
+            "distance": 2453.1031896567465,
+            "id": "vxb_8YUwl4Hl83j4n92oFg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hAWGB4TXHlvTajfA-3eYyw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "375 Bloomfield Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Montclair",
+                "country": "US",
+                "display_address": [
+                    "375 Bloomfield Ave",
+                    "Montclair, NJ 07042"
+                ],
+                "state": "NJ",
+                "zip_code": "07042"
+            },
+            "name": "Kung Fu Tea",
+            "phone": "+19737441647",
+            "rating": 4.0,
+            "review_count": 26,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kung-fu-tea-montclair?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "miracle-on-centre-at-cowans-public-nutley",
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.81241,
+                "longitude": -74.15621
+            },
+            "display_phone": "(973) 542-8151",
+            "distance": 2535.488799667946,
+            "id": "CY9tdct64BhahAaPY5tmcA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9J7Bshp3TGNAmJUbVCJ5Cw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "229 Centre St",
+                "address2": null,
+                "address3": "",
+                "city": "Nutley",
+                "country": "US",
+                "display_address": [
+                    "229 Centre St",
+                    "Nutley, NJ 07110"
+                ],
+                "state": "NJ",
+                "zip_code": "07110"
+            },
+            "name": "Miracle on Centre at Cowan's Public",
+            "phone": "+19735428151",
+            "rating": 4.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/miracle-on-centre-at-cowans-public-nutley?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "grindage-pizza-and-sandwiches-montclair-2",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.81327,
+                "longitude": -74.21712
+            },
+            "display_phone": "(973) 744-0010",
+            "distance": 2601.037905540095,
+            "id": "tGCd-wLC89JuKs-NWCkrMg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Htl-qEuTjOY-YUzu0-ufEA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "438 Bloomfield Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Montclair",
+                "country": "US",
+                "display_address": [
+                    "438 Bloomfield Ave",
+                    "Montclair, NJ 07042"
+                ],
+                "state": "NJ",
+                "zip_code": "07042"
+            },
+            "name": "Grindage Pizza & Sandwiches",
+            "phone": "+19737440010",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/grindage-pizza-and-sandwiches-montclair-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "rice-and-noodles-thai-cuisine-montclair",
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.81579,
+                "longitude": -74.2205
+            },
+            "display_phone": "(973) 783-3800",
+            "distance": 2885.623494007199,
+            "id": "nK9swa6QDYkvxeE3M8VCAQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BGeIXKQuQIHdF9maCTte3A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "600 Bloomfield Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Montclair",
+                "country": "US",
+                "display_address": [
+                    "600 Bloomfield Ave",
+                    "Montclair, NJ 07042"
+                ],
+                "state": "NJ",
+                "zip_code": "07042"
+            },
+            "name": "Rice and Noodles Thai Cuisine",
+            "phone": "+19737833800",
+            "rating": 3.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/rice-and-noodles-thai-cuisine-montclair?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "burgerhaus-clifton-2",
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.84575,
+                "longitude": -74.15866
+            },
+            "display_phone": "(973) 928-4859",
+            "distance": 4250.292048447855,
+            "id": "CJMeaShL6QU0YOHfL_FI6g",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LmaanGXiTurCVJuZvmcyvg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "14 Market St",
+                "address2": null,
+                "address3": "",
+                "city": "Clifton",
+                "country": "US",
+                "display_address": [
+                    "14 Market St",
+                    "Clifton, NJ 07012"
+                ],
+                "state": "NJ",
+                "zip_code": "07012"
+            },
+            "name": "BurgerHaus",
+            "phone": "+19739284859",
+            "rating": 4.0,
+            "review_count": 24,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/burgerhaus-clifton-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "off-the-grill-clifton",
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.85383148603,
+                "longitude": -74.1724397281115
+            },
+            "display_phone": "(973) 777-3780",
+            "distance": 4572.258561579517,
+            "id": "Wm2HlpBm6naywFQdsezUew",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PPD_UHkoOevUtFGPwL85HA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1348 Clifton Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Clifton",
+                "country": "US",
+                "display_address": [
+                    "1348 Clifton Ave",
+                    "Clifton, NJ 07012"
+                ],
+                "state": "NJ",
+                "zip_code": "07012"
+            },
+            "name": "Off The Grill",
+            "phone": "+19737773780",
+            "rating": 4.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/off-the-grill-clifton?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "shaking-crab-clifton-clifton",
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "cajun",
+                    "title": "Cajun/Creole"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.8566,
+                "longitude": -74.17723
+            },
+            "display_phone": "(862) 225-9996",
+            "distance": 4807.134536080057,
+            "id": "vI65PRkFmAdDAdimIQ_KNA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JTB8qDpZCMCiAmNa_vk7AQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1168 Broad St",
+                "address2": null,
+                "address3": "",
+                "city": "Clifton",
+                "country": "US",
+                "display_address": [
+                    "1168 Broad St",
+                    "Clifton, NJ 07013"
+                ],
+                "state": "NJ",
+                "zip_code": "07013"
+            },
+            "name": "Shaking Crab - Clifton",
+            "phone": "+18622259996",
+            "rating": 3.5,
+            "review_count": 34,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/shaking-crab-clifton-clifton?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "potent-transitions-east-orange-2",
+            "categories": [
+                {
+                    "alias": "hair",
+                    "title": "Hair Salons"
+                },
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.76724,
+                "longitude": -74.19438
+            },
+            "display_phone": "(862) 520-2172",
+            "distance": 5225.3049842739,
+            "id": "Acc8rtWCWaM4CcaVWGHPyg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/V4FmehYp6WrXxajmW3NVUA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "19 Ampere Pkwy",
+                "address2": null,
+                "address3": "",
+                "city": "East Orange",
+                "country": "US",
+                "display_address": [
+                    "19 Ampere Pkwy",
+                    "East Orange, NJ 07017"
+                ],
+                "state": "NJ",
+                "zip_code": "07017"
+            },
+            "name": "Potent Transitions",
+            "phone": "+18625202172",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/potent-transitions-east-orange-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 40.81381135204689,
+            "longitude": -74.18627785736284
+        }
+    },
+    "total": 10
+}

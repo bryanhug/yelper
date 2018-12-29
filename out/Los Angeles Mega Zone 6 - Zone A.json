@@ -1,0 +1,798 @@
+{
+    "businesses": [
+        {
+            "alias": "la-turkey-co-monterey-park-2",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.03581,
+                "longitude": -118.1307
+            },
+            "display_phone": "(626) 782-7074",
+            "distance": 666.5794305541217,
+            "id": "_antjIyj1I73Oo4ufQzp4w",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ljs81YGA07o1rJsbf-_VtA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2331 Garfield Ave S",
+                "address2": null,
+                "address3": "",
+                "city": "Monterey Park",
+                "country": "US",
+                "display_address": [
+                    "2331 Garfield Ave S",
+                    "Monterey Park, CA 91754"
+                ],
+                "state": "CA",
+                "zip_code": "91754"
+            },
+            "name": "LA Turkey Co",
+            "phone": "+16267827074",
+            "rating": 4.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/la-turkey-co-monterey-park-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "its-boba-time-monterey-park",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "shavedice",
+                    "title": "Shaved Ice"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.03788,
+                "longitude": -118.14558
+            },
+            "display_phone": "(323) 853-2622",
+            "distance": 1806.2838186423166,
+            "id": "sCFtWUo96yaE2JRaRyQ-oA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/caCFru_gyWDM3IYy6tV83Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2252 S Atlantic Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Monterey Park",
+                "country": "US",
+                "display_address": [
+                    "2252 S Atlantic Blvd",
+                    "Monterey Park, CA 91754"
+                ],
+                "state": "CA",
+                "zip_code": "91754"
+            },
+            "name": "It's Boba Time",
+            "phone": "+13238532622",
+            "rating": 4.5,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/its-boba-time-monterey-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "chop-chop-chicken-monterey-park",
+            "categories": [
+                {
+                    "alias": "comfortfood",
+                    "title": "Comfort Food"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0387943623743,
+                "longitude": -118.145481683314
+            },
+            "display_phone": "",
+            "distance": 1842.1551506898838,
+            "id": "Xwq2jS4-98nh4_8axxm4NQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rSr_GvEd6HK0TRcNGFG9JQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2211 S Atlantic Blvd",
+                "address2": null,
+                "address3": null,
+                "city": "Monterey Park",
+                "country": "US",
+                "display_address": [
+                    "2211 S Atlantic Blvd",
+                    "Monterey Park, CA 91754"
+                ],
+                "state": "CA",
+                "zip_code": "91754"
+            },
+            "name": "Chop Chop Chicken",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 25,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/chop-chop-chicken-monterey-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "evan-kitchen-montebello-2",
+            "categories": [
+                {
+                    "alias": "taiwanese",
+                    "title": "Taiwanese"
+                },
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                },
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0177388319004,
+                "longitude": -118.108773607436
+            },
+            "display_phone": "(626) 616-8188",
+            "distance": 2285.7879711345563,
+            "id": "x277zR84ifBuQsgdJMBBrQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/e5ih00pGEyLn0KLOntcXlA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1001 WBeverly Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Montebello",
+                "country": "US",
+                "display_address": [
+                    "1001 WBeverly Blvd",
+                    "Montebello, CA 90640"
+                ],
+                "state": "CA",
+                "zip_code": "90640"
+            },
+            "name": "Evan Kitchen",
+            "phone": "+16266168188",
+            "rating": 5.0,
+            "review_count": 14,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/evan-kitchen-montebello-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "foody-express-cajun-seafood-and-wings-los-angeles",
+            "categories": [
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "cajun",
+                    "title": "Cajun/Creole"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.03377,
+                "longitude": -118.15331
+            },
+            "display_phone": "(323) 685-5802",
+            "distance": 2339.221168399534,
+            "id": "MiN5ia3qS6bG0iv-PVkNIQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Qp05w7mPOBLpOfSVrdP9Ng/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5161 Pomona Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "country": "US",
+                "display_address": [
+                    "5161 Pomona Blvd",
+                    "Los Angeles, CA 90022"
+                ],
+                "state": "CA",
+                "zip_code": "90022"
+            },
+            "name": "Foody Express Cajun Seafood & Wings",
+            "phone": "+13236855802",
+            "rating": 3.5,
+            "review_count": 6,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/foody-express-cajun-seafood-and-wings-los-angeles?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "makeup-by-yesenia-t-montebello",
+            "categories": [
+                {
+                    "alias": "makeupartists",
+                    "title": "Makeup Artists"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0142,
+                "longitude": -118.10872
+            },
+            "display_phone": "(323) 787-6615",
+            "distance": 2641.313214380878,
+            "id": "TlLxthJKtQqITsBQftiFQw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/48OiwChSe6q6qYkVUPvaIg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "Montebello",
+                "country": "US",
+                "display_address": [
+                    "Montebello, CA 90640"
+                ],
+                "state": "CA",
+                "zip_code": "90640"
+            },
+            "name": "Makeup by Yesenia T.",
+            "phone": "+13237876615",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/makeup-by-yesenia-t-montebello?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "balrog-coffee-montebello",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bagels",
+                    "title": "Bagels"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0110514864965,
+                "longitude": -118.107865947461
+            },
+            "display_phone": "(323) 530-0770",
+            "distance": 2842.078316463414,
+            "id": "yLl_GXbvHrifr-zujETzTw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pRlklXSucNh0pHHapODkKg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "137 N Montebello Blvd",
+                "address2": "SteA",
+                "address3": null,
+                "city": "Montebello",
+                "country": "US",
+                "display_address": [
+                    "137 N Montebello Blvd",
+                    "SteA",
+                    "Montebello, CA 90640"
+                ],
+                "state": "CA",
+                "zip_code": "90640"
+            },
+            "name": "Balrog Coffee",
+            "phone": "+13235300770",
+            "rating": 3.5,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/balrog-coffee-montebello?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "chick-fil-a-monterey-park-3",
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0364600068012,
+                "longitude": -118.098281510174
+            },
+            "display_phone": "(323) 726-6801",
+            "distance": 2875.6521829683916,
+            "id": "6L4sFW2DdDG_MILrSaXaeQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9YtUE2dce9OFYom1gsmGkQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5000 Market Place Dr",
+                "address2": "",
+                "address3": null,
+                "city": "Monterey Park",
+                "country": "US",
+                "display_address": [
+                    "5000 Market Place Dr",
+                    "Monterey Park, CA 91755"
+                ],
+                "state": "CA",
+                "zip_code": "91755"
+            },
+            "name": "Chick-fil-A",
+            "phone": "+13237266801",
+            "rating": 3.5,
+            "review_count": 76,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/chick-fil-a-monterey-park-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "in-n-out-burger-monterey-park",
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.036428,
+                "longitude": -118.0974105
+            },
+            "display_phone": "(800) 786-1000",
+            "distance": 2952.6098932688415,
+            "id": "s1oLTjaJ-8ailWmI9dQVeQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BgRqVMi198dUA_IZxW6asw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5500 Market Place Dr",
+                "address2": "",
+                "address3": null,
+                "city": "Monterey Park",
+                "country": "US",
+                "display_address": [
+                    "5500 Market Place Dr",
+                    "Monterey Park, CA 90640"
+                ],
+                "state": "CA",
+                "zip_code": "90640"
+            },
+            "name": "In-N-Out Burger",
+            "phone": "+18007861000",
+            "rating": 4.5,
+            "review_count": 21,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/in-n-out-burger-monterey-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "big-lots-montebello",
+            "categories": [
+                {
+                    "alias": "deptstores",
+                    "title": "Department Stores"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.03431,
+                "longitude": -118.09423
+            },
+            "display_phone": "(323) 430-8481",
+            "distance": 3193.030819312949,
+            "id": "PSUl5K1Hs_QleAneeqL_vg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nZjXHZbHL7-hDVbsyqpHkg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1445 N Montebello Blvd",
+                "address2": null,
+                "address3": null,
+                "city": "Montebello",
+                "country": "US",
+                "display_address": [
+                    "1445 N Montebello Blvd",
+                    "Montebello, CA 90640"
+                ],
+                "state": "CA",
+                "zip_code": "90640"
+            },
+            "name": "Big Lots",
+            "phone": "+13234308481",
+            "rating": 4.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/big-lots-montebello?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "good-brothers-garden-monterey-park",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.06196,
+                "longitude": -118.12354
+            },
+            "display_phone": "(626) 280-3276",
+            "distance": 3587.3736756241556,
+            "id": "xTd56JVxL1qypD88wRQgRg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nXsXN6iZlpk47DTmHMDWcw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "122 W Garvey Ave",
+                "address2": "Ste 122C",
+                "address3": null,
+                "city": "Monterey Park",
+                "country": "US",
+                "display_address": [
+                    "122 W Garvey Ave",
+                    "Ste 122C",
+                    "Monterey Park, CA 91754"
+                ],
+                "state": "CA",
+                "zip_code": "91754"
+            },
+            "name": "Good Brothers Garden",
+            "phone": "+16262803276",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/good-brothers-garden-monterey-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "smokey-j-bakery-and-cafe-monterey-park-2",
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0653,
+                "longitude": -118.12328
+            },
+            "display_phone": "",
+            "distance": 3927.63969945727,
+            "id": "E0h-XrY_zQ1l5USSmv2z3w",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/I18zwePZafy2l36sQdlNLQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "301 N Garfield Ave",
+                "address2": "Ste A",
+                "address3": "",
+                "city": "Monterey Park",
+                "country": "US",
+                "display_address": [
+                    "301 N Garfield Ave",
+                    "Ste A",
+                    "Monterey Park, CA 91754"
+                ],
+                "state": "CA",
+                "zip_code": "91754"
+            },
+            "name": "Smokey J. Bakery & Cafe",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 15,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/smokey-j-bakery-and-cafe-monterey-park-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "serviceapple-montebello-montebello",
+            "categories": [
+                {
+                    "alias": "mobilephonerepair",
+                    "title": "Mobile Phone Repair"
+                },
+                {
+                    "alias": "mobilephones",
+                    "title": "Mobile Phones"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.036152,
+                "longitude": -118.084297
+            },
+            "display_phone": "(323) 471-7721",
+            "distance": 4096.973965225534,
+            "id": "Y8PIFfGIGm_p5WZOwPJWvQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WB0gFH3d-NdYkS2S3DVA8w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2134 Montebello Town Ctr",
+                "address2": null,
+                "address3": "",
+                "city": "Montebello",
+                "country": "US",
+                "display_address": [
+                    "2134 Montebello Town Ctr",
+                    "Montebello, CA 90640"
+                ],
+                "state": "CA",
+                "zip_code": "90640"
+            },
+            "name": "ServiceApple Montebello",
+            "phone": "+13234717721",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/serviceapple-montebello-montebello?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-brow-story-alhambra-2",
+            "categories": [
+                {
+                    "alias": "permanentmakeup",
+                    "title": "Permanent Makeup"
+                },
+                {
+                    "alias": "eyelashservice",
+                    "title": "Eyelash Service"
+                },
+                {
+                    "alias": "eyebrowservices",
+                    "title": "Eyebrow Services"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0705678,
+                "longitude": -118.1498567
+            },
+            "display_phone": "(626) 808-3885",
+            "distance": 4861.104152492611,
+            "id": "bGazGpBoTUAjL9rIJPGZVw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5cdKkeqG8bU4IZF5T7Vh5g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2023 S Primrose Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Alhambra",
+                "country": "US",
+                "display_address": [
+                    "2023 S Primrose Ave",
+                    "Alhambra, CA 91803"
+                ],
+                "state": "CA",
+                "zip_code": "91803"
+            },
+            "name": "The Brow Story",
+            "phone": "+16268083885",
+            "rating": 5.0,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-brow-story-alhambra-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "jasmine-creamery-alhambra",
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.101512,
+                "longitude": -118.112998
+            },
+            "display_phone": "(626) 380-9661",
+            "distance": 8074.9578599062725,
+            "id": "mP6iX9JjYHzMB_Jeg3m_NA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/byLeiUsgDQdzqhbIyLmUNw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1340 E Main St",
+                "address2": null,
+                "address3": "",
+                "city": "Alhambra",
+                "country": "US",
+                "display_address": [
+                    "1340 E Main St",
+                    "Alhambra, CA 91801"
+                ],
+                "state": "CA",
+                "zip_code": "91801"
+            },
+            "name": "Jasmine Creamery",
+            "phone": "+16263809661",
+            "rating": 5.0,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/jasmine-creamery-alhambra?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "otto-s-pizza-stix-los-angeles-2",
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0624708095338,
+                "longitude": -118.358365834324
+            },
+            "display_phone": "(562) 743-1964",
+            "distance": 21482.433337255876,
+            "id": "s-nSluuP5yRFqcdPOMbWNQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/H_f3gpWrxEWJ0pJWXAn9gw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5900 Wilshire Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "country": "US",
+                "display_address": [
+                    "5900 Wilshire Blvd",
+                    "Los Angeles, CA 90036"
+                ],
+                "state": "CA",
+                "zip_code": "90036"
+            },
+            "name": "Otto\u2019s Pizza Stix",
+            "phone": "+15627431964",
+            "rating": 4.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/otto-s-pizza-stix-los-angeles-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "massage-moore-spa-inglewood-4",
+            "categories": [
+                {
+                    "alias": "acupuncture",
+                    "title": "Acupuncture"
+                },
+                {
+                    "alias": "massage",
+                    "title": "Massage"
+                },
+                {
+                    "alias": "massage_therapy",
+                    "title": "Massage Therapy"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.9613696286029,
+                "longitude": -118.36613910321
+            },
+            "display_phone": "(323) 391-5997",
+            "distance": 23199.344054256642,
+            "id": "AuNYNsgPYYV-ZpOtlXsAEQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3OU52jrewpG7oCVSJBRqEQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "Inglewood",
+                "country": "US",
+                "display_address": [
+                    "Inglewood, CA 90001"
+                ],
+                "state": "CA",
+                "zip_code": "90001"
+            },
+            "name": "Massage Moore Spa",
+            "phone": "+13233915997",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/massage-moore-spa-inglewood-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "energy-haus-long-beach",
+            "categories": [
+                {
+                    "alias": "reiki",
+                    "title": "Reiki"
+                },
+                {
+                    "alias": "spiritual_shop",
+                    "title": "Spiritual Shop"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.76421,
+                "longitude": -118.15339
+            },
+            "display_phone": "(562) 506-5386",
+            "distance": 29644.09799425222,
+            "id": "7A7czRDduVGb4javOVXWdQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aBUmbDuC6jjcvwveIQnwAg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3300 E Broadway",
+                "address2": "",
+                "address3": "",
+                "city": "Long Beach",
+                "country": "US",
+                "display_address": [
+                    "3300 E Broadway",
+                    "Long Beach, CA 90803"
+                ],
+                "state": "CA",
+                "zip_code": "90803"
+            },
+            "name": "Energy Haus",
+            "phone": "+15625065386",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/energy-haus-long-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hair-makeup-by-sydney-orange",
+            "categories": [
+                {
+                    "alias": "makeupartists",
+                    "title": "Makeup Artists"
+                },
+                {
+                    "alias": "hairstylists",
+                    "title": "Hair Stylists"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7874,
+                "longitude": -117.82252
+            },
+            "display_phone": "(951) 552-5675",
+            "distance": 39047.05941094549,
+            "id": "lM7he-sB9ItDgdNz6xOxHg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EZmQYEkZ-tjK6nVsSS-SEQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2922 E Chapman Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Orange",
+                "country": "US",
+                "display_address": [
+                    "2922 E Chapman Ave",
+                    "Orange, CA 92869"
+                ],
+                "state": "CA",
+                "zip_code": "92869"
+            },
+            "name": "Hair + Makeup by Sydney",
+            "phone": "+19515525675",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hair-makeup-by-sydney-orange?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 34.03003813983509,
+            "longitude": -118.12851075948522
+        }
+    },
+    "total": 19
+}

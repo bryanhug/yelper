@@ -1,0 +1,296 @@
+{
+    "businesses": [
+        {
+            "alias": "union-pie-co-pittsburgh",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.39553,
+                "longitude": -79.98733
+            },
+            "display_phone": "(412) 884-1684",
+            "distance": 1803.1047763557983,
+            "id": "lFSF5XRwn-ibJLj5efDIjg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3SsAGTIj8q4wW_Pvyc_C0Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1914 Brownsville Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Pittsburgh",
+                "country": "US",
+                "display_address": [
+                    "1914 Brownsville Rd",
+                    "Pittsburgh, PA 15210"
+                ],
+                "state": "PA",
+                "zip_code": "15210"
+            },
+            "name": "Union Pie Co",
+            "phone": "+14128841684",
+            "rating": 5.0,
+            "review_count": 7,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/union-pie-co-pittsburgh?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "terrene-pittsburgh-2",
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "gluten_free",
+                    "title": "Gluten-Free"
+                },
+                {
+                    "alias": "vegetarian",
+                    "title": "Vegetarian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.4338406329119,
+                "longitude": -80.0051128173652
+            },
+            "display_phone": "(412) 855-1309",
+            "distance": 4170.461055635581,
+            "id": "xICll6c7ztmXoJwy1n6NwQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/C6pw8-kY6cWWW6RNINj4gw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "224 West Station Square Dr",
+                "address2": null,
+                "address3": "",
+                "city": "Pittsburgh",
+                "country": "US",
+                "display_address": [
+                    "224 West Station Square Dr",
+                    "Pittsburgh, PA 15219"
+                ],
+                "state": "PA",
+                "zip_code": "15219"
+            },
+            "name": "Terrene",
+            "phone": "+14128551309",
+            "rating": 3.5,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/terrene-pittsburgh-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-jingle-bar-pittsburgh",
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.4401058348044,
+                "longitude": -80.0010774207551
+            },
+            "display_phone": "",
+            "distance": 4544.633579144506,
+            "id": "X6mmA_8ItDG9KavsHvH6Aw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QqHAASlr2JQd1t29Ri1ukw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "268 Forbes Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Pittsburgh",
+                "country": "US",
+                "display_address": [
+                    "268 Forbes Ave",
+                    "Pittsburgh, PA 15222"
+                ],
+                "state": "PA",
+                "zip_code": "15222"
+            },
+            "name": "The Jingle Bar",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-jingle-bar-pittsburgh?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "auld-lang-syne-pittsburgh",
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.4408833456038,
+                "longitude": -80.002108587527
+            },
+            "display_phone": "",
+            "distance": 4664.298381224325,
+            "id": "IHSlGO1vb0QM2U9b-jUTkA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3NUd_JwGJuPsVr0CUcUWsA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "20 Market Square",
+                "address2": "",
+                "address3": null,
+                "city": "Pittsburgh",
+                "country": "US",
+                "display_address": [
+                    "20 Market Square",
+                    "Pittsburgh, PA 15222"
+                ],
+                "state": "PA",
+                "zip_code": "15222"
+            },
+            "name": "Auld Lang Syne",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/auld-lang-syne-pittsburgh?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-pennsylvania-market-pittsburgh",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.45091,
+                "longitude": -79.98492
+            },
+            "display_phone": "(412) 444-8333",
+            "distance": 5108.972851013215,
+            "id": "soPVIcC8dVfRhj2RObE8QQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/shRI79LW8zpihAkwXdbE6Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "108 19th St",
+                "address2": null,
+                "address3": "",
+                "city": "Pittsburgh",
+                "country": "US",
+                "display_address": [
+                    "108 19th St",
+                    "Pittsburgh, PA 15222"
+                ],
+                "state": "PA",
+                "zip_code": "15222"
+            },
+            "name": "The Pennsylvania Market",
+            "phone": "+14124448333",
+            "rating": 3.0,
+            "review_count": 17,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-pennsylvania-market-pittsburgh?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "masala-house-indian-bistro-pittsburgh",
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.45521,
+                "longitude": -79.94362
+            },
+            "display_phone": "(412) 586-7655",
+            "distance": 5935.471958583965,
+            "id": "35KvoWbA3kEsdckaWqG3OA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Wy7XWpTyWkTpRZZewUo-6A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5102 Baum Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Pittsburgh",
+                "country": "US",
+                "display_address": [
+                    "5102 Baum Blvd",
+                    "Pittsburgh, PA 15224"
+                ],
+                "state": "PA",
+                "zip_code": "15224"
+            },
+            "name": "Masala House Indian Bistro",
+            "phone": "+14125867655",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/masala-house-indian-bistro-pittsburgh?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "selamis-turkish-kebab-house-pittsburgh",
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.45686,
+                "longitude": -79.93643
+            },
+            "display_phone": "(412) 683-3663",
+            "distance": 6348.070488004958,
+            "id": "7rO0ET3aQLT_NtFutyZC1w",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/F3Nd2H9rBDKaq7ZqyH75Ng/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5501 Centre Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Pittsburgh",
+                "country": "US",
+                "display_address": [
+                    "5501 Centre Ave",
+                    "Pittsburgh, PA 15232"
+                ],
+                "state": "PA",
+                "zip_code": "15232"
+            },
+            "name": "Selamis Turkish Kebab House",
+            "phone": "+14126833663",
+            "rating": 4.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/selamis-turkish-kebab-house-pittsburgh?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 40.40619231974703,
+            "longitude": -79.97113203173016
+        }
+    },
+    "total": 7
+}

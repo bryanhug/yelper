@@ -1,0 +1,138 @@
+{
+    "businesses": [
+        {
+            "alias": "chaikhana-omaha-2",
+            "categories": [
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.280014,
+                "longitude": -96.052444
+            },
+            "display_phone": "(402) 979-5555",
+            "distance": 9167.122225338559,
+            "id": "-4KRC6WFFyhkc6loJ8PbPQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BhUuOK9G-Hhod3GqGA1a_w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2329 North 90th St",
+                "address2": "",
+                "address3": null,
+                "city": "Omaha",
+                "country": "US",
+                "display_address": [
+                    "2329 North 90th St",
+                    "Omaha, NE 68134"
+                ],
+                "state": "NE",
+                "zip_code": "68134"
+            },
+            "name": "Chaikhana",
+            "phone": "+14029795555",
+            "rating": 5.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/chaikhana-omaha-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "made-in-omaha-omaha",
+            "categories": [
+                {
+                    "alias": "giftshops",
+                    "title": "Gift Shops"
+                },
+                {
+                    "alias": "artsandcrafts",
+                    "title": "Arts & Crafts"
+                },
+                {
+                    "alias": "menscloth",
+                    "title": "Men's Clothing"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.24898,
+                "longitude": -96.04807
+            },
+            "display_phone": "(402) 452-3051",
+            "distance": 12532.825162543619,
+            "id": "BbnbojX8guTiDYXr-ui3qg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pslihNdxaFLyysoc6uUtMw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8722 Pacific St",
+                "address2": "",
+                "address3": null,
+                "city": "Omaha",
+                "country": "US",
+                "display_address": [
+                    "8722 Pacific St",
+                    "Omaha, NE 68114"
+                ],
+                "state": "NE",
+                "zip_code": "68114"
+            },
+            "name": "Made in Omaha",
+            "phone": "+14024523051",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/made-in-omaha-omaha?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "oklahoma-joes-omaha",
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.2413291743638,
+                "longitude": -96.0146898000585
+            },
+            "display_phone": "(402) 677-1881",
+            "distance": 14386.743010636099,
+            "id": "W4y3LzkRBHsDGStEHwLpwQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uRK36Jd_R9piBZ0P0Bi40g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1912 S 67th St",
+                "address2": null,
+                "address3": "",
+                "city": "Omaha",
+                "country": "US",
+                "display_address": [
+                    "1912 S 67th St",
+                    "Omaha, NE 68106"
+                ],
+                "state": "NE",
+                "zip_code": "68106"
+            },
+            "name": "Oklahoma Joe's",
+            "phone": "+14026771881",
+            "rating": 3.5,
+            "review_count": 28,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/oklahoma-joes-omaha?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 41.35707446416616,
+            "longitude": -96.09145327645923
+        }
+    },
+    "total": 3
+}

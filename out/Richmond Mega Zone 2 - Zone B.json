@@ -1,0 +1,301 @@
+{
+    "businesses": [
+        {
+            "alias": "world-of-beer-richmond",
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.653014,
+                "longitude": -77.61337
+            },
+            "display_phone": "(804) 767-7771",
+            "distance": 2784.1055588932254,
+            "id": "S9pK8mX7-_A6aIVYauRAuA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uReYt8JOFU-XD15zXB_0DA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "11600 W Broad St",
+                "address2": "",
+                "address3": null,
+                "city": "Richmond",
+                "country": "US",
+                "display_address": [
+                    "11600 W Broad St",
+                    "Richmond, VA 23233"
+                ],
+                "state": "VA",
+                "zip_code": "23233"
+            },
+            "name": "World of Beer",
+            "phone": "+18047677771",
+            "rating": 3.5,
+            "review_count": 15,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/world-of-beer-richmond?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "inchins-bamboo-garden-richmond",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.6498407187135,
+                "longitude": -77.6049605617206
+            },
+            "display_phone": "(804) 799-2689",
+            "distance": 3461.9466804232225,
+            "id": "wSUYeDB64wfgpsPASByQnw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/op2xDmLBWxdeH4mt9wlU_Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "11331 W Broad St",
+                "address2": null,
+                "address3": "",
+                "city": "Richmond",
+                "country": "US",
+                "display_address": [
+                    "11331 W Broad St",
+                    "Richmond, VA 23060"
+                ],
+                "state": "VA",
+                "zip_code": "23060"
+            },
+            "name": "Inchin's Bamboo Garden",
+            "phone": "+18047992689",
+            "rating": 4.0,
+            "review_count": 26,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/inchins-bamboo-garden-richmond?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "pupatella-glen-allen-2",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.6466739890687,
+                "longitude": -77.5852846562338
+            },
+            "display_phone": "(804) 918-5405",
+            "distance": 5290.544337480459,
+            "id": "hLxs-iMZDTlwwdgG6NRnfg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qgkvxSFw6zeEUCpcs2-Axw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "10921 W Broad St",
+                "address2": "",
+                "address3": null,
+                "city": "Glen Allen",
+                "country": "US",
+                "display_address": [
+                    "10921 W Broad St",
+                    "Glen Allen, VA 23060"
+                ],
+                "state": "VA",
+                "zip_code": "23060"
+            },
+            "name": "Pupatella",
+            "phone": "+18049185405",
+            "rating": 4.0,
+            "review_count": 18,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/pupatella-glen-allen-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mod-pizza-richmond-2",
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.6019114822023,
+                "longitude": -77.5653332976344
+            },
+            "display_phone": "(804) 293-3844",
+            "distance": 9686.665898929241,
+            "id": "tsSXy90ScgDqrc01wdOAOQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KOWIRh4eUqPDaUXGboyGog/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8671 Quioccasin Rd",
+                "address2": null,
+                "address3": null,
+                "city": "Richmond",
+                "country": "US",
+                "display_address": [
+                    "8671 Quioccasin Rd",
+                    "Richmond, VA 23229"
+                ],
+                "state": "VA",
+                "zip_code": "23229"
+            },
+            "name": "MOD Pizza",
+            "phone": "+18042933844",
+            "rating": 4.0,
+            "review_count": 18,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mod-pizza-richmond-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "la-hacienda-street-food-and-tequila-richmond",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.549884,
+                "longitude": -77.571643
+            },
+            "display_phone": "(804) 767-2917",
+            "distance": 14058.446293757244,
+            "id": "nxmG252PqKMY1LHlRX2NEw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/73pTRMncjYuPV-0MYy1sbQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "9200 Stony Point Pkwy",
+                "address2": "Ste 146",
+                "address3": "",
+                "city": "Richmond",
+                "country": "US",
+                "display_address": [
+                    "9200 Stony Point Pkwy",
+                    "Ste 146",
+                    "Richmond, VA 23235"
+                ],
+                "state": "VA",
+                "zip_code": "23235"
+            },
+            "name": "La Hacienda Street Food & Tequila",
+            "phone": "+18047672917",
+            "rating": 3.5,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/la-hacienda-street-food-and-tequila-richmond?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "latitude-seafood-richmond-richmond",
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.548593,
+                "longitude": -77.5711933888855
+            },
+            "display_phone": "(804) 729-8441",
+            "distance": 14212.148957718753,
+            "id": "jDCvm03GaCP-Nvve9kLcQg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UPijCz_KopqnhZU8GEmQPA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "9216 Stony Point Pkwy",
+                "address2": "Ste 148",
+                "address3": null,
+                "city": "Richmond",
+                "country": "US",
+                "display_address": [
+                    "9216 Stony Point Pkwy",
+                    "Ste 148",
+                    "Richmond, VA 23235"
+                ],
+                "state": "VA",
+                "zip_code": "23235"
+            },
+            "name": "Latitude Seafood - Richmond",
+            "phone": "+18047298441",
+            "rating": 4.0,
+            "review_count": 19,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/latitude-seafood-richmond-richmond?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "wingbox-and-seafood-bon-air",
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.5205404986516,
+                "longitude": -77.6085182279348
+            },
+            "display_phone": "(804) 300-4411",
+            "distance": 16176.235573218919,
+            "id": "V7wufeOfPyXQTo5VKqss0w",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zRXMIfP3OfZUW-twycIY9Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "11467 Robious Rd",
+                "address2": null,
+                "address3": null,
+                "city": "Bon Air",
+                "country": "US",
+                "display_address": [
+                    "11467 Robious Rd",
+                    "Bon Air, VA 23235"
+                ],
+                "state": "VA",
+                "zip_code": "23235"
+            },
+            "name": "Wingbox & Seafood",
+            "phone": "+18043004411",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/wingbox-and-seafood-bon-air?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 37.6636618688609,
+            "longitude": -77.64142067551093
+        }
+    },
+    "total": 7
+}

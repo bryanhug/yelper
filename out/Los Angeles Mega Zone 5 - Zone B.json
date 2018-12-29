@@ -1,0 +1,333 @@
+{
+    "businesses": [
+        {
+            "alias": "massage-moore-spa-inglewood-4",
+            "categories": [
+                {
+                    "alias": "acupuncture",
+                    "title": "Acupuncture"
+                },
+                {
+                    "alias": "massage",
+                    "title": "Massage"
+                },
+                {
+                    "alias": "massage_therapy",
+                    "title": "Massage Therapy"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.9613696286029,
+                "longitude": -118.36613910321
+            },
+            "display_phone": "(323) 391-5997",
+            "distance": 914.7301150280927,
+            "id": "AuNYNsgPYYV-ZpOtlXsAEQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3OU52jrewpG7oCVSJBRqEQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "Inglewood",
+                "country": "US",
+                "display_address": [
+                    "Inglewood, CA 90001"
+                ],
+                "state": "CA",
+                "zip_code": "90001"
+            },
+            "name": "Massage Moore Spa",
+            "phone": "+13233915997",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/massage-moore-spa-inglewood-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "spa-de-la-los-angeles",
+            "categories": [
+                {
+                    "alias": "massage",
+                    "title": "Massage"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.05989,
+                "longitude": -118.34453
+            },
+            "display_phone": "(323) 694-3352",
+            "distance": 11417.451472004099,
+            "id": "Jw8BTmKKazPUXTkPYJe7sw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3mT5f5OoP-1DNJRMzg2zUA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "820 S La Brea Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "country": "US",
+                "display_address": [
+                    "820 S La Brea Ave",
+                    "Los Angeles, CA 90036"
+                ],
+                "state": "CA",
+                "zip_code": "90036"
+            },
+            "name": "Spa De' LA",
+            "phone": "+13236943352",
+            "rating": 4.5,
+            "review_count": 12,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/spa-de-la-los-angeles?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "otto-s-pizza-stix-los-angeles-2",
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0624708095338,
+                "longitude": -118.358365834324
+            },
+            "display_phone": "(562) 743-1964",
+            "distance": 11642.713253121421,
+            "id": "s-nSluuP5yRFqcdPOMbWNQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/H_f3gpWrxEWJ0pJWXAn9gw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5900 Wilshire Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "country": "US",
+                "display_address": [
+                    "5900 Wilshire Blvd",
+                    "Los Angeles, CA 90036"
+                ],
+                "state": "CA",
+                "zip_code": "90036"
+            },
+            "name": "Otto\u2019s Pizza Stix",
+            "phone": "+15627431964",
+            "rating": 4.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/otto-s-pizza-stix-los-angeles-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "firehouse-365-maywood-2",
+            "categories": [
+                {
+                    "alias": "cannabisdispensaries",
+                    "title": "Cannabis Dispensaries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.9829135,
+                "longitude": -118.1860701
+            },
+            "display_phone": "(323) 484-0013",
+            "distance": 16035.467063586428,
+            "id": "aa1iZvhccsEk3pFOE3ScWA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FNOsrBl6_z8Ze9edH_ZpPA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6118 Atlantic Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Maywood",
+                "country": "US",
+                "display_address": [
+                    "6118 Atlantic Blvd",
+                    "Maywood, CA 90270"
+                ],
+                "state": "CA",
+                "zip_code": "90270"
+            },
+            "name": "Firehouse 365",
+            "phone": "+13234840013",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/firehouse-365-maywood-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-woke-truck-burbank",
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.15592,
+                "longitude": -118.34321
+            },
+            "display_phone": "(516) 233-6368",
+            "distance": 22708.509995750654,
+            "id": "IpumvReJGi1eih4hG7Nelw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IT0GqAtv7QRB7Ml4ib751w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "Burbank",
+                "country": "US",
+                "display_address": [
+                    "Burbank, CA 91505"
+                ],
+                "state": "CA",
+                "zip_code": "91505"
+            },
+            "name": "The Woke Truck",
+            "phone": "+15162336368",
+            "rating": 4.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-woke-truck-burbank?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mix-bowl-heroes-los-angeles",
+            "categories": [
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.1213431248683,
+                "longitude": -118.206828162074
+            },
+            "display_phone": "(626) 677-7442",
+            "distance": 22865.953622556175,
+            "id": "9o7Nbvef7WjzR8UHZcMuDA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/daE4EREebwHM8U-UITcLGw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5000 York Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "country": "US",
+                "display_address": [
+                    "5000 York Blvd",
+                    "Los Angeles, CA 90041"
+                ],
+                "state": "CA",
+                "zip_code": "90041"
+            },
+            "name": "Mix Bowl Heroes",
+            "phone": "+16266777442",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mix-bowl-heroes-los-angeles?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "energy-haus-long-beach",
+            "categories": [
+                {
+                    "alias": "reiki",
+                    "title": "Reiki"
+                },
+                {
+                    "alias": "spiritual_shop",
+                    "title": "Spiritual Shop"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.76421,
+                "longitude": -118.15339
+            },
+            "display_phone": "(562) 506-5386",
+            "distance": 28585.4788918838,
+            "id": "7A7czRDduVGb4javOVXWdQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aBUmbDuC6jjcvwveIQnwAg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3300 E Broadway",
+                "address2": "",
+                "address3": "",
+                "city": "Long Beach",
+                "country": "US",
+                "display_address": [
+                    "3300 E Broadway",
+                    "Long Beach, CA 90803"
+                ],
+                "state": "CA",
+                "zip_code": "90803"
+            },
+            "name": "Energy Haus",
+            "phone": "+15625065386",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/energy-haus-long-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hair-makeup-by-sydney-orange",
+            "categories": [
+                {
+                    "alias": "makeupartists",
+                    "title": "Makeup Artists"
+                },
+                {
+                    "alias": "hairstylists",
+                    "title": "Hair Stylists"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7874,
+                "longitude": -117.82252
+            },
+            "display_phone": "(951) 552-5675",
+            "distance": 52865.543962670396,
+            "id": "lM7he-sB9ItDgdNz6xOxHg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EZmQYEkZ-tjK6nVsSS-SEQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2922 E Chapman Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Orange",
+                "country": "US",
+                "display_address": [
+                    "2922 E Chapman Ave",
+                    "Orange, CA 92869"
+                ],
+                "state": "CA",
+                "zip_code": "92869"
+            },
+            "name": "Hair + Makeup by Sydney",
+            "phone": "+19515525675",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hair-makeup-by-sydney-orange?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 33.95776955690212,
+            "longitude": -118.35722118662741
+        }
+    },
+    "total": 8
+}

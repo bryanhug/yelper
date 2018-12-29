@@ -1,0 +1,124 @@
+{
+    "businesses": [
+        {
+            "alias": "las-tapatias-a-todo-taco-virginia-beach",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 36.84389,
+                "longitude": -76.1534
+            },
+            "display_phone": "(757) 687-8226",
+            "distance": 3018.597630138139,
+            "id": "eRBDP9auKcsT7Tez2wdgzQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3QyEldIR0Xm784HJjH0Nyg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5033 Virginia Beach Blvd",
+                "address2": "Ste 104",
+                "address3": "",
+                "city": "Virginia Beach",
+                "country": "US",
+                "display_address": [
+                    "5033 Virginia Beach Blvd",
+                    "Ste 104",
+                    "Virginia Beach, VA 23462"
+                ],
+                "state": "VA",
+                "zip_code": "23462"
+            },
+            "name": "Las Tapatias A Todo Taco",
+            "phone": "+17576878226",
+            "rating": 4.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/las-tapatias-a-todo-taco-virginia-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "its-all-greek-to-me-virginia-beach-3",
+            "categories": [
+                {
+                    "alias": "greek",
+                    "title": "Greek"
+                }
+            ],
+            "coordinates": {
+                "latitude": 36.86409,
+                "longitude": -76.1315599
+            },
+            "display_phone": "(757) 227-3145",
+            "distance": 3042.3065573385934,
+            "id": "Yr9MSnKMuhGCsWmYO9eplQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AA_fLNBM65hbNTy8RMWRsg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "750 Independence Blvd",
+                "address2": "Ste 4586",
+                "address3": "",
+                "city": "Virginia Beach",
+                "country": "US",
+                "display_address": [
+                    "750 Independence Blvd",
+                    "Ste 4586",
+                    "Virginia Beach, VA 23455"
+                ],
+                "state": "VA",
+                "zip_code": "23455"
+            },
+            "name": "It's All Greek to Me",
+            "phone": "+17572273145",
+            "rating": 3.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/its-all-greek-to-me-virginia-beach-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ninja-tea-virginia-beach-2",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 36.8119052,
+                "longitude": -76.1664395
+            },
+            "display_phone": "(757) 467-1120",
+            "distance": 6396.009896823749,
+            "id": "o15hqSACTnLvwzIHJ09iCQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kcU-Z1nbhQiABcBerBAVow/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "987 Kempsville Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Virginia Beach",
+                "country": "US",
+                "display_address": [
+                    "987 Kempsville Rd",
+                    "Virginia Beach, VA 23464"
+                ],
+                "state": "VA",
+                "zip_code": "23464"
+            },
+            "name": "Ninja Tea",
+            "phone": "+17574671120",
+            "rating": 4.5,
+            "review_count": 17,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ninja-tea-virginia-beach-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 36.869553136452424,
+            "longitude": -76.16440039557705
+        }
+    },
+    "total": 3
+}

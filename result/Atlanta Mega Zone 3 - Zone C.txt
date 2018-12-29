@@ -1,0 +1,15 @@
+Jason's Deli
+1401 Johnson Ferry Rd, Ste 334, Marietta, GA 30062, 
++17705097325
+https://www.yelp.com/biz/jasons-deli-marietta-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Healing Massage Spa
+2525 Shallowford Rd, Ste 006, Marietta, GA 30066, 
++16788639983
+https://www.yelp.com/biz/healing-massage-spa-marietta?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+1000 Degrees Pizzeria
+280 Cobb Pkwy SE, Ste 40, Marietta, GA 30060, 
++16783246935
+https://www.yelp.com/biz/1000-degrees-pizzeria-marietta?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+

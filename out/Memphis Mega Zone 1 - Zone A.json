@@ -1,0 +1,89 @@
+{
+    "businesses": [
+        {
+            "alias": "the-nine-thai-and-sushi-memphis",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                }
+            ],
+            "coordinates": {
+                "latitude": 35.14268,
+                "longitude": -90.0529843
+            },
+            "display_phone": "(901) 208-8347",
+            "distance": 2572.0498124509027,
+            "id": "4C0qp6j9dxTSqQ3S7xIbiQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kITJXuMRaGIk2vWXnlYjgQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "121 Union Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Memphis",
+                "country": "US",
+                "display_address": [
+                    "121 Union Ave",
+                    "Memphis, TN 38103"
+                ],
+                "state": "TN",
+                "zip_code": "38103"
+            },
+            "name": "The Nine Thai & Sushi",
+            "phone": "+19012088347",
+            "rating": 4.0,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-nine-thai-and-sushi-memphis?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "elemento-neapolitan-pizza-memphis",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 35.15202,
+                "longitude": -90.01396
+            },
+            "display_phone": "(901) 672-7527",
+            "distance": 4875.074461384442,
+            "id": "p3mYxX4EHNs2au1qwIWZ1A",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8pIeeGzeElxUCnhpQqI5yQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1350 Concourse Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Memphis",
+                "country": "US",
+                "display_address": [
+                    "1350 Concourse Ave",
+                    "Memphis, TN 38104"
+                ],
+                "state": "TN",
+                "zip_code": "38104"
+            },
+            "name": "Elemento Neapolitan Pizza",
+            "phone": "+19016727527",
+            "rating": 4.0,
+            "review_count": 14,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/elemento-neapolitan-pizza-memphis?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 35.11958114149808,
+            "longitude": -90.05149322771456
+        }
+    },
+    "total": 2
+}

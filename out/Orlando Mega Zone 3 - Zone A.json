@@ -1,0 +1,353 @@
+{
+    "businesses": [
+        {
+            "alias": "phenomenom-nitrogen-ice-cream-and-bake-shop-winter-park",
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.6039111,
+                "longitude": -81.3671171
+            },
+            "display_phone": "(754) 216-3478",
+            "distance": 4977.587124434423,
+            "id": "olPQtS6UTcUcPajpdKvkQg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LUIJz6INr20N2Hr0KtxOZw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "501 Orlando Ave",
+                "address2": "Ste 309",
+                "address3": null,
+                "city": "Winter Park",
+                "country": "US",
+                "display_address": [
+                    "501 Orlando Ave",
+                    "Ste 309",
+                    "Winter Park, FL 32789"
+                ],
+                "state": "FL",
+                "zip_code": "32789"
+            },
+            "name": "Phenomenom Nitrogen Ice Cream & Bake Shop",
+            "phone": "+17542163478",
+            "rating": 4.0,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/phenomenom-nitrogen-ice-cream-and-bake-shop-winter-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bento-asian-kitchen-sushi-winter-park",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "panasian",
+                    "title": "Pan Asian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.603771,
+                "longitude": -81.367467
+            },
+            "display_phone": "(407) 755-3555",
+            "distance": 4977.587124434423,
+            "id": "Prf2jh0JMtsmO2Yo46O0PQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/spgGRt8M4W5BrcJdyZoSHw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "501 Orlando Ave",
+                "address2": "Ste 221",
+                "address3": "",
+                "city": "Winter Park",
+                "country": "US",
+                "display_address": [
+                    "501 Orlando Ave",
+                    "Ste 221",
+                    "Winter Park, FL 32789"
+                ],
+                "state": "FL",
+                "zip_code": "32789"
+            },
+            "name": "Bento Asian Kitchen + Sushi",
+            "phone": "+14077553555",
+            "rating": 4.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bento-asian-kitchen-sushi-winter-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mr-margarita-mexican-kitchen-and-tequila-bar-altamonte-springs",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "latin",
+                    "title": "Latin American"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.68407,
+                "longitude": -81.41686
+            },
+            "display_phone": "(407) 636-8634",
+            "distance": 5646.773326941951,
+            "id": "UAc7tvywJe5HW_3YPQ9XOw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZmHzrNhi9Oh_Cc8IpkMa_Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "995 N State Rd 434",
+                "address2": "Ste 303",
+                "address3": "",
+                "city": "Altamonte Springs",
+                "country": "US",
+                "display_address": [
+                    "995 N State Rd 434",
+                    "Ste 303",
+                    "Altamonte Springs, FL 32714"
+                ],
+                "state": "FL",
+                "zip_code": "32714"
+            },
+            "name": "Mr. Margarita Mexican Kitchen & Tequila Bar",
+            "phone": "+14076368634",
+            "rating": 4.5,
+            "review_count": 23,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mr-margarita-mexican-kitchen-and-tequila-bar-altamonte-springs?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "house-of-sweat-orlando",
+            "categories": [
+                {
+                    "alias": "bootcamps",
+                    "title": "Boot Camps"
+                },
+                {
+                    "alias": "gyms",
+                    "title": "Gyms"
+                },
+                {
+                    "alias": "healthtrainers",
+                    "title": "Trainers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.59668,
+                "longitude": -81.39354
+            },
+            "display_phone": "(407) 734-1157",
+            "distance": 5953.502763702306,
+            "id": "IY8AGxFezWcm6ImxwuSl9Q",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tPHRsBxKGs9Y2m1s8gxgTw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "985 W Fairbanks Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Orlando",
+                "country": "US",
+                "display_address": [
+                    "985 W Fairbanks Ave",
+                    "Orlando, FL 32804"
+                ],
+                "state": "FL",
+                "zip_code": "32804"
+            },
+            "name": "House of Sweat",
+            "phone": "+14077341157",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/house-of-sweat-orlando?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "vinia-wine-bar-winter-park",
+            "categories": [
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.5956,
+                "longitude": -81.35572
+            },
+            "display_phone": "(407) 925-7485",
+            "distance": 6141.402063767955,
+            "id": "xE3u4lgOdv7vLX1nmIczfQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/V0GhV-rk7BaV_S1rbE4Ixw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "444 West New England Ave",
+                "address2": "Ste 119",
+                "address3": "",
+                "city": "Winter Park",
+                "country": "US",
+                "display_address": [
+                    "444 West New England Ave",
+                    "Ste 119",
+                    "Winter Park, FL 32789"
+                ],
+                "state": "FL",
+                "zip_code": "32789"
+            },
+            "name": "VINIA Wine Bar",
+            "phone": "+14079257485",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/vinia-wine-bar-winter-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sushi-pop-opening-soon-winter-park",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.59517,
+                "longitude": -81.35049
+            },
+            "display_phone": "(321) 203-2282",
+            "distance": 6375.551702215257,
+            "id": "twV5paXjqV6JIaPN1huiSw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/aSbRr2K9j1G8a05i5r42_g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "115 E Lyman Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Winter Park",
+                "country": "US",
+                "display_address": [
+                    "115 E Lyman Ave",
+                    "Winter Park, FL 32789"
+                ],
+                "state": "FL",
+                "zip_code": "32789"
+            },
+            "name": "Sushi Pop - Opening Soon",
+            "phone": "+13212032282",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "url": "https://www.yelp.com/biz/sushi-pop-opening-soon-winter-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sprouts-farmers-market-winter-park",
+            "categories": [
+                {
+                    "alias": "grocery",
+                    "title": "Grocery"
+                },
+                {
+                    "alias": "farmersmarket",
+                    "title": "Farmers Market"
+                },
+                {
+                    "alias": "healthmarkets",
+                    "title": "Health Markets"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.600992,
+                "longitude": -81.324877
+            },
+            "display_phone": "(407) 702-1212",
+            "distance": 7229.829566046961,
+            "id": "-9rzlk7dPHDKiP_SPJAytA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/S9_jx6KcGNWtlD_ZLK2jqw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1989 Aloma Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Winter Park",
+                "country": "US",
+                "display_address": [
+                    "1989 Aloma Ave",
+                    "Winter Park, FL 32792"
+                ],
+                "state": "FL",
+                "zip_code": "32792"
+            },
+            "name": "Sprouts Farmers Market",
+            "phone": "+14077021212",
+            "rating": 3.5,
+            "review_count": 20,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sprouts-farmers-market-winter-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "get-up-and-go-kayaking-crystal-river",
+            "categories": [
+                {
+                    "alias": "rafting",
+                    "title": "Rafting/Kayaking"
+                },
+                {
+                    "alias": "boattours",
+                    "title": "Boat Tours"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.8968550340356,
+                "longitude": -82.5944999714781
+            },
+            "display_phone": "(407) 212-7306",
+            "distance": 122043.17232742548,
+            "id": "W_k1CzXj1zf0zIXcEAmwWg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9Ray-7UyodoJflXkIfvEMw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "268 NW 3rd St",
+                "address2": null,
+                "address3": "",
+                "city": "Crystal River",
+                "country": "US",
+                "display_address": [
+                    "268 NW 3rd St",
+                    "Crystal River, FL 34428"
+                ],
+                "state": "FL",
+                "zip_code": "34428"
+            },
+            "name": "Get Up And Go Kayaking",
+            "phone": "+14072127306",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/get-up-and-go-kayaking-crystal-river?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 28.647979582802723,
+            "longitude": -81.37607567845387
+        }
+    },
+    "total": 8
+}

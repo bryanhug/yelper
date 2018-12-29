@@ -1,0 +1,85 @@
+{
+    "businesses": [
+        {
+            "alias": "fine-art-nails-everett-4",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.4137941077512,
+                "longitude": -71.0392606258392
+            },
+            "display_phone": "(617) 294-1269",
+            "distance": 3414.7548870994146,
+            "id": "WtEZx1iKvj-Un_pxpPmw6g",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/E4fObWMKsk5mSzRtigcKrw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "186 Elm St",
+                "address2": "",
+                "address3": null,
+                "city": "Everett",
+                "country": "US",
+                "display_address": [
+                    "186 Elm St",
+                    "Everett, MA 02149"
+                ],
+                "state": "MA",
+                "zip_code": "02149"
+            },
+            "name": "Fine Art Nails",
+            "phone": "+16172941269",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/fine-art-nails-everett-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tawakal-halal-cafe-boston",
+            "categories": [
+                {
+                    "alias": "african",
+                    "title": "African"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.36569,
+                "longitude": -71.02906
+            },
+            "display_phone": "(617) 418-5890",
+            "distance": 3461.549163485857,
+            "id": "XeGoe2eGu9K4qpL-MWGGPA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/AgQJ7_Wf9po7-dv5JsCpWQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "389 Maverick St",
+                "address2": "",
+                "address3": null,
+                "city": "Boston",
+                "country": "US",
+                "display_address": [
+                    "389 Maverick St",
+                    "Boston, MA 02128"
+                ],
+                "state": "MA",
+                "zip_code": "02128"
+            },
+            "name": "Tawakal Halal Cafe",
+            "phone": "+16174185890",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tawakal-halal-cafe-boston?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 42.39297184035394,
+            "longitude": -71.00869182935011
+        }
+    },
+    "total": 2
+}

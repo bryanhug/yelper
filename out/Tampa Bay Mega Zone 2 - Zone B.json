@@ -1,0 +1,134 @@
+{
+    "businesses": [
+        {
+            "alias": "rene-s-mexican-kitchen-tampa-2",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.0147454,
+                "longitude": -82.5055815
+            },
+            "display_phone": "(813) 600-9705",
+            "distance": 3589.090700953577,
+            "id": "TwvVz3fJnKp_enydM9PrXw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/G5yRgk4y1yeVmQCxffhL1A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7206 N Dale Mabry Hwy",
+                "address2": "",
+                "address3": null,
+                "city": "Tampa",
+                "country": "US",
+                "display_address": [
+                    "7206 N Dale Mabry Hwy",
+                    "Tampa, FL 33614"
+                ],
+                "state": "FL",
+                "zip_code": "33614"
+            },
+            "name": "Rene\u2019s Mexican Kitchen",
+            "phone": "+18136009705",
+            "rating": 5.0,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/rene-s-mexican-kitchen-tampa-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mitmita-tampa",
+            "categories": [
+                {
+                    "alias": "ethiopian",
+                    "title": "Ethiopian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.0405687241876,
+                "longitude": -82.5265075864039
+            },
+            "display_phone": "(813) 415-2183",
+            "distance": 4936.082941739076,
+            "id": "T6c7iPO8Y4t_GQiyevZbiQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hveX3OWh4gvz9qdOutBULw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4901 W Linebaugh Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Tampa",
+                "country": "US",
+                "display_address": [
+                    "4901 W Linebaugh Ave",
+                    "Tampa, FL 33624"
+                ],
+                "state": "FL",
+                "zip_code": "33624"
+            },
+            "name": "Mitmita",
+            "phone": "+18134152183",
+            "rating": 4.5,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mitmita-tampa?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ciccio-cali-tampa-4",
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "vegetarian",
+                    "title": "Vegetarian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 27.94231,
+                "longitude": -82.50619
+            },
+            "display_phone": "(813) 305-2473",
+            "distance": 6739.497391519469,
+            "id": "DxzL49yhgQ2CxZvmcXV_YA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qTyEyr74jjB4EemxA26xVA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "217 S Dale Mabry Hwy",
+                "address2": "",
+                "address3": null,
+                "city": "Tampa",
+                "country": "US",
+                "display_address": [
+                    "217 S Dale Mabry Hwy",
+                    "Tampa, FL 33609"
+                ],
+                "state": "FL",
+                "zip_code": "33609"
+            },
+            "name": "Ciccio Cali",
+            "phone": "+18133052473",
+            "rating": 4.5,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ciccio-cali-tampa-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 27.996995300516375,
+            "longitude": -82.53611577428751
+        }
+    },
+    "total": 3
+}

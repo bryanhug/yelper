@@ -1,0 +1,696 @@
+{
+    "businesses": [
+        {
+            "alias": "aroma-pizza-and-pasta-lake-forest-2",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.68197,
+                "longitude": -117.66933
+            },
+            "display_phone": "(949) 916-0909",
+            "distance": 4624.041584611479,
+            "id": "03P6exCi1_k2dckmfzF-4Q",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KTvqR2LwJ8p-MyDEB-jhnQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "20491 Alton Pkwy",
+                "address2": "Ste B",
+                "address3": null,
+                "city": "Lake Forest",
+                "country": "US",
+                "display_address": [
+                    "20491 Alton Pkwy",
+                    "Ste B",
+                    "Lake Forest, CA 92610"
+                ],
+                "state": "CA",
+                "zip_code": "92610"
+            },
+            "name": "Aroma Pizza & Pasta",
+            "phone": "+19499160909",
+            "rating": 4.0,
+            "review_count": 34,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/aroma-pizza-and-pasta-lake-forest-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tik-tok-pizza-lake-forest",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.6435294067767,
+                "longitude": -117.667757455426
+            },
+            "display_phone": "(949) 215-7229",
+            "distance": 7185.592884346584,
+            "id": "eBakIsiTrKiEgXFxgFQHqw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/opRa_kD2Daq8nGXHrY8d0g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "21991 El Toro Rd",
+                "address2": "Ste 7",
+                "address3": null,
+                "city": "Lake Forest",
+                "country": "US",
+                "display_address": [
+                    "21991 El Toro Rd",
+                    "Ste 7",
+                    "Lake Forest, CA 92630"
+                ],
+                "state": "CA",
+                "zip_code": "92630"
+            },
+            "name": "Tik Tok Pizza",
+            "phone": "+19492157229",
+            "rating": 4.0,
+            "review_count": 10,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/tik-tok-pizza-lake-forest?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mypanier-local-lake-forest-4",
+            "categories": [
+                {
+                    "alias": "gourmet",
+                    "title": "Specialty Food"
+                },
+                {
+                    "alias": "intlgrocery",
+                    "title": "International Grocery"
+                },
+                {
+                    "alias": "grocery",
+                    "title": "Grocery"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.660053,
+                "longitude": -117.6964782
+            },
+            "display_phone": "(949) 305-0149",
+            "distance": 7255.956494373455,
+            "id": "pyFLH-H2Mv-_2mmHJUDOCA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gBcAujm1Lma3LphrBW3iCw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "25 Spectrum Pointe Dr",
+                "address2": "Ste 406",
+                "address3": "",
+                "city": "Lake Forest",
+                "country": "US",
+                "display_address": [
+                    "25 Spectrum Pointe Dr",
+                    "Ste 406",
+                    "Lake Forest, CA 92630"
+                ],
+                "state": "CA",
+                "zip_code": "92630"
+            },
+            "name": "myPanier local",
+            "phone": "+19493050149",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mypanier-local-lake-forest-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "cibo-italiano-rancho-santa-margarita",
+            "categories": [
+                {
+                    "alias": "importedfood",
+                    "title": "Imported Food"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.6369412952067,
+                "longitude": -117.608081661165
+            },
+            "display_phone": "(949) 546-0284",
+            "distance": 7804.191790809163,
+            "id": "t9WdlLV7xL_1phUDy5apVA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cdq7mskox6-uiNGa8QsbyA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "29941 Aventura",
+                "address2": "Ste I",
+                "address3": null,
+                "city": "Rancho Santa Margarita",
+                "country": "US",
+                "display_address": [
+                    "29941 Aventura",
+                    "Ste I",
+                    "Rancho Santa Margarita, CA 92688"
+                ],
+                "state": "CA",
+                "zip_code": "92688"
+            },
+            "name": "Cibo Italiano",
+            "phone": "+19495460284",
+            "rating": 4.5,
+            "review_count": 15,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/cibo-italiano-rancho-santa-margarita?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "handels-homemade-ice-cream-rancho-santa-margarita",
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "gelato",
+                    "title": "Gelato"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.64096,
+                "longitude": -117.59592
+            },
+            "display_phone": "(949) 709-0096",
+            "distance": 7853.313437515434,
+            "id": "yrDHJaHlWtyt2otNCLXHzQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/p7M9Xw5ivTes8EkVy0Y1ow/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "30622 Santa Margarita Pkwy",
+                "address2": null,
+                "address3": "",
+                "city": "Rancho Santa Margarita",
+                "country": "US",
+                "display_address": [
+                    "30622 Santa Margarita Pkwy",
+                    "Rancho Santa Margarita, CA 92688"
+                ],
+                "state": "CA",
+                "zip_code": "92688"
+            },
+            "name": "Handel's Homemade Ice Cream",
+            "phone": "+19497090096",
+            "rating": 4.5,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/handels-homemade-ice-cream-rancho-santa-margarita?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "pengo-drink-station-lake-forest-2",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.63898,
+                "longitude": -117.68061
+            },
+            "display_phone": "(949) 338-1535",
+            "distance": 8195.841347552834,
+            "id": "k6N0NTUsQs1qWe5wZHoPmg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZCTka0D8qFYhDI5403lLHQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "22367 El Toro Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Lake Forest",
+                "country": "US",
+                "display_address": [
+                    "22367 El Toro Rd",
+                    "Lake Forest, CA 92630"
+                ],
+                "state": "CA",
+                "zip_code": "92630"
+            },
+            "name": "Pengo Drink Station",
+            "phone": "+19493381535",
+            "rating": 4.5,
+            "review_count": 25,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/pengo-drink-station-lake-forest-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "vip-nails-salon-and-spa-rancho-santa-margarita",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.63724,
+                "longitude": -117.59161
+            },
+            "display_phone": "(949) 546-0808",
+            "distance": 8402.287290702367,
+            "id": "gzpO-cnZU6nUxV-fOlXFzA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/clxfNtGKzGJ879TBMhiVWw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "22441 Antonio Pkwy",
+                "address2": "Ste 330",
+                "address3": "",
+                "city": "Rancho Santa Margarita",
+                "country": "US",
+                "display_address": [
+                    "22441 Antonio Pkwy",
+                    "Ste 330",
+                    "Rancho Santa Margarita, CA 92688"
+                ],
+                "state": "CA",
+                "zip_code": "92688"
+            },
+            "name": "VIP Nails Salon and Spa",
+            "phone": "+19495460808",
+            "rating": 4.5,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/vip-nails-salon-and-spa-rancho-santa-margarita?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "maxrelax-spa-lake-forest",
+            "categories": [
+                {
+                    "alias": "massage",
+                    "title": "Massage"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.62935,
+                "longitude": -117.71756
+            },
+            "display_phone": "(949) 668-1888",
+            "distance": 11050.355296066598,
+            "id": "ixfgV7L1mW6JSjUiA3Nxuw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/O0VP0dHwxG59Dyv8J6cBlQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "23646 Rockfield Blvd",
+                "address2": "Ste 601",
+                "address3": null,
+                "city": "Lake Forest",
+                "country": "US",
+                "display_address": [
+                    "23646 Rockfield Blvd",
+                    "Ste 601",
+                    "Lake Forest, CA 92630"
+                ],
+                "state": "CA",
+                "zip_code": "92630"
+            },
+            "name": "MaxRelax Spa",
+            "phone": "+19496681888",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/maxrelax-spa-lake-forest?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "pania-pizzaria-lake-forest",
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.619309,
+                "longitude": -117.701673
+            },
+            "display_phone": "(949) 461-0142",
+            "distance": 11182.301791144902,
+            "id": "sveAiM2CVVn0W-go8Ids3g",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gYBOgi9V6x-g79SaUyWZMA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "23624 El Toro Rd",
+                "address2": "Ste A",
+                "address3": "",
+                "city": "Lake Forest",
+                "country": "US",
+                "display_address": [
+                    "23624 El Toro Rd",
+                    "Ste A",
+                    "Lake Forest, CA 92630"
+                ],
+                "state": "CA",
+                "zip_code": "92630"
+            },
+            "name": "Pania Pizzaria",
+            "phone": "+19494610142",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/pania-pizzaria-lake-forest?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "woodfire-kabob-restaurant-laguna-hills-2",
+            "categories": [
+                {
+                    "alias": "persian",
+                    "title": "Persian/Iranian"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.6117941644252,
+                "longitude": -117.707678076721
+            },
+            "display_phone": "(949) 220-0000",
+            "distance": 12055.638579345114,
+            "id": "rdhmzI7AG5dKdo7ZXCybug",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Wa2dksMxMhCV2eDA9e6MhQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "24155 Laguna Hills Mall",
+                "address2": "Ste 1055",
+                "address3": "",
+                "city": "Laguna Hills",
+                "country": "US",
+                "display_address": [
+                    "24155 Laguna Hills Mall",
+                    "Ste 1055",
+                    "Laguna Hills, CA 92653"
+                ],
+                "state": "CA",
+                "zip_code": "92653"
+            },
+            "name": "Woodfire Kabob Restaurant",
+            "phone": "+19492200000",
+            "rating": 4.5,
+            "review_count": 82,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/woodfire-kabob-restaurant-laguna-hills-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "soba-izakaya-minami-laguna-hills-2",
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.6081,
+                "longitude": -117.7006
+            },
+            "display_phone": "(949) 215-5375",
+            "distance": 12153.349764192664,
+            "id": "x4ksFReioH1P_AO8MEZP5w",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PkAxzAxXZOEmDSZakHmUKQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "24391 Avenida De La Carlota",
+                "address2": "Ste A",
+                "address3": "",
+                "city": "Laguna Hills",
+                "country": "US",
+                "display_address": [
+                    "24391 Avenida De La Carlota",
+                    "Ste A",
+                    "Laguna Hills, CA 92653"
+                ],
+                "state": "CA",
+                "zip_code": "92653"
+            },
+            "name": "Soba Izakaya MINAMI",
+            "phone": "+19492155375",
+            "rating": 4.0,
+            "review_count": 80,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/soba-izakaya-minami-laguna-hills-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "eyeconic-lash-and-brow-mission-viejo",
+            "categories": [
+                {
+                    "alias": "eyelashservice",
+                    "title": "Eyelash Service"
+                },
+                {
+                    "alias": "permanentmakeup",
+                    "title": "Permanent Makeup"
+                },
+                {
+                    "alias": "skincare",
+                    "title": "Skin Care"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.59229,
+                "longitude": -117.65039
+            },
+            "display_phone": "(310) 602-9026",
+            "distance": 12363.875214386753,
+            "id": "QzYFkR2fd9uOiQMGIExtQQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8YLCOXZ4idst6tLRMrN4cw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "25551 Pacific Crest Dr",
+                "address2": null,
+                "address3": "",
+                "city": "Mission Viejo",
+                "country": "US",
+                "display_address": [
+                    "25551 Pacific Crest Dr",
+                    "Mission Viejo, CA 92692"
+                ],
+                "state": "CA",
+                "zip_code": "92692"
+            },
+            "name": "Eyeconic Lash and Brow",
+            "phone": "+13106029026",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/eyeconic-lash-and-brow-mission-viejo?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "chaupain-bakery-laguna-hills",
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.6217958939994,
+                "longitude": -117.732059747408
+            },
+            "display_phone": "(213) 479-5879",
+            "distance": 12595.804246880001,
+            "id": "RCw06xMYe4XGRMAq03XbRg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eCc6bRW1UExkHf-dWG4ajQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "24401 Ridge Rte Dr",
+                "address2": "Ste B104",
+                "address3": null,
+                "city": "Laguna Hills",
+                "country": "US",
+                "display_address": [
+                    "24401 Ridge Rte Dr",
+                    "Ste B104",
+                    "Laguna Hills, CA 92653"
+                ],
+                "state": "CA",
+                "zip_code": "92653"
+            },
+            "name": "Chaupain Bakery",
+            "phone": "+12134795879",
+            "rating": 5.0,
+            "review_count": 31,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/chaupain-bakery-laguna-hills?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hair-makeup-by-sydney-orange",
+            "categories": [
+                {
+                    "alias": "makeupartists",
+                    "title": "Makeup Artists"
+                },
+                {
+                    "alias": "hairstylists",
+                    "title": "Hair Stylists"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7874,
+                "longitude": -117.82252
+            },
+            "display_phone": "(951) 552-5675",
+            "distance": 19568.37201011972,
+            "id": "lM7he-sB9ItDgdNz6xOxHg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EZmQYEkZ-tjK6nVsSS-SEQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2922 E Chapman Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Orange",
+                "country": "US",
+                "display_address": [
+                    "2922 E Chapman Ave",
+                    "Orange, CA 92869"
+                ],
+                "state": "CA",
+                "zip_code": "92869"
+            },
+            "name": "Hair + Makeup by Sydney",
+            "phone": "+19515525675",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hair-makeup-by-sydney-orange?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "energy-haus-long-beach",
+            "categories": [
+                {
+                    "alias": "reiki",
+                    "title": "Reiki"
+                },
+                {
+                    "alias": "spiritual_shop",
+                    "title": "Spiritual Shop"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.76421,
+                "longitude": -118.15339
+            },
+            "display_phone": "(562) 506-5386",
+            "distance": 48240.51100106093,
+            "id": "7A7czRDduVGb4javOVXWdQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aBUmbDuC6jjcvwveIQnwAg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3300 E Broadway",
+                "address2": "",
+                "address3": "",
+                "city": "Long Beach",
+                "country": "US",
+                "display_address": [
+                    "3300 E Broadway",
+                    "Long Beach, CA 90803"
+                ],
+                "state": "CA",
+                "zip_code": "90803"
+            },
+            "name": "Energy Haus",
+            "phone": "+15625065386",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/energy-haus-long-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "otto-s-pizza-stix-los-angeles-2",
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0624708095338,
+                "longitude": -118.358365834324
+            },
+            "display_phone": "(562) 743-1964",
+            "distance": 77672.58503912471,
+            "id": "s-nSluuP5yRFqcdPOMbWNQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/H_f3gpWrxEWJ0pJWXAn9gw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5900 Wilshire Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "country": "US",
+                "display_address": [
+                    "5900 Wilshire Blvd",
+                    "Los Angeles, CA 90036"
+                ],
+                "state": "CA",
+                "zip_code": "90036"
+            },
+            "name": "Otto\u2019s Pizza Stix",
+            "phone": "+15627431964",
+            "rating": 4.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/otto-s-pizza-stix-los-angeles-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 33.702868289036665,
+            "longitude": -117.63700794541195
+        }
+    },
+    "total": 16
+}

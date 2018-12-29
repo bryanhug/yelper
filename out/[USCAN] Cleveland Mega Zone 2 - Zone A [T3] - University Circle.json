@@ -1,0 +1,85 @@
+{
+    "businesses": [
+        {
+            "alias": "bella-nail-bar-cleveland",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.50897,
+                "longitude": -81.60582
+            },
+            "display_phone": "(216) 862-9099",
+            "distance": 1527.7181274015866,
+            "id": "bOXIJLw91Ku5XJUqLhrKIg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SRpf6tKbThwv11wEQmIlVA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1988 Ford Dr",
+                "address2": null,
+                "address3": "",
+                "city": "Cleveland",
+                "country": "US",
+                "display_address": [
+                    "1988 Ford Dr",
+                    "Cleveland, OH 44106"
+                ],
+                "state": "OH",
+                "zip_code": "44106"
+            },
+            "name": "Bella Nail Bar",
+            "phone": "+12168629099",
+            "rating": 4.0,
+            "review_count": 6,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bella-nail-bar-cleveland?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sangeet-indian-restaurant-cleveland-heights",
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.50101,
+                "longitude": -81.55625
+            },
+            "display_phone": "(216) 795-5333",
+            "distance": 3473.120807658685,
+            "id": "fDCxv_qTtqQP-FVqJwwgAQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cwGAo0nDTsWl3VF3A4nHEw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2158 S Taylor Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Cleveland Heights",
+                "country": "US",
+                "display_address": [
+                    "2158 S Taylor Rd",
+                    "Cleveland Heights, OH 44118"
+                ],
+                "state": "OH",
+                "zip_code": "44118"
+            },
+            "name": "Sangeet Indian Restaurant",
+            "phone": "+12167955333",
+            "rating": 5.0,
+            "review_count": 6,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sangeet-indian-restaurant-cleveland-heights?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 41.49647970298404,
+            "longitude": -81.59764558465471
+        }
+    },
+    "total": 2
+}

@@ -1,0 +1,98 @@
+{
+    "businesses": [
+        {
+            "alias": "cure-el-paso-2",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                },
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                }
+            ],
+            "coordinates": {
+                "latitude": 31.88503074646,
+                "longitude": -106.562461853027
+            },
+            "display_phone": "(915) 584-2873",
+            "distance": 7341.964149571519,
+            "id": "WyboyYm7LqRt4v4z1Yfqcg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bnC1-O2K0sz5BWOMuGSajA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7460 Cimarron Market",
+                "address2": "Bldg 1 Ste 300",
+                "address3": null,
+                "city": "El Paso",
+                "country": "US",
+                "display_address": [
+                    "7460 Cimarron Market",
+                    "Bldg 1 Ste 300",
+                    "El Paso, TX 79911"
+                ],
+                "state": "TX",
+                "zip_code": "79911"
+            },
+            "name": "Cure",
+            "phone": "+19155842873",
+            "rating": 3.5,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/cure-el-paso-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "perfect-day-cafe-el-paso",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 31.8248178774868,
+                "longitude": -106.523531375082
+            },
+            "display_phone": "(915) 222-8244",
+            "distance": 10978.439843272788,
+            "id": "HwuUYaYsH9EbTAuXuGImqA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4PaLDkZLGgax7Vb1bduC1g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5809 N Mesa",
+                "address2": null,
+                "address3": "",
+                "city": "El Paso",
+                "country": "US",
+                "display_address": [
+                    "5809 N Mesa",
+                    "El Paso, TX 79912"
+                ],
+                "state": "TX",
+                "zip_code": "79912"
+            },
+            "name": "Perfect Day Cafe",
+            "phone": "+19152228244",
+            "rating": 4.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/perfect-day-cafe-el-paso?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 31.922000578166443,
+            "longitude": -106.50655401846196
+        }
+    },
+    "total": 2
+}

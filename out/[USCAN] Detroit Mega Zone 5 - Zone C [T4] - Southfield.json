@@ -1,0 +1,183 @@
+{
+    "businesses": [
+        {
+            "alias": "bowls-for-the-souls-southfield",
+            "categories": [
+                {
+                    "alias": "catering",
+                    "title": "Caterers"
+                },
+                {
+                    "alias": "eventplanning",
+                    "title": "Party & Event Planning"
+                },
+                {
+                    "alias": "fooddeliveryservices",
+                    "title": "Food Delivery Services"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.47916,
+                "longitude": -83.29027
+            },
+            "display_phone": "(313) 656-8700",
+            "distance": 2585.2299499052247,
+            "id": "3yra9SHAhrEUI4lvHeyldA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kqvwEO3QVtFEo1FhF5ZIdQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "25271 Orchard Grove",
+                "address2": null,
+                "address3": "",
+                "city": "Southfield",
+                "country": "US",
+                "display_address": [
+                    "25271 Orchard Grove",
+                    "Southfield, MI 48033"
+                ],
+                "state": "MI",
+                "zip_code": "48033"
+            },
+            "name": "Bowls for the Souls",
+            "phone": "+13136568700",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bowls-for-the-souls-southfield?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "burgerim-bingham-farms",
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.5134,
+                "longitude": -83.2854
+            },
+            "display_phone": "(248) 621-0100",
+            "distance": 3512.2275577569994,
+            "id": "gG5Ly7axrWTihStiK1TBKQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qfT-qk8GjzMKYM7MQb1ElA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "30754 Telegraph Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Bingham Farms",
+                "country": "US",
+                "display_address": [
+                    "30754 Telegraph Rd",
+                    "Bingham Farms, MI 48025"
+                ],
+                "state": "MI",
+                "zip_code": "48025"
+            },
+            "name": "Burgerim",
+            "phone": "+12486210100",
+            "rating": 4.0,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/burgerim-bingham-farms?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-pentacle-path-birmingham",
+            "categories": [
+                {
+                    "alias": "psychics",
+                    "title": "Psychics"
+                },
+                {
+                    "alias": "spiritual_shop",
+                    "title": "Spiritual Shop"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.54697,
+                "longitude": -83.21309
+            },
+            "display_phone": "(313) 583-9509",
+            "distance": 7725.181460690604,
+            "id": "Ad_c3Kkw9RnXbPJjl2kJFg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RkdyDvfl-lJuljDgUCZObQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "303 E Maple Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Birmingham",
+                "country": "US",
+                "display_address": [
+                    "303 E Maple Rd",
+                    "Birmingham, MI 48009"
+                ],
+                "state": "MI",
+                "zip_code": "48009"
+            },
+            "name": "The Pentacle Path",
+            "phone": "+13135839509",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-pentacle-path-birmingham?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hazel-ravines-and-downtown-birmingham",
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.546537405042,
+                "longitude": -83.2118654251098
+            },
+            "display_phone": "(248) 671-1714",
+            "distance": 7734.408970525548,
+            "id": "f7cSLCcMmAF_irv6p7_4Nw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1hkmFXgGFJKcd_EUISlF6g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "34977 Woodward Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Birmingham",
+                "country": "US",
+                "display_address": [
+                    "34977 Woodward Ave",
+                    "Birmingham, MI 48009"
+                ],
+                "state": "MI",
+                "zip_code": "48009"
+            },
+            "name": "Hazel, Ravines & Downtown",
+            "phone": "+12486711714",
+            "rating": 4.0,
+            "review_count": 40,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hazel-ravines-and-downtown-birmingham?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 42.487018921550224,
+            "longitude": -83.26070244177686
+        }
+    },
+    "total": 4
+}

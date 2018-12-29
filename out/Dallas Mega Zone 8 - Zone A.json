@@ -1,0 +1,218 @@
+{
+    "businesses": [
+        {
+            "alias": "blackball-taiwanese-dessert-plano",
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.06683,
+                "longitude": -96.69322
+            },
+            "display_phone": "(972) 517-8818",
+            "distance": 3659.331074228003,
+            "id": "ZTq7ff76OT3v7d-q8OToAQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TF0iXTY8Mhq14hW5WT9lLQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "100 Legacy Dr",
+                "address2": "Ste 102",
+                "address3": "",
+                "city": "Plano",
+                "country": "US",
+                "display_address": [
+                    "100 Legacy Dr",
+                    "Ste 102",
+                    "Plano, TX 75023"
+                ],
+                "state": "TX",
+                "zip_code": "75023"
+            },
+            "name": "BlackBall Taiwanese Dessert",
+            "phone": "+19725178818",
+            "rating": 4.5,
+            "review_count": 31,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/blackball-taiwanese-dessert-plano?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "firenza-pizza-frisco-2",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.1254976450154,
+                "longitude": -96.7345116928133
+            },
+            "display_phone": "",
+            "distance": 4027.0534646819397,
+            "id": "pU61YC9bZWEOzg9Tup3Wxg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fxb1IgRF2VOV4E1qNiLdYA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "16100 TX-121",
+                "address2": "Ste 200",
+                "address3": null,
+                "city": "Frisco",
+                "country": "US",
+                "display_address": [
+                    "16100 TX-121",
+                    "Ste 200",
+                    "Frisco, TX 75035"
+                ],
+                "state": "TX",
+                "zip_code": "75035"
+            },
+            "name": "Firenza Pizza",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/firenza-pizza-frisco-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "king-and-cardinal-frisco",
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.12045,
+                "longitude": -96.7501
+            },
+            "display_phone": "(469) 731-1002",
+            "distance": 4370.277533732321,
+            "id": "IJ_6VoseADX4YE9UHJoxIw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SbfDV3dHTy97ZDKDqGdEgw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "14550 State Hwy 121",
+                "address2": "Ste 160",
+                "address3": "",
+                "city": "Frisco",
+                "country": "US",
+                "display_address": [
+                    "14550 State Hwy 121",
+                    "Ste 160",
+                    "Frisco, TX 75035"
+                ],
+                "state": "TX",
+                "zip_code": "75035"
+            },
+            "name": "King & Cardinal",
+            "phone": "+14697311002",
+            "rating": 3.5,
+            "review_count": 8,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/king-and-cardinal-frisco?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "dondonpoke-plano",
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "poke",
+                    "title": "Poke"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.05509,
+                "longitude": -96.68924
+            },
+            "display_phone": "(469) 468-7945",
+            "distance": 4899.454974898099,
+            "id": "URwX8pdJq5bUJg8MupH2Eg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RLvTJahjpEu-qvXT134MBw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5850 K Ave",
+                "address2": "Ste 400",
+                "address3": "",
+                "city": "Plano",
+                "country": "US",
+                "display_address": [
+                    "5850 K Ave",
+                    "Ste 400",
+                    "Plano, TX 75074"
+                ],
+                "state": "TX",
+                "zip_code": "75074"
+            },
+            "name": "DonDonPoke",
+            "phone": "+14694687945",
+            "rating": 4.5,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dondonpoke-plano?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-corn-dog-guy-dallas",
+            "categories": [
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.96473,
+                "longitude": -96.82557
+            },
+            "display_phone": "(210) 239-8609",
+            "distance": 17525.475132261734,
+            "id": "Rh1fllQplmPZYl27vWYJAQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lJTqr0bwJoOmGOx6i4_wXA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "Dallas, TX 75001"
+                ],
+                "state": "TX",
+                "zip_code": "75001"
+            },
+            "name": "The Corn Dog Guy",
+            "phone": "+12102398609",
+            "rating": 3.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-corn-dog-guy-dallas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 33.09209755749739,
+            "longitude": -96.71779594279032
+        }
+    },
+    "total": 5
+}

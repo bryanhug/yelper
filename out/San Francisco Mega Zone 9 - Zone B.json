@@ -1,0 +1,258 @@
+{
+    "businesses": [
+        {
+            "alias": "huong-xua-bun-bo-restaurant-san-jose-2",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "soup",
+                    "title": "Soup"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.32121,
+                "longitude": -121.825
+            },
+            "display_phone": "(408) 769-2227",
+            "distance": 939.2933391867717,
+            "id": "pYts44KgzFz2ZrBm6Dn0yQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zhQHro4AyK2V8JcAlfJU4g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2435 S King Rd",
+                "address2": "Ste 20",
+                "address3": "",
+                "city": "San Jose",
+                "country": "US",
+                "display_address": [
+                    "2435 S King Rd",
+                    "Ste 20",
+                    "San Jose, CA 95122"
+                ],
+                "state": "CA",
+                "zip_code": "95122"
+            },
+            "name": "Huong Xua Bun Bo Restaurant",
+            "phone": "+14087692227",
+            "rating": 4.0,
+            "review_count": 6,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/huong-xua-bun-bo-restaurant-san-jose-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hoa-dang-vegetarian-san-jose",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "vegetarian",
+                    "title": "Vegetarian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.3083753937996,
+                "longitude": -121.813740469515
+            },
+            "display_phone": "",
+            "distance": 1540.427990429844,
+            "id": "zoSMkKDE3QFKJ-XiLN0ISQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7YZ9ePJLGyWRp4DSmS8T7A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3005 Silver Creek Rd",
+                "address2": "Ste 136",
+                "address3": null,
+                "city": "San Jose",
+                "country": "US",
+                "display_address": [
+                    "3005 Silver Creek Rd",
+                    "Ste 136",
+                    "San Jose, CA 95121"
+                ],
+                "state": "CA",
+                "zip_code": "95121"
+            },
+            "name": "Hoa Dang Vegetarian",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 26,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hoa-dang-vegetarian-san-jose?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "extreme-lashes-official-san-jose",
+            "categories": [
+                {
+                    "alias": "cosmetics",
+                    "title": "Cosmetics & Beauty Supply"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.3105519,
+                "longitude": -121.8500309
+            },
+            "display_phone": "(408) 821-0044",
+            "distance": 1810.5244391827594,
+            "id": "dxeI9DEtWBKpHlquzjBS2w",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BVNOj76ck4RyDtok7ql6qg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2266 Senter Rd",
+                "address2": "Ste 122",
+                "address3": "",
+                "city": "San Jose",
+                "country": "US",
+                "display_address": [
+                    "2266 Senter Rd",
+                    "Ste 122",
+                    "San Jose, CA 95111"
+                ],
+                "state": "CA",
+                "zip_code": "95111"
+            },
+            "name": "Extreme Lashes Official",
+            "phone": "+14088210044",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/extreme-lashes-official-san-jose?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "extreme-spotlight-san-jose",
+            "categories": [
+                {
+                    "alias": "fashion",
+                    "title": "Fashion"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.31052,
+                "longitude": -121.84997
+            },
+            "display_phone": "(408) 564-5803",
+            "distance": 1810.5244391827594,
+            "id": "mtAjOIa6J2AcXX5USxMvbw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ru-XDkeTU2uz_cPa17lAFw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2266 Senter Rd",
+                "address2": "Unit 122",
+                "address3": "",
+                "city": "San Jose",
+                "country": "US",
+                "display_address": [
+                    "2266 Senter Rd",
+                    "Unit 122",
+                    "San Jose, CA 95112"
+                ],
+                "state": "CA",
+                "zip_code": "95112"
+            },
+            "name": "Extreme Spotlight",
+            "phone": "+14085645803",
+            "rating": 4.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/extreme-spotlight-san-jose?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "claw-shack-san-jose-3",
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "cajun",
+                    "title": "Cajun/Creole"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.3239,
+                "longitude": -121.79718
+            },
+            "display_phone": "(408) 677-3070",
+            "distance": 3108.005956470229,
+            "id": "Qw9f1fYtsiqdnJB1j9sNsw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LBM8uqtF5DqZkol_VvPSGw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2847 S White Rd",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "country": "US",
+                "display_address": [
+                    "2847 S White Rd",
+                    "San Jose, CA 95148"
+                ],
+                "state": "CA",
+                "zip_code": "95148"
+            },
+            "name": "Claw Shack",
+            "phone": "+14086773070",
+            "rating": 4.5,
+            "review_count": 59,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/claw-shack-san-jose-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "banh-cuon-saigon-san-jose-4",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.33103,
+                "longitude": -121.85712
+            },
+            "display_phone": "(408) 642-5771",
+            "distance": 3135.9488123479146,
+            "id": "enp6UQ7UCBHmT3JWUI7ZyA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/391aU_g6oERrafKAXFfj2A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "979 Story Rd",
+                "address2": "Ste 7048",
+                "address3": "",
+                "city": "San Jose",
+                "country": "US",
+                "display_address": [
+                    "979 Story Rd",
+                    "Ste 7048",
+                    "San Jose, CA 95122"
+                ],
+                "state": "CA",
+                "zip_code": "95122"
+            },
+            "name": "Banh Cuon Saigon",
+            "phone": "+14086425771",
+            "rating": 4.5,
+            "review_count": 43,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/banh-cuon-saigon-san-jose-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 37.31353492160282,
+            "longitude": -121.82990523149076
+        }
+    },
+    "total": 6
+}

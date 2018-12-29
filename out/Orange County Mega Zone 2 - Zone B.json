@@ -1,0 +1,764 @@
+{
+    "businesses": [
+        {
+            "alias": "oliboli-donuts-tustin",
+            "categories": [
+                {
+                    "alias": "donuts",
+                    "title": "Donuts"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.74623,
+                "longitude": -117.8241
+            },
+            "display_phone": "(714) 760-4876",
+            "distance": 1069.07976933957,
+            "id": "_vuVqnKcMd1izZGiA63n3g",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Gt6OFAdreLUz21LwA_aMTQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "135 W 1st St",
+                "address2": null,
+                "address3": "",
+                "city": "Tustin",
+                "country": "US",
+                "display_address": [
+                    "135 W 1st St",
+                    "Tustin, CA 92780"
+                ],
+                "state": "CA",
+                "zip_code": "92780"
+            },
+            "name": "Oliboli Donuts",
+            "phone": "+17147604876",
+            "rating": 4.5,
+            "review_count": 164,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/oliboli-donuts-tustin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "el-fishawy-tustin",
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "hookah_bars",
+                    "title": "Hookah Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7429596,
+                "longitude": -117.8235351
+            },
+            "display_phone": "(714) 486-2528",
+            "distance": 1070.3148097242545,
+            "id": "GQYXHNLG2vqR5d_614O7lw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/exYwY9YTHTVQYyIdBy9kVg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "303 El Camino Real",
+                "address2": null,
+                "address3": "",
+                "city": "Tustin",
+                "country": "US",
+                "display_address": [
+                    "303 El Camino Real",
+                    "Tustin, CA 92780"
+                ],
+                "state": "CA",
+                "zip_code": "92780"
+            },
+            "name": "El Fishawy",
+            "phone": "+17144862528",
+            "rating": 4.5,
+            "review_count": 23,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/el-fishawy-tustin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ramen-mura-tustin",
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.73914,
+                "longitude": -117.82055
+            },
+            "display_phone": "(714) 617-4891",
+            "distance": 1098.0284274494297,
+            "id": "4ZV1Llmw7fftWgNArRzL6g",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MGPaSVbL-aVGS_dB8KhZhg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "13882 Newport Ave",
+                "address2": "Unit A",
+                "address3": "",
+                "city": "Tustin",
+                "country": "US",
+                "display_address": [
+                    "13882 Newport Ave",
+                    "Unit A",
+                    "Tustin, CA 92780"
+                ],
+                "state": "CA",
+                "zip_code": "92780"
+            },
+            "name": "Ramen Mura",
+            "phone": "+17146174891",
+            "rating": 4.5,
+            "review_count": 60,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ramen-mura-tustin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hntea-organic-tea-house-tustin",
+            "categories": [
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.73806,
+                "longitude": -117.82275
+            },
+            "display_phone": "(657) 600-8556",
+            "distance": 1324.6766312720922,
+            "id": "goIZGG5PUOkhNDWg5SaXZw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0q3MvEHzukyW_NfzFswmWQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "14001 Newport Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Tustin",
+                "country": "US",
+                "display_address": [
+                    "14001 Newport Ave",
+                    "Tustin, CA 92780"
+                ],
+                "state": "CA",
+                "zip_code": "92780"
+            },
+            "name": "HNTea\u00ae - Organic Tea House",
+            "phone": "+16576008556",
+            "rating": 4.5,
+            "review_count": 103,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hntea-organic-tea-house-tustin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tangs-asian-buffet-tustin",
+            "categories": [
+                {
+                    "alias": "buffets",
+                    "title": "Buffets"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7601051586436,
+                "longitude": -117.824413217604
+            },
+            "display_phone": "(714) 832-3338",
+            "distance": 1890.5855015937234,
+            "id": "MSLRwvPjlTAzNoRW73hbHA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3MXyVH19pg7xHKJAHH0e7A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "17631 17th St",
+                "address2": "",
+                "address3": null,
+                "city": "Tustin",
+                "country": "US",
+                "display_address": [
+                    "17631 17th St",
+                    "Tustin, CA 92780"
+                ],
+                "state": "CA",
+                "zip_code": "92780"
+            },
+            "name": "Tang's Asian Buffet",
+            "phone": "+17148323338",
+            "rating": 3.5,
+            "review_count": 55,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tangs-asian-buffet-tustin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "jiouding-hot-pot-tustin-2",
+            "categories": [
+                {
+                    "alias": "hotpot",
+                    "title": "Hot Pot"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.731998,
+                "longitude": -117.826929
+            },
+            "display_phone": "(714) 617-5062",
+            "distance": 2086.6762552855685,
+            "id": "8gGxlPRoAoAZjP4kGXQUUQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Bpg4vxzEpI3GuCghbTly2A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1056 Walnut Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Tustin",
+                "country": "US",
+                "display_address": [
+                    "1056 Walnut Ave",
+                    "Tustin, CA 92780"
+                ],
+                "state": "CA",
+                "zip_code": "92780"
+            },
+            "name": "Jiouding Hot Pot",
+            "phone": "+17146175062",
+            "rating": 3.5,
+            "review_count": 25,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/jiouding-hot-pot-tustin-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mediterranean-guys-santa-ana-2",
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "vegetarian",
+                    "title": "Vegetarian"
+                },
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.75819,
+                "longitude": -117.83465
+            },
+            "display_phone": "(714) 884-4435",
+            "distance": 2475.830728863497,
+            "id": "gH3DrrU7GNvbrMTFxlXXxQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/g_IFaAe9q7C1RLbUG3C0hw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2274 E 17th St",
+                "address2": null,
+                "address3": "",
+                "city": "Santa Ana",
+                "country": "US",
+                "display_address": [
+                    "2274 E 17th St",
+                    "Santa Ana, CA 92705"
+                ],
+                "state": "CA",
+                "zip_code": "92705"
+            },
+            "name": "Mediterranean Guys",
+            "phone": "+17148844435",
+            "rating": 5.0,
+            "review_count": 39,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mediterranean-guys-santa-ana-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-ark-fit-tustin",
+            "categories": [
+                {
+                    "alias": "circuittraininggyms",
+                    "title": "Circuit Training Gyms"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.73467,
+                "longitude": -117.83602
+            },
+            "display_phone": "(657) 900-2425",
+            "distance": 2570.1079039124575,
+            "id": "MXqOOiU81SNsFYoDwKHTMw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Q9YRzXSU4kOzZIv8pwKOiQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "15761 Tustin Village Way",
+                "address2": "Ste 101",
+                "address3": "",
+                "city": "Tustin",
+                "country": "US",
+                "display_address": [
+                    "15761 Tustin Village Way",
+                    "Ste 101",
+                    "Tustin, CA 92780"
+                ],
+                "state": "CA",
+                "zip_code": "92780"
+            },
+            "name": "The Ark Fit",
+            "phone": "+16579002425",
+            "rating": 5.0,
+            "review_count": 6,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-ark-fit-tustin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ms-beauty-tustin",
+            "categories": [
+                {
+                    "alias": "permanentmakeup",
+                    "title": "Permanent Makeup"
+                },
+                {
+                    "alias": "eyelashservice",
+                    "title": "Eyelash Service"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.726638514099,
+                "longitude": -117.793095745146
+            },
+            "display_phone": "(949) 677-5132",
+            "distance": 2826.3312745730195,
+            "id": "bM13D8T2qJiJgW4pdLOGZA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4LUKpM_JuP9d2YnFexRaog/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2801 El Camino Real",
+                "address2": "Ste 9",
+                "address3": "",
+                "city": "Tustin",
+                "country": "US",
+                "display_address": [
+                    "2801 El Camino Real",
+                    "Ste 9",
+                    "Tustin, CA 92782"
+                ],
+                "state": "CA",
+                "zip_code": "92782"
+            },
+            "name": "MS Beauty",
+            "phone": "+19496775132",
+            "rating": 5.0,
+            "review_count": 17,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ms-beauty-tustin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "best-of-friends-cafe-tustin",
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.734975,
+                "longitude": -117.784923
+            },
+            "display_phone": "(714) 352-5734",
+            "distance": 2837.431481911171,
+            "id": "2yfTTHJqxNQsMaP_gtNBuA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/le_gojFpooIOb2n5DJ-zHA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "12850 Robinson Dr",
+                "address2": "",
+                "address3": null,
+                "city": "Tustin",
+                "country": "US",
+                "display_address": [
+                    "12850 Robinson Dr",
+                    "Tustin, CA 92782"
+                ],
+                "state": "CA",
+                "zip_code": "92782"
+            },
+            "name": "Best Of Friends Cafe",
+            "phone": "+17143525734",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/best-of-friends-cafe-tustin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "batteries-plus-bulbs-santa-ana",
+            "categories": [
+                {
+                    "alias": "batterystores",
+                    "title": "Battery Stores"
+                },
+                {
+                    "alias": "electronicsrepair",
+                    "title": "Electronics Repair"
+                },
+                {
+                    "alias": "mobilephonerepair",
+                    "title": "Mobile Phone Repair"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.760855,
+                "longitude": -117.838093
+            },
+            "display_phone": "(714) 900-2220",
+            "distance": 2846.39879966564,
+            "id": "T2k8xg991dRKm-hGEbniQA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/quo4jIFiDgFFawOPkxl0NQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1971 E17th St",
+                "address2": null,
+                "address3": null,
+                "city": "Santa Ana",
+                "country": "US",
+                "display_address": [
+                    "1971 E17th St",
+                    "Santa Ana, CA 92705"
+                ],
+                "state": "CA",
+                "zip_code": "92705"
+            },
+            "name": "Batteries Plus Bulbs",
+            "phone": "+17149002220",
+            "rating": 4.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/batteries-plus-bulbs-santa-ana?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ponzu-sushi-bar-santa-ana-3",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.760807,
+                "longitude": -117.838894
+            },
+            "display_phone": "(657) 231-6668",
+            "distance": 2939.4398899460907,
+            "id": "ookJhQyUWs0wmq0chQ6yOw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0zP6y1UypbBAgmdJ44z82w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1945 E 17th St",
+                "address2": "Ste 104",
+                "address3": "",
+                "city": "Santa Ana",
+                "country": "US",
+                "display_address": [
+                    "1945 E 17th St",
+                    "Ste 104",
+                    "Santa Ana, CA 92705"
+                ],
+                "state": "CA",
+                "zip_code": "92705"
+            },
+            "name": "Ponzu Sushi Bar",
+            "phone": "+16572316668",
+            "rating": 4.5,
+            "review_count": 89,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ponzu-sushi-bar-santa-ana-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "luv-2-play-irvine-irvine",
+            "categories": [
+                {
+                    "alias": "arcades",
+                    "title": "Arcades"
+                },
+                {
+                    "alias": "indoor_playcenter",
+                    "title": "Indoor Playcentre"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7243359,
+                "longitude": -117.7901433
+            },
+            "display_phone": "(855) 752-9002",
+            "distance": 3474.1497217536667,
+            "id": "kwV9re9kWfqF2Um7s3NfcA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/g5H40hNHa4ptFQ7ay5-2OQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "13722 Jamboree Rd",
+                "address2": "",
+                "address3": null,
+                "city": "Irvine",
+                "country": "US",
+                "display_address": [
+                    "13722 Jamboree Rd",
+                    "Irvine, CA 92602"
+                ],
+                "state": "CA",
+                "zip_code": "92602"
+            },
+            "name": "Luv 2 Play Irvine",
+            "phone": "+18557529002",
+            "rating": 4.0,
+            "review_count": 38,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/luv-2-play-irvine-irvine?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "taqueria-el-nuevo-perico-orange",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.78741,
+                "longitude": -117.81387
+            },
+            "display_phone": "(714) 997-0882",
+            "distance": 4564.462054471631,
+            "id": "q5_oKOskst5iKlV9ata4Hg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/W13D_shdp3PBpKHLSrDq8g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3702 E Chapman Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Orange",
+                "country": "US",
+                "display_address": [
+                    "3702 E Chapman Ave",
+                    "Orange, CA 92869"
+                ],
+                "state": "CA",
+                "zip_code": "92869"
+            },
+            "name": "Taqueria El Nuevo Perico",
+            "phone": "+17149970882",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/taqueria-el-nuevo-perico-orange?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sweet-rolled-tacos-orange",
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.78736,
+                "longitude": -117.81161
+            },
+            "display_phone": "(714) 300-4607",
+            "distance": 4565.248223396076,
+            "id": "x2dwORpGwYdbtwrJ9YMZPw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Q_niOtsmY_YMsjbNRMCGWw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3910 E Chapman Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Orange",
+                "country": "US",
+                "display_address": [
+                    "3910 E Chapman Ave",
+                    "Orange, CA 92869"
+                ],
+                "state": "CA",
+                "zip_code": "92869"
+            },
+            "name": "Sweet Rolled Tacos",
+            "phone": "+17143004607",
+            "rating": 5.0,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sweet-rolled-tacos-orange?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hair-makeup-by-sydney-orange",
+            "categories": [
+                {
+                    "alias": "makeupartists",
+                    "title": "Makeup Artists"
+                },
+                {
+                    "alias": "hairstylists",
+                    "title": "Hair Stylists"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7874,
+                "longitude": -117.82252
+            },
+            "display_phone": "(951) 552-5675",
+            "distance": 4662.904302983457,
+            "id": "lM7he-sB9ItDgdNz6xOxHg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EZmQYEkZ-tjK6nVsSS-SEQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2922 E Chapman Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Orange",
+                "country": "US",
+                "display_address": [
+                    "2922 E Chapman Ave",
+                    "Orange, CA 92869"
+                ],
+                "state": "CA",
+                "zip_code": "92869"
+            },
+            "name": "Hair + Makeup by Sydney",
+            "phone": "+19515525675",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hair-makeup-by-sydney-orange?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "energy-haus-long-beach",
+            "categories": [
+                {
+                    "alias": "reiki",
+                    "title": "Reiki"
+                },
+                {
+                    "alias": "spiritual_shop",
+                    "title": "Spiritual Shop"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.76421,
+                "longitude": -118.15339
+            },
+            "display_phone": "(562) 506-5386",
+            "distance": 31591.874711962846,
+            "id": "7A7czRDduVGb4javOVXWdQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aBUmbDuC6jjcvwveIQnwAg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3300 E Broadway",
+                "address2": "",
+                "address3": "",
+                "city": "Long Beach",
+                "country": "US",
+                "display_address": [
+                    "3300 E Broadway",
+                    "Long Beach, CA 90803"
+                ],
+                "state": "CA",
+                "zip_code": "90803"
+            },
+            "name": "Energy Haus",
+            "phone": "+15625065386",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/energy-haus-long-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "otto-s-pizza-stix-los-angeles-2",
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0624708095338,
+                "longitude": -118.358365834324
+            },
+            "display_phone": "(562) 743-1964",
+            "distance": 61436.28666859308,
+            "id": "s-nSluuP5yRFqcdPOMbWNQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/H_f3gpWrxEWJ0pJWXAn9gw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5900 Wilshire Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "country": "US",
+                "display_address": [
+                    "5900 Wilshire Blvd",
+                    "Los Angeles, CA 90036"
+                ],
+                "state": "CA",
+                "zip_code": "90036"
+            },
+            "name": "Otto\u2019s Pizza Stix",
+            "phone": "+15627431964",
+            "rating": 4.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/otto-s-pizza-stix-los-angeles-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 33.74635111961711,
+            "longitude": -117.81239127148348
+        }
+    },
+    "total": 18
+}

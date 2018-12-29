@@ -1,0 +1,183 @@
+{
+    "businesses": [
+        {
+            "alias": "seoul-taco-chicago-4",
+            "categories": [
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.7913981311833,
+                "longitude": -87.5939189784715
+            },
+            "display_phone": "(773) 891-2266",
+            "distance": 2019.0059404241374,
+            "id": "QxwUXqkyB8p0lUxxkbs1Pw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0_YduCOVIrAbjfOVzD28vg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1321 E 57th St",
+                "address2": "",
+                "address3": null,
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "1321 E 57th St",
+                    "Chicago, IL 60637"
+                ],
+                "state": "IL",
+                "zip_code": "60637"
+            },
+            "name": "Seoul Taco",
+            "phone": "+17738912266",
+            "rating": 4.5,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/seoul-taco-chicago-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hiro-sushi-and-desserts-bar-chicago",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.79923,
+                "longitude": -87.58963
+            },
+            "display_phone": "(773) 633-2797",
+            "distance": 2784.0191198027865,
+            "id": "WUO7XTzWTVaO6FTMRlSuxA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-faSA35Ny2wrnUGvNFzSbA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1453 E53rd St",
+                "address2": null,
+                "address3": "",
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "1453 E53rd St",
+                    "Chicago, IL 60615"
+                ],
+                "state": "IL",
+                "zip_code": "60615"
+            },
+            "name": "Hiro Sushi & Desserts Bar",
+            "phone": "+17736332797",
+            "rating": 3.0,
+            "review_count": 16,
+            "transactions": [
+                "pickup",
+                "restaurant_reservation",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/hiro-sushi-and-desserts-bar-chicago?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bibliophile-chicago",
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.7998199,
+                "longitude": -87.58483
+            },
+            "display_phone": "(872) 244-3704",
+            "distance": 2815.66253252032,
+            "id": "6ASaJ-3FD60qUTh3ceenrQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/B8cv5LKf9fbPIwFL1hq-Xw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1644 E 53rd St",
+                "address2": null,
+                "address3": "",
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "1644 E 53rd St",
+                    "Chicago, IL 60615"
+                ],
+                "state": "IL",
+                "zip_code": "60615"
+            },
+            "name": "Bibliophile",
+            "phone": "+18722443704",
+            "rating": 4.0,
+            "review_count": 38,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bibliophile-chicago?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "virtue-restaurant-chicago",
+            "categories": [
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.79968,
+                "longitude": -87.58983
+            },
+            "display_phone": "(773) 947-8831",
+            "distance": 2832.7361595614047,
+            "id": "t5g_E_xDCDO5YXFFGSNLQA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/50lZd1wuKzp-Q5jsEKpi6w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1462 E 53rd St",
+                "address2": "",
+                "address3": null,
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "1462 E 53rd St",
+                    "Chicago, IL 60615"
+                ],
+                "state": "IL",
+                "zip_code": "60615"
+            },
+            "name": "Virtue Restaurant",
+            "phone": "+17739478831",
+            "rating": 4.5,
+            "review_count": 28,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/virtue-restaurant-chicago?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 41.77445887176858,
+            "longitude": -87.5851504242337
+        }
+    },
+    "total": 4
+}

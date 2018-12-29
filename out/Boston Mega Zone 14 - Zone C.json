@@ -1,0 +1,101 @@
+{
+    "businesses": [
+        {
+            "alias": "feng-shui-restaurant-and-lounge-burlington-4",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "teppanyaki",
+                    "title": "Teppanyaki"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.4844195371193,
+                "longitude": -71.2108016721619
+            },
+            "display_phone": "(781) 365-0918",
+            "distance": 2072.9306859472754,
+            "id": "ptwwkiGwta8jqooNZt0_0w",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QJPxXMpyaGyZYN_SC5g5gw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2200 District Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Burlington",
+                "country": "US",
+                "display_address": [
+                    "2200 District Ave",
+                    "Burlington, MA 01803"
+                ],
+                "state": "MA",
+                "zip_code": "01803"
+            },
+            "name": "Feng Shui Restaurant & Lounge",
+            "phone": "+17813650918",
+            "rating": 3.5,
+            "review_count": 22,
+            "transactions": [
+                "delivery",
+                "restaurant_reservation",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/feng-shui-restaurant-and-lounge-burlington-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sanyo-lexington",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.44867,
+                "longitude": -71.228521
+            },
+            "display_phone": "(781) 861-6030",
+            "distance": 5460.32424554279,
+            "id": "nuERu9UiNAMrCZG9wXKHog",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DrVv6J1LIhqLEJDHLu4GPw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "25 Depot Square",
+                "address2": "",
+                "address3": null,
+                "city": "Lexington",
+                "country": "US",
+                "display_address": [
+                    "25 Depot Square",
+                    "Lexington, MA 02420"
+                ],
+                "state": "MA",
+                "zip_code": "02420"
+            },
+            "name": "Sanyo",
+            "phone": "+17818616030",
+            "rating": 3.5,
+            "review_count": 15,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sanyo-lexington?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 42.486208254343325,
+            "longitude": -71.18560335499146
+        }
+    },
+    "total": 2
+}

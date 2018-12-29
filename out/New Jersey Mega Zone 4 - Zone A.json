@@ -1,0 +1,96 @@
+{
+    "businesses": [
+        {
+            "alias": "sigri-indian-bbq-newark",
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.74251,
+                "longitude": -74.17375
+            },
+            "display_phone": "(973) 596-1114",
+            "distance": 781.9466553056642,
+            "id": "321dvWH3DwQE4uaVJX2Kvg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-Ctx_R8Hq5L4GOvVYy86gQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "155 University Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Newark",
+                "country": "US",
+                "display_address": [
+                    "155 University Ave",
+                    "Newark, NJ 07102"
+                ],
+                "state": "NJ",
+                "zip_code": "07102"
+            },
+            "name": "Sigri Indian BBQ",
+            "phone": "+19735961114",
+            "rating": 3.5,
+            "review_count": 8,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/sigri-indian-bbq-newark?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "potent-transitions-east-orange-2",
+            "categories": [
+                {
+                    "alias": "hair",
+                    "title": "Hair Salons"
+                },
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.76724,
+                "longitude": -74.19438
+            },
+            "display_phone": "(862) 520-2172",
+            "distance": 2459.9610242659965,
+            "id": "Acc8rtWCWaM4CcaVWGHPyg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/V4FmehYp6WrXxajmW3NVUA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "19 Ampere Pkwy",
+                "address2": null,
+                "address3": "",
+                "city": "East Orange",
+                "country": "US",
+                "display_address": [
+                    "19 Ampere Pkwy",
+                    "East Orange, NJ 07017"
+                ],
+                "state": "NJ",
+                "zip_code": "07017"
+            },
+            "name": "Potent Transitions",
+            "phone": "+18625202172",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/potent-transitions-east-orange-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 40.74798424396388,
+            "longitude": -74.17956603758397
+        }
+    },
+    "total": 2
+}

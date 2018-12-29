@@ -1,0 +1,145 @@
+{
+    "businesses": [
+        {
+            "alias": "jasons-deli-marietta-2",
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.98495,
+                "longitude": -84.42921
+            },
+            "display_phone": "(770) 509-7325",
+            "distance": 4386.345941822446,
+            "id": "YuNwcWPGVkyrVWmtqYENkQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pP94Si3VgSApBD84bmff-A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1401 Johnson Ferry Rd",
+                "address2": "Ste 334",
+                "address3": null,
+                "city": "Marietta",
+                "country": "US",
+                "display_address": [
+                    "1401 Johnson Ferry Rd",
+                    "Ste 334",
+                    "Marietta, GA 30062"
+                ],
+                "state": "GA",
+                "zip_code": "30062"
+            },
+            "name": "Jason's Deli",
+            "phone": "+17705097325",
+            "rating": 3.5,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/jasons-deli-marietta-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "healing-massage-spa-marietta",
+            "categories": [
+                {
+                    "alias": "massage",
+                    "title": "Massage"
+                },
+                {
+                    "alias": "massage_therapy",
+                    "title": "Massage Therapy"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.04185,
+                "longitude": -84.47749
+            },
+            "display_phone": "(678) 863-9983",
+            "distance": 5405.466534058724,
+            "id": "6_WFCzHx_OCo1tVuO8XA3Q",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/G0ag9CDRO0c0uIMZXZV2og/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2525 Shallowford Rd",
+                "address2": "Ste 006",
+                "address3": "",
+                "city": "Marietta",
+                "country": "US",
+                "display_address": [
+                    "2525 Shallowford Rd",
+                    "Ste 006",
+                    "Marietta, GA 30066"
+                ],
+                "state": "GA",
+                "zip_code": "30066"
+            },
+            "name": "Healing Massage Spa",
+            "phone": "+16788639983",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/healing-massage-spa-marietta?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "1000-degrees-pizzeria-marietta",
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.9467685826481,
+                "longitude": -84.5190447637657
+            },
+            "display_phone": "(678) 324-6935",
+            "distance": 6622.9551392065005,
+            "id": "Mty7c9NQKL5dy9olkTzOTg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wuz1LR0EqzqDyZgs2DuYHA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "280 Cobb Pkwy SE",
+                "address2": "Ste 40",
+                "address3": null,
+                "city": "Marietta",
+                "country": "US",
+                "display_address": [
+                    "280 Cobb Pkwy SE",
+                    "Ste 40",
+                    "Marietta, GA 30060"
+                ],
+                "state": "GA",
+                "zip_code": "30060"
+            },
+            "name": "1000 Degrees Pizzeria",
+            "phone": "+16783246935",
+            "rating": 4.0,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/1000-degrees-pizzeria-marietta?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 33.9933950690343,
+            "longitude": -84.47435598775095
+        }
+    },
+    "total": 3
+}

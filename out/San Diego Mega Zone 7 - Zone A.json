@@ -1,0 +1,189 @@
+{
+    "businesses": [
+        {
+            "alias": "himalayan-yak-and-yeti-san-diego-2",
+            "categories": [
+                {
+                    "alias": "himalayan",
+                    "title": "Himalayan/Nepalese"
+                },
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "buffets",
+                    "title": "Buffets"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.76897,
+                "longitude": -117.05205
+            },
+            "display_phone": "(619) 303-3155",
+            "distance": 2081.832203110338,
+            "id": "vjGmPWy6IpPwC-P3flZ8rQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JqjTfnCEQO8G9O-WZ9xMyQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6784 El Cajon Blvd",
+                "address2": "Ste D",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "6784 El Cajon Blvd",
+                    "Ste D",
+                    "San Diego, CA 92115"
+                ],
+                "state": "CA",
+                "zip_code": "92115"
+            },
+            "name": "Himalayan Yak & Yeti",
+            "phone": "+16193033155",
+            "rating": 4.5,
+            "review_count": 59,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/himalayan-yak-and-yeti-san-diego-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "nailstalgic-salon-san-diego",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.79015,
+                "longitude": -117.09732
+            },
+            "display_phone": "(619) 988-6245",
+            "distance": 2729.697265354739,
+            "id": "fJr7FCILiGxqatGgFlWxPQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xHZDsmQz2tGCUMugrhk23g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6403 Mission Gorge Rd",
+                "address2": "Ste B",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "6403 Mission Gorge Rd",
+                    "Ste B",
+                    "San Diego, CA 92120"
+                ],
+                "state": "CA",
+                "zip_code": "92120"
+            },
+            "name": "Nailstalgic Salon",
+            "phone": "+16199886245",
+            "rating": 5.0,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/nailstalgic-salon-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ding-tea-san-diego-5",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.74887,
+                "longitude": -117.072
+            },
+            "display_phone": "(619) 892-7276",
+            "distance": 3258.1100713055334,
+            "id": "jpuZ-1eE3AQfLWcElDUzHw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gkQRcgoxDqxoI3lgb7Bb0A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5807 University Ave",
+                "address2": "Unit A2",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "5807 University Ave",
+                    "Unit A2",
+                    "San Diego, CA 92115"
+                ],
+                "state": "CA",
+                "zip_code": "92115"
+            },
+            "name": "Ding Tea",
+            "phone": "+16198927276",
+            "rating": 4.0,
+            "review_count": 66,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ding-tea-san-diego-5?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "calimex-food-san-diego",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.74987,
+                "longitude": -117.10058
+            },
+            "display_phone": "(619) 892-7530",
+            "distance": 4181.139890959384,
+            "id": "WgDG6nzV728jYkdpX9TZPw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_eTM_u1PPQxuLq64kO7Oyw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4350 University Ave Unit",
+                "address2": null,
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "4350 University Ave Unit",
+                    "San Diego, CA 92105"
+                ],
+                "state": "CA",
+                "zip_code": "92105"
+            },
+            "name": "CaliMex Food",
+            "phone": "+16198927530",
+            "rating": 4.5,
+            "review_count": 6,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/calimex-food-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 32.77843097151071,
+            "longitude": -117.0715034079375
+        }
+    },
+    "total": 4
+}

@@ -1,0 +1,40 @@
+Dogtown Sausage
+5916 International Blvd, Oakland, CA 94621, 
++15106861770
+https://www.yelp.com/biz/dogtown-sausage-oakland-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Dynasty Pot
+1371 E 14th St, Unit D, San Leandro, CA 94577, 
++15108958066
+https://www.yelp.com/biz/dynasty-pot-san-leandro?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Kigawa Bistro
+2108 Marina Blvd, San Leandro, CA 94577, 
++15106264165
+https://www.yelp.com/biz/kigawa-bistro-san-leandro-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Poke Star sushi
+13700 Doolittle Dr, Ste 102, San Leandro, CA 94577, 
++15105602506
+https://www.yelp.com/biz/poke-star-sushi-san-leandro?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Vietnam Hong Kong Cafe
+15555 E 14th St, Ste 318, San Leandro, CA 94578, 
++15103972314
+https://www.yelp.com/biz/vietnam-hong-kong-cafe-san-leandro?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Kerb
+San Francisco, CA 94110, 
++16282191170
+https://www.yelp.com/biz/kerb-san-francisco-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+MOMO noodle
+San Francisco, CA 94016, 
++14088006819
+https://www.yelp.com/biz/momo-noodle-san-francisco?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Keeku da Dhaba
+39200 Paseo Padre Pkwy, Gateway Plaza, Fremont, CA 94538, 
++15107893437
+https://www.yelp.com/biz/keeku-da-dhaba-fremont?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+

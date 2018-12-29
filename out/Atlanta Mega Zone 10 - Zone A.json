@@ -1,0 +1,535 @@
+{
+    "businesses": [
+        {
+            "alias": "docent-coffee-cafe-atlanta-3",
+            "categories": [
+                {
+                    "alias": "coffeeroasteries",
+                    "title": "Coffee Roasteries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.75415,
+                "longitude": -84.37497
+            },
+            "display_phone": "(404) 254-3267",
+            "distance": 4948.088683157712,
+            "id": "dw4pp33t2yW4iv0XvRtCJQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/88FUpZ0xeavgSfpIFO8vJw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "381 Edgewood Ave SE",
+                "address2": null,
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "381 Edgewood Ave SE",
+                    "Atlanta, GA 30312"
+                ],
+                "state": "GA",
+                "zip_code": "30312"
+            },
+            "name": "Docent Coffee + Cafe",
+            "phone": "+14042543267",
+            "rating": 3.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/docent-coffee-cafe-atlanta-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "nina-and-rafi-atlanta-2",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7563760840301,
+                "longitude": -84.3653266049678
+            },
+            "display_phone": "(404) 549-8997",
+            "distance": 5654.244998286356,
+            "id": "Dm-JDo6Lu_ovANAlTr0BHg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3h4CNJEx1i7WNqpBLdzbZA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "661 Auburn Ave NE",
+                "address2": "",
+                "address3": null,
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "661 Auburn Ave NE",
+                    "Atlanta, GA 30312"
+                ],
+                "state": "GA",
+                "zip_code": "30312"
+            },
+            "name": "Nina & Rafi",
+            "phone": "+14045498997",
+            "rating": 4.0,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/nina-and-rafi-atlanta-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "lloyd-s-restaurant-and-lounge-atlanta",
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.755,
+                "longitude": -84.35796
+            },
+            "display_phone": "",
+            "distance": 5979.536697756853,
+            "id": "dPdOWcNd5LImBLEri9rDcg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mgAT0QzLWdGPGacDPRtjSA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "900 DeKalb Ave NE",
+                "address2": "",
+                "address3": null,
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "900 DeKalb Ave NE",
+                    "Atlanta, GA 30307"
+                ],
+                "state": "GA",
+                "zip_code": "30307"
+            },
+            "name": "Lloyd\u2019s Restaurant and Lounge",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/lloyd-s-restaurant-and-lounge-atlanta?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "dua-hapeville-hapeville",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.66137,
+                "longitude": -84.41421
+            },
+            "display_phone": "(404) 767-7245",
+            "distance": 6190.900298429513,
+            "id": "Qygj2Phd7ILyFoajsuLpuQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DZbfeY4nLgDS1kqZR9Y_CQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "760 S Central Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Hapeville",
+                "country": "US",
+                "display_address": [
+                    "760 S Central Ave",
+                    "Hapeville, GA 30354"
+                ],
+                "state": "GA",
+                "zip_code": "30354"
+            },
+            "name": "Dua Hapeville",
+            "phone": "+14047677245",
+            "rating": 4.0,
+            "review_count": 19,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dua-hapeville-hapeville?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "trap-music-museum-atlanta",
+            "categories": [
+                {
+                    "alias": "museums",
+                    "title": "Museums"
+                },
+                {
+                    "alias": "escapegames",
+                    "title": "Escape Games"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7716999189713,
+                "longitude": -84.4086499884725
+            },
+            "display_phone": "",
+            "distance": 6195.4769302691075,
+            "id": "Ag6dt9EyynhCf-vPSHU2Tw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8TSf5Dkg9t-Thz9OpTTKbQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "630 Travis St NW",
+                "address2": "",
+                "address3": null,
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "630 Travis St NW",
+                    "Atlanta, GA 30318"
+                ],
+                "state": "GA",
+                "zip_code": "30318"
+            },
+            "name": "Trap Music Museum",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/trap-music-museum-atlanta?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bully-boy-atlanta",
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "beer_and_wine",
+                    "title": "Beer, Wine & Spirits"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7682,
+                "longitude": -84.36055
+            },
+            "display_phone": "(678) 904-5607",
+            "distance": 6994.779398652481,
+            "id": "cZmnKz8AnTVoDLTGbpK_yQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iRLx4PyFH1QtmtLNFbyi1A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "828 Ralph McGill Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "828 Ralph McGill Blvd",
+                    "Atlanta, GA 30306"
+                ],
+                "state": "GA",
+                "zip_code": "30306"
+            },
+            "name": "Bully Boy",
+            "phone": "+16789045607",
+            "rating": 4.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bully-boy-atlanta?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-halal-guys-midtown-atlanta",
+            "categories": [
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7797771038095,
+                "longitude": -84.3899913365283
+            },
+            "display_phone": "",
+            "distance": 7168.495516191124,
+            "id": "aT1vy3mkhGFszLK0h-ZF_w",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2G9xZQWPi3CzALcUV5yGAQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "95 8th St Nw",
+                "address2": "Ste 200",
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "95 8th St Nw",
+                    "Ste 200",
+                    "Atlanta, GA 30309"
+                ],
+                "state": "GA",
+                "zip_code": "30309"
+            },
+            "name": "The Halal Guys | Midtown",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-halal-guys-midtown-atlanta?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "root-baking-atlanta-3",
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7731204948838,
+                "longitude": -84.3655935097171
+            },
+            "display_phone": "",
+            "distance": 7204.295153008407,
+            "id": "En_SGkI-cQ0eQFhux1U5pw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OyN7qsgg0uHbSMpJAreYNA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "675 Ponce De Leon Ave NE",
+                "address2": null,
+                "address3": null,
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "675 Ponce De Leon Ave NE",
+                    "Atlanta, GA 30308"
+                ],
+                "state": "GA",
+                "zip_code": "30308"
+            },
+            "name": "Root Baking",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 14,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/root-baking-atlanta-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "burgerim-atlanta-atlanta",
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7804,
+                "longitude": -84.38345
+            },
+            "display_phone": "(470) 440-5151",
+            "distance": 7376.074646394834,
+            "id": "y_gg6SWvqRUChXaYFsip6Q",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gZc29Cs-DKUKjW6e7L6ImA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "933 Peachtree St",
+                "address2": "Ste 951",
+                "address3": null,
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "933 Peachtree St",
+                    "Ste 951",
+                    "Atlanta, GA 30309"
+                ],
+                "state": "GA",
+                "zip_code": "30309"
+            },
+            "name": "Burgerim- Atlanta",
+            "phone": "+14704405151",
+            "rating": 3.0,
+            "review_count": 15,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/burgerim-atlanta-atlanta?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ginos-east-atlanta-atlanta-2",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7745632,
+                "longitude": -84.3523451
+            },
+            "display_phone": "(678) 921-1001",
+            "distance": 7880.187962887253,
+            "id": "xKrDG-VAXve8d87mwO7f2A",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8v9HPT52ZQRDovAHnn725g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "675 North Highland Ave NE",
+                "address2": "Ste 1000",
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "675 North Highland Ave NE",
+                    "Ste 1000",
+                    "Atlanta, GA 30306"
+                ],
+                "state": "GA",
+                "zip_code": "30306"
+            },
+            "name": "Gino's East - Atlanta",
+            "phone": "+16789211001",
+            "rating": 4.0,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ginos-east-atlanta-atlanta-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tiki-iniki-atlanta-atlanta-2",
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "tikibars",
+                    "title": "Tiki Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7768607227867,
+                "longitude": -84.3531522316942
+            },
+            "display_phone": "(833) 285-8454",
+            "distance": 8159.483149586238,
+            "id": "fBajbiuRlP197-rAMTXOLA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3UOVK44L4mff_exSPZtijw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1044 Greenwood Ave NE",
+                "address2": "",
+                "address3": null,
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "1044 Greenwood Ave NE",
+                    "Atlanta, GA 30306"
+                ],
+                "state": "GA",
+                "zip_code": "30306"
+            },
+            "name": "Tiki Iniki - Atlanta",
+            "phone": "+18332858454",
+            "rating": 3.0,
+            "review_count": 21,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tiki-iniki-atlanta-atlanta-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "soul-crab-atlanta-college-park",
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "soulfood",
+                    "title": "Soul Food"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.6536307894877,
+                "longitude": -84.4497551769018
+            },
+            "display_phone": "",
+            "distance": 8201.913345692072,
+            "id": "_GXNGo6I640-5CBWmV0rFw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AqBNzxaRfDaZfskRDFjdCQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3725 Main St",
+                "address2": "",
+                "address3": null,
+                "city": "College Park",
+                "country": "US",
+                "display_address": [
+                    "3725 Main St",
+                    "College Park, GA 30337"
+                ],
+                "state": "GA",
+                "zip_code": "30337"
+            },
+            "name": "Soul Crab Atlanta",
+            "phone": "",
+            "rating": 3.0,
+            "review_count": 31,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/soul-crab-atlanta-college-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "healthland-massage-atlanta-2",
+            "categories": [
+                {
+                    "alias": "massage",
+                    "title": "Massage"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.84856,
+                "longitude": -84.36011
+            },
+            "display_phone": "(404) 254-3246",
+            "distance": 15267.765051618919,
+            "id": "cl1ZfdqjqrvR7ET_3bJqow",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/H4L-o1WfLjpXIbf1vlm9yw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3427 Lenox Rd NE",
+                "address2": "",
+                "address3": null,
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "3427 Lenox Rd NE",
+                    "Atlanta, GA 30326"
+                ],
+                "state": "GA",
+                "zip_code": "30326"
+            },
+            "name": "Healthland Massage",
+            "phone": "+14042543246",
+            "rating": 4.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/healthland-massage-atlanta-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 33.71619523250804,
+            "longitude": -84.40280156550219
+        }
+    },
+    "total": 13
+}

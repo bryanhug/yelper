@@ -1,0 +1,484 @@
+{
+    "businesses": [
+        {
+            "alias": "boss-nails-austin",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                },
+                {
+                    "alias": "spas",
+                    "title": "Day Spas"
+                },
+                {
+                    "alias": "skincare",
+                    "title": "Skin Care"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.35358,
+                "longitude": -97.71546
+            },
+            "display_phone": "(512) 888-9811",
+            "distance": 1322.5411932370512,
+            "id": "63fqU8G2kmGvaFkGNN7w3Q",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pBFNfc1NrwvRmEGpWw9Tcg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8120 Research Blvd",
+                "address2": "Ste 107",
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "8120 Research Blvd",
+                    "Ste 107",
+                    "Austin, TX 78758"
+                ],
+                "state": "TX",
+                "zip_code": "78758"
+            },
+            "name": "Boss Nails",
+            "phone": "+15128889811",
+            "rating": 4.0,
+            "review_count": 18,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/boss-nails-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "easy-tiger-austin-2",
+            "categories": [
+                {
+                    "alias": "beergardens",
+                    "title": "Beer Gardens"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.3277618958493,
+                "longitude": -97.7068318311908
+            },
+            "display_phone": "",
+            "distance": 2024.5044798971765,
+            "id": "HNbaIeXqtTv0jG2pAiOIig",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mHhcrPswIfEtq_v-XyAIJg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6406 Middle Fiskville Rd",
+                "address2": "Ste 1100",
+                "address3": null,
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "6406 Middle Fiskville Rd",
+                    "Ste 1100",
+                    "Austin, TX 78752"
+                ],
+                "state": "TX",
+                "zip_code": "78752"
+            },
+            "name": "Easy Tiger",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 12,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/easy-tiger-austin-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "easy-tiger-at-the-linc-austin",
+            "categories": [
+                {
+                    "alias": "beergardens",
+                    "title": "Beer Gardens"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.32562,
+                "longitude": -97.7078
+            },
+            "display_phone": "",
+            "distance": 2135.510136208348,
+            "id": "I76JQSyrt9C0bmUOk_fa5Q",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3JnTbBE7rhlbSQH98lHuKg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6406 N IH-35",
+                "address2": "St. 1100",
+                "address3": null,
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "6406 N IH-35",
+                    "St. 1100",
+                    "Austin, TX 78752"
+                ],
+                "state": "TX",
+                "zip_code": "78752"
+            },
+            "name": "Easy Tiger at the Linc",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/easy-tiger-at-the-linc-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tio-pepe-chicken-austin-4",
+            "categories": [
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                },
+                {
+                    "alias": "portuguese",
+                    "title": "Portuguese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.3252805440891,
+                "longitude": -97.7074721083045
+            },
+            "display_phone": "(512) 582-0629",
+            "distance": 2305.3029986970564,
+            "id": "blciQ1v3kP8wodDodFUe3A",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XHcWZLwqUZ8nJYtydO_OlQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6406 N Interstate 35",
+                "address2": "Ste 2510",
+                "address3": null,
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "6406 N Interstate 35",
+                    "Ste 2510",
+                    "Austin, TX 78752"
+                ],
+                "state": "TX",
+                "zip_code": "78752"
+            },
+            "name": "Tio Pepe Chicken",
+            "phone": "+15125820629",
+            "rating": 5.0,
+            "review_count": 44,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tio-pepe-chicken-austin-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "fluff-meringues-and-more-austin",
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.3187732527896,
+                "longitude": -97.7396727022568
+            },
+            "display_phone": "(512) 387-0605",
+            "distance": 4503.884439423281,
+            "id": "-KeU9q_-4Fpede3ubYnMVA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gXFygBJArIEyaA2Yqni6mA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4800 Burnet Rd",
+                "address2": "Ste 450",
+                "address3": null,
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "4800 Burnet Rd",
+                    "Ste 450",
+                    "Austin, TX 78756"
+                ],
+                "state": "TX",
+                "zip_code": "78756"
+            },
+            "name": "Fluff Meringues & More",
+            "phone": "+15123870605",
+            "rating": 4.0,
+            "review_count": 17,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/fluff-meringues-and-more-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kerbey-lane-cafe-austin-23",
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "tex-mex",
+                    "title": "Tex-Mex"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.30108,
+                "longitude": -97.703469
+            },
+            "display_phone": "(512) 879-2818",
+            "distance": 4983.701106929659,
+            "id": "C4U77PiL7d_Z22LCzOpRPA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LsieQgiip-e2SbEZsKHUfw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2200 Aldrich St",
+                "address2": "Ste 100",
+                "address3": null,
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "2200 Aldrich St",
+                    "Ste 100",
+                    "Austin, TX 78723"
+                ],
+                "state": "TX",
+                "zip_code": "78723"
+            },
+            "name": "Kerbey Lane Cafe",
+            "phone": "+15128792818",
+            "rating": 4.0,
+            "review_count": 15,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kerbey-lane-cafe-austin-23?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "teddy-v-p\u00e2tisserie-austin",
+            "categories": [
+                {
+                    "alias": "cakeshop",
+                    "title": "Patisserie/Cake Shop"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.29655,
+                "longitude": -97.70742
+            },
+            "display_phone": "(512) 627-3613",
+            "distance": 5494.5567448026395,
+            "id": "k5KvgfAWgHkMwyhe2GxfnA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sMRc5PNlNQQnQbPskl8uhA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4209 Airport Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "4209 Airport Blvd",
+                    "Austin, TX 78722"
+                ],
+                "state": "TX",
+                "zip_code": "78722"
+            },
+            "name": "Teddy V. P\u00e2tisserie",
+            "phone": "+15126273613",
+            "rating": 5.0,
+            "review_count": 22,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/teddy-v-p%C3%A2tisserie-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "otherside-deli-and-sub-austin",
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.30346,
+                "longitude": -97.74572
+            },
+            "display_phone": "(512) 407-9702",
+            "distance": 6145.203399449184,
+            "id": "_n-F9OKGHcfaC8Fs9NZKag",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dW_yvDzcIkkftBA0-M36zA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1104 W 34th St",
+                "address2": null,
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "1104 W 34th St",
+                    "Austin, TX 78705"
+                ],
+                "state": "TX",
+                "zip_code": "78705"
+            },
+            "name": "Otherside Deli and Sub",
+            "phone": "+15124079702",
+            "rating": 4.5,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/otherside-deli-and-sub-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "houndstooth-austin",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.40101,
+                "longitude": -97.72247
+            },
+            "display_phone": "",
+            "distance": 6330.055722472475,
+            "id": "yX7IVJ6nCHF-Z4k1crV5Gw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/w8iSeoqlQhx5Ca0GfhB07w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "11501 Rock Rose Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "11501 Rock Rose Ave",
+                    "Austin, TX 78758"
+                ],
+                "state": "TX",
+                "zip_code": "78758"
+            },
+            "name": "Houndstooth",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/houndstooth-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "austin-cheese-company-austin",
+            "categories": [
+                {
+                    "alias": "cheese",
+                    "title": "Cheese Shops"
+                },
+                {
+                    "alias": "beer_and_wine",
+                    "title": "Beer, Wine & Spirits"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.39282,
+                "longitude": -97.74701
+            },
+            "display_phone": "(512) 649-4711",
+            "distance": 6628.756955774564,
+            "id": "FRzrDsZ2h8PUx6mJaMPXqw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ROmtT5qJzU8My3mxz7C7dQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "10000 Research Blvd",
+                "address2": "Ste 123",
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "10000 Research Blvd",
+                    "Ste 123",
+                    "Austin, TX 78759"
+                ],
+                "state": "TX",
+                "zip_code": "78759"
+            },
+            "name": "Austin Cheese Company",
+            "phone": "+15126494711",
+            "rating": 4.5,
+            "review_count": 17,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/austin-cheese-company-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "afghan-halal-austin",
+            "categories": [
+                {
+                    "alias": "afghani",
+                    "title": "Afghan"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.2960996,
+                "longitude": -97.7435588
+            },
+            "display_phone": "(737) 228-6881",
+            "distance": 6669.384907446964,
+            "id": "0oOZXIRBem6ZK-k-VsTKJw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JsywgGURDOnscpgKx4rpTA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "620 W 29th St",
+                "address2": null,
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "620 W 29th St",
+                    "Austin, TX 78705"
+                ],
+                "state": "TX",
+                "zip_code": "78705"
+            },
+            "name": "Afghan Halal",
+            "phone": "+17372286881",
+            "rating": 4.5,
+            "review_count": 2,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/afghan-halal-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 30.34588466535499,
+            "longitude": -97.70480708608885
+        }
+    },
+    "total": 11
+}

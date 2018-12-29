@@ -1,0 +1,160 @@
+{
+    "businesses": [
+        {
+            "alias": "omni-nail-spa-round-rock",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.51898,
+                "longitude": -97.6714
+            },
+            "display_phone": "(512) 255-8058",
+            "distance": 2675.2508473245834,
+            "id": "vk-KSX_nBmNbUVHpxqoMbQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5sFIiVu4ECfEuD4_PKG7ig/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "900 E Palm Valley Blvd",
+                "address2": "Ste 1008",
+                "address3": "",
+                "city": "Round Rock",
+                "country": "US",
+                "display_address": [
+                    "900 E Palm Valley Blvd",
+                    "Ste 1008",
+                    "Round Rock, TX 78664"
+                ],
+                "state": "TX",
+                "zip_code": "78664"
+            },
+            "name": "Omni Nail Spa",
+            "phone": "+15122558058",
+            "rating": 4.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/omni-nail-spa-round-rock?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "liberty-barbecue-round-rock",
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.5084193612982,
+                "longitude": -97.6784349075534
+            },
+            "display_phone": "(512) 433-6330",
+            "distance": 3787.902721914812,
+            "id": "rtA4Z6d4N7-kThgrV7wvlw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/w0hHRgcqdOcySarHfoBdOw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "103 E Main St",
+                "address2": "",
+                "address3": null,
+                "city": "Round Rock",
+                "country": "US",
+                "display_address": [
+                    "103 E Main St",
+                    "Round Rock, TX 78664"
+                ],
+                "state": "TX",
+                "zip_code": "78664"
+            },
+            "name": "Liberty barbecue",
+            "phone": "+15124336330",
+            "rating": 4.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/liberty-barbecue-round-rock?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "super-donuts-round-rock",
+            "categories": [
+                {
+                    "alias": "donuts",
+                    "title": "Donuts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.5718268349876,
+                "longitude": -97.6531973779134
+            },
+            "display_phone": "(512) 843-4090",
+            "distance": 5134.073834577774,
+            "id": "1_1dy98aw06Gbol4eNMbVQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9tdKvnnjQCe0NueSo2hpdQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1900 University Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Round Rock",
+                "country": "US",
+                "display_address": [
+                    "1900 University Blvd",
+                    "Round Rock, TX 78665"
+                ],
+                "state": "TX",
+                "zip_code": "78665"
+            },
+            "name": "Super Donuts",
+            "phone": "+15128434090",
+            "rating": 4.5,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/super-donuts-round-rock?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bears-bbq-round-rock",
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.481186,
+                "longitude": -97.663396
+            },
+            "display_phone": "(512) 519-9390",
+            "distance": 5294.521533198194,
+            "id": "0ReJp8mTF1mMSSHiYVvohg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/er1IEH97wKHLeAMhfxM4tQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "409 Louis Henna Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Round Rock",
+                "country": "US",
+                "display_address": [
+                    "409 Louis Henna Blvd",
+                    "Round Rock, TX 78664"
+                ],
+                "state": "TX",
+                "zip_code": "78664"
+            },
+            "name": "Bears BBQ",
+            "phone": "+15125199390",
+            "rating": 4.5,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bears-bbq-round-rock?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 30.526234395394027,
+            "longitude": -97.64473012529463
+        }
+    },
+    "total": 4
+}

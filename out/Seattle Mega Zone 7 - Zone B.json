@@ -1,0 +1,90 @@
+{
+    "businesses": [
+        {
+            "alias": "lucent-nails-and-spa-marysville-3",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 48.0529577341949,
+                "longitude": -122.143119424582
+            },
+            "display_phone": "(360) 322-7163",
+            "distance": 1541.2144761127286,
+            "id": "Yk9ipz9mX2xINMmdv1bZaw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YIlAq_8mBq6W2guaAZR3RA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6608 64th St NE",
+                "address2": "Ste B",
+                "address3": null,
+                "city": "Marysville",
+                "country": "US",
+                "display_address": [
+                    "6608 64th St NE",
+                    "Ste B",
+                    "Marysville, WA 98270"
+                ],
+                "state": "WA",
+                "zip_code": "98270"
+            },
+            "name": "Lucent Nails and Spa",
+            "phone": "+13603227163",
+            "rating": 4.5,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/lucent-nails-and-spa-marysville-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "district-1-banh-mi-and-bar-marysville",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 48.08615,
+                "longitude": -122.17066
+            },
+            "display_phone": "(360) 548-3538",
+            "distance": 3305.3347948140186,
+            "id": "ftorCAr36LEj1SlUh9oAwA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ClgiyzgaTfvQcd7OlrNckQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "10013 Shoultes Rd NE",
+                "address2": null,
+                "address3": "",
+                "city": "Marysville",
+                "country": "US",
+                "display_address": [
+                    "10013 Shoultes Rd NE",
+                    "Marysville, WA 98270"
+                ],
+                "state": "WA",
+                "zip_code": "98270"
+            },
+            "name": "District 1 Banh Mi & Bar",
+            "phone": "+13605483538",
+            "rating": 5.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/district-1-banh-mi-and-bar-marysville?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 48.05685931631534,
+            "longitude": -122.16301719729219
+        }
+    },
+    "total": 2
+}

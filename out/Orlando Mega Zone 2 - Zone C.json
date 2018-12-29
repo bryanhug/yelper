@@ -1,0 +1,496 @@
+{
+    "businesses": [
+        {
+            "alias": "slapfish-orlando-2",
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "fishnchips",
+                    "title": "Fish & Chips"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.5555579,
+                "longitude": -81.2065849
+            },
+            "display_phone": "(407) 866-1804",
+            "distance": 2272.0562561073884,
+            "id": "lIwaafufo1VMDyhh0YUqLQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bD1YkW8Ja4S_8G_dxpFjQA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "783 N Alafaya Trl",
+                "address2": null,
+                "address3": "",
+                "city": "Orlando",
+                "country": "US",
+                "display_address": [
+                    "783 N Alafaya Trl",
+                    "Orlando, FL 32828"
+                ],
+                "state": "FL",
+                "zip_code": "32828"
+            },
+            "name": "Slapfish",
+            "phone": "+14078661804",
+            "rating": 4.5,
+            "review_count": 92,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/slapfish-orlando-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "j-petal-and-poke-waterford-orlando-4",
+            "categories": [
+                {
+                    "alias": "hawaiian",
+                    "title": "Hawaiian"
+                },
+                {
+                    "alias": "creperies",
+                    "title": "Creperies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.559468,
+                "longitude": -81.208193
+            },
+            "display_phone": "(407) 237-9323",
+            "distance": 2931.0560907604163,
+            "id": "KLMC4Tgin63xa2j9w8Im-w",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1NtBG1XbwfCZUi8V4X5ZnA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1100 N Alafaya Trl",
+                "address2": "Ste 130",
+                "address3": "",
+                "city": "Orlando",
+                "country": "US",
+                "display_address": [
+                    "1100 N Alafaya Trl",
+                    "Ste 130",
+                    "Orlando, FL 32828"
+                ],
+                "state": "FL",
+                "zip_code": "32828"
+            },
+            "name": "J-Petal & Poke Waterford",
+            "phone": "+14072379323",
+            "rating": 4.5,
+            "review_count": 12,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/j-petal-and-poke-waterford-orlando-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "starbucks-alafaya",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.5421399,
+                "longitude": -81.1528884
+            },
+            "display_phone": "(407) 273-6919",
+            "distance": 3077.3255698574612,
+            "id": "ePxUeXeb-Clt38KAZszPzQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Pd543ClrGfl6StjWEQ9eKw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "321 Avalon Park S Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Alafaya",
+                "country": "US",
+                "display_address": [
+                    "321 Avalon Park S Blvd",
+                    "Alafaya, FL 32828"
+                ],
+                "state": "FL",
+                "zip_code": "32828"
+            },
+            "name": "Starbucks",
+            "phone": "+14072736919",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/starbucks-alafaya?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "king-bao-orlando-5",
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.56541,
+                "longitude": -81.20858
+            },
+            "display_phone": "(407) 914-2544",
+            "distance": 3453.086782033876,
+            "id": "Q2_nlXuhXfBhvkOo1Qiaow",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9UPx8wBwlGX45VBo019nkA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "11768 E Colonial Dr",
+                "address2": "",
+                "address3": null,
+                "city": "Orlando",
+                "country": "US",
+                "display_address": [
+                    "11768 E Colonial Dr",
+                    "Orlando, FL 32817"
+                ],
+                "state": "FL",
+                "zip_code": "32817"
+            },
+            "name": "king bao",
+            "phone": "+14079142544",
+            "rating": 4.5,
+            "review_count": 7,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/king-bao-orlando-5?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "guacamole-mexican-grill-orlando",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.51176,
+                "longitude": -81.18561
+            },
+            "display_phone": "(407) 866-1350",
+            "distance": 3494.4958209461256,
+            "id": "Ad9NIIOWI-la3a2UM3W9DQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/m8I25xMqJOG3_S8Q8uoJig/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2822 S Alafaya Trl",
+                "address2": "Ste 195",
+                "address3": "",
+                "city": "Orlando",
+                "country": "US",
+                "display_address": [
+                    "2822 S Alafaya Trl",
+                    "Ste 195",
+                    "Orlando, FL 32828"
+                ],
+                "state": "FL",
+                "zip_code": "32828"
+            },
+            "name": "Guacamole Mexican Grill",
+            "phone": "+14078661350",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/guacamole-mexican-grill-orlando?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mejana-mediterranean-no-title",
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.5105029935225,
+                "longitude": -81.1561918370554
+            },
+            "display_phone": "(407) 674-6052",
+            "distance": 4554.663952707163,
+            "id": "Wo7xNKWlq3i5q20VkBb6IQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/R4pm35Qh_DY1McTVE5xpIA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "12001 Avalon Lake Dr",
+                "address2": "Ste A",
+                "address3": null,
+                "city": "FL",
+                "country": "US",
+                "display_address": [
+                    "12001 Avalon Lake Dr",
+                    "Ste A",
+                    "FL, FL 32828"
+                ],
+                "state": "FL",
+                "zip_code": "32828"
+            },
+            "name": "Mejana Mediterranean",
+            "phone": "+14076746052",
+            "rating": 4.5,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mejana-mediterranean-no-title?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "noodles-and-rice-orlando-4",
+            "categories": [
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.5089121945768,
+                "longitude": -81.1549320646501
+            },
+            "display_phone": "(321) 270-8888",
+            "distance": 4769.940789349529,
+            "id": "-ltzhMdkqU39UukLsxIk3A",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/J2BzNSJR1ZZUlweWyGLx4w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3891 Avalon Park East Blvd",
+                "address2": null,
+                "address3": null,
+                "city": "Orlando",
+                "country": "US",
+                "display_address": [
+                    "3891 Avalon Park East Blvd",
+                    "Orlando, FL 32828"
+                ],
+                "state": "FL",
+                "zip_code": "32828"
+            },
+            "name": "Noodles and Rice",
+            "phone": "+13212708888",
+            "rating": 3.5,
+            "review_count": 18,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/noodles-and-rice-orlando-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "aldi-orlando-10",
+            "categories": [
+                {
+                    "alias": "grocery",
+                    "title": "Grocery"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.51071,
+                "longitude": -81.23654
+            },
+            "display_phone": "(800) 325-7894",
+            "distance": 6202.191944876566,
+            "id": "PMfqP2XlxQKCFWrV0xB86g",
+            "image_url": "",
+            "is_closed": false,
+            "location": {
+                "address1": "10401 Curry Ford Rd",
+                "address2": "",
+                "address3": null,
+                "city": "Orlando",
+                "country": "US",
+                "display_address": [
+                    "10401 Curry Ford Rd",
+                    "Orlando, FL 32825"
+                ],
+                "state": "FL",
+                "zip_code": "32825"
+            },
+            "name": "ALDI",
+            "phone": "+18003257894",
+            "rating": 4.5,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/aldi-orlando-10?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "pok\u00e9stop-orlando",
+            "categories": [
+                {
+                    "alias": "poke",
+                    "title": "Poke"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.5982,
+                "longitude": -81.21919
+            },
+            "display_phone": "(407) 776-2920",
+            "distance": 7016.965397422453,
+            "id": "6ImETxguVguwAJ-id7440w",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4Fewz1Ebzl3w_Tm7lKNs_A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "11565 University Blvd",
+                "address2": "Ste 5",
+                "address3": "",
+                "city": "Orlando",
+                "country": "US",
+                "display_address": [
+                    "11565 University Blvd",
+                    "Ste 5",
+                    "Orlando, FL 32817"
+                ],
+                "state": "FL",
+                "zip_code": "32817"
+            },
+            "name": "Pok\u00e9Stop",
+            "phone": "+14077762920",
+            "rating": 5.0,
+            "review_count": 24,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/pok%C3%A9stop-orlando?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "gringos-locos-orlando-9",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.6072361,
+                "longitude": -81.1982879
+            },
+            "display_phone": "(407) 988-1617",
+            "distance": 7268.219476506483,
+            "id": "bTODBJcWNdKZEK9K0VGMcg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7eG72r5vFTxdc6ifNTsTIg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4258 W Plaza Dr",
+                "address2": null,
+                "address3": null,
+                "city": "Orlando",
+                "country": "US",
+                "display_address": [
+                    "4258 W Plaza Dr",
+                    "Orlando, FL 32816"
+                ],
+                "state": "FL",
+                "zip_code": "32816"
+            },
+            "name": "Gringos Locos",
+            "phone": "+14079881617",
+            "rating": 3.0,
+            "review_count": 12,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/gringos-locos-orlando-9?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "naroodle-noodle-shop-orlando",
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.596621697655,
+                "longitude": -81.2438357407408
+            },
+            "display_phone": "(407) 853-4828",
+            "distance": 8309.038835073494,
+            "id": "Fy29UfnhXW1a7pe2YjcDFg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ExkBIgkTJ__iDYTR4p1tRA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "10034 University Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Orlando",
+                "country": "US",
+                "display_address": [
+                    "10034 University Blvd",
+                    "Orlando, FL 32817"
+                ],
+                "state": "FL",
+                "zip_code": "32817"
+            },
+            "name": "Naroodle Noodle Shop",
+            "phone": "+14078534828",
+            "rating": 4.0,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/naroodle-noodle-shop-orlando?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "get-up-and-go-kayaking-crystal-river",
+            "categories": [
+                {
+                    "alias": "rafting",
+                    "title": "Rafting/Kayaking"
+                },
+                {
+                    "alias": "boattours",
+                    "title": "Boat Tours"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.8968550340356,
+                "longitude": -82.5944999714781
+            },
+            "display_phone": "(407) 212-7306",
+            "distance": 143112.58277700935,
+            "id": "W_k1CzXj1zf0zIXcEAmwWg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9Ray-7UyodoJflXkIfvEMw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "268 NW 3rd St",
+                "address2": null,
+                "address3": "",
+                "city": "Crystal River",
+                "country": "US",
+                "display_address": [
+                    "268 NW 3rd St",
+                    "Crystal River, FL 34428"
+                ],
+                "state": "FL",
+                "zip_code": "34428"
+            },
+            "name": "Get Up And Go Kayaking",
+            "phone": "+14072127306",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/get-up-and-go-kayaking-crystal-river?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 28.54298767922504,
+            "longitude": -81.18459075603953
+        }
+    },
+    "total": 12
+}

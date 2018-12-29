@@ -1,0 +1,179 @@
+{
+    "businesses": [
+        {
+            "alias": "planet-fitness-san-jose-san-jose-3",
+            "categories": [
+                {
+                    "alias": "gyms",
+                    "title": "Gyms"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.3158622368717,
+                "longitude": -121.79322222229
+            },
+            "display_phone": "(408) 532-1215",
+            "distance": 5654.472199956806,
+            "id": "a8ujnBCvYWAq_w9KwhPcHg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZNnzqX2HDmkSQLQ06qDmAw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3251 S White Rd",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "country": "US",
+                "display_address": [
+                    "3251 S White Rd",
+                    "San Jose, CA 95148"
+                ],
+                "state": "CA",
+                "zip_code": "95148"
+            },
+            "name": "Planet Fitness - San Jose",
+            "phone": "+14085321215",
+            "rating": 4.0,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/planet-fitness-san-jose-san-jose-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "claw-shack-san-jose-3",
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "cajun",
+                    "title": "Cajun/Creole"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.3239,
+                "longitude": -121.79718
+            },
+            "display_phone": "(408) 677-3070",
+            "distance": 6431.395149124583,
+            "id": "Qw9f1fYtsiqdnJB1j9sNsw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LBM8uqtF5DqZkol_VvPSGw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2847 S White Rd",
+                "address2": "",
+                "address3": null,
+                "city": "San Jose",
+                "country": "US",
+                "display_address": [
+                    "2847 S White Rd",
+                    "San Jose, CA 95148"
+                ],
+                "state": "CA",
+                "zip_code": "95148"
+            },
+            "name": "Claw Shack",
+            "phone": "+14086773070",
+            "rating": 4.5,
+            "review_count": 59,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/claw-shack-san-jose-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "five-star-pizza-san-jose-3",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.2323706688057,
+                "longitude": -121.775009045296
+            },
+            "display_phone": "(408) 229-9900",
+            "distance": 7330.449824089285,
+            "id": "5JntmgZum2-Gl-zH7JldYg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/j70_O8DqUh1F7B_KaZ7hXg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "125 Bernal Rd",
+                "address2": "Ste 50",
+                "address3": null,
+                "city": "San Jose",
+                "country": "US",
+                "display_address": [
+                    "125 Bernal Rd",
+                    "Ste 50",
+                    "San Jose, CA 95119"
+                ],
+                "state": "CA",
+                "zip_code": "95119"
+            },
+            "name": "Five Star Pizza",
+            "phone": "+14082299900",
+            "rating": 4.5,
+            "review_count": 36,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/five-star-pizza-san-jose-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tzone-san-jose-2",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.2330176448412,
+                "longitude": -121.902617704462
+            },
+            "display_phone": "(669) 999-8969",
+            "distance": 7468.935018513222,
+            "id": "FbpNG9mI5pIgkdtVUSoCnQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0tA5bGd8OJZH0gnRDs0brQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5700 Village Oaks Dr",
+                "address2": "Ste 40",
+                "address3": "",
+                "city": "San Jose",
+                "country": "US",
+                "display_address": [
+                    "5700 Village Oaks Dr",
+                    "Ste 40",
+                    "San Jose, CA 95123"
+                ],
+                "state": "CA",
+                "zip_code": "95123"
+            },
+            "name": "TZONE",
+            "phone": "+16699998969",
+            "rating": 4.0,
+            "review_count": 19,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/tzone-san-jose-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 37.291101306889715,
+            "longitude": -121.73738320112707
+        }
+    },
+    "total": 4
+}

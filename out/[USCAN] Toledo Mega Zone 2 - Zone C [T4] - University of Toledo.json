@@ -1,0 +1,52 @@
+{
+    "businesses": [
+        {
+            "alias": "chevys-place-toledo",
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.65037,
+                "longitude": -83.54013
+            },
+            "display_phone": "(419) 973-4241",
+            "distance": 4121.715962827784,
+            "id": "ToInkxOCIeznLFKWDYQ5YQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OT8LuDm9gBZP1MofQWBn6Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "702 Monroe St",
+                "address2": "",
+                "address3": null,
+                "city": "Toledo",
+                "country": "US",
+                "display_address": [
+                    "702 Monroe St",
+                    "Toledo, OH 43604"
+                ],
+                "state": "OH",
+                "zip_code": "43604"
+            },
+            "name": "Chevy's Place",
+            "phone": "+14199734241",
+            "rating": 3.5,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/chevys-place-toledo?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 41.67162912256281,
+            "longitude": -83.58076835045682
+        }
+    },
+    "total": 1
+}

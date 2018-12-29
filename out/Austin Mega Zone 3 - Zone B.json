@@ -1,0 +1,565 @@
+{
+    "businesses": [
+        {
+            "alias": "wine-down-lakeline-cedar-park",
+            "categories": [
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.47061,
+                "longitude": -97.80648
+            },
+            "display_phone": "",
+            "distance": 1644.43011627242,
+            "id": "HYLXx2681dcGB0j5nfwTdQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2OtoC2o3DEQJ9FhEvwMi6A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "11200 Lakeline Mall Dr",
+                "address2": "Ste 69",
+                "address3": "",
+                "city": "Cedar Park",
+                "country": "US",
+                "display_address": [
+                    "11200 Lakeline Mall Dr",
+                    "Ste 69",
+                    "Cedar Park, TX 78613"
+                ],
+                "state": "TX",
+                "zip_code": "78613"
+            },
+            "name": "Wine Down - Lakeline",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/wine-down-lakeline-cedar-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "laque-nail-bar-austin",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                },
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.47422,
+                "longitude": -97.79435
+            },
+            "display_phone": "(512) 551-8886",
+            "distance": 1672.5717809189591,
+            "id": "icf6thzWmvX8Io3mU6dLBA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Kd8mqfsOLvwJ7LXmLotrJQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "9800 N Lake Creek Pkwy",
+                "address2": "Ste 130",
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "9800 N Lake Creek Pkwy",
+                    "Ste 130",
+                    "Austin, TX 78717"
+                ],
+                "state": "TX",
+                "zip_code": "78717"
+            },
+            "name": "Laque Nail Bar",
+            "phone": "+15125518886",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/laque-nail-bar-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sogongdong-tofu-and-bbq-austin-4",
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.4792233455218,
+                "longitude": -97.7990290289632
+            },
+            "display_phone": "",
+            "distance": 2246.6792371676847,
+            "id": "TNMRbLhGY3alXJm7eHWPRw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Kl9VAq557O9tlUdzEe_6Kg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "11301 Lakeline Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "11301 Lakeline Blvd",
+                    "Austin, TX 78717"
+                ],
+                "state": "TX",
+                "zip_code": "78717"
+            },
+            "name": "Sogongdong Tofu & BBQ",
+            "phone": "",
+            "rating": 3.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sogongdong-tofu-and-bbq-austin-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "halal-bros-austin-5",
+            "categories": [
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.4547,
+                "longitude": -97.82594
+            },
+            "display_phone": "(512) 580-0879",
+            "distance": 2981.538480601944,
+            "id": "DDOPna4qpn2EpGqgP4OnYw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aO1yYcqN0sp326UaVWYS9A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "11521 N Fm 620",
+                "address2": "Ste 1300",
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "11521 N Fm 620",
+                    "Ste 1300",
+                    "Austin, TX 78726"
+                ],
+                "state": "TX",
+                "zip_code": "78726"
+            },
+            "name": "Halal Bros",
+            "phone": "+15125800879",
+            "rating": 5.0,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/halal-bros-austin-5?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "miyako-yakitori-and-sushi-austin-2",
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.46803,
+                "longitude": -97.76171
+            },
+            "display_phone": "(512) 383-5218",
+            "distance": 3102.2387687991372,
+            "id": "dICTlzlPEuQDoUNkbK_s_A",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PI_K8iq8tgKPGxH77o4oPw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8701 W Parmer Ln",
+                "address2": "Ste 2128",
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "8701 W Parmer Ln",
+                    "Ste 2128",
+                    "Austin, TX 78729"
+                ],
+                "state": "TX",
+                "zip_code": "78729"
+            },
+            "name": "Miyako Yakitori & Sushi",
+            "phone": "+15123835218",
+            "rating": 4.5,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/miyako-yakitori-and-sushi-austin-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "papas-grill-korean-mexican-fusion-austin",
+            "categories": [
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.45408,
+                "longitude": -97.82886
+            },
+            "display_phone": "(737) 484-8084",
+            "distance": 3207.7285799103993,
+            "id": "YOMU-V6RRa-h0hkSA6mGwA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CuFWiweAYHiwk18ZuncXUA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "11416 N Fm 620",
+                "address2": null,
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "11416 N Fm 620",
+                    "Austin, TX 78726"
+                ],
+                "state": "TX",
+                "zip_code": "78726"
+            },
+            "name": "Papa's Grill Korean-Mexican Fusion",
+            "phone": "+17374848084",
+            "rating": 5.0,
+            "review_count": 36,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/papas-grill-korean-mexican-fusion-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "moonshine-patio-bar-and-grill-austin-4",
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.4969,
+                "longitude": -97.77592
+            },
+            "display_phone": "(512) 505-8181",
+            "distance": 4610.586057444769,
+            "id": "EOLGle6FQSzbWNI8_4VD2Q",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/T9l20wZplA7PGVpPw1up0w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "10525 W Parmer Ln",
+                "address2": "",
+                "address3": null,
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "10525 W Parmer Ln",
+                    "Austin, TX 78717"
+                ],
+                "state": "TX",
+                "zip_code": "78717"
+            },
+            "name": "Moonshine Patio Bar & Grill",
+            "phone": "+15125058181",
+            "rating": 3.5,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/moonshine-patio-bar-and-grill-austin-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "beach-hut-deli-austin-3",
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                },
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.49812,
+                "longitude": -97.77728
+            },
+            "display_phone": "(512) 614-4292",
+            "distance": 4771.516640497516,
+            "id": "iVRAkiDNl5mcSpCTci_PrA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UDd3U0NLV7-STz8IsSwZVw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "14900 Avery Ranch Blvd",
+                "address2": "Ste B 700",
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "14900 Avery Ranch Blvd",
+                    "Ste B 700",
+                    "Austin, TX 78717"
+                ],
+                "state": "TX",
+                "zip_code": "78717"
+            },
+            "name": "Beach Hut Deli",
+            "phone": "+15126144292",
+            "rating": 4.5,
+            "review_count": 19,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/beach-hut-deli-austin-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "green-mango-austin",
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.418776,
+                "longitude": -97.847228
+            },
+            "display_phone": "(737) 222-5000",
+            "distance": 6661.7128505596875,
+            "id": "NmEV7m-DB3OK90xEM6nI8w",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/plRBK_sxriAFiR7oFS56Zg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8300 N Fm 620",
+                "address2": "Bldg L Ste 800",
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "8300 N Fm 620",
+                    "Bldg L Ste 800",
+                    "Austin, TX 78726"
+                ],
+                "state": "TX",
+                "zip_code": "78726"
+            },
+            "name": "Green Mango",
+            "phone": "+17372225000",
+            "rating": 4.5,
+            "review_count": 43,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/green-mango-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bill-miller-bbq-restaurant-cedar-park",
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.51484,
+                "longitude": -97.85175
+            },
+            "display_phone": "(512) 456-0677",
+            "distance": 8178.950465102931,
+            "id": "ePVNRZGIxfzK10DIpgO_Sg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fcruhfpI2f1_azz5u75z6Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1651 W Whitestone Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Cedar Park",
+                "country": "US",
+                "display_address": [
+                    "1651 W Whitestone Blvd",
+                    "Cedar Park, TX 78613"
+                ],
+                "state": "TX",
+                "zip_code": "78613"
+            },
+            "name": "Bill Miller BBQ Restaurant",
+            "phone": "+15124560677",
+            "rating": 3.5,
+            "review_count": 25,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bill-miller-bbq-restaurant-cedar-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "austin-cheese-company-austin",
+            "categories": [
+                {
+                    "alias": "cheese",
+                    "title": "Cheese Shops"
+                },
+                {
+                    "alias": "beer_and_wine",
+                    "title": "Beer, Wine & Spirits"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.39282,
+                "longitude": -97.74701
+            },
+            "display_phone": "(512) 649-4711",
+            "distance": 8735.196027061293,
+            "id": "FRzrDsZ2h8PUx6mJaMPXqw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ROmtT5qJzU8My3mxz7C7dQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "10000 Research Blvd",
+                "address2": "Ste 123",
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "10000 Research Blvd",
+                    "Ste 123",
+                    "Austin, TX 78759"
+                ],
+                "state": "TX",
+                "zip_code": "78759"
+            },
+            "name": "Austin Cheese Company",
+            "phone": "+15126494711",
+            "rating": 4.5,
+            "review_count": 17,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/austin-cheese-company-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bakery-lorraine-austin",
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.40183,
+                "longitude": -97.7227
+            },
+            "display_phone": "(512) 300-0300",
+            "distance": 9479.705699717013,
+            "id": "OlKdIDTXbiF1Y7gE-7gLSQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/apDnaV-CyevldwpnQdC_xQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "11600 Rock Rose",
+                "address2": "Ste.100",
+                "address3": null,
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "11600 Rock Rose",
+                    "Ste.100",
+                    "Austin, TX 78758"
+                ],
+                "state": "TX",
+                "zip_code": "78758"
+            },
+            "name": "Bakery Lorraine",
+            "phone": "+15123000300",
+            "rating": 4.0,
+            "review_count": 43,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bakery-lorraine-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "houndstooth-austin",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.40101,
+                "longitude": -97.72247
+            },
+            "display_phone": "",
+            "distance": 9571.483051818792,
+            "id": "yX7IVJ6nCHF-Z4k1crV5Gw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/w8iSeoqlQhx5Ca0GfhB07w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "11501 Rock Rose Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "11501 Rock Rose Ave",
+                    "Austin, TX 78758"
+                ],
+                "state": "TX",
+                "zip_code": "78758"
+            },
+            "name": "Houndstooth",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/houndstooth-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "guaco-taco-leander",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.5449362033091,
+                "longitude": -97.865146180172
+            },
+            "display_phone": "(512) 528-5621",
+            "distance": 11613.052141915998,
+            "id": "q9hdd6_ljvyXQq7UpIHwVg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cLDC_QNdjTThSL4eaSXiGQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1840 Crystal Falls Pkwy",
+                "address2": null,
+                "address3": null,
+                "city": "Leander",
+                "country": "US",
+                "display_address": [
+                    "1840 Crystal Falls Pkwy",
+                    "Leander, TX 78641"
+                ],
+                "state": "TX",
+                "zip_code": "78641"
+            },
+            "name": "Guaco Taco",
+            "phone": "+15125285621",
+            "rating": 3.5,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/guaco-taco-leander?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 30.45919498934846,
+            "longitude": -97.79593692617276
+        }
+    },
+    "total": 14
+}

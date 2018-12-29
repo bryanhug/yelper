@@ -1,0 +1,102 @@
+{
+    "businesses": [
+        {
+            "alias": "fresher\u00eda-chula-vista-3",
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.63128,
+                "longitude": -116.98457
+            },
+            "display_phone": "(619) 863-0021",
+            "distance": 1751.617584414057,
+            "id": "p68fsyDFE2zj7Je_LjHjfA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/l0BGNoxObXMBlUVX2yxc4w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1750 East Palomar",
+                "address2": "Ste 2",
+                "address3": "",
+                "city": "Chula Vista",
+                "country": "US",
+                "display_address": [
+                    "1750 East Palomar",
+                    "Ste 2",
+                    "Chula Vista, CA 91913"
+                ],
+                "state": "CA",
+                "zip_code": "91913"
+            },
+            "name": "Fresher\u00eda",
+            "phone": "+16198630021",
+            "rating": 3.5,
+            "review_count": 24,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/fresher%C3%ADa-chula-vista-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "3n1-sports-bar-and-grill-chula-vista",
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.66169,
+                "longitude": -116.96965
+            },
+            "display_phone": "",
+            "distance": 3163.423099083627,
+            "id": "cnQrrVb33ysDkX4Psa0BkQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oRpeK3MoP0a286y1lO_AQg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2330 Proctor Valley Rd",
+                "address2": "Ste 101",
+                "address3": null,
+                "city": "Chula Vista",
+                "country": "US",
+                "display_address": [
+                    "2330 Proctor Valley Rd",
+                    "Ste 101",
+                    "Chula Vista, CA 91914"
+                ],
+                "state": "CA",
+                "zip_code": "91914"
+            },
+            "name": "3N1 Sports Bar & Grill",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 38,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/3n1-sports-bar-and-grill-chula-vista?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 32.63247183513125,
+            "longitude": -116.96570200375601
+        }
+    },
+    "total": 2
+}

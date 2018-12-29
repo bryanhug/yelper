@@ -1,0 +1,179 @@
+{
+    "businesses": [
+        {
+            "alias": "jim-brady-s-ann-arbor",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.28011,
+                "longitude": -83.74819
+            },
+            "display_phone": "(734) 562-1954",
+            "distance": 2734.0185536640074,
+            "id": "ScgFj9n1Ngs5BDTLV7m6Sg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6ahZjOOXrFyBwtZHJ_jpPQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "209 S Main St",
+                "address2": "",
+                "address3": null,
+                "city": "Ann Arbor",
+                "country": "US",
+                "display_address": [
+                    "209 S Main St",
+                    "Ann Arbor, MI 48104"
+                ],
+                "state": "MI",
+                "zip_code": "48104"
+            },
+            "name": "Jim Brady\u2019s",
+            "phone": "+17345621954",
+            "rating": 4.5,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/jim-brady-s-ann-arbor?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bopjib-ann-arbor-3",
+            "categories": [
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.27424,
+                "longitude": -83.73434
+            },
+            "display_phone": "(734) 662-7162",
+            "distance": 4052.708277913012,
+            "id": "JUy4sBIw2qgvVLgaw4K7ew",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_chnbV3pOtYN3j8NZ4gDuQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "621 Church St",
+                "address2": "",
+                "address3": null,
+                "city": "Ann Arbor",
+                "country": "US",
+                "display_address": [
+                    "621 Church St",
+                    "Ann Arbor, MI 48104"
+                ],
+                "state": "MI",
+                "zip_code": "48104"
+            },
+            "name": "Bopjib",
+            "phone": "+17346627162",
+            "rating": 4.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bopjib-ann-arbor-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "dalat-ann-arbor",
+            "categories": [
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "vegetarian",
+                    "title": "Vegetarian"
+                },
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.25269,
+                "longitude": -83.75121
+            },
+            "display_phone": "(734) 487-7600",
+            "distance": 4691.706061568052,
+            "id": "CXfKQrY0y7wZBfhiLjCi4g",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wgf0oa15bnjxj9pApYjp8Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2216 S Main St",
+                "address2": null,
+                "address3": "",
+                "city": "Ann Arbor",
+                "country": "US",
+                "display_address": [
+                    "2216 S Main St",
+                    "Ann Arbor, MI 48103"
+                ],
+                "state": "MI",
+                "zip_code": "48103"
+            },
+            "name": "Dalat",
+            "phone": "+17344877600",
+            "rating": 4.0,
+            "review_count": 15,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dalat-ann-arbor?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-pentacle-path-birmingham",
+            "categories": [
+                {
+                    "alias": "psychics",
+                    "title": "Psychics"
+                },
+                {
+                    "alias": "spiritual_shop",
+                    "title": "Spiritual Shop"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.54697,
+                "longitude": -83.21309
+            },
+            "display_phone": "(313) 583-9509",
+            "distance": 54570.98836741961,
+            "id": "Ad_c3Kkw9RnXbPJjl2kJFg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RkdyDvfl-lJuljDgUCZObQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "303 E Maple Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Birmingham",
+                "country": "US",
+                "display_address": [
+                    "303 E Maple Rd",
+                    "Birmingham, MI 48009"
+                ],
+                "state": "MI",
+                "zip_code": "48009"
+            },
+            "name": "The Pentacle Path",
+            "phone": "+13135839509",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-pentacle-path-birmingham?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 42.28945954803718,
+            "longitude": -83.77905974438572
+        }
+    },
+    "total": 4
+}

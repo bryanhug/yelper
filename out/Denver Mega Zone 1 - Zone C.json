@@ -1,0 +1,296 @@
+{
+    "businesses": [
+        {
+            "alias": "one-barrel-american-bistro-and-wine-bar-englewood",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.6547865,
+                "longitude": -104.9877649
+            },
+            "display_phone": "(720) 667-4781",
+            "distance": 1007.016296769415,
+            "id": "-lOMkVlx90Z_l4l5euUi_Q",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8BmZvrI7SrN3lCio4_UZUA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3401 S Broadway",
+                "address2": "Ste 110",
+                "address3": "",
+                "city": "Englewood",
+                "country": "US",
+                "display_address": [
+                    "3401 S Broadway",
+                    "Ste 110",
+                    "Englewood, CO 80110"
+                ],
+                "state": "CO",
+                "zip_code": "80110"
+            },
+            "name": "One Barrel American Bistro & Wine Bar",
+            "phone": "+17206674781",
+            "rating": 4.5,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/one-barrel-american-bistro-and-wine-bar-englewood?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tea-4u-sheridan-2",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.650276,
+                "longitude": -105.008265
+            },
+            "display_phone": "(303) 761-4017",
+            "distance": 2639.7827050177443,
+            "id": "9NWsoBKweMGnylpj7mN6Kw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Rnl31LGXn2eLrfJPdlWn-w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3602 River Point Pkwy",
+                "address2": "Unit C",
+                "address3": "",
+                "city": "Sheridan",
+                "country": "US",
+                "display_address": [
+                    "3602 River Point Pkwy",
+                    "Unit C",
+                    "Sheridan, CO 80110"
+                ],
+                "state": "CO",
+                "zip_code": "80110"
+            },
+            "name": "Tea 4U",
+            "phone": "+13037614017",
+            "rating": 3.5,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tea-4u-sheridan-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tokyo-premium-bakery-denver",
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.6886,
+                "longitude": -104.9801
+            },
+            "display_phone": "(720) 531-3784",
+            "distance": 2861.70966857501,
+            "id": "A1oufYgb0ecwVPmfEDydSg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jZn2SRq9iS_flQfrlGntxg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1540 S Pearl St",
+                "address2": null,
+                "address3": "",
+                "city": "Denver",
+                "country": "US",
+                "display_address": [
+                    "1540 S Pearl St",
+                    "Denver, CO 80210"
+                ],
+                "state": "CO",
+                "zip_code": "80210"
+            },
+            "name": "Tokyo Premium Bakery",
+            "phone": "+17205313784",
+            "rating": 5.0,
+            "review_count": 74,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tokyo-premium-bakery-denver?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "chook-charcoal-chicken-denver",
+            "categories": [
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.69283,
+                "longitude": -104.98025
+            },
+            "display_phone": "(303) 282-8399",
+            "distance": 3331.3237819841293,
+            "id": "9l5J9QoNHR9rfD3qcT4WvA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Vmx5uw3eCXvLl1I9ieGQ3w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1300 S Pearl St",
+                "address2": null,
+                "address3": "",
+                "city": "Denver",
+                "country": "US",
+                "display_address": [
+                    "1300 S Pearl St",
+                    "Denver, CO 80210"
+                ],
+                "state": "CO",
+                "zip_code": "80210"
+            },
+            "name": "Chook Charcoal Chicken",
+            "phone": "+13032828399",
+            "rating": 4.0,
+            "review_count": 34,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/chook-charcoal-chicken-denver?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "campus-lounge-denver-5",
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.70376,
+                "longitude": -104.95956
+            },
+            "display_phone": "(720) 920-9356",
+            "distance": 4939.74531997886,
+            "id": "U5gJ49LS7KwBpUJEMJf4tA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1oj5HlGdxieQ8aossOCRag/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "701 S University Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "country": "US",
+                "display_address": [
+                    "701 S University Blvd",
+                    "Denver, CO 80209"
+                ],
+                "state": "CO",
+                "zip_code": "80209"
+            },
+            "name": "Campus Lounge",
+            "phone": "+17209209356",
+            "rating": 3.5,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/campus-lounge-denver-5?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "borracho-tacos-denver-2",
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.7158,
+                "longitude": -104.9873
+            },
+            "display_phone": "(720) 389-9055",
+            "distance": 5894.534086476212,
+            "id": "PMWiftnpgZEGOto90Spkog",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uw0JR3f3RtdMEjcuIzx_vw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "42 S Broadway",
+                "address2": "",
+                "address3": null,
+                "city": "Denver",
+                "country": "US",
+                "display_address": [
+                    "42 S Broadway",
+                    "Denver, CO 80209"
+                ],
+                "state": "CO",
+                "zip_code": "80209"
+            },
+            "name": "BorraCho Tacos",
+            "phone": "+17203899055",
+            "rating": 4.0,
+            "review_count": 12,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/borracho-tacos-denver-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "adelitas-cocina-y-cantina-littleton",
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.6138464283042,
+                "longitude": -105.018596119035
+            },
+            "display_phone": "(303) 778-1294",
+            "distance": 6269.74292619479,
+            "id": "FhkylBbSZEtt8sQeN-F8Zw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hPOXxmlF94h88RUxQz7VkA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2609 W Main St",
+                "address2": "",
+                "address3": null,
+                "city": "Littleton",
+                "country": "US",
+                "display_address": [
+                    "2609 W Main St",
+                    "Littleton, CO 80120"
+                ],
+                "state": "CO",
+                "zip_code": "80120"
+            },
+            "name": "Adelitas Cocina y Cantina",
+            "phone": "+13037781294",
+            "rating": 3.5,
+            "review_count": 51,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/adelitas-cocina-y-cantina-littleton?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 39.66294053745465,
+            "longitude": -104.98258461735794
+        }
+    },
+    "total": 7
+}

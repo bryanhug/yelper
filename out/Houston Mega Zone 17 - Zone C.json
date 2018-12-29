@@ -1,0 +1,52 @@
+{
+    "businesses": [
+        {
+            "alias": "yoshi-houston-3",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.7060849661737,
+                "longitude": -95.4421059514623
+            },
+            "display_phone": "(832) 831-5258",
+            "distance": 3440.4677502384316,
+            "id": "4UHjFxiSHfFArC2cbBH9dg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9tozczG9aT4gNAVQPHbv2w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4050 Bellaire Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Houston",
+                "country": "US",
+                "display_address": [
+                    "4050 Bellaire Blvd",
+                    "Houston, TX 77025"
+                ],
+                "state": "TX",
+                "zip_code": "77025"
+            },
+            "name": "Yoshi",
+            "phone": "+18328315258",
+            "rating": 3.5,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/yoshi-houston-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 29.683366828971476,
+            "longitude": -95.41792507324595
+        }
+    },
+    "total": 1
+}

@@ -1,0 +1,332 @@
+{
+    "businesses": [
+        {
+            "alias": "hair-by-jo-z-los-angeles-3",
+            "categories": [
+                {
+                    "alias": "hairstylists",
+                    "title": "Hair Stylists"
+                },
+                {
+                    "alias": "hair_extensions",
+                    "title": "Hair Extensions"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.03282,
+                "longitude": -118.33884
+            },
+            "display_phone": "(323) 788-1091",
+            "distance": 989.2864579912496,
+            "id": "afBi8FWCu4xqQncX5eeHNA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mVFqFwqGbxzQgNHPlHuMzg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4525 W Adams",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "country": "US",
+                "display_address": [
+                    "4525 W Adams",
+                    "Los Angeles, CA 90016"
+                ],
+                "state": "CA",
+                "zip_code": "90016"
+            },
+            "name": "Hair by Jo-Z",
+            "phone": "+13237881091",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hair-by-jo-z-los-angeles-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "alta-west-adams-los-angeles",
+            "categories": [
+                {
+                    "alias": "soulfood",
+                    "title": "Soul Food"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.03278,
+                "longitude": -118.35994
+            },
+            "display_phone": "(323) 571-4999",
+            "distance": 1443.7884786206444,
+            "id": "qX4i4xyc-8Im4PLpJX-L8g",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/d0tPg6_OJd5uUEKGt7P2Eg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5359 West Adams Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "country": "US",
+                "display_address": [
+                    "5359 West Adams Blvd",
+                    "Los Angeles, CA 90016"
+                ],
+                "state": "CA",
+                "zip_code": "90016"
+            },
+            "name": "Alta West Adams",
+            "phone": "+13235714999",
+            "rating": 4.0,
+            "review_count": 63,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/alta-west-adams-los-angeles?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "adams-coffee-shop-los-angeles",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0326313033346,
+                "longitude": -118.360042294417
+            },
+            "display_phone": "",
+            "distance": 1452.7914035348253,
+            "id": "XZwQtJ7A40OnN6j_L1qXUg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RJDIIcstuo90mgwjKvZICg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5357 W Adams Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Los Angeles",
+                "country": "US",
+                "display_address": [
+                    "5357 W Adams Blvd",
+                    "Los Angeles, CA 90016"
+                ],
+                "state": "CA",
+                "zip_code": "90016"
+            },
+            "name": "Adams Coffee Shop",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/adams-coffee-shop-los-angeles?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "supremo-los-angeles",
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.05867,
+                "longitude": -118.34578
+            },
+            "display_phone": "",
+            "distance": 2170.8480743233235,
+            "id": "RarITW4zBvhqKAK8FVOFCQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EDFhwymZPVjC8ex-qBZoRw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "901 S La Brea Ave",
+                "address2": "Ste 2",
+                "address3": "",
+                "city": "Los Angeles",
+                "country": "US",
+                "display_address": [
+                    "901 S La Brea Ave",
+                    "Ste 2",
+                    "Los Angeles, CA 90036"
+                ],
+                "state": "CA",
+                "zip_code": "90036"
+            },
+            "name": "Supremo",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/supremo-los-angeles?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "spa-de-la-los-angeles",
+            "categories": [
+                {
+                    "alias": "massage",
+                    "title": "Massage"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.05989,
+                "longitude": -118.34453
+            },
+            "display_phone": "(323) 694-3352",
+            "distance": 2321.31884926685,
+            "id": "Jw8BTmKKazPUXTkPYJe7sw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3mT5f5OoP-1DNJRMzg2zUA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "820 S La Brea Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "country": "US",
+                "display_address": [
+                    "820 S La Brea Ave",
+                    "Los Angeles, CA 90036"
+                ],
+                "state": "CA",
+                "zip_code": "90036"
+            },
+            "name": "Spa De' LA",
+            "phone": "+13236943352",
+            "rating": 4.5,
+            "review_count": 12,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/spa-de-la-los-angeles?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "dime-nails-la-los-angeles",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0558,
+                "longitude": -118.36462
+            },
+            "display_phone": "(323) 701-1010",
+            "distance": 2518.9454828710213,
+            "id": "2-DNEKzEZusPbR0evwo5Rw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UtFLwA73kHNXAljTSxnAlA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1086 S Fairfax Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "country": "US",
+                "display_address": [
+                    "1086 S Fairfax Ave",
+                    "Los Angeles, CA 90019"
+                ],
+                "state": "CA",
+                "zip_code": "90019"
+            },
+            "name": "Dime Nails LA",
+            "phone": "+13237011010",
+            "rating": 5.0,
+            "review_count": 22,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dime-nails-la-los-angeles?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "cruz-tacos-los-angeles",
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                },
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.06198,
+                "longitude": -118.3456
+            },
+            "display_phone": "(323) 875-5759",
+            "distance": 2547.7504468293964,
+            "id": "daDXGqjeVl0Scj3nN8W4Jw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/F_0jMptjrQRNh39hwKABZQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5354 Wilshire Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "country": "US",
+                "display_address": [
+                    "5354 Wilshire Blvd",
+                    "Los Angeles, CA 90036"
+                ],
+                "state": "CA",
+                "zip_code": "90036"
+            },
+            "name": "Cruz Tacos",
+            "phone": "+13238755759",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/cruz-tacos-los-angeles?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "otto-s-pizza-stix-los-angeles-2",
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0624708095338,
+                "longitude": -118.358365834324
+            },
+            "display_phone": "(562) 743-1964",
+            "distance": 2827.0621988251314,
+            "id": "s-nSluuP5yRFqcdPOMbWNQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/H_f3gpWrxEWJ0pJWXAn9gw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5900 Wilshire Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "country": "US",
+                "display_address": [
+                    "5900 Wilshire Blvd",
+                    "Los Angeles, CA 90036"
+                ],
+                "state": "CA",
+                "zip_code": "90036"
+            },
+            "name": "Otto\u2019s Pizza Stix",
+            "phone": "+15627431964",
+            "rating": 4.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/otto-s-pizza-stix-los-angeles-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 34.03908289502854,
+            "longitude": -118.3463323319105
+        }
+    },
+    "total": 8
+}

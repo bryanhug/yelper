@@ -1,0 +1,97 @@
+{
+    "businesses": [
+        {
+            "alias": "hops-n-drops-colorado-springs-2",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.91132,
+                "longitude": -104.71729
+            },
+            "display_phone": "(719) 574-7219",
+            "distance": 2261.681386102016,
+            "id": "sgPr8gJzxW27iknQ7dFhXQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oOcCsRFYTAu3ObONMsIpbw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5820 Stetson Hills Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Colorado Springs",
+                "country": "US",
+                "display_address": [
+                    "5820 Stetson Hills Blvd",
+                    "Colorado Springs, CO 80922"
+                ],
+                "state": "CO",
+                "zip_code": "80922"
+            },
+            "name": "Hops n Drops",
+            "phone": "+17195747219",
+            "rating": 4.5,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hops-n-drops-colorado-springs-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "fala-filo-colorado-springs",
+            "categories": [
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                },
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.88609,
+                "longitude": -104.71548
+            },
+            "display_phone": "(719) 358-7865",
+            "distance": 3233.346882133041,
+            "id": "cva-Ornn9HBWZGKtyAHajA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zoRTJvlwvxAVwHPPw5eP8Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6050 N Carefree Cir",
+                "address2": null,
+                "address3": "",
+                "city": "Colorado Springs",
+                "country": "US",
+                "display_address": [
+                    "6050 N Carefree Cir",
+                    "Colorado Springs, CO 80922"
+                ],
+                "state": "CO",
+                "zip_code": "80922"
+            },
+            "name": "Fala-Filo",
+            "phone": "+17193587865",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/fala-filo-colorado-springs?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 38.905104317065486,
+            "longitude": -104.74253293199332
+        }
+    },
+    "total": 2
+}

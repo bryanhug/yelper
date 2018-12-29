@@ -1,0 +1,131 @@
+{
+    "businesses": [
+        {
+            "alias": "hoki-poki-tucson-5",
+            "categories": [
+                {
+                    "alias": "poke",
+                    "title": "Poke"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.2547888119377,
+                "longitude": -110.944187040475
+            },
+            "display_phone": "(520) 321-0400",
+            "distance": 1807.204851670117,
+            "id": "If-yTejZ8bkKM2GqhixKcg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FnqeW5Z2gTVWPmkF37OUfw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2643 N Campbell Ave",
+                "address2": "Ste 101",
+                "address3": "",
+                "city": "Tucson",
+                "country": "US",
+                "display_address": [
+                    "2643 N Campbell Ave",
+                    "Ste 101",
+                    "Tucson, AZ 85719"
+                ],
+                "state": "AZ",
+                "zip_code": "85719"
+            },
+            "name": "Hoki Poki",
+            "phone": "+15203210400",
+            "rating": 4.5,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hoki-poki-tucson-5?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "yu-zi-wei-tucson",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.2364,
+                "longitude": -110.93369
+            },
+            "display_phone": "(520) 284-0019",
+            "distance": 3469.224225909981,
+            "id": "Nw2rXpsiqPxi606p82vmOA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MXu-qMmTHu6eC3P_MCBtww/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2601 E Speedway Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Tucson",
+                "country": "US",
+                "display_address": [
+                    "2601 E Speedway Blvd",
+                    "Tucson, AZ 85716"
+                ],
+                "state": "AZ",
+                "zip_code": "85716"
+            },
+            "name": "Yu Zi Wei",
+            "phone": "+15202840019",
+            "rating": 4.5,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/yu-zi-wei-tucson?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "proof-artisanal-pizza-and-pasta-tucson-2",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.286074,
+                "longitude": -110.942227
+            },
+            "display_phone": "(520) 789-7447",
+            "distance": 4010.292213400947,
+            "id": "8YM2oTP6LZYQlwB6Hk9lLA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/b8dq_1SUToTBzOR66opceg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4340 N Campbell Ave",
+                "address2": "Ste 104",
+                "address3": null,
+                "city": "Tucson",
+                "country": "US",
+                "display_address": [
+                    "4340 N Campbell Ave",
+                    "Ste 104",
+                    "Tucson, AZ 85718"
+                ],
+                "state": "AZ",
+                "zip_code": "85718"
+            },
+            "name": "Proof Artisanal Pizza & Pasta",
+            "phone": "+15207897447",
+            "rating": 3.5,
+            "review_count": 33,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/proof-artisanal-pizza-and-pasta-tucson-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 32.254820803377214,
+            "longitude": -110.9634053160123
+        }
+    },
+    "total": 3
+}

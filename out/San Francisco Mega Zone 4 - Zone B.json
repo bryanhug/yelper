@@ -1,0 +1,381 @@
+{
+    "businesses": [
+        {
+            "alias": "vietnam-hong-kong-cafe-san-leandro",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.700634,
+                "longitude": -122.126024
+            },
+            "display_phone": "(510) 397-2314",
+            "distance": 838.4667785443885,
+            "id": "zH5I7pEYj7qdfilBFuYIcA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EDbY_so1ssL7W8TGUYSDsg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "15555 E 14th St",
+                "address2": "Ste 318",
+                "address3": "",
+                "city": "San Leandro",
+                "country": "US",
+                "display_address": [
+                    "15555 E 14th St",
+                    "Ste 318",
+                    "San Leandro, CA 94578"
+                ],
+                "state": "CA",
+                "zip_code": "94578"
+            },
+            "name": "Vietnam Hong Kong Cafe",
+            "phone": "+15103972314",
+            "rating": 3.0,
+            "review_count": 7,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/vietnam-hong-kong-cafe-san-leandro?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "happy-lemon-san-leandro-3",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.68776,
+                "longitude": -122.13834
+            },
+            "display_phone": "",
+            "distance": 919.4270816356495,
+            "id": "IpmtrWdSgSe0QlemmescyQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jPcpRZmwq302zUgEDpl3xg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "699 Lewelling Blvd",
+                "address2": "Ste 35",
+                "address3": null,
+                "city": "San Leandro",
+                "country": "US",
+                "display_address": [
+                    "699 Lewelling Blvd",
+                    "Ste 35",
+                    "San Leandro, CA 94579"
+                ],
+                "state": "CA",
+                "zip_code": "94579"
+            },
+            "name": "Happy Lemon",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 39,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/happy-lemon-san-leandro-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "beme-hair-studio-hayward",
+            "categories": [
+                {
+                    "alias": "hair",
+                    "title": "Hair Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.684,
+                "longitude": -122.09916
+            },
+            "display_phone": "",
+            "distance": 3115.1061409919243,
+            "id": "d9R0eibMTWiSR0piPPBX6A",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HIuFKYka4p0-N7q8P2Ec_A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "20953 Mission Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Hayward",
+                "country": "US",
+                "display_address": [
+                    "20953 Mission Blvd",
+                    "Hayward, CA 94541"
+                ],
+                "state": "CA",
+                "zip_code": "94541"
+            },
+            "name": "BeMe Hair Studio",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/beme-hair-studio-hayward?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "dynasty-pot-san-leandro",
+            "categories": [
+                {
+                    "alias": "hotpot",
+                    "title": "Hot Pot"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.72438,
+                "longitude": -122.15559
+            },
+            "display_phone": "(510) 895-8066",
+            "distance": 3929.9936897734297,
+            "id": "yvPZN-_rdkb3RFN-s9jVaw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DdswIAzGxZyu7a4beseXAw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1371 E 14th St",
+                "address2": "Unit D",
+                "address3": "",
+                "city": "San Leandro",
+                "country": "US",
+                "display_address": [
+                    "1371 E 14th St",
+                    "Unit D",
+                    "San Leandro, CA 94577"
+                ],
+                "state": "CA",
+                "zip_code": "94577"
+            },
+            "name": "Dynasty Pot",
+            "phone": "+15108958066",
+            "rating": 4.0,
+            "review_count": 60,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dynasty-pot-san-leandro?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sharetea-hayward",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.65265,
+                "longitude": -122.1042
+            },
+            "display_phone": "",
+            "distance": 5211.833743310271,
+            "id": "9t-PSdnwprzQ4bRpDoRdWw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZGbcJutehlCvlQOcK2DV3w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "24351 Southland Dr",
+                "address2": null,
+                "address3": "",
+                "city": "Hayward",
+                "country": "US",
+                "display_address": [
+                    "24351 Southland Dr",
+                    "Hayward, CA 94545"
+                ],
+                "state": "CA",
+                "zip_code": "94545"
+            },
+            "name": "Sharetea",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 20,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sharetea-hayward?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "pro-nail-hayward",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.6506567494562,
+                "longitude": -122.10991267624
+            },
+            "display_phone": "(510) 274-5631",
+            "distance": 5234.5018769100525,
+            "id": "ZAXPXwFaUpeCIXLHqYrxeg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ffzzJzSQyhNWMa4-G28UfA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "24253 Hesperian Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Hayward",
+                "country": "US",
+                "display_address": [
+                    "24253 Hesperian Blvd",
+                    "Hayward, CA 94545"
+                ],
+                "state": "CA",
+                "zip_code": "94545"
+            },
+            "name": "Pro Nail",
+            "phone": "+15102745631",
+            "rating": 4.5,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/pro-nail-hayward?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "keeku-da-dhaba-fremont",
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.5530508,
+                "longitude": -121.9798298
+            },
+            "display_phone": "(510) 789-3437",
+            "distance": 20653.687727298075,
+            "id": "40DtuR_HxNuBVf_uSoy66Q",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/01Lkj-1u8DwBhRfzPqPFjw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "39200 Paseo Padre Pkwy",
+                "address2": "",
+                "address3": "Gateway Plaza",
+                "city": "Fremont",
+                "country": "US",
+                "display_address": [
+                    "39200 Paseo Padre Pkwy",
+                    "Gateway Plaza",
+                    "Fremont, CA 94538"
+                ],
+                "state": "CA",
+                "zip_code": "94538"
+            },
+            "name": "Keeku da Dhaba",
+            "phone": "+15107893437",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/keeku-da-dhaba-fremont?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kerb-san-francisco-2",
+            "categories": [
+                {
+                    "alias": "vehicleshipping",
+                    "title": "Vehicle Shipping"
+                },
+                {
+                    "alias": "movers",
+                    "title": "Movers"
+                },
+                {
+                    "alias": "packingsupplies",
+                    "title": "Packing Supplies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.757438659668,
+                "longitude": -122.419372558594
+            },
+            "display_phone": "(628) 219-1170",
+            "distance": 25899.702117175395,
+            "id": "94OGPwlE_nS8RI_m3rm84Q",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/s_Kj-fihwfRirz0amRsa6g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "San Francisco, CA 94110"
+                ],
+                "state": "CA",
+                "zip_code": "94110"
+            },
+            "name": "Kerb",
+            "phone": "+16282191170",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kerb-san-francisco-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "momo-noodle-san-francisco",
+            "categories": [
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "szechuan",
+                    "title": "Szechuan"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.74434,
+                "longitude": -122.47868
+            },
+            "display_phone": "(408) 800-6819",
+            "distance": 28027.72475937116,
+            "id": "7dHj1XDVA_7AYXTfp5i-BQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JNjSRfVc8x6-EQMLNlOUOg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "San Francisco, CA 94016"
+                ],
+                "state": "CA",
+                "zip_code": "94016"
+            },
+            "name": "MOMO noodle",
+            "phone": "+14088006819",
+            "rating": 4.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/momo-noodle-san-francisco?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 37.694353939749426,
+            "longitude": -122.13203535644159
+        }
+    },
+    "total": 9
+}

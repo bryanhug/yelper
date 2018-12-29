@@ -1,0 +1,86 @@
+{
+    "businesses": [
+        {
+            "alias": "ks-japanese-kitchen-provo",
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.2339549,
+                "longitude": -111.6644822
+            },
+            "display_phone": "(385) 223-4044",
+            "distance": 9505.194500134894,
+            "id": "XdfvmtA_8Za1MjZT7O8QjQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MnlhhJlS3scRtnoqfd7nhg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "322 W Center St",
+                "address2": null,
+                "address3": "",
+                "city": "Provo",
+                "country": "US",
+                "display_address": [
+                    "322 W Center St",
+                    "Provo, UT 84601"
+                ],
+                "state": "UT",
+                "zip_code": "84601"
+            },
+            "name": "K's Japanese Kitchen",
+            "phone": "+13852234044",
+            "rating": 4.5,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ks-japanese-kitchen-provo?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "trureligion-pancake-and-steakhouse-orem-3",
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.2911235,
+                "longitude": -111.6933181
+            },
+            "display_phone": "(801) 705-4425",
+            "distance": 13183.213346210063,
+            "id": "f5Yxmzra4f5CAnQsVaT51g",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oIO-Vkjx9jBu-0c_Wp9JOg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "360 S State St",
+                "address2": "Ste 158",
+                "address3": null,
+                "city": "Orem",
+                "country": "US",
+                "display_address": [
+                    "360 S State St",
+                    "Ste 158",
+                    "Orem, UT 84058"
+                ],
+                "state": "UT",
+                "zip_code": "84058"
+            },
+            "name": "TRUreligion Pancake & Steakhouse",
+            "phone": "+18017054425",
+            "rating": 4.5,
+            "review_count": 40,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/trureligion-pancake-and-steakhouse-orem-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 40.24059896592934,
+            "longitude": -111.5527577042364
+        }
+    },
+    "total": 2
+}

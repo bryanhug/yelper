@@ -1,0 +1,833 @@
+{
+    "businesses": [
+        {
+            "alias": "world-of-beer-dublin-4",
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.703702,
+                "longitude": -121.884392
+            },
+            "display_phone": "(925) 962-5646",
+            "distance": 2793.5372985913605,
+            "id": "UbC9IPepudCK2q8t5yAIcA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ACBmTFzS1BkI9N5iJtSs8w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4920 Dublin Blvd",
+                "address2": "Ste 260",
+                "address3": null,
+                "city": "Dublin",
+                "country": "US",
+                "display_address": [
+                    "4920 Dublin Blvd",
+                    "Ste 260",
+                    "Dublin, CA 94568"
+                ],
+                "state": "CA",
+                "zip_code": "94568"
+            },
+            "name": "World of Beer",
+            "phone": "+19259625646",
+            "rating": 4.0,
+            "review_count": 92,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/world-of-beer-dublin-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "happy-house-dublin-2",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.70515,
+                "longitude": -121.87622
+            },
+            "display_phone": "(925) 828-8299",
+            "distance": 2877.7471635692677,
+            "id": "asYQ0EnP4p5HXzF-j1kEPg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LXcjYGdRKQyblTa-2ufYWw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4288 Dublin Blvd",
+                "address2": "Ste 113",
+                "address3": null,
+                "city": "Dublin",
+                "country": "US",
+                "display_address": [
+                    "4288 Dublin Blvd",
+                    "Ste 113",
+                    "Dublin, CA 94568"
+                ],
+                "state": "CA",
+                "zip_code": "94568"
+            },
+            "name": "Happy House",
+            "phone": "+19258288299",
+            "rating": 3.5,
+            "review_count": 26,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/happy-house-dublin-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "burgerim-pleasanton-4",
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.6984183080312,
+                "longitude": -121.874019429132
+            },
+            "display_phone": "(925) 400-8017",
+            "distance": 3575.571551937463,
+            "id": "KsppVXqPtgt3MxgR_wyjYw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RiDGoGGjEgzMdnYDnNzcgw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4233 Rosewood Dr",
+                "address2": "Ste 11",
+                "address3": null,
+                "city": "Pleasanton",
+                "country": "US",
+                "display_address": [
+                    "4233 Rosewood Dr",
+                    "Ste 11",
+                    "Pleasanton, CA 94588"
+                ],
+                "state": "CA",
+                "zip_code": "94588"
+            },
+            "name": "Burgerim",
+            "phone": "+19254008017",
+            "rating": 3.5,
+            "review_count": 64,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/burgerim-pleasanton-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "xushi-bento-house-pleasanton",
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.6984820911306,
+                "longitude": -121.873568934739
+            },
+            "display_phone": "(925) 225-1888",
+            "distance": 3582.5018356521123,
+            "id": "iluZKW7sa0VeH1uX6JzIEQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/F8khyQpbXWd28nfOY6HVdA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4247 Rosewood Dr",
+                "address2": "Ste 17",
+                "address3": null,
+                "city": "Pleasanton",
+                "country": "US",
+                "display_address": [
+                    "4247 Rosewood Dr",
+                    "Ste 17",
+                    "Pleasanton, CA 94588"
+                ],
+                "state": "CA",
+                "zip_code": "94588"
+            },
+            "name": "Xushi Bento House",
+            "phone": "+19252251888",
+            "rating": 4.0,
+            "review_count": 32,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/xushi-bento-house-pleasanton?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "nails-done-by-vee-dublin-2",
+            "categories": [
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                },
+                {
+                    "alias": "skincare",
+                    "title": "Skin Care"
+                },
+                {
+                    "alias": "nailtechnicians",
+                    "title": "Nail Technicians"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.70829,
+                "longitude": -121.92604
+            },
+            "display_phone": "(415) 867-3639",
+            "distance": 4063.1262603381133,
+            "id": "YcDwVqXFJyKVKtkTNozzUw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nvs0jLelKoe_sOKf4R1TSw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7030 Village Pkwy",
+                "address2": null,
+                "address3": "",
+                "city": "Dublin",
+                "country": "US",
+                "display_address": [
+                    "7030 Village Pkwy",
+                    "Dublin, CA 94568"
+                ],
+                "state": "CA",
+                "zip_code": "94568"
+            },
+            "name": "Nails Done By Vee",
+            "phone": "+14158673639",
+            "rating": 5.0,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/nails-done-by-vee-dublin-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "88-bao-bao-dublin-2",
+            "categories": [
+                {
+                    "alias": "dimsum",
+                    "title": "Dim Sum"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.7043592,
+                "longitude": -121.8511002
+            },
+            "display_phone": "",
+            "distance": 4150.37012478456,
+            "id": "BeXdKF29wcH84t7cz4jqtA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SIB9aNu_5GgVDbIfPpQOLg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3880 Fallon Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Dublin",
+                "country": "US",
+                "display_address": [
+                    "3880 Fallon Rd",
+                    "Dublin, CA 94568"
+                ],
+                "state": "CA",
+                "zip_code": "94568"
+            },
+            "name": "88 Bao Bao",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 59,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/88-bao-bao-dublin-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bentolicious-pleasanton",
+            "categories": [
+                {
+                    "alias": "taiwanese",
+                    "title": "Taiwanese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.692834,
+                "longitude": -121.901718
+            },
+            "display_phone": "(925) 201-3899",
+            "distance": 4171.403047557294,
+            "id": "cPqoBZbMVFFX83vZ3Yn4hA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EC5QXzvJl3JtPx_6U86QDQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4833 Hopyard Rd E3",
+                "address2": null,
+                "address3": null,
+                "city": "Pleasanton",
+                "country": "US",
+                "display_address": [
+                    "4833 Hopyard Rd E3",
+                    "Pleasanton, CA 94588"
+                ],
+                "state": "CA",
+                "zip_code": "94588"
+            },
+            "name": "BentoLicious",
+            "phone": "+19252013899",
+            "rating": 4.5,
+            "review_count": 51,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bentolicious-pleasanton?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "rooster-and-rice-pleasanton-2",
+            "categories": [
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                },
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                },
+                {
+                    "alias": "vegetarian",
+                    "title": "Vegetarian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.69048,
+                "longitude": -121.87742
+            },
+            "display_phone": "(925) 425-7500",
+            "distance": 4350.910077469905,
+            "id": "bkSIu1t0ARO_4nA0ZW0WiQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jWW2Rj30teRK6Fjh7lKPyw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3120 Santa Rita Rd",
+                "address2": "Ste B",
+                "address3": "",
+                "city": "Pleasanton",
+                "country": "US",
+                "display_address": [
+                    "3120 Santa Rita Rd",
+                    "Ste B",
+                    "Pleasanton, CA 94566"
+                ],
+                "state": "CA",
+                "zip_code": "94566"
+            },
+            "name": "Rooster & Rice",
+            "phone": "+19254257500",
+            "rating": 5.0,
+            "review_count": 15,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/rooster-and-rice-pleasanton-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bak-kung-korean-bbq-pleasanton",
+            "categories": [
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.6956597519103,
+                "longitude": -121.849382960592
+            },
+            "display_phone": "(925) 201-1994",
+            "distance": 4987.504285120348,
+            "id": "x2sng_lpTXTyv738ptXtWQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/35g_WSKbcoJc1lxpTn9mRA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2693 Stoneridge Dr",
+                "address2": "Ste 106",
+                "address3": null,
+                "city": "Pleasanton",
+                "country": "US",
+                "display_address": [
+                    "2693 Stoneridge Dr",
+                    "Ste 106",
+                    "Pleasanton, CA 94588"
+                ],
+                "state": "CA",
+                "zip_code": "94588"
+            },
+            "name": "Bak Kung Korean BBQ",
+            "phone": "+19252011994",
+            "rating": 3.0,
+            "review_count": 104,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bak-kung-korean-bbq-pleasanton?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "makers-of-milkshakes-pleasanton",
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.6937600000422,
+                "longitude": -121.93128999973
+            },
+            "display_phone": "(913) 608-7763",
+            "distance": 5178.497604506236,
+            "id": "YueKib8RV05e4ierwL_1Fg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nb7l2NsSd6fS6M9BzgPlIg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1 Stoneridge Mall Rd",
+                "address2": "",
+                "address3": "",
+                "city": "Pleasanton",
+                "country": "US",
+                "display_address": [
+                    "1 Stoneridge Mall Rd",
+                    "Pleasanton, CA 94588"
+                ],
+                "state": "CA",
+                "zip_code": "94588"
+            },
+            "name": "Makers of Milkshakes",
+            "phone": "+19136087763",
+            "rating": 3.5,
+            "review_count": 3,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/makers-of-milkshakes-pleasanton?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-clubhouse-bar-and-grill-at-the-pleasanton-hotel-pleasanton",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.6646,
+                "longitude": -121.87425
+            },
+            "display_phone": "(925) 750-8855",
+            "distance": 7227.011303475881,
+            "id": "vfv-OFT6TbPFYzJiwGg-Ag",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CvatKGEd3JKpMbVBBwmXWg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "855 Main St",
+                "address2": null,
+                "address3": "",
+                "city": "Pleasanton",
+                "country": "US",
+                "display_address": [
+                    "855 Main St",
+                    "Pleasanton, CA 94566"
+                ],
+                "state": "CA",
+                "zip_code": "94566"
+            },
+            "name": "The Clubhouse Bar & Grill at The Pleasanton Hotel",
+            "phone": "+19257508855",
+            "rating": 4.0,
+            "review_count": 52,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-clubhouse-bar-and-grill-at-the-pleasanton-hotel-pleasanton?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "city-center-bishop-ranch-san-ramon-2",
+            "categories": [
+                {
+                    "alias": "shoppingcenters",
+                    "title": "Shopping Centers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.7638636809077,
+                "longitude": -121.957012540357
+            },
+            "display_phone": "(925) 866-0100",
+            "distance": 7238.0072604008565,
+            "id": "CuahAxklVozlbbLAQykNIQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iXsbL5E1TGPc6Ckc7eI1fw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6000 Bollinger Canyon Rd",
+                "address2": "",
+                "address3": null,
+                "city": "San Ramon",
+                "country": "US",
+                "display_address": [
+                    "6000 Bollinger Canyon Rd",
+                    "San Ramon, CA 94583"
+                ],
+                "state": "CA",
+                "zip_code": "94583"
+            },
+            "name": "City Center Bishop Ranch",
+            "phone": "+19258660100",
+            "rating": 3.5,
+            "review_count": 19,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/city-center-bishop-ranch-san-ramon-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "boba-guys-san-ramon-san-ramon",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.762703,
+                "longitude": -121.9591969
+            },
+            "display_phone": "",
+            "distance": 7332.968672007661,
+            "id": "tc-0kxFG8ByUKl6Y-nfYaA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZpNDWKfeX5MNF55fZlqFyg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6000 Bollinger Canyon Rd",
+                "address2": "Ste 1217",
+                "address3": null,
+                "city": "San Ramon",
+                "country": "US",
+                "display_address": [
+                    "6000 Bollinger Canyon Rd",
+                    "Ste 1217",
+                    "San Ramon, CA 94583"
+                ],
+                "state": "CA",
+                "zip_code": "94583"
+            },
+            "name": "Boba Guys - San Ramon",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 62,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/boba-guys-san-ramon-san-ramon?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "uptown-burger-pleasanton-3",
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.66329,
+                "longitude": -121.87426
+            },
+            "display_phone": "(925) 600-9136",
+            "distance": 7378.099975857149,
+            "id": "K-5lWQ3ZwHSjCIehsy3Jlw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FgnE305EmdoZxJghU4R8cQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "724 Main St",
+                "address2": null,
+                "address3": "",
+                "city": "Pleasanton",
+                "country": "US",
+                "display_address": [
+                    "724 Main St",
+                    "Pleasanton, CA 94566"
+                ],
+                "state": "CA",
+                "zip_code": "94566"
+            },
+            "name": "Uptown Burger",
+            "phone": "+19256009136",
+            "rating": 3.5,
+            "review_count": 45,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/uptown-burger-pleasanton-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "fieldwork-brewing-san-ramon",
+            "categories": [
+                {
+                    "alias": "breweries",
+                    "title": "Breweries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.7640578031856,
+                "longitude": -121.958861388266
+            },
+            "display_phone": "(925) 359-6961",
+            "distance": 7386.768859431031,
+            "id": "rUtUWH3anb9KlOOBWFXsvQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0P2vT8uXq10kbVA_tXUPIQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6000 Bollinger Canyon Rd",
+                "address2": "Ste 1206",
+                "address3": null,
+                "city": "San Ramon",
+                "country": "US",
+                "display_address": [
+                    "6000 Bollinger Canyon Rd",
+                    "Ste 1206",
+                    "San Ramon, CA 94583"
+                ],
+                "state": "CA",
+                "zip_code": "94583"
+            },
+            "name": "Fieldwork Brewing",
+            "phone": "+19253596961",
+            "rating": 4.5,
+            "review_count": 36,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/fieldwork-brewing-san-ramon?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "starbucks-san-ramon-20",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.7628028165996,
+                "longitude": -121.959921976907
+            },
+            "display_phone": "(925) 542-5008",
+            "distance": 7393.343106668858,
+            "id": "c8bkKrkrv8Y9KkN4QpvAHw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/32l-XVTdI8yAGZhvaLyl-Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6000 Bollinger Canyon Rd",
+                "address2": "Ste 1500",
+                "address3": null,
+                "city": "San Ramon",
+                "country": "US",
+                "display_address": [
+                    "6000 Bollinger Canyon Rd",
+                    "Ste 1500",
+                    "San Ramon, CA 94583"
+                ],
+                "state": "CA",
+                "zip_code": "94583"
+            },
+            "name": "Starbucks",
+            "phone": "+19255425008",
+            "rating": 4.5,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/starbucks-san-ramon-20?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-lot-city-center-san-ramon",
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "movietheaters",
+                    "title": "Cinema"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.7630002356029,
+                "longitude": -121.959960598178
+            },
+            "display_phone": "(925) 664-0069",
+            "distance": 7407.5346677596435,
+            "id": "E_TMlJ6zexly9RqaftDB8A",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6suyXHUHUQXw4t03wRdWVw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6000 Bollinger Canyon Rd",
+                "address2": "Ste 2300",
+                "address3": "",
+                "city": "San Ramon",
+                "country": "US",
+                "display_address": [
+                    "6000 Bollinger Canyon Rd",
+                    "Ste 2300",
+                    "San Ramon, CA 94583"
+                ],
+                "state": "CA",
+                "zip_code": "94583"
+            },
+            "name": "THE LOT City Center",
+            "phone": "+19256640069",
+            "rating": 3.5,
+            "review_count": 139,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-lot-city-center-san-ramon?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "starbucks-san-ramon-19",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.7628591752893,
+                "longitude": -121.96014993474
+            },
+            "display_phone": "(925) 842-3651",
+            "distance": 7413.761675646975,
+            "id": "grvYMelvFLltqaIGGD-qjQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/D6RzTrc5DUCnlaHsbZetQA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6001 Bollinger Canyon Rd",
+                "address2": null,
+                "address3": "Chevron USA Headquarters Lobby",
+                "city": "San Ramon",
+                "country": "US",
+                "display_address": [
+                    "6001 Bollinger Canyon Rd",
+                    "Chevron USA Headquarters Lobby",
+                    "San Ramon, CA 94583"
+                ],
+                "state": "CA",
+                "zip_code": "94583"
+            },
+            "name": "Starbucks",
+            "phone": "+19258423651",
+            "rating": 3.0,
+            "review_count": 6,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/starbucks-san-ramon-19?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sidetrack-bar-grill-pleasanton",
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.6595429028541,
+                "longitude": -121.875635084893
+            },
+            "display_phone": "(925) 399-6789",
+            "distance": 7761.686029763272,
+            "id": "iQNYhGiTM_IUpKE5ur86jg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XCkPxcBR3Gck7c0lJ7gYuQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "30 W Angela St",
+                "address2": "",
+                "address3": null,
+                "city": "Pleasanton",
+                "country": "US",
+                "display_address": [
+                    "30 W Angela St",
+                    "Pleasanton, CA 94566"
+                ],
+                "state": "CA",
+                "zip_code": "94566"
+            },
+            "name": "Sidetrack Bar + Grill",
+            "phone": "+19253996789",
+            "rating": 4.0,
+            "review_count": 78,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sidetrack-bar-grill-pleasanton?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hoc-lab-pleasanton",
+            "categories": [
+                {
+                    "alias": "hair",
+                    "title": "Hair Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.65806,
+                "longitude": -121.87764
+            },
+            "display_phone": "(510) 386-5782",
+            "distance": 7887.353791528978,
+            "id": "0ai7nDuuJAUJxQmBLH3-hQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/SSmtqbxN9Y7ZTSz3VKbU1A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "243 Main St",
+                "address2": "Ste F",
+                "address3": "",
+                "city": "Pleasanton",
+                "country": "US",
+                "display_address": [
+                    "243 Main St",
+                    "Ste F",
+                    "Pleasanton, CA 94566"
+                ],
+                "state": "CA",
+                "zip_code": "94566"
+            },
+            "name": "HOC LAB",
+            "phone": "+15103865782",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hoc-lab-pleasanton?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 37.72868405719239,
+            "longitude": -121.88775032327554
+        }
+    },
+    "total": 22
+}

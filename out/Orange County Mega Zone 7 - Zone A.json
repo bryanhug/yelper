@@ -1,0 +1,302 @@
+{
+    "businesses": [
+        {
+            "alias": "in-n-out-burger-rancho-mission-viejo",
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.5202953749358,
+                "longitude": -117.619305294561
+            },
+            "display_phone": "(800) 786-1000",
+            "distance": 4226.208827592868,
+            "id": "FFAJ6BFHNc7bvIC5mZklqQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/46jXtRCw5yItYZziorJIsA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "30655 Gateway Pl",
+                "address2": "",
+                "address3": null,
+                "city": "Rancho Mission Viejo",
+                "country": "US",
+                "display_address": [
+                    "30655 Gateway Pl",
+                    "Rancho Mission Viejo, CA 92694"
+                ],
+                "state": "CA",
+                "zip_code": "92694"
+            },
+            "name": "In-N-out Burger",
+            "phone": "+18007861000",
+            "rating": 5.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/in-n-out-burger-rancho-mission-viejo?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "rockwells-bakery-restaurant-and-bar-san-clemente",
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.43975,
+                "longitude": -117.6275
+            },
+            "display_phone": "(949) 799-2020",
+            "distance": 5197.263003014035,
+            "id": "rtRjRm7rSZ7PCV3u3H55ag",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CYvVqORtQwFyvfJAdApJWA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "101 W Avenida Vista Hermosa",
+                "address2": "",
+                "address3": null,
+                "city": "San Clemente",
+                "country": "US",
+                "display_address": [
+                    "101 W Avenida Vista Hermosa",
+                    "San Clemente, CA 92672"
+                ],
+                "state": "CA",
+                "zip_code": "92672"
+            },
+            "name": "Rockwell's Bakery, Restaurant and Bar",
+            "phone": "+19497992020",
+            "rating": 3.5,
+            "review_count": 40,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/rockwells-bakery-restaurant-and-bar-san-clemente?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "flights-and-irons-urban-kitchen-san-clemente-2",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.4565274,
+                "longitude": -117.6577529
+            },
+            "display_phone": "(949) 388-3991",
+            "distance": 5535.80238677028,
+            "id": "tzuBRaBicS2Mz3U__wHU-w",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2bft2Al1ol90r_Hts2-xNw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "376 Camino De Estrella",
+                "address2": null,
+                "address3": "",
+                "city": "San Clemente",
+                "country": "US",
+                "display_address": [
+                    "376 Camino De Estrella",
+                    "San Clemente, CA 92672"
+                ],
+                "state": "CA",
+                "zip_code": "92672"
+            },
+            "name": "Flights & Irons Urban Kitchen",
+            "phone": "+19493883991",
+            "rating": 4.5,
+            "review_count": 79,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/flights-and-irons-urban-kitchen-san-clemente-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-fuel-shack-san-clemente",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.4564892,
+                "longitude": -117.6577848
+            },
+            "display_phone": "(949) 388-4015",
+            "distance": 5561.963397294679,
+            "id": "ARWe0yZyHJ84-mRM8eJ87Q",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7OmujcNlrkzU__MXlgAfkg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "360 Camino De Estrella",
+                "address2": "",
+                "address3": null,
+                "city": "San Clemente",
+                "country": "US",
+                "display_address": [
+                    "360 Camino De Estrella",
+                    "San Clemente, CA 92672"
+                ],
+                "state": "CA",
+                "zip_code": "92672"
+            },
+            "name": "The Fuel Shack",
+            "phone": "+19493884015",
+            "rating": 5.0,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-fuel-shack-san-clemente?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-jailhouse-cafe-san-clemente",
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.4291359,
+                "longitude": -117.6152918
+            },
+            "display_phone": "(949) 522-5246",
+            "distance": 6072.807604770139,
+            "id": "hkLUiaqXKugEI2FGxpQbgA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ypF9RdD08xVu7f4GFmrVKw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "111 W Avenida Palizada",
+                "address2": "Ste G",
+                "address3": null,
+                "city": "San Clemente",
+                "country": "US",
+                "display_address": [
+                    "111 W Avenida Palizada",
+                    "Ste G",
+                    "San Clemente, CA 92672"
+                ],
+                "state": "CA",
+                "zip_code": "92672"
+            },
+            "name": "The Jailhouse Cafe",
+            "phone": "+19495225246",
+            "rating": 4.5,
+            "review_count": 21,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/the-jailhouse-cafe-san-clemente?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "neighborhood-barbershop-and-salon-ladera-ranch",
+            "categories": [
+                {
+                    "alias": "barbers",
+                    "title": "Barbers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.55487,
+                "longitude": -117.6291
+            },
+            "display_phone": "(949) 218-9834",
+            "distance": 8179.782187714704,
+            "id": "2obmXmH1Dy9cD7SBBfPxIw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/SMq20eVjosTKfm2WHY-thg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1701 Corporate Dr",
+                "address2": null,
+                "address3": "",
+                "city": "Ladera Ranch",
+                "country": "US",
+                "display_address": [
+                    "1701 Corporate Dr",
+                    "Ladera Ranch, CA 92694"
+                ],
+                "state": "CA",
+                "zip_code": "92694"
+            },
+            "name": "Neighborhood barbershop and Salon",
+            "phone": "+19492189834",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/neighborhood-barbershop-and-salon-ladera-ranch?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hair-makeup-by-sydney-orange",
+            "categories": [
+                {
+                    "alias": "makeupartists",
+                    "title": "Makeup Artists"
+                },
+                {
+                    "alias": "hairstylists",
+                    "title": "Hair Stylists"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7874,
+                "longitude": -117.82252
+            },
+            "display_phone": "(951) 552-5675",
+            "distance": 39198.72323719267,
+            "id": "lM7he-sB9ItDgdNz6xOxHg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EZmQYEkZ-tjK6nVsSS-SEQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2922 E Chapman Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Orange",
+                "country": "US",
+                "display_address": [
+                    "2922 E Chapman Ave",
+                    "Orange, CA 92869"
+                ],
+                "state": "CA",
+                "zip_code": "92869"
+            },
+            "name": "Hair + Makeup by Sydney",
+            "phone": "+19515525675",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hair-makeup-by-sydney-orange?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 33.48343007481449,
+            "longitude": -117.60821641034413
+        }
+    },
+    "total": 7
+}

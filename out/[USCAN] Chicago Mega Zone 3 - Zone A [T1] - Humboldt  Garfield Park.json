@@ -1,0 +1,138 @@
+{
+    "businesses": [
+        {
+            "alias": "big-and-littles-restaurant-and-bar-chicago",
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.92511,
+                "longitude": -87.70238
+            },
+            "display_phone": "(773) 687-9033",
+            "distance": 4809.31927484402,
+            "id": "3LzLvjT2kxq-yr5_G_Nm9g",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dvDLJIcGEcbksNCEXB3TKQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3000 W Fullerton Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "3000 W Fullerton Ave",
+                    "Chicago, IL 60647"
+                ],
+                "state": "IL",
+                "zip_code": "60647"
+            },
+            "name": "BIG & little's Restaurant & Bar",
+            "phone": "+17736879033",
+            "rating": 4.5,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/big-and-littles-restaurant-and-bar-chicago?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "three-wheels-noodle-chicago",
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.92396,
+                "longitude": -87.69839
+            },
+            "display_phone": "(773) 360-8288",
+            "distance": 4845.056439705187,
+            "id": "VH6O_2qSPkTme_s-1Y1nXQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SZffykUMUMLt3373ilDdaQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2339 N Milwaukee Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "2339 N Milwaukee Ave",
+                    "Chicago, IL 60647"
+                ],
+                "state": "IL",
+                "zip_code": "60647"
+            },
+            "name": "Three Wheels Noodle",
+            "phone": "+17733608288",
+            "rating": 5.0,
+            "review_count": 17,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/three-wheels-noodle-chicago?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "caf\u00e9-tola-chicago-3",
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "empanadas",
+                    "title": "Empanadas"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.92681,
+                "longitude": -87.70317
+            },
+            "display_phone": "(773) 687-9310",
+            "distance": 4969.051291294785,
+            "id": "9D2bD21B9WGfYY-TJ2UgjQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Gr392kwNJx2YLKdcXYLnqw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2489 N Milwaukee Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "2489 N Milwaukee Ave",
+                    "Chicago, IL 60647"
+                ],
+                "state": "IL",
+                "zip_code": "60647"
+            },
+            "name": "Caf\u00e9 Tola",
+            "phone": "+17736879310",
+            "rating": 5.0,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/caf%C3%A9-tola-chicago-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 41.885702865143244,
+            "longitude": -87.72670676354129
+        }
+    },
+    "total": 3
+}

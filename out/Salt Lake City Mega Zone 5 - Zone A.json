@@ -1,0 +1,134 @@
+{
+    "businesses": [
+        {
+            "alias": "sicilia-mia-cottonwood-cottonwood-heights-2",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "sicilian",
+                    "title": "Sicilian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.61028,
+                "longitude": -111.81808
+            },
+            "display_phone": "(801) 666-6918",
+            "distance": 7002.128087780057,
+            "id": "OgaFr_xHrgi1NxCsIIsGrA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8LnctetQUnITohnMdYixlw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2578 Bengal Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Cottonwood Heights",
+                "country": "US",
+                "display_address": [
+                    "2578 Bengal Blvd",
+                    "Cottonwood Heights, UT 84121"
+                ],
+                "state": "UT",
+                "zip_code": "84121"
+            },
+            "name": "Sicilia Mia Cottonwood",
+            "phone": "+18016666918",
+            "rating": 4.5,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sicilia-mia-cottonwood-cottonwood-heights-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "per-noi-trattoria-sandy-2",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.5933840603012,
+                "longitude": -111.830414798018
+            },
+            "display_phone": "(801) 942-2623",
+            "distance": 7929.142317120017,
+            "id": "CKxFfqCx-8IHSTRnciSgYQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hm8ROhkoyOwVRSlkVEiNAA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8657 Highland Dr",
+                "address2": "",
+                "address3": null,
+                "city": "Sandy",
+                "country": "US",
+                "display_address": [
+                    "8657 Highland Dr",
+                    "Sandy, UT 84093"
+                ],
+                "state": "UT",
+                "zip_code": "84093"
+            },
+            "name": "Per Noi Trattoria",
+            "phone": "+18019422623",
+            "rating": 4.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/per-noi-trattoria-sandy-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "my-pie-holladay",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.669452,
+                "longitude": -111.824361
+            },
+            "display_phone": "(801) 748-5888",
+            "distance": 10672.72667977029,
+            "id": "3BDGMMROL5w3UgI1jYfNKw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FzkxmSWCEvM4vCmg3h54mg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4655 S 2300th E",
+                "address2": "Ste 101",
+                "address3": null,
+                "city": "Holladay",
+                "country": "US",
+                "display_address": [
+                    "4655 S 2300th E",
+                    "Ste 101",
+                    "Holladay, UT 84117"
+                ],
+                "state": "UT",
+                "zip_code": "84117"
+            },
+            "name": "My Pie",
+            "phone": "+18017485888",
+            "rating": 4.0,
+            "review_count": 18,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/my-pie-holladay?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 40.600102477510184,
+            "longitude": -111.73692000046395
+        }
+    },
+    "total": 3
+}

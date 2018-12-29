@@ -1,0 +1,57 @@
+{
+    "businesses": [
+        {
+            "alias": "lotus-massage-center-broomfield-2",
+            "categories": [
+                {
+                    "alias": "massage",
+                    "title": "Massage"
+                },
+                {
+                    "alias": "massage_therapy",
+                    "title": "Massage Therapy"
+                },
+                {
+                    "alias": "tuina",
+                    "title": "Tui Na"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.92991,
+                "longitude": -105.09142
+            },
+            "display_phone": "(720) 887-0110",
+            "distance": 12370.0232738956,
+            "id": "6BExEVDb-WUsq11AeXWzSw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eTHvvxfzPrwXfI0ZTxYjZA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1004 Depot Hill Rd",
+                "address2": "Ste 1",
+                "address3": "",
+                "city": "Broomfield",
+                "country": "US",
+                "display_address": [
+                    "1004 Depot Hill Rd",
+                    "Ste 1",
+                    "Broomfield, CO 80020"
+                ],
+                "state": "CO",
+                "zip_code": "80020"
+            },
+            "name": "Lotus Massage Center",
+            "phone": "+17208870110",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/lotus-massage-center-broomfield-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 39.82828188404368,
+            "longitude": -105.14996209024082
+        }
+    },
+    "total": 1
+}

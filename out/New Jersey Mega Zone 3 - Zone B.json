@@ -1,0 +1,260 @@
+{
+    "businesses": [
+        {
+            "alias": "the-love-of-grub-clifton",
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.8576430817393,
+                "longitude": -74.1470828506505
+            },
+            "display_phone": "(973) 928-0080",
+            "distance": 565.0654854942704,
+            "id": "h1ZL_6JRfw3LG7soEUEUYg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2vJvK6y8wl-kY344a4CVAw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "606 Van Houten Ave",
+                "address2": "Clifton",
+                "address3": null,
+                "city": "Clifton",
+                "country": "US",
+                "display_address": [
+                    "606 Van Houten Ave",
+                    "Clifton",
+                    "Clifton, NJ 07013"
+                ],
+                "state": "NJ",
+                "zip_code": "07013"
+            },
+            "name": "The Love Of Grub",
+            "phone": "+19739280080",
+            "rating": 4.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-love-of-grub-clifton?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "burgerhaus-clifton-2",
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.84575,
+                "longitude": -74.15866
+            },
+            "display_phone": "(973) 928-4859",
+            "distance": 1915.0433413150122,
+            "id": "CJMeaShL6QU0YOHfL_FI6g",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LmaanGXiTurCVJuZvmcyvg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "14 Market St",
+                "address2": null,
+                "address3": "",
+                "city": "Clifton",
+                "country": "US",
+                "display_address": [
+                    "14 Market St",
+                    "Clifton, NJ 07012"
+                ],
+                "state": "NJ",
+                "zip_code": "07012"
+            },
+            "name": "BurgerHaus",
+            "phone": "+19739284859",
+            "rating": 4.0,
+            "review_count": 24,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/burgerhaus-clifton-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "off-the-grill-clifton",
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.85383148603,
+                "longitude": -74.1724397281115
+            },
+            "display_phone": "(973) 777-3780",
+            "distance": 2093.201028478967,
+            "id": "Wm2HlpBm6naywFQdsezUew",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PPD_UHkoOevUtFGPwL85HA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1348 Clifton Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Clifton",
+                "country": "US",
+                "display_address": [
+                    "1348 Clifton Ave",
+                    "Clifton, NJ 07012"
+                ],
+                "state": "NJ",
+                "zip_code": "07012"
+            },
+            "name": "Off The Grill",
+            "phone": "+19737773780",
+            "rating": 4.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/off-the-grill-clifton?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "shaking-crab-clifton-clifton",
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "cajun",
+                    "title": "Cajun/Creole"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.8566,
+                "longitude": -74.17723
+            },
+            "display_phone": "(862) 225-9996",
+            "distance": 2333.0985817018523,
+            "id": "vI65PRkFmAdDAdimIQ_KNA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JTB8qDpZCMCiAmNa_vk7AQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1168 Broad St",
+                "address2": null,
+                "address3": "",
+                "city": "Clifton",
+                "country": "US",
+                "display_address": [
+                    "1168 Broad St",
+                    "Clifton, NJ 07013"
+                ],
+                "state": "NJ",
+                "zip_code": "07013"
+            },
+            "name": "Shaking Crab - Clifton",
+            "phone": "+18622259996",
+            "rating": 3.5,
+            "review_count": 34,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/shaking-crab-clifton-clifton?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "chef-yang-clifton-2",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.8731671534128,
+                "longitude": -74.1753557324409
+            },
+            "display_phone": "(973) 777-8855",
+            "distance": 2419.81250779,
+            "id": "9iZM0dGGP4xJsyHj_7Dj8Q",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KtRtCpCtskqu59mIhT23cw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1105 Rte 46 E",
+                "address2": "",
+                "address3": null,
+                "city": "Clifton",
+                "country": "US",
+                "display_address": [
+                    "1105 Rte 46 E",
+                    "Clifton, NJ 07657"
+                ],
+                "state": "NJ",
+                "zip_code": "07657"
+            },
+            "name": "Chef Yang",
+            "phone": "+19737778855",
+            "rating": 4.0,
+            "review_count": 10,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/chef-yang-clifton-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mogambo-clifton",
+            "categories": [
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.89019,
+                "longitude": -74.14978
+            },
+            "display_phone": "(862) 225-9633",
+            "distance": 3148.9654649280583,
+            "id": "yEoHE-Vkrzk2WqRH6KlvUQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/n94cJCs-bfSmJrt756V2iQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "441 Crooks Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Clifton",
+                "country": "US",
+                "display_address": [
+                    "441 Crooks Ave",
+                    "Clifton, NJ 07011"
+                ],
+                "state": "NJ",
+                "zip_code": "07011"
+            },
+            "name": "Mogambo",
+            "phone": "+18622259633",
+            "rating": 5.0,
+            "review_count": 6,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/mogambo-clifton?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 40.861913362816935,
+            "longitude": -74.15072527705331
+        }
+    },
+    "total": 6
+}

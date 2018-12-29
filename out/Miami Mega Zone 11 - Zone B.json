@@ -1,0 +1,56 @@
+{
+    "businesses": [
+        {
+            "alias": "lee-nails-and-spa-north-lauderdale",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                },
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                },
+                {
+                    "alias": "eyelashservice",
+                    "title": "Eyelash Service"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.2065310591207,
+                "longitude": -80.2313432259033
+            },
+            "display_phone": "(754) 800-7279",
+            "distance": 4432.331285959231,
+            "id": "9Z1KxpEEGjf6qI9Zgd6hmg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XMi5fjWHWEe056vu5laGRQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7966 W McNab Rd",
+                "address2": null,
+                "address3": "",
+                "city": "North Lauderdale",
+                "country": "US",
+                "display_address": [
+                    "7966 W McNab Rd",
+                    "North Lauderdale, FL 33068"
+                ],
+                "state": "FL",
+                "zip_code": "33068"
+            },
+            "name": "Lee Nails & Spa",
+            "phone": "+17548007279",
+            "rating": 3.5,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/lee-nails-and-spa-north-lauderdale?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 26.239445679573777,
+            "longitude": -80.20627988151915
+        }
+    },
+    "total": 1
+}

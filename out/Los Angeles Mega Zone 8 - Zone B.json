@@ -1,0 +1,589 @@
+{
+    "businesses": [
+        {
+            "alias": "yunikon-nail-bar-pasadena-2",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.14685,
+                "longitude": -118.07017
+            },
+            "display_phone": "(626) 817-9959",
+            "distance": 437.51757912367935,
+            "id": "hwqqf5P7aN-OWQ_T2vGOWg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bHsY6LWaavTRdfjNwJobzQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3813 E Colorado Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "3813 E Colorado Blvd",
+                    "Pasadena, CA 91107"
+                ],
+                "state": "CA",
+                "zip_code": "91107"
+            },
+            "name": "Yunikon Nail Bar",
+            "phone": "+16268179959",
+            "rating": 4.5,
+            "review_count": 21,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/yunikon-nail-bar-pasadena-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "popeyes-louisiana-kitchen-pasadena-6",
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.14114,
+                "longitude": -118.07368
+            },
+            "display_phone": "(626) 314-3461",
+            "distance": 1160.0447583618195,
+            "id": "ojg8NsAkTPjYgYx8GObrDg",
+            "image_url": "",
+            "is_closed": false,
+            "location": {
+                "address1": "311 S Rosemead Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "311 S Rosemead Blvd",
+                    "Pasadena, CA 91107"
+                ],
+                "state": "CA",
+                "zip_code": "91107"
+            },
+            "name": "Popeyes Louisiana Kitchen",
+            "phone": "+16263143461",
+            "rating": 4.5,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/popeyes-louisiana-kitchen-pasadena-6?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "honeymee-arcadia-3",
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.1355302,
+                "longitude": -118.0540253
+            },
+            "display_phone": "",
+            "distance": 2173.149634078938,
+            "id": "CEC_fcClAX_7CwEm9jUhJw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vlNRJYArMpOb0PDvGY6A6A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "440 S Baldwin Ave",
+                "address2": "Space 9045",
+                "address3": null,
+                "city": "Arcadia",
+                "country": "US",
+                "display_address": [
+                    "440 S Baldwin Ave",
+                    "Space 9045",
+                    "Arcadia, CA 91007"
+                ],
+                "state": "CA",
+                "zip_code": "91007"
+            },
+            "name": "Honeymee",
+            "phone": "",
+            "rating": 3.5,
+            "review_count": 15,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/honeymee-arcadia-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bowlero-arcadia",
+            "categories": [
+                {
+                    "alias": "bowling",
+                    "title": "Bowling"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.1370999,
+                "longitude": -118.0517
+            },
+            "display_phone": "(626) 264-9750",
+            "distance": 2282.26400272191,
+            "id": "S5ut-BP4nxlfUI_0DqhUZQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DN5nwFLwr1Elq3vopQAM6A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "400 S Baldwin Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Arcadia",
+                "country": "US",
+                "display_address": [
+                    "400 S Baldwin Ave",
+                    "Arcadia, CA 91007"
+                ],
+                "state": "CA",
+                "zip_code": "91007"
+            },
+            "name": "Bowlero",
+            "phone": "+16262649750",
+            "rating": 3.5,
+            "review_count": 17,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bowlero-arcadia?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "porkfolio-korean-bbq-arcadia",
+            "categories": [
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.133833,
+                "longitude": -118.052386
+            },
+            "display_phone": "(626) 538-4860",
+            "distance": 2310.5222242311297,
+            "id": "Hu92JEJroVL2q5pcXTtRrA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2PXTRZpr0g8nmn4qCKat1g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "400 S Baldwin Ave",
+                "address2": "Ste 2315",
+                "address3": "",
+                "city": "Arcadia",
+                "country": "US",
+                "display_address": [
+                    "400 S Baldwin Ave",
+                    "Ste 2315",
+                    "Arcadia, CA 91007"
+                ],
+                "state": "CA",
+                "zip_code": "91007"
+            },
+            "name": "Porkfolio Korean BBQ",
+            "phone": "+16265384860",
+            "rating": 4.5,
+            "review_count": 21,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/porkfolio-korean-bbq-arcadia?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kinetic-kickboxing-pasadena-2",
+            "categories": [
+                {
+                    "alias": "kickboxing",
+                    "title": "Kickboxing"
+                },
+                {
+                    "alias": "intervaltraininggyms",
+                    "title": "Interval Training Gyms"
+                },
+                {
+                    "alias": "healthtrainers",
+                    "title": "Trainers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.1477099,
+                "longitude": -118.09648
+            },
+            "display_phone": "(626) 354-8185",
+            "distance": 2660.271678244812,
+            "id": "RW8BC7fVLMoNm2IH3hjD_A",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LSDt_ej4Fc6Yr4VYAYBltw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2620 E Walnut St",
+                "address2": "",
+                "address3": null,
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "2620 E Walnut St",
+                    "Pasadena, CA 91107"
+                ],
+                "state": "CA",
+                "zip_code": "91107"
+            },
+            "name": "Kinetic Kickboxing",
+            "phone": "+16263548185",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kinetic-kickboxing-pasadena-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tancca-arcadia-3",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.1276039,
+                "longitude": -118.0550229
+            },
+            "display_phone": "(626) 461-5060",
+            "distance": 2750.981410250254,
+            "id": "WDNN_QqDaotscV2MRqS0Wg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/anYS20Ih6kvzYpKruiuxBA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1031 S Baldwin Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Arcadia",
+                "country": "US",
+                "display_address": [
+                    "1031 S Baldwin Ave",
+                    "Arcadia, CA 91007"
+                ],
+                "state": "CA",
+                "zip_code": "91007"
+            },
+            "name": "Tancca",
+            "phone": "+16264615060",
+            "rating": 4.5,
+            "review_count": 48,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tancca-arcadia-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "echos-nail-studio-arcadia-3",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.1237346,
+                "longitude": -118.0581768
+            },
+            "display_phone": "(626) 267-6369",
+            "distance": 3025.305668937191,
+            "id": "HRTKtP0ODaQahjwM4L17nA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/td3JnkrtDlX5CbYTSWAuXg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "815 W Naomi Ave",
+                "address2": "Ste H",
+                "address3": "",
+                "city": "Arcadia",
+                "country": "US",
+                "display_address": [
+                    "815 W Naomi Ave",
+                    "Ste H",
+                    "Arcadia, CA 91007"
+                ],
+                "state": "CA",
+                "zip_code": "91007"
+            },
+            "name": "Echo's Nail Studio",
+            "phone": "+16262676369",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/echos-nail-studio-arcadia-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kokumi-arcadia",
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "hotpot",
+                    "title": "Hot Pot"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.1237346,
+                "longitude": -118.0581768
+            },
+            "display_phone": "(626) 254-0018",
+            "distance": 3025.305668937191,
+            "id": "cczJ1hUjznMOCsa4y4OP6A",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/P4kxaLE968Bj9Zk3muKhCQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "815 W Naomi Ave",
+                "address2": "Ste F",
+                "address3": null,
+                "city": "Arcadia",
+                "country": "US",
+                "display_address": [
+                    "815 W Naomi Ave",
+                    "Ste F",
+                    "Arcadia, CA 91007"
+                ],
+                "state": "CA",
+                "zip_code": "91007"
+            },
+            "name": "KOKUMI",
+            "phone": "+16262540018",
+            "rating": 4.5,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kokumi-arcadia?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "dr-boba-arcadia",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.1246987444478,
+                "longitude": -118.054575920105
+            },
+            "display_phone": "(626) 684-7510",
+            "distance": 3090.558484351556,
+            "id": "aCNKI3SBIU0p17u_KroqeA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AjJN5YRYi4AY8sAnO2Y2wQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1304 S Baldwin Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Arcadia",
+                "country": "US",
+                "display_address": [
+                    "1304 S Baldwin Ave",
+                    "Arcadia, CA 91007"
+                ],
+                "state": "CA",
+                "zip_code": "91007"
+            },
+            "name": "Dr. Boba",
+            "phone": "+16266847510",
+            "rating": 4.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dr-boba-arcadia?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "vitaminologie-pasadena",
+            "categories": [
+                {
+                    "alias": "ivhydration",
+                    "title": "IV Hydration"
+                },
+                {
+                    "alias": "medicalspa",
+                    "title": "Medical Spas"
+                },
+                {
+                    "alias": "vitaminssupplements",
+                    "title": "Vitamins & Supplements"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.1460449,
+                "longitude": -118.1301306
+            },
+            "display_phone": "(833) 800-8487",
+            "distance": 5764.613326768554,
+            "id": "UKc9-OXIg9IAs-v6YgXaMQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QImFrrsko7J_WcYfrSLjkQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "977 East Colorado Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "977 East Colorado Blvd",
+                    "Pasadena, CA 91106"
+                ],
+                "state": "CA",
+                "zip_code": "91106"
+            },
+            "name": "Vitaminologie",
+            "phone": "+18338008487",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/vitaminologie-pasadena?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "jasmine-creamery-alhambra",
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.101512,
+                "longitude": -118.112998
+            },
+            "display_phone": "(626) 380-9661",
+            "distance": 6835.5796744134705,
+            "id": "mP6iX9JjYHzMB_Jeg3m_NA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/byLeiUsgDQdzqhbIyLmUNw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1340 E Main St",
+                "address2": null,
+                "address3": "",
+                "city": "Alhambra",
+                "country": "US",
+                "display_address": [
+                    "1340 E Main St",
+                    "Alhambra, CA 91801"
+                ],
+                "state": "CA",
+                "zip_code": "91801"
+            },
+            "name": "Jasmine Creamery",
+            "phone": "+16263809661",
+            "rating": 5.0,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/jasmine-creamery-alhambra?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "serviceapple-montebello-montebello",
+            "categories": [
+                {
+                    "alias": "mobilephonerepair",
+                    "title": "Mobile Phone Repair"
+                },
+                {
+                    "alias": "mobilephones",
+                    "title": "Mobile Phones"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.036152,
+                "longitude": -118.084297
+            },
+            "display_phone": "(323) 471-7721",
+            "distance": 12787.532870476618,
+            "id": "Y8PIFfGIGm_p5WZOwPJWvQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WB0gFH3d-NdYkS2S3DVA8w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2134 Montebello Town Ctr",
+                "address2": null,
+                "address3": "",
+                "city": "Montebello",
+                "country": "US",
+                "display_address": [
+                    "2134 Montebello Town Ctr",
+                    "Montebello, CA 90640"
+                ],
+                "state": "CA",
+                "zip_code": "90640"
+            },
+            "name": "ServiceApple Montebello",
+            "phone": "+13234717721",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/serviceapple-montebello-montebello?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hair-makeup-by-sydney-orange",
+            "categories": [
+                {
+                    "alias": "makeupartists",
+                    "title": "Makeup Artists"
+                },
+                {
+                    "alias": "hairstylists",
+                    "title": "Hair Stylists"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7874,
+                "longitude": -117.82252
+            },
+            "display_phone": "(951) 552-5675",
+            "distance": 46248.058482286324,
+            "id": "lM7he-sB9ItDgdNz6xOxHg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EZmQYEkZ-tjK6nVsSS-SEQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2922 E Chapman Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Orange",
+                "country": "US",
+                "display_address": [
+                    "2922 E Chapman Ave",
+                    "Orange, CA 92869"
+                ],
+                "state": "CA",
+                "zip_code": "92869"
+            },
+            "name": "Hair + Makeup by Sydney",
+            "phone": "+19515525675",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hair-makeup-by-sydney-orange?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 34.150261764880305,
+            "longitude": -118.06775798120789
+        }
+    },
+    "total": 14
+}

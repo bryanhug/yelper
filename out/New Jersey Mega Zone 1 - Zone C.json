@@ -1,0 +1,268 @@
+{
+    "businesses": [
+        {
+            "alias": "spice-spirit-jersey-city-5",
+            "categories": [
+                {
+                    "alias": "szechuan",
+                    "title": "Szechuan"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.7299773848248,
+                "longitude": -74.0650781984882
+            },
+            "display_phone": "(201) 656-3866",
+            "distance": 497.75273714108835,
+            "id": "ezh0BG1qWKKLJa99gb-XzQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NN4NqGqFyag8Eb1_Xvb4Qw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "900 Bergen Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Jersey City",
+                "country": "US",
+                "display_address": [
+                    "900 Bergen Ave",
+                    "Jersey City, NJ 07306"
+                ],
+                "state": "NJ",
+                "zip_code": "07306"
+            },
+            "name": "Spice Spirit",
+            "phone": "+12016563866",
+            "rating": 4.5,
+            "review_count": 25,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/spice-spirit-jersey-city-5?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "snapdragon-coffee-and-social-jersey-city",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.72112,
+                "longitude": -74.06999
+            },
+            "display_phone": "(201) 878-3413",
+            "distance": 594.9889205604082,
+            "id": "XSD40vlGKk7ehR9eKgfapQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AVfUqV8zERj9e1M-WGFuHQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "190 Monticello Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Jersey City",
+                "country": "US",
+                "display_address": [
+                    "190 Monticello Ave",
+                    "Jersey City, NJ 07304"
+                ],
+                "state": "NJ",
+                "zip_code": "07304"
+            },
+            "name": "Snapdragon Coffee & Social",
+            "phone": "+12018783413",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/snapdragon-coffee-and-social-jersey-city?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mezcal-kitchen-jc-jersey-city",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.73428,
+                "longitude": -74.0591
+            },
+            "display_phone": "(201) 918-5803",
+            "distance": 1133.0233219222694,
+            "id": "GauXFEjAMUY1cy-Hr3aWuA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7orpBrcye7rAp1cNyZTu7g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "665-A Newark Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Jersey City",
+                "country": "US",
+                "display_address": [
+                    "665-A Newark Ave",
+                    "Jersey City, NJ 07306"
+                ],
+                "state": "NJ",
+                "zip_code": "07306"
+            },
+            "name": "Mezcal Kitchen JC",
+            "phone": "+12019185803",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/mezcal-kitchen-jc-jersey-city?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "luigis-ice-cream-ani-ramen-jersey-city-2",
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.72234,
+                "longitude": -74.04699
+            },
+            "display_phone": "(732) 383-7707",
+            "distance": 1647.278711614136,
+            "id": "vmUjk_8l_-BnTrjOR8mNeg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JTbGooHqtSZC93dKLIKvPA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "218 Newark Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Jersey City",
+                "country": "US",
+                "display_address": [
+                    "218 Newark Ave",
+                    "Jersey City, NJ 07302"
+                ],
+                "state": "NJ",
+                "zip_code": "07302"
+            },
+            "name": "Luigi's Ice Cream @ Ani Ramen",
+            "phone": "+17323837707",
+            "rating": 4.5,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/luigis-ice-cream-ani-ramen-jersey-city-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "central-bistro-jersey-city-2",
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.7484146928561,
+                "longitude": -74.0477623692088
+            },
+            "display_phone": "(201) 798-6798",
+            "distance": 2977.654252944024,
+            "id": "WLoc0P2nSow6CpekgpT3bg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Knik0NpB_f2lZKTMWuHCpw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "403 Central Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Jersey City",
+                "country": "US",
+                "display_address": [
+                    "403 Central Ave",
+                    "Jersey City, NJ 07307"
+                ],
+                "state": "NJ",
+                "zip_code": "07307"
+            },
+            "name": "Central Bistro",
+            "phone": "+12017986798",
+            "rating": 3.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/central-bistro-jersey-city-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "just4move-nyc-brooklyn",
+            "categories": [
+                {
+                    "alias": "movers",
+                    "title": "Movers"
+                },
+                {
+                    "alias": "packingservices",
+                    "title": "Packing Services"
+                },
+                {
+                    "alias": "packingsupplies",
+                    "title": "Packing Supplies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.6698599111662,
+                "longitude": -73.9560807868838
+            },
+            "display_phone": "(516) 399-1055",
+            "distance": 11151.295196847368,
+            "id": "SMTa4VpGZRBm3KjYkEMOkg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VB_SkT1ozb1ZcUwoqqUy-w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "390 Eastern Pkwy",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "country": "US",
+                "display_address": [
+                    "390 Eastern Pkwy",
+                    "Brooklyn, NY 11225"
+                ],
+                "state": "NY",
+                "zip_code": "11225"
+            },
+            "name": "Just4Move NYC",
+            "phone": "+15163991055",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/just4move-nyc-brooklyn?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 40.72556499165659,
+            "longitude": -74.06607355661997
+        }
+    },
+    "total": 6
+}

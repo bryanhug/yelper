@@ -1,0 +1,317 @@
+{
+    "businesses": [
+        {
+            "alias": "sus-hi-eatstation-orlando-4",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "poke",
+                    "title": "Poke"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.494645,
+                "longitude": -81.423613
+            },
+            "display_phone": "(407) 237-7160",
+            "distance": 3543.961174908479,
+            "id": "W7PgsBw0QQ6CHFR8YlwiUw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6_AhmyUwQWrpbt4vxgDiYg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4693 Gardens Park Blvd",
+                "address2": "Ste 105",
+                "address3": "",
+                "city": "Orlando",
+                "country": "US",
+                "display_address": [
+                    "4693 Gardens Park Blvd",
+                    "Ste 105",
+                    "Orlando, FL 32839"
+                ],
+                "state": "FL",
+                "zip_code": "32839"
+            },
+            "name": "Sus Hi Eatstation",
+            "phone": "+14072377160",
+            "rating": 5.0,
+            "review_count": 30,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/sus-hi-eatstation-orlando-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "zero-degrees-orlando-5",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.44863,
+                "longitude": -81.4035
+            },
+            "display_phone": "(407) 270-5164",
+            "distance": 4210.021685637,
+            "id": "vKL0sFb-F1qvs4lNiLDFuw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Qlz9O5TK00ihVfBPzgAhLA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1700 Sand Lake Rd",
+                "address2": "Ste D123B",
+                "address3": null,
+                "city": "Orlando",
+                "country": "US",
+                "display_address": [
+                    "1700 Sand Lake Rd",
+                    "Ste D123B",
+                    "Orlando, FL 32809"
+                ],
+                "state": "FL",
+                "zip_code": "32809"
+            },
+            "name": "Zero Degrees",
+            "phone": "+14072705164",
+            "rating": 4.0,
+            "review_count": 39,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/zero-degrees-orlando-5?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "f-and-d-woodfired-italian-kitchen-orlando",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.52381,
+                "longitude": -81.35086
+            },
+            "display_phone": "(407) 751-5697",
+            "distance": 5619.200510658883,
+            "id": "Qrg00zsznO6l3ejjtV0HMw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kHU17meU55EyDmgmzNqx_w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2420 Curry Ford Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Orlando",
+                "country": "US",
+                "display_address": [
+                    "2420 Curry Ford Rd",
+                    "Orlando, FL 32806"
+                ],
+                "state": "FL",
+                "zip_code": "32806"
+            },
+            "name": "F&D Woodfired Italian Kitchen",
+            "phone": "+14077515697",
+            "rating": 4.5,
+            "review_count": 28,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/f-and-d-woodfired-italian-kitchen-orlando?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "menagerie-eatery-and-bar-orlando",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.54111,
+                "longitude": -81.36956
+            },
+            "display_phone": "(407) 601-5219",
+            "distance": 6426.734897374858,
+            "id": "5RoicWBiWJfsEqFU1uuJvw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DBRHaQvunEo6lX4ZJvkLpw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "101 S Eola Dr",
+                "address2": "",
+                "address3": null,
+                "city": "Orlando",
+                "country": "US",
+                "display_address": [
+                    "101 S Eola Dr",
+                    "Orlando, FL 32801"
+                ],
+                "state": "FL",
+                "zip_code": "32801"
+            },
+            "name": "Menagerie Eatery & Bar",
+            "phone": "+14076015219",
+            "rating": 4.5,
+            "review_count": 21,
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "url": "https://www.yelp.com/biz/menagerie-eatery-and-bar-orlando?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "easy-luck-coffee-and-bodega-orlando-2",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.5387349661977,
+                "longitude": -81.3504124742497
+            },
+            "display_phone": "(407) 476-3799",
+            "distance": 6984.480996816128,
+            "id": "3rKK__aVIsmetdDy8Fq0qQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5CkdTv4kywQV6kg8sDZJ1A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2425 E South St",
+                "address2": null,
+                "address3": "",
+                "city": "Orlando",
+                "country": "US",
+                "display_address": [
+                    "2425 E South St",
+                    "Orlando, FL 32803"
+                ],
+                "state": "FL",
+                "zip_code": "32803"
+            },
+            "name": "Easy Luck Coffee & Bodega",
+            "phone": "+14074763799",
+            "rating": 4.5,
+            "review_count": 26,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/easy-luck-coffee-and-bodega-orlando-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "whippoorwill-beer-house-and-package-store-orlando",
+            "categories": [
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                },
+                {
+                    "alias": "beer_and_wine",
+                    "title": "Beer, Wine & Spirits"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.5391099220943,
+                "longitude": -81.3506310110433
+            },
+            "display_phone": "(321) 355-3964",
+            "distance": 7011.77805163374,
+            "id": "6t8ZpYdmUhY8fgdnTZT4gQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zunqznxnl8n3uJY8G7Lgag/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2425 E South St",
+                "address2": "",
+                "address3": null,
+                "city": "Orlando",
+                "country": "US",
+                "display_address": [
+                    "2425 E South St",
+                    "Orlando, FL 32803"
+                ],
+                "state": "FL",
+                "zip_code": "32803"
+            },
+            "name": "Whippoorwill Beer House & Package Store",
+            "phone": "+13213553964",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/whippoorwill-beer-house-and-package-store-orlando?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "get-up-and-go-kayaking-crystal-river",
+            "categories": [
+                {
+                    "alias": "rafting",
+                    "title": "Rafting/Kayaking"
+                },
+                {
+                    "alias": "boattours",
+                    "title": "Boat Tours"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.8968550340356,
+                "longitude": -82.5944999714781
+            },
+            "display_phone": "(407) 212-7306",
+            "distance": 126297.26908108947,
+            "id": "W_k1CzXj1zf0zIXcEAmwWg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9Ray-7UyodoJflXkIfvEMw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "268 NW 3rd St",
+                "address2": null,
+                "address3": "",
+                "city": "Crystal River",
+                "country": "US",
+                "display_address": [
+                    "268 NW 3rd St",
+                    "Crystal River, FL 34428"
+                ],
+                "state": "FL",
+                "zip_code": "34428"
+            },
+            "name": "Get Up And Go Kayaking",
+            "phone": "+14072127306",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/get-up-and-go-kayaking-crystal-river?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 28.48564225365801,
+            "longitude": -81.38867556172963
+        }
+    },
+    "total": 7
+}

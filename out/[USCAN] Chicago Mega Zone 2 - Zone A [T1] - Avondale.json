@@ -1,0 +1,334 @@
+{
+    "businesses": [
+        {
+            "alias": "the-avondale-coffee-club-chicago",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.9391799714153,
+                "longitude": -87.6978301629424
+            },
+            "display_phone": "(773) 754-8140",
+            "distance": 949.19753037473,
+            "id": "_xEt9Mn4HfkExbwE3_BmoQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XL1vdPZCNaYAw9JHN94kAg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3185 N Elston Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "3185 N Elston Ave",
+                    "Chicago, IL 60618"
+                ],
+                "state": "IL",
+                "zip_code": "60618"
+            },
+            "name": "The Avondale Coffee Club",
+            "phone": "+17737548140",
+            "rating": 5.0,
+            "review_count": 25,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-avondale-coffee-club-chicago?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "diversey-wine-chicago",
+            "categories": [
+                {
+                    "alias": "beer_and_wine",
+                    "title": "Beer, Wine & Spirits"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.93181,
+                "longitude": -87.70352
+            },
+            "display_phone": "(773) 360-8365",
+            "distance": 1685.7293389132326,
+            "id": "mbdoZw76GDKyirp9gKcu0Q",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SaWAnaGbY2CO__D3X7ODSg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3023 W Diversey Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "3023 W Diversey Ave",
+                    "Chicago, IL 60647"
+                ],
+                "state": "IL",
+                "zip_code": "60647"
+            },
+            "name": "Diversey Wine",
+            "phone": "+17733608365",
+            "rating": 4.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/diversey-wine-chicago?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-gilded-lily-chicago",
+            "categories": [
+                {
+                    "alias": "hair",
+                    "title": "Hair Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.931346,
+                "longitude": -87.7101414
+            },
+            "display_phone": "(773) 904-8498",
+            "distance": 1846.4948577961077,
+            "id": "v-DxSt4TPZm8_ROOYlzFEQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3mMjDCFPpvUFDyCloZOH9g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2741 N Spaulding Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "2741 N Spaulding Ave",
+                    "Chicago, IL 60647"
+                ],
+                "state": "IL",
+                "zip_code": "60647"
+            },
+            "name": "The Gilded Lily",
+            "phone": "+17739048498",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-gilded-lily-chicago?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "landbirds-chicago",
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.92764,
+                "longitude": -87.69782
+            },
+            "display_phone": "(773) 697-7107",
+            "distance": 2186.000559082592,
+            "id": "h_-ul1xabizUqTs1705g-Q",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WNz5PxysCje9j-fRc3whwg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2532 N California Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "2532 N California Ave",
+                    "Chicago, IL 60647"
+                ],
+                "state": "IL",
+                "zip_code": "60647"
+            },
+            "name": "Landbirds",
+            "phone": "+17736977107",
+            "rating": 5.0,
+            "review_count": 29,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/landbirds-chicago?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "caf\u00e9-tola-chicago-3",
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "empanadas",
+                    "title": "Empanadas"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.92681,
+                "longitude": -87.70317
+            },
+            "display_phone": "(773) 687-9310",
+            "distance": 2240.808173904366,
+            "id": "9D2bD21B9WGfYY-TJ2UgjQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Gr392kwNJx2YLKdcXYLnqw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2489 N Milwaukee Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "2489 N Milwaukee Ave",
+                    "Chicago, IL 60647"
+                ],
+                "state": "IL",
+                "zip_code": "60647"
+            },
+            "name": "Caf\u00e9 Tola",
+            "phone": "+17736879310",
+            "rating": 5.0,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/caf%C3%A9-tola-chicago-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "subo-filipino-kitchen-chicago-2",
+            "categories": [
+                {
+                    "alias": "filipino",
+                    "title": "Filipino"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.96704,
+                "longitude": -87.71358
+            },
+            "display_phone": "",
+            "distance": 2422.178428234308,
+            "id": "qE08KWce0SrSCkPJgH1O_Q",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/i_twX27RQDo6-VWrj-C5dQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4712 N Kimball Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "4712 N Kimball Ave",
+                    "Chicago, IL 60625"
+                ],
+                "state": "IL",
+                "zip_code": "60625"
+            },
+            "name": "SUBO Filipino Kitchen",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 21,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/subo-filipino-kitchen-chicago-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "big-and-littles-restaurant-and-bar-chicago",
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.92511,
+                "longitude": -87.70238
+            },
+            "display_phone": "(773) 687-9033",
+            "distance": 2436.4844923812693,
+            "id": "3LzLvjT2kxq-yr5_G_Nm9g",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dvDLJIcGEcbksNCEXB3TKQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3000 W Fullerton Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "3000 W Fullerton Ave",
+                    "Chicago, IL 60647"
+                ],
+                "state": "IL",
+                "zip_code": "60647"
+            },
+            "name": "BIG & little's Restaurant & Bar",
+            "phone": "+17736879033",
+            "rating": 4.5,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/big-and-littles-restaurant-and-bar-chicago?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "three-wheels-noodle-chicago",
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.92396,
+                "longitude": -87.69839
+            },
+            "display_phone": "(773) 360-8288",
+            "distance": 2587.9288199691327,
+            "id": "VH6O_2qSPkTme_s-1Y1nXQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SZffykUMUMLt3373ilDdaQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2339 N Milwaukee Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "2339 N Milwaukee Ave",
+                    "Chicago, IL 60647"
+                ],
+                "state": "IL",
+                "zip_code": "60647"
+            },
+            "name": "Three Wheels Noodle",
+            "phone": "+17733608288",
+            "rating": 5.0,
+            "review_count": 17,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/three-wheels-noodle-chicago?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 41.9469617443281,
+            "longitude": -87.7025478016678
+        }
+    },
+    "total": 8
+}

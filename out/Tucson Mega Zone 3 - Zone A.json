@@ -1,0 +1,139 @@
+{
+    "businesses": [
+        {
+            "alias": "caps-and-corks-tucson",
+            "categories": [
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.3213364880205,
+                "longitude": -111.043577560152
+            },
+            "display_phone": "(520) 441-9943",
+            "distance": 9534.198512008572,
+            "id": "_Fwm0sGGX9nmfSX_3L7REg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QWx5rH2aZ4CjQ9Vob0qakA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3830 W River Rd",
+                "address2": "Ste 100",
+                "address3": null,
+                "city": "Tucson",
+                "country": "US",
+                "display_address": [
+                    "3830 W River Rd",
+                    "Ste 100",
+                    "Tucson, AZ 85741"
+                ],
+                "state": "AZ",
+                "zip_code": "85741"
+            },
+            "name": "Caps & Corks",
+            "phone": "+15204419943",
+            "rating": 5.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/caps-and-corks-tucson?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "jimmys-pita-and-poke-tucson-3",
+            "categories": [
+                {
+                    "alias": "poke",
+                    "title": "Poke"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.3215814,
+                "longitude": -111.0457051
+            },
+            "display_phone": "(520) 912-4972",
+            "distance": 9714.652224669926,
+            "id": "isrmmF6K_OZC2maNStwYNQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LH6lYbiUP_tgGfnk9FY8aQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3820 W River Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Tucson",
+                "country": "US",
+                "display_address": [
+                    "3820 W River Rd",
+                    "Tucson, AZ 85741"
+                ],
+                "state": "AZ",
+                "zip_code": "85741"
+            },
+            "name": "Jimmy's Pita & Poke",
+            "phone": "+15209124972",
+            "rating": 4.5,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/jimmys-pita-and-poke-tucson-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "proof-artisanal-pizza-and-pasta-tucson-2",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.286074,
+                "longitude": -110.942227
+            },
+            "display_phone": "(520) 789-7447",
+            "distance": 11868.896639116947,
+            "id": "8YM2oTP6LZYQlwB6Hk9lLA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/b8dq_1SUToTBzOR66opceg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4340 N Campbell Ave",
+                "address2": "Ste 104",
+                "address3": null,
+                "city": "Tucson",
+                "country": "US",
+                "display_address": [
+                    "4340 N Campbell Ave",
+                    "Ste 104",
+                    "Tucson, AZ 85718"
+                ],
+                "state": "AZ",
+                "zip_code": "85718"
+            },
+            "name": "Proof Artisanal Pizza & Pasta",
+            "phone": "+15207897447",
+            "rating": 3.5,
+            "review_count": 33,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/proof-artisanal-pizza-and-pasta-tucson-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 32.388157652966484,
+            "longitude": -110.97997392774359
+        }
+    },
+    "total": 3
+}

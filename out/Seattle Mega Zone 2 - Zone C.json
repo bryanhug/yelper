@@ -1,0 +1,308 @@
+{
+    "businesses": [
+        {
+            "alias": "aceituno-s-tukwila",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.4484,
+                "longitude": -122.2616
+            },
+            "display_phone": "(253) 277-3214",
+            "distance": 2861.4381450851915,
+            "id": "Q946thpTNwc3x8k3fRlcHg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XAYCO75pFh0aVq9Upvpm0w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "17308 Southcenter Pkwy",
+                "address2": "",
+                "address3": null,
+                "city": "Tukwila",
+                "country": "US",
+                "display_address": [
+                    "17308 Southcenter Pkwy",
+                    "Tukwila, WA 98188"
+                ],
+                "state": "WA",
+                "zip_code": "98188"
+            },
+            "name": "Aceituno\u2019s",
+            "phone": "+12532773214",
+            "rating": 4.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/aceituno-s-tukwila?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "nhop-nhep-burien-2",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "soup",
+                    "title": "Soup"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.4622342892809,
+                "longitude": -122.332518864279
+            },
+            "display_phone": "(206) 829-9542",
+            "distance": 3683.115920174816,
+            "id": "_Zv-BSewsKNOTeAyjnz7_w",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CHikMlTwGXMpYRs81KXdoQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "15706 1st Ave S",
+                "address2": null,
+                "address3": "",
+                "city": "Burien",
+                "country": "US",
+                "display_address": [
+                    "15706 1st Ave S",
+                    "Burien, WA 98148"
+                ],
+                "state": "WA",
+                "zip_code": "98148"
+            },
+            "name": "Nhop Nhep",
+            "phone": "+12068299542",
+            "rating": 4.0,
+            "review_count": 10,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/nhop-nhep-burien-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "beauty-by-yen-seatac",
+            "categories": [
+                {
+                    "alias": "skincare",
+                    "title": "Skin Care"
+                },
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                },
+                {
+                    "alias": "eyelashservice",
+                    "title": "Eyelash Service"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.43407,
+                "longitude": -122.29221
+            },
+            "display_phone": "(206) 499-4962",
+            "distance": 3917.7067299605937,
+            "id": "GzBB1KXUsF8a1vQxICrDrw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tqQLv737kFtsBJrXXmNHkA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "18812 32nd Ave S",
+                "address2": null,
+                "address3": "",
+                "city": "SeaTac",
+                "country": "US",
+                "display_address": [
+                    "18812 32nd Ave S",
+                    "SeaTac, WA 98188"
+                ],
+                "state": "WA",
+                "zip_code": "98188"
+            },
+            "name": "Beauty By Yen",
+            "phone": "+12064994962",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/beauty-by-yen-seatac?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "wanli-seafood-market-seattle",
+            "categories": [
+                {
+                    "alias": "seafoodmarkets",
+                    "title": "Seafood Markets"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.5328224493425,
+                "longitude": -122.288647223499
+            },
+            "display_phone": "",
+            "distance": 7092.30505198609,
+            "id": "jpKzlXNRW8LVUJtIk13W3A",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Kq7G9-XMsFJawn4LB3LJiA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7764 Beacon Ave S",
+                "address2": "",
+                "address3": null,
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "7764 Beacon Ave S",
+                    "Seattle, WA 98118"
+                ],
+                "state": "WA",
+                "zip_code": "98118"
+            },
+            "name": "Wanli Seafood Market",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/wanli-seafood-market-seattle?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "corte-fino-mexican-cuisine-seattle-2",
+            "categories": [
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.54189,
+                "longitude": -122.28398
+            },
+            "display_phone": "(206) 687-7491",
+            "distance": 8118.961282173561,
+            "id": "Rg7d2nrUpusDxMX9RqnGAg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yoar-Q1Zu5itlhrOIZpJLA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6721 Martin Luther King Jr Way S",
+                "address2": null,
+                "address3": "",
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "6721 Martin Luther King Jr Way S",
+                    "Seattle, WA 98118"
+                ],
+                "state": "WA",
+                "zip_code": "98118"
+            },
+            "name": "Corte Fino Mexican Cuisine",
+            "phone": "+12066877491",
+            "rating": 4.5,
+            "review_count": 30,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/corte-fino-mexican-cuisine-seattle-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-quarterdeck-des-moines",
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.4016840877986,
+                "longitude": -122.329382076859
+            },
+            "display_phone": "(206) 212-4660",
+            "distance": 8202.624145522987,
+            "id": "hzjU6H_Syho54R0T2IfJMg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2FpI8eyd_EJ_7yt--F2tRg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "22307 Dock Ave S",
+                "address2": "Unit 1",
+                "address3": null,
+                "city": "Des Moines",
+                "country": "US",
+                "display_address": [
+                    "22307 Dock Ave S",
+                    "Unit 1",
+                    "Des Moines, WA 98198"
+                ],
+                "state": "WA",
+                "zip_code": "98198"
+            },
+            "name": "The Quarterdeck",
+            "phone": "+12062124660",
+            "rating": 4.5,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-quarterdeck-des-moines?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sugar-spoon-seattle",
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.6035804748535,
+                "longitude": -122.329452514648
+            },
+            "display_phone": "(206) 948-7684",
+            "distance": 33952.41195681788,
+            "id": "j3ROEO71W0JJU14ppJ5M1Q",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZSDJh81SySf9zU5UF6ziSg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "",
+                "address2": null,
+                "address3": "",
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "Seattle, WA 98160"
+                ],
+                "state": "WA",
+                "zip_code": "98160"
+            },
+            "name": "sugar + spoon",
+            "phone": "+12069487684",
+            "rating": 4.5,
+            "review_count": 23,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sugar-spoon-seattle?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 47.46892533050954,
+            "longitude": -122.28453268189776
+        }
+    },
+    "total": 7
+}

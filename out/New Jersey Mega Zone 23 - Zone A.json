@@ -1,0 +1,89 @@
+{
+    "businesses": [
+        {
+            "alias": "the-fox-and-falcon-south-orange",
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.74532,
+                "longitude": -74.25936
+            },
+            "display_phone": "(973) 419-6773",
+            "distance": 1295.9311955672256,
+            "id": "ESpxgd5C6MS2dOxXHkqHjA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NPKvJ61OUk7fMkfOljc5Xg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "19 Valley St",
+                "address2": null,
+                "address3": "",
+                "city": "South Orange",
+                "country": "US",
+                "display_address": [
+                    "19 Valley St",
+                    "South Orange, NJ 07079"
+                ],
+                "state": "NJ",
+                "zip_code": "07079"
+            },
+            "name": "The Fox & Falcon",
+            "phone": "+19734196773",
+            "rating": 4.5,
+            "review_count": 20,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-fox-and-falcon-south-orange?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sabatinos-maplewood-2",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.7340131503814,
+                "longitude": -74.2696372661238
+            },
+            "display_phone": "(973) 327-9977",
+            "distance": 1534.593794606499,
+            "id": "UrlJnjVMYF1GpKhKslobrw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/d-xHJxYZiGqhKRV7SGELmw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "513 Valley St",
+                "address2": "",
+                "address3": null,
+                "city": "Maplewood",
+                "country": "US",
+                "display_address": [
+                    "513 Valley St",
+                    "Maplewood, NJ 07040"
+                ],
+                "state": "NJ",
+                "zip_code": "07040"
+            },
+            "name": "Sabatino's",
+            "phone": "+19733279977",
+            "rating": 5.0,
+            "review_count": 12,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sabatinos-maplewood-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 40.73522646316919,
+            "longitude": -74.25149448910946
+        }
+    },
+    "total": 2
+}

@@ -1,0 +1,136 @@
+{
+    "businesses": [
+        {
+            "alias": "serene-nails-and-spa-scottsdale",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                },
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.5860069,
+                "longitude": -111.8348451
+            },
+            "display_phone": "(480) 393-3476",
+            "distance": 2390.2284880705224,
+            "id": "Yga5XeLIMpWO9qBbdEG7tQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wzYtcNn2WMYGRfyGYO62PQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "10953 N Frank Lloyd Wright Blvd",
+                "address2": "Ste 104",
+                "address3": "",
+                "city": "Scottsdale",
+                "country": "US",
+                "display_address": [
+                    "10953 N Frank Lloyd Wright Blvd",
+                    "Ste 104",
+                    "Scottsdale, AZ 85259"
+                ],
+                "state": "AZ",
+                "zip_code": "85259"
+            },
+            "name": "Serene Nails & Spa",
+            "phone": "+14803933476",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/serene-nails-and-spa-scottsdale?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "lavish-nails-pavilions-scottsdale",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.5384599634458,
+                "longitude": -111.887659325829
+            },
+            "display_phone": "(480) 291-5799",
+            "distance": 5654.716828903362,
+            "id": "nraouSqBmucQQCm3kW_r5w",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZqC9gxa7eCEa3GiItKN4FA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8980 E Talking Stick Way",
+                "address2": "Ste D1",
+                "address3": "",
+                "city": "Scottsdale",
+                "country": "US",
+                "display_address": [
+                    "8980 E Talking Stick Way",
+                    "Ste D1",
+                    "Scottsdale, AZ 85250"
+                ],
+                "state": "AZ",
+                "zip_code": "85250"
+            },
+            "name": "Lavish Nails Pavilions",
+            "phone": "+14802915799",
+            "rating": 5.0,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/lavish-nails-pavilions-scottsdale?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "volanti-scottsdale",
+            "categories": [
+                {
+                    "alias": "food",
+                    "title": "Food"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.61922,
+                "longitude": -111.91639
+            },
+            "display_phone": "(480) 657-2426",
+            "distance": 6516.395005886465,
+            "id": "pqvG29Fs_3AY3aSEuliqKA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/n2N_0jKgwCETHqSc9d_E2A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "15000 North Airport Dr",
+                "address2": null,
+                "address3": "",
+                "city": "Scottsdale",
+                "country": "US",
+                "display_address": [
+                    "15000 North Airport Dr",
+                    "Scottsdale, AZ 85260"
+                ],
+                "state": "AZ",
+                "zip_code": "85260"
+            },
+            "name": "Volanti",
+            "phone": "+14806572426",
+            "rating": 5.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/volanti-scottsdale?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 33.585785462352625,
+            "longitude": -111.86016053835618
+        }
+    },
+    "total": 3
+}

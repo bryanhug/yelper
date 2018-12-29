@@ -1,0 +1,749 @@
+{
+    "businesses": [
+        {
+            "alias": "public-land-store-sacramento",
+            "categories": [
+                {
+                    "alias": "gardening",
+                    "title": "Nurseries & Gardening"
+                },
+                {
+                    "alias": "galleries",
+                    "title": "Art Galleries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.5583810902056,
+                "longitude": -121.486529074609
+            },
+            "display_phone": "(916) 942-9720",
+            "distance": 2651.9571290187337,
+            "id": "RJ5dRQqr2PCrH8vvpYUcqg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GEnORY3-XG1fvJLLtCvYwg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2598 21st St",
+                "address2": "",
+                "address3": null,
+                "city": "Sacramento",
+                "country": "US",
+                "display_address": [
+                    "2598 21st St",
+                    "Sacramento, CA 95818"
+                ],
+                "state": "CA",
+                "zip_code": "95818"
+            },
+            "name": "Public Land Store",
+            "phone": "+19169429720",
+            "rating": 5.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/public-land-store-sacramento?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "yellowbellys-barber-shop-sacramento",
+            "categories": [
+                {
+                    "alias": "barbers",
+                    "title": "Barbers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.56242,
+                "longitude": -121.47446
+            },
+            "display_phone": "(707) 301-9621",
+            "distance": 2654.5748035810093,
+            "id": "eKsLCX7vloVLTRzrWb2KZw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fRrVijk1Xej2Gk-3f8KImA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2014 28th St",
+                "address2": "",
+                "address3": null,
+                "city": "Sacramento",
+                "country": "US",
+                "display_address": [
+                    "2014 28th St",
+                    "Sacramento, CA 95818"
+                ],
+                "state": "CA",
+                "zip_code": "95818"
+            },
+            "name": "Yellowbelly's Barber Shop",
+            "phone": "+17073019621",
+            "rating": 5.0,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/yellowbellys-barber-shop-sacramento?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tealicious-sacramento-3",
+            "categories": [
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.5275870192814,
+                "longitude": -121.495912777778
+            },
+            "display_phone": "(916) 758-5179",
+            "distance": 2670.4333995240395,
+            "id": "4QkgyBIyqxPzKL7Ul7u0Ig",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KlxON-yBAzL7UkDP7I1QZA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5101 Freeport Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Sacramento",
+                "country": "US",
+                "display_address": [
+                    "5101 Freeport Blvd",
+                    "Sacramento, CA 95822"
+                ],
+                "state": "CA",
+                "zip_code": "95822"
+            },
+            "name": "Tealicious",
+            "phone": "+19167585179",
+            "rating": 4.0,
+            "review_count": 35,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tealicious-sacramento-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "starbucks-sacramento-168",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.5592987214683,
+                "longitude": -121.441196666667
+            },
+            "display_phone": "(916) 216-9752",
+            "distance": 3303.1713582106804,
+            "id": "9uDMfyc1MxsSpXkmDQwBhQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FbWOchbix3SFei_oPq3upQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5300 Folsom Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Sacramento",
+                "country": "US",
+                "display_address": [
+                    "5300 Folsom Blvd",
+                    "Sacramento, CA 95819"
+                ],
+                "state": "CA",
+                "zip_code": "95819"
+            },
+            "name": "Starbucks",
+            "phone": "+19162169752",
+            "rating": 5.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/starbucks-sacramento-168?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tea-bar-and-fusion-cafe-sacramento",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.57053,
+                "longitude": -121.47192
+            },
+            "display_phone": "(916) 444-8227",
+            "distance": 3499.717757485447,
+            "id": "QI8Y-VRzObVtLOBaoPWTyw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PXSmqKA0ukMGEY6QO7wxRQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2700 Capitol Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Sacramento",
+                "country": "US",
+                "display_address": [
+                    "2700 Capitol Ave",
+                    "Sacramento, CA 95816"
+                ],
+                "state": "CA",
+                "zip_code": "95816"
+            },
+            "name": "Tea Bar & Fusion Cafe",
+            "phone": "+19164448227",
+            "rating": 4.5,
+            "review_count": 69,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tea-bar-and-fusion-cafe-sacramento?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mendocino-farms-sacramento-2",
+            "categories": [
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.5688384,
+                "longitude": -121.4885517
+            },
+            "display_phone": "(916) 368-5400",
+            "distance": 3739.350424448933,
+            "id": "p-fml7Ev1Akl07JHZo17tQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UzKviBs-6oKTY44S9hLn_w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1610 R St",
+                "address2": "Ste 125",
+                "address3": null,
+                "city": "Sacramento",
+                "country": "US",
+                "display_address": [
+                    "1610 R St",
+                    "Ste 125",
+                    "Sacramento, CA 95811"
+                ],
+                "state": "CA",
+                "zip_code": "95811"
+            },
+            "name": "Mendocino Farms",
+            "phone": "+19163685400",
+            "rating": 4.5,
+            "review_count": 42,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mendocino-farms-sacramento-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "c\u00f4-mais-kitchen-sacramento-2",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.56583,
+                "longitude": -121.50685
+            },
+            "display_phone": "(916) 448-3577",
+            "distance": 4451.431562763945,
+            "id": "K-4htSGVhA3oziNWiD61dQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/StSs0OQViRSIkXHHNVjWCw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "501 Broadway",
+                "address2": null,
+                "address3": "",
+                "city": "Sacramento",
+                "country": "US",
+                "display_address": [
+                    "501 Broadway",
+                    "Sacramento, CA 95818"
+                ],
+                "state": "CA",
+                "zip_code": "95818"
+            },
+            "name": "C\u00f4 Mai's Kitchen",
+            "phone": "+19164483577",
+            "rating": 4.5,
+            "review_count": 73,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/c%C3%B4-mais-kitchen-sacramento-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "top-jalah-ice-cream-sacramento",
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.5793909,
+                "longitude": -121.4893808
+            },
+            "display_phone": "(916) 917-5240",
+            "distance": 4855.38914643743,
+            "id": "q6sX1qlE3iW8AeW7X-1vTQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bzBkCGw8KWbMYCxnzMfeKg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1233 J St",
+                "address2": "",
+                "address3": null,
+                "city": "Sacramento",
+                "country": "US",
+                "display_address": [
+                    "1233 J St",
+                    "Sacramento, CA 95814"
+                ],
+                "state": "CA",
+                "zip_code": "95814"
+            },
+            "name": "Top Jalah Ice Cream",
+            "phone": "+19169175240",
+            "rating": 4.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/top-jalah-ice-cream-sacramento?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "wings-city-sacramento",
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.501635,
+                "longitude": -121.43563
+            },
+            "display_phone": "(916) 594-7659",
+            "distance": 5056.365755615454,
+            "id": "JbjkkGR4FQQnG1oIJGWnfg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HnMI3stzjarRK9jrnGu9VA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5555 Sky Pkwy",
+                "address2": "Ste 243",
+                "address3": "",
+                "city": "Sacramento",
+                "country": "US",
+                "display_address": [
+                    "5555 Sky Pkwy",
+                    "Ste 243",
+                    "Sacramento, CA 95823"
+                ],
+                "state": "CA",
+                "zip_code": "95823"
+            },
+            "name": "Wings City",
+            "phone": "+19165947659",
+            "rating": 4.0,
+            "review_count": 27,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/wings-city-sacramento?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tiger-sacramento-3",
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.5799003028094,
+                "longitude": -121.497269847885
+            },
+            "display_phone": "(916) 382-9610",
+            "distance": 5181.076900619004,
+            "id": "UcyCCoI1WVzuqHHaYt6LNw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/m3Xaq62-IK93TIalSpPpAA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "722 K St",
+                "address2": "",
+                "address3": null,
+                "city": "Sacramento",
+                "country": "US",
+                "display_address": [
+                    "722 K St",
+                    "Sacramento, CA 95814"
+                ],
+                "state": "CA",
+                "zip_code": "95814"
+            },
+            "name": "Tiger",
+            "phone": "+19163829610",
+            "rating": 4.0,
+            "review_count": 32,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tiger-sacramento-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "camden-spit-and-larder-sacramento",
+            "categories": [
+                {
+                    "alias": "brasseries",
+                    "title": "Brasseries"
+                },
+                {
+                    "alias": "british",
+                    "title": "British"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.57916,
+                "longitude": -121.50061
+            },
+            "display_phone": "(916) 619-8897",
+            "distance": 5255.45286170123,
+            "id": "KjrBuS4KmCkQODv7HhePqg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zUXIxuWkWmyC5IUZA6cJgA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "555 Capitol Mall",
+                "address2": "Ste 100",
+                "address3": null,
+                "city": "Sacramento",
+                "country": "US",
+                "display_address": [
+                    "555 Capitol Mall",
+                    "Ste 100",
+                    "Sacramento, CA 95814"
+                ],
+                "state": "CA",
+                "zip_code": "95814"
+            },
+            "name": "Camden Spit & Larder",
+            "phone": "+19166198897",
+            "rating": 4.5,
+            "review_count": 27,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/camden-spit-and-larder-sacramento?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "poke-bros-sacramento",
+            "categories": [
+                {
+                    "alias": "poke",
+                    "title": "Poke"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.58176,
+                "longitude": -121.49758
+            },
+            "display_phone": "",
+            "distance": 5376.213594640402,
+            "id": "hYsnOi-h4fhjq_cCz_rCfQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qNbQjNTG5llps_Lp7M9zUQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "629 J St",
+                "address2": "",
+                "address3": null,
+                "city": "Sacramento",
+                "country": "US",
+                "display_address": [
+                    "629 J St",
+                    "Sacramento, CA 95814"
+                ],
+                "state": "CA",
+                "zip_code": "95814"
+            },
+            "name": "Poke Bros",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 12,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/poke-bros-sacramento?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "popbar-sacramento-2",
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.581231,
+                "longitude": -121.500452
+            },
+            "display_phone": "(916) 538-6296",
+            "distance": 5445.786520339674,
+            "id": "jXF7sqwGcZnuFY9rMwqtqA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CjJUwSAQzBn7a1gOIhcHYg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "405 K St",
+                "address2": "Ste 210",
+                "address3": null,
+                "city": "Sacramento",
+                "country": "US",
+                "display_address": [
+                    "405 K St",
+                    "Ste 210",
+                    "Sacramento, CA 95814"
+                ],
+                "state": "CA",
+                "zip_code": "95814"
+            },
+            "name": "Popbar",
+            "phone": "+19165386296",
+            "rating": 5.0,
+            "review_count": 47,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/popbar-sacramento-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "raretea-sacramento",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.5811402323152,
+                "longitude": -121.50107641708
+            },
+            "display_phone": "(916) 942-9903",
+            "distance": 5464.704969817054,
+            "id": "b_bN3q16Ru773fU4ct6axw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/100deyIvKufZd1HYEPstiQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "414 K St",
+                "address2": "Ste 225",
+                "address3": null,
+                "city": "Sacramento",
+                "country": "US",
+                "display_address": [
+                    "414 K St",
+                    "Ste 225",
+                    "Sacramento, CA 95814"
+                ],
+                "state": "CA",
+                "zip_code": "95814"
+            },
+            "name": "RareTea",
+            "phone": "+19169429903",
+            "rating": 4.5,
+            "review_count": 42,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/raretea-sacramento?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-pizza-press-sacramento-3",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.5814684,
+                "longitude": -121.501836
+            },
+            "display_phone": "(714) 408-9487",
+            "distance": 5536.631998617962,
+            "id": "E0gQQnBzc5AOTVJcKntl-Q",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/69y93_u-xWe12mRM6EZqlw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "405 K St",
+                "address2": "Ste 240",
+                "address3": null,
+                "city": "Sacramento",
+                "country": "US",
+                "display_address": [
+                    "405 K St",
+                    "Ste 240",
+                    "Sacramento, CA 95814"
+                ],
+                "state": "CA",
+                "zip_code": "95814"
+            },
+            "name": "The Pizza Press",
+            "phone": "+17144089487",
+            "rating": 4.0,
+            "review_count": 45,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-pizza-press-sacramento-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hoppys-railyard-kitchen-and-hopgarden-sacramento",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "brewpubs",
+                    "title": "Brewpubs"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.5825828,
+                "longitude": -121.5046589
+            },
+            "display_phone": "(916) 451-4677",
+            "distance": 5765.064046399253,
+            "id": "zWxSEAHb-PUfjLm6Wv_5Mw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/N8QLsCom2hfNmdLckh-fEg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1022 2nd St",
+                "address2": "",
+                "address3": null,
+                "city": "Sacramento",
+                "country": "US",
+                "display_address": [
+                    "1022 2nd St",
+                    "Sacramento, CA 95814"
+                ],
+                "state": "CA",
+                "zip_code": "95814"
+            },
+            "name": "Hoppy's Railyard Kitchen & Hopgarden",
+            "phone": "+19164514677",
+            "rating": 3.0,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hoppys-railyard-kitchen-and-hopgarden-sacramento?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "westside-by-identity-coffees-west-sacramento",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.588588553259,
+                "longitude": -121.509851269362
+            },
+            "display_phone": "(916) 465-0272",
+            "distance": 6570.8741816409065,
+            "id": "ysZNew8HU-2PyLyE4S19dw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1TrS6ePQsjSDczIR6j38_g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "289 3rd St",
+                "address2": null,
+                "address3": "",
+                "city": "West Sacramento",
+                "country": "US",
+                "display_address": [
+                    "289 3rd St",
+                    "West Sacramento, CA 95605"
+                ],
+                "state": "CA",
+                "zip_code": "95605"
+            },
+            "name": "Westside by Identity Coffees",
+            "phone": "+19164650272",
+            "rating": 5.0,
+            "review_count": 18,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/westside-by-identity-coffees-west-sacramento?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bubble-cone-sacramento-6",
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.5762062072754,
+                "longitude": -121.483238220215
+            },
+            "display_phone": "(916) 812-4108",
+            "distance": 6790.287669801432,
+            "id": "DxvaQQO6Tqyjq8Ti6jcGTA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5dPClYWvFSAqj7XosQdbNw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "",
+                "address2": null,
+                "address3": "",
+                "city": "Sacramento",
+                "country": "US",
+                "display_address": [
+                    "Sacramento, CA 95811"
+                ],
+                "state": "CA",
+                "zip_code": "95811"
+            },
+            "name": "Bubble Cone",
+            "phone": "+19168124108",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bubble-cone-sacramento-6?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 38.53894244265414,
+            "longitude": -121.46886043202589
+        }
+    },
+    "total": 18
+}

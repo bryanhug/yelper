@@ -1,0 +1,843 @@
+{
+    "businesses": [
+        {
+            "alias": "the-portland-press-portland",
+            "categories": [
+                {
+                    "alias": "gluten_free",
+                    "title": "Gluten-Free"
+                },
+                {
+                    "alias": "waffles",
+                    "title": "Waffles"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.4641951,
+                "longitude": -122.6547933
+            },
+            "display_phone": "(971) 244-3527",
+            "distance": 1290.3789198083446,
+            "id": "lHh9UlnM_PlYkX9Jmlox2Q",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bkdbCkYT94IAyUPhyf5ZMg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1122 SE Tacoma St",
+                "address2": "",
+                "address3": "PikNik Park Food Carts and Beer Garden",
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "1122 SE Tacoma St",
+                    "PikNik Park Food Carts and Beer Garden",
+                    "Portland, OR 97202"
+                ],
+                "state": "OR",
+                "zip_code": "97202"
+            },
+            "name": "The Portland Press",
+            "phone": "+19712443527",
+            "rating": 4.5,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-portland-press-portland?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "leafy-dreams-portland",
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.4669169,
+                "longitude": -122.6531349
+            },
+            "display_phone": "(503) 939-2960",
+            "distance": 1393.0405798028933,
+            "id": "FlQPoul_fnDmh4ey_BuxKg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OdfEBT1VU4WDAWHNlLzM7w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7909 SE 13th Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "7909 SE 13th Ave",
+                    "Portland, OR 97202"
+                ],
+                "state": "OR",
+                "zip_code": "97202"
+            },
+            "name": "Leafy Dreams",
+            "phone": "+15039392960",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/leafy-dreams-portland?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "jojo-portland",
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.46481,
+                "longitude": -122.64673
+            },
+            "display_phone": "(503) 309-4768",
+            "distance": 1890.287059395578,
+            "id": "Oe8PpDVZtmhfnh40HLuG3g",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NKOvCoGnb6LhUgb57AwY7Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8064 SE 17th Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "8064 SE 17th Ave",
+                    "Portland, OR 97202"
+                ],
+                "state": "OR",
+                "zip_code": "97202"
+            },
+            "name": "Jojo",
+            "phone": "+15033094768",
+            "rating": 5.0,
+            "review_count": 10,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/jojo-portland?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "boxer-ramen-portland-9",
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.4737835754384,
+                "longitude": -122.649564743042
+            },
+            "display_phone": "",
+            "distance": 1896.9685635287622,
+            "id": "7qlaP32B8JPEJNb9pHGPdQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/E6lZCPCpB9QPLcpZQATMLQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1613 SE Bybee Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "1613 SE Bybee Blvd",
+                    "Portland, OR 97202"
+                ],
+                "state": "OR",
+                "zip_code": "97202"
+            },
+            "name": "Boxer Ramen",
+            "phone": "",
+            "rating": 3.0,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/boxer-ramen-portland-9?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "pok-pok-wing-portland-6",
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.4651263011846,
+                "longitude": -122.698210201449
+            },
+            "display_phone": "",
+            "distance": 2129.4883369230256,
+            "id": "K4UY12n0i2UOXLNc-7HpnA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-07etJc57iDJpyZ1V0wLQA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8250 SW Barbur Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "8250 SW Barbur Blvd",
+                    "Portland, OR 97219"
+                ],
+                "state": "OR",
+                "zip_code": "97219"
+            },
+            "name": "Pok Pok Wing",
+            "phone": "",
+            "rating": 3.5,
+            "review_count": 10,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/pok-pok-wing-portland-6?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "gastro-mania-portland-6",
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.46763,
+                "longitude": -122.71382
+            },
+            "display_phone": "",
+            "distance": 3353.6674366783973,
+            "id": "WNYBC_hcwSI0ct-kQAYyMQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/A2QSZ4F4qwC5Kglv8iKdsA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7850 SW Capitol Hwy",
+                "address2": "",
+                "address3": null,
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "7850 SW Capitol Hwy",
+                    "Portland, OR 97219"
+                ],
+                "state": "OR",
+                "zip_code": "97219"
+            },
+            "name": "Gastro Mania",
+            "phone": "",
+            "rating": 3.5,
+            "review_count": 21,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/gastro-mania-portland-6?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "two-sisters-play-cafe-milwaukie",
+            "categories": [
+                {
+                    "alias": "indoor_playcenter",
+                    "title": "Indoor Playcentre"
+                },
+                {
+                    "alias": "themedcafes",
+                    "title": "Themed Cafes"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.4375803617551,
+                "longitude": -122.640668791842
+            },
+            "display_phone": "(503) 344-4883",
+            "distance": 3908.3497645492,
+            "id": "a4jhHLR7Inunrnm7FsNWxQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HDcu_6AOZt1GPsXfyLKR5A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "11923 SE McLoughlin Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Milwaukie",
+                "country": "US",
+                "display_address": [
+                    "11923 SE McLoughlin Blvd",
+                    "Milwaukie, OR 97222"
+                ],
+                "state": "OR",
+                "zip_code": "97222"
+            },
+            "name": "Two Sisters play cafe",
+            "phone": "+15033444883",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/two-sisters-play-cafe-milwaukie?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-place-portland",
+            "categories": [
+                {
+                    "alias": "cideries",
+                    "title": "Cideries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.50047,
+                "longitude": -122.65285
+            },
+            "display_phone": "(503) 415-9475",
+            "distance": 4128.245734810649,
+            "id": "GWG0maTlAuIOxgDTp9BsiA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yGx3ToGL0ROgcVkVvn5Fkw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1212 SE Powell Blvd",
+                "address2": "Ste D",
+                "address3": "",
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "1212 SE Powell Blvd",
+                    "Ste D",
+                    "Portland, OR 97202"
+                ],
+                "state": "OR",
+                "zip_code": "97202"
+            },
+            "name": "The Place",
+            "phone": "+15034159475",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-place-portland?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "target-portland-17",
+            "categories": [
+                {
+                    "alias": "deptstores",
+                    "title": "Department Stores"
+                },
+                {
+                    "alias": "furniture",
+                    "title": "Furniture Stores"
+                },
+                {
+                    "alias": "electronics",
+                    "title": "Electronics"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.497495,
+                "longitude": -122.634097
+            },
+            "display_phone": "(503) 821-8841",
+            "distance": 4562.188297237574,
+            "id": "61vablHNG8t8UAHXkV8O2Q",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Vq9UmsnD7Woz8Tjf0SJLrw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3031 SE Powell Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "3031 SE Powell Blvd",
+                    "Portland, OR 97202"
+                ],
+                "state": "OR",
+                "zip_code": "97202"
+            },
+            "name": "Target",
+            "phone": "+15038218841",
+            "rating": 3.5,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/target-portland-17?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "in-j-coffee-portland",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.5147,
+                "longitude": -122.68419
+            },
+            "display_phone": "(971) 270-6856",
+            "distance": 5561.315353424435,
+            "id": "6Y_S0K_4gHN3QhNWZUMmEw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bHshkOdAUJ2s8GmAWuORPg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1431 SW Park Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "1431 SW Park Ave",
+                    "Portland, OR 97201"
+                ],
+                "state": "OR",
+                "zip_code": "97201"
+            },
+            "name": "In J Coffee",
+            "phone": "+19712706856",
+            "rating": 5.0,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/in-j-coffee-portland?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "karam-lebanese-deli-portland",
+            "categories": [
+                {
+                    "alias": "lebanese",
+                    "title": "Lebanese"
+                },
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.51661,
+                "longitude": -122.68571
+            },
+            "display_phone": "(503) 626-5272",
+            "distance": 5777.3258374135885,
+            "id": "qkTSxqS0vdT_rNK08VkmBw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MwyUfA9FWgonFXIdCX-pvA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1111 SW Jefferson St",
+                "address2": "",
+                "address3": null,
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "1111 SW Jefferson St",
+                    "Portland, OR 97205"
+                ],
+                "state": "OR",
+                "zip_code": "97205"
+            },
+            "name": "Karam Lebanese Deli",
+            "phone": "+15036265272",
+            "rating": 5.0,
+            "review_count": 19,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/karam-lebanese-deli-portland?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "muji-portland-portland-2",
+            "categories": [
+                {
+                    "alias": "homedecor",
+                    "title": "Home Decor"
+                },
+                {
+                    "alias": "stationery",
+                    "title": "Cards & Stationery"
+                },
+                {
+                    "alias": "menscloth",
+                    "title": "Men's Clothing"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.5190999523798,
+                "longitude": -122.677672281861
+            },
+            "display_phone": "(503) 867-8156",
+            "distance": 5971.813088752834,
+            "id": "BHi_FGT9pEjDBrorpiA2Sg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jB0kld6_SuhD-qxNH7yK_g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "621 SW 5th Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "621 SW 5th Ave",
+                    "Portland, OR 97204"
+                ],
+                "state": "OR",
+                "zip_code": "97204"
+            },
+            "name": "Muji - Portland",
+            "phone": "+15038678156",
+            "rating": 4.5,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/muji-portland-portland-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ramen-ciro-portland-2",
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.5199021,
+                "longitude": -122.6744351
+            },
+            "display_phone": "(503) 750-5559",
+            "distance": 6050.195271825764,
+            "id": "G3O7mzJnffqhQr5sU0cLAQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GebhtPHf-kGHWF5pZIRGuA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "432 SW 3rd Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "432 SW 3rd Ave",
+                    "Portland, OR 97204"
+                ],
+                "state": "OR",
+                "zip_code": "97204"
+            },
+            "name": "Ramen Ciro",
+            "phone": "+15037505559",
+            "rating": 5.0,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ramen-ciro-portland-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tight-tacos-portland-2",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.51237,
+                "longitude": -122.62988
+            },
+            "display_phone": "(971) 336-5795",
+            "distance": 6091.152083877153,
+            "id": "lk_Pf67uaChin59jhW9F1g",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oD52h0Bf5Lf0zoAowkvpmA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3343 SE Hawthorne Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "3343 SE Hawthorne Blvd",
+                    "Portland, OR 97214"
+                ],
+                "state": "OR",
+                "zip_code": "97214"
+            },
+            "name": "Tight Tacos",
+            "phone": "+19713365795",
+            "rating": 4.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tight-tacos-portland-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "rosa-rosa-portland",
+            "categories": [
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.5200100189509,
+                "longitude": -122.680243849754
+            },
+            "display_phone": "(503) 294-9700",
+            "distance": 6093.284827540893,
+            "id": "iyT_ql92tzZ1yeXzD1sZoQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/iHZZTdKIiqoDSfRszGvQYg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "750 SW Alder St",
+                "address2": "",
+                "address3": null,
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "750 SW Alder St",
+                    "Portland, OR 97205"
+                ],
+                "state": "OR",
+                "zip_code": "97205"
+            },
+            "name": "Rosa Rosa",
+            "phone": "+15032949700",
+            "rating": 3.5,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/rosa-rosa-portland?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bullard-portland-3",
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.520579918916,
+                "longitude": -122.680489942431
+            },
+            "display_phone": "(503) 222-1670",
+            "distance": 6158.501677273987,
+            "id": "n16Hf7v3TpWKwjpKoV_01A",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/a4oeP12egwAn0WP5CeELuw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "813 SW Alder St",
+                "address2": "",
+                "address3": null,
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "813 SW Alder St",
+                    "Portland, OR 97205"
+                ],
+                "state": "OR",
+                "zip_code": "97205"
+            },
+            "name": "Bullard",
+            "phone": "+15032221670",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bullard-portland-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kozy-bar-portland-2",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.5217174954584,
+                "longitude": -122.681023333333
+            },
+            "display_phone": "",
+            "distance": 6289.153849477842,
+            "id": "oMeyqbCzS0LTFkXzKPlWxQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/R-uoe8RHgu4oiXy-B1v6HQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "424 SW 10th Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "424 SW 10th Ave",
+                    "Portland, OR 97205"
+                ],
+                "state": "OR",
+                "zip_code": "97205"
+            },
+            "name": "Kozy Bar",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kozy-bar-portland-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "myprint-portland",
+            "categories": [
+                {
+                    "alias": "souvenirs",
+                    "title": "Souvenir Shops"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.5228351,
+                "longitude": -122.6819806
+            },
+            "display_phone": "(503) 719-5850",
+            "distance": 6403.332631000361,
+            "id": "2H7xTJlj79DElCVmMJDdDQ",
+            "image_url": "",
+            "is_closed": false,
+            "location": {
+                "address1": "1022 W Burnside St",
+                "address2": "West Burnside St",
+                "address3": null,
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "1022 W Burnside St",
+                    "West Burnside St",
+                    "Portland, OR 97209"
+                ],
+                "state": "OR",
+                "zip_code": "97209"
+            },
+            "name": "MYPRINT",
+            "phone": "+15037195850",
+            "rating": 4.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/myprint-portland?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "normandie-portland",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.52235,
+                "longitude": -122.65553
+            },
+            "display_phone": "(503) 233-4129",
+            "distance": 6417.9064599879575,
+            "id": "FWpmpjEHvkaSpzdBOSy6Xw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OL-QcRhaAI-OG4vfRSZKhA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1005 SE Ankeny St",
+                "address2": null,
+                "address3": "",
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "1005 SE Ankeny St",
+                    "Portland, OR 97214"
+                ],
+                "state": "OR",
+                "zip_code": "97214"
+            },
+            "name": "NORMANDIE",
+            "phone": "+15032334129",
+            "rating": 5.0,
+            "review_count": 33,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/normandie-portland?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "la-neta-portland",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.52335,
+                "longitude": -122.67466
+            },
+            "display_phone": "(503) 770-0500",
+            "distance": 6442.627520456227,
+            "id": "simVdSlySRDEIWaAXiDOfQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ap5qjsPD5-VBj7i5Yli4sQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "15 NW 4th Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "15 NW 4th Ave",
+                    "Portland, OR 97209"
+                ],
+                "state": "OR",
+                "zip_code": "97209"
+            },
+            "name": "La Neta",
+            "phone": "+15037700500",
+            "rating": 3.5,
+            "review_count": 15,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/la-neta-portland?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 45.46560355221738,
+            "longitude": -122.67091243652229
+        }
+    },
+    "total": 33
+}

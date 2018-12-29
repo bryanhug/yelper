@@ -1,0 +1,8 @@
+{
+    "error": {
+        "code": "VALIDATION_ERROR",
+        "description": "88012 is greater than the maximum of 40000",
+        "field": "radius",
+        "instance": 88012
+    }
+}

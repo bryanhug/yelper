@@ -1,0 +1,96 @@
+{
+    "businesses": [
+        {
+            "alias": "playa-bowls-englewood",
+            "categories": [
+                {
+                    "alias": "acaibowls",
+                    "title": "Acai Bowls"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.89298,
+                "longitude": -73.97391
+            },
+            "display_phone": "(201) 928-7788",
+            "distance": 1753.0889433714806,
+            "id": "onaAKzrcKgSVl1BfT0E1Ow",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/z2CCRbrG6-CIG_jTgZtLFw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "38 E Palisade Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Englewood",
+                "country": "US",
+                "display_address": [
+                    "38 E Palisade Ave",
+                    "Englewood, NJ 07631"
+                ],
+                "state": "NJ",
+                "zip_code": "07631"
+            },
+            "name": "Playa Bowls",
+            "phone": "+12019287788",
+            "rating": 4.5,
+            "review_count": 3,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/playa-bowls-englewood?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "just4move-nyc-brooklyn",
+            "categories": [
+                {
+                    "alias": "movers",
+                    "title": "Movers"
+                },
+                {
+                    "alias": "packingservices",
+                    "title": "Packing Services"
+                },
+                {
+                    "alias": "packingsupplies",
+                    "title": "Packing Supplies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.6698599111662,
+                "longitude": -73.9560807868838
+            },
+            "display_phone": "(516) 399-1055",
+            "distance": 26103.316816042974,
+            "id": "SMTa4VpGZRBm3KjYkEMOkg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VB_SkT1ozb1ZcUwoqqUy-w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "390 Eastern Pkwy",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "country": "US",
+                "display_address": [
+                    "390 Eastern Pkwy",
+                    "Brooklyn, NY 11225"
+                ],
+                "state": "NY",
+                "zip_code": "11225"
+            },
+            "name": "Just4Move NYC",
+            "phone": "+15163991055",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/just4move-nyc-brooklyn?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 40.90321399246441,
+            "longitude": -73.98987895200209
+        }
+    },
+    "total": 2
+}

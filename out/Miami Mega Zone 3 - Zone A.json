@@ -1,0 +1,213 @@
+{
+    "businesses": [
+        {
+            "alias": "boba-farm-hollywood",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "taiwanese",
+                    "title": "Taiwanese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.02827,
+                "longitude": -80.16886
+            },
+            "display_phone": "(305) 733-7133",
+            "distance": 1036.6221417278036,
+            "id": "q0gS4HmT-5Qc7RZOE6SZSw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yBC7jDbWLiPai1rKVaXvfg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1940 N 30th Rd",
+                "address2": "Ste 526",
+                "address3": "",
+                "city": "Hollywood",
+                "country": "US",
+                "display_address": [
+                    "1940 N 30th Rd",
+                    "Ste 526",
+                    "Hollywood, FL 33021"
+                ],
+                "state": "FL",
+                "zip_code": "33021"
+            },
+            "name": "Boba farm",
+            "phone": "+13057337133",
+            "rating": 5.0,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/boba-farm-hollywood?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "brandsmart-usa-dania-beach",
+            "categories": [
+                {
+                    "alias": "electronics",
+                    "title": "Electronics"
+                },
+                {
+                    "alias": "appliances",
+                    "title": "Appliances"
+                },
+                {
+                    "alias": "mobilephones",
+                    "title": "Mobile Phones"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.05165,
+                "longitude": -80.15641
+            },
+            "display_phone": "(954) 846-2000",
+            "distance": 3247.9888209815545,
+            "id": "dYnooOo51OepKAvgyijw1w",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PKH8eUAqRkPX_KbMnbBYFg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "10 S Compass Way",
+                "address2": null,
+                "address3": "",
+                "city": "Dania Beach",
+                "country": "US",
+                "display_address": [
+                    "10 S Compass Way",
+                    "Dania Beach, FL 33004"
+                ],
+                "state": "FL",
+                "zip_code": "33004"
+            },
+            "name": "BrandsMart USA",
+            "phone": "+19548462000",
+            "rating": 4.5,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/brandsmart-usa-dania-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tj-maxx-dania",
+            "categories": [
+                {
+                    "alias": "deptstores",
+                    "title": "Department Stores"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.0518979486552,
+                "longitude": -80.1587390899658
+            },
+            "display_phone": "(954) 378-0275",
+            "distance": 3253.814694434198,
+            "id": "xjbCNRXytQvNVMBHEs2SjA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ATwbW1L_poq-QLfW_h-CnQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1730 S Bearing St",
+                "address2": "",
+                "address3": null,
+                "city": "Dania",
+                "country": "US",
+                "display_address": [
+                    "1730 S Bearing St",
+                    "Dania, FL 33004"
+                ],
+                "state": "FL",
+                "zip_code": "33004"
+            },
+            "name": "TJ Maxx",
+            "phone": "+19543780275",
+            "rating": 3.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tj-maxx-dania?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "dunns-river-island-cafe-hallandale-beach",
+            "categories": [
+                {
+                    "alias": "caribbean",
+                    "title": "Caribbean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 25.98541,
+                "longitude": -80.16099
+            },
+            "display_phone": "(954) 842-3268",
+            "distance": 4143.781963435043,
+            "id": "wSuuNY1lc5a-zXuK2LMqHw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FMPSuxgfup4Seh2aEwkRug/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "908 W Hallandale Beach Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Hallandale Beach",
+                "country": "US",
+                "display_address": [
+                    "908 W Hallandale Beach Blvd",
+                    "Hallandale Beach, FL 33009"
+                ],
+                "state": "FL",
+                "zip_code": "33009"
+            },
+            "name": "Dunns River Island Cafe",
+            "phone": "+19548423268",
+            "rating": 4.5,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dunns-river-island-cafe-hallandale-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "leroys-smokehouse-bbq-hallandale-beach",
+            "categories": [
+                {
+                    "alias": "smokehouse",
+                    "title": "Smokehouse"
+                },
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                }
+            ],
+            "coordinates": {
+                "latitude": 25.9854283757324,
+                "longitude": -80.1593600213528
+            },
+            "display_phone": "(954) 613-4077",
+            "distance": 4144.390466440156,
+            "id": "3KF3mzuGZgB7W6pkDs-Hmg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IwPBmLO3lPLAoN61xy2Myg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "812 W Hallandale Beach Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Hallandale Beach",
+                "country": "US",
+                "display_address": [
+                    "812 W Hallandale Beach Blvd",
+                    "Hallandale Beach, FL 33009"
+                ],
+                "state": "FL",
+                "zip_code": "33009"
+            },
+            "name": "Leroy's Smokehouse BBQ",
+            "phone": "+19546134077",
+            "rating": 4.0,
+            "review_count": 12,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/leroys-smokehouse-bbq-hallandale-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 26.02268325927511,
+            "longitude": -80.16059595875265
+        }
+    },
+    "total": 5
+}

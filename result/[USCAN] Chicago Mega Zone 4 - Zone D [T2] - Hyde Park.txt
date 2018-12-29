@@ -1,0 +1,20 @@
+Seoul Taco
+1321 E 57th St, Chicago, IL 60637, 
++17738912266
+https://www.yelp.com/biz/seoul-taco-chicago-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Hiro Sushi & Desserts Bar
+1453 E53rd St, Chicago, IL 60615, 
++17736332797
+https://www.yelp.com/biz/hiro-sushi-and-desserts-bar-chicago?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Bibliophile
+1644 E 53rd St, Chicago, IL 60615, 
++18722443704
+https://www.yelp.com/biz/bibliophile-chicago?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Virtue Restaurant
+1462 E 53rd St, Chicago, IL 60615, 
++17739478831
+https://www.yelp.com/biz/virtue-restaurant-chicago?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+

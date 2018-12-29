@@ -1,0 +1,304 @@
+{
+    "businesses": [
+        {
+            "alias": "steins-by-addies-lexington",
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.01908,
+                "longitude": -84.52847
+            },
+            "display_phone": "(859) 309-9577",
+            "distance": 709.867619343397,
+            "id": "wUGC_eDSBMYNs3aF3O8EJg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BZpmBwyCXs_da4ZYjomHlA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "450 Southland Dr",
+                "address2": "",
+                "address3": null,
+                "city": "Lexington",
+                "country": "US",
+                "display_address": [
+                    "450 Southland Dr",
+                    "Lexington, KY 40503"
+                ],
+                "state": "KY",
+                "zip_code": "40503"
+            },
+            "name": "Stein's by Addie's",
+            "phone": "+18593099577",
+            "rating": 3.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/steins-by-addies-lexington?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "la-reina-michoacana-lexington",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.0047626385001,
+                "longitude": -84.5219320803881
+            },
+            "display_phone": "(859) 687-0038",
+            "distance": 1626.8752743679906,
+            "id": "L3LY_UU3K_E3__F14x9Gwg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wjug8IVAxBJppYl-LqbtkA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "185 Pasadena Dr",
+                "address2": "Ste 150",
+                "address3": null,
+                "city": "Lexington",
+                "country": "US",
+                "display_address": [
+                    "185 Pasadena Dr",
+                    "Ste 150",
+                    "Lexington, KY 40503"
+                ],
+                "state": "KY",
+                "zip_code": "40503"
+            },
+            "name": "La Reina Michoacana",
+            "phone": "+18596870038",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/la-reina-michoacana-lexington?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "frenchies-modern-nail-care-lexington",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.99418,
+                "longitude": -84.52325
+            },
+            "display_phone": "(859) 244-3333",
+            "distance": 2772.43051215644,
+            "id": "MQjgxgswNrspGq4RLqKyVg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9OiU0GeXMrut4gsjSimt_A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "161 Lexington Green Cir",
+                "address2": "Ste B-15",
+                "address3": null,
+                "city": "Lexington",
+                "country": "US",
+                "display_address": [
+                    "161 Lexington Green Cir",
+                    "Ste B-15",
+                    "Lexington, KY 40503"
+                ],
+                "state": "KY",
+                "zip_code": "40503"
+            },
+            "name": "Frenchies Modern Nail Care",
+            "phone": "+18592443333",
+            "rating": 3.5,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/frenchies-modern-nail-care-lexington?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "napa-prime-lexington-4",
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.04443,
+                "longitude": -84.5057
+            },
+            "display_phone": "(859) 523-3464",
+            "distance": 3079.1865826238936,
+            "id": "4lIqKbT9kPPixcBYmcPxpQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Bv7_56rljfgbkK1Or3xXdw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "319 Cedar St",
+                "address2": "",
+                "address3": null,
+                "city": "Lexington",
+                "country": "US",
+                "display_address": [
+                    "319 Cedar St",
+                    "Lexington, KY 40508"
+                ],
+                "state": "KY",
+                "zip_code": "40508"
+            },
+            "name": "Napa Prime",
+            "phone": "+18595233464",
+            "rating": 4.5,
+            "review_count": 31,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/napa-prime-lexington-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "guss-world-famous-fried-chicken-lexington",
+            "categories": [
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                },
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                },
+                {
+                    "alias": "comfortfood",
+                    "title": "Comfort Food"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.0415728,
+                "longitude": -84.4930589
+            },
+            "display_phone": "(859) 523-8008",
+            "distance": 3475.1912743382977,
+            "id": "i4pcorWil2ckUZMkyQwczg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Cw_1zFf7VPkwSYA6dTdw7Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "321 E Vine St",
+                "address2": null,
+                "address3": "",
+                "city": "Lexington",
+                "country": "US",
+                "display_address": [
+                    "321 E Vine St",
+                    "Lexington, KY 40507"
+                ],
+                "state": "KY",
+                "zip_code": "40507"
+            },
+            "name": "Gus's World Famous Fried Chicken",
+            "phone": "+18595238008",
+            "rating": 4.5,
+            "review_count": 30,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/guss-world-famous-fried-chicken-lexington?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "zims-cafe-lexington-3",
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.04768,
+                "longitude": -84.49789
+            },
+            "display_phone": "(859) 785-3690",
+            "distance": 3724.0168487079463,
+            "id": "9rbo7SQ6lCgyeSRnJNd9Ag",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Iuq1vTOFXZfeeexvVhxX2g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "215 W Main St",
+                "address2": "Ste 25",
+                "address3": null,
+                "city": "Lexington",
+                "country": "US",
+                "display_address": [
+                    "215 W Main St",
+                    "Ste 25",
+                    "Lexington, KY 40507"
+                ],
+                "state": "KY",
+                "zip_code": "40507"
+            },
+            "name": "Zims Cafe",
+            "phone": "+18597853690",
+            "rating": 4.0,
+            "review_count": 12,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/zims-cafe-lexington-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "j-gumbos-lexington-2",
+            "categories": [
+                {
+                    "alias": "cajun",
+                    "title": "Cajun/Creole"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.05741,
+                "longitude": -84.48104
+            },
+            "display_phone": "(859) 286-9239",
+            "distance": 5456.804562156778,
+            "id": "9H5rsvm5tLXxkwYZaG09qg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xMxmdZOVdGfQxPbu-AKmzA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "808 N Limestone",
+                "address2": "",
+                "address3": null,
+                "city": "Lexington",
+                "country": "US",
+                "display_address": [
+                    "808 N Limestone",
+                    "Lexington, KY 40505"
+                ],
+                "state": "KY",
+                "zip_code": "40505"
+            },
+            "name": "J. Gumbo's",
+            "phone": "+18592869239",
+            "rating": 4.5,
+            "review_count": 11,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/j-gumbos-lexington-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 38.019342485623554,
+            "longitude": -84.5203827726086
+        }
+    },
+    "total": 7
+}

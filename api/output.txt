@@ -1,0 +1,741 @@
+{
+    "businesses": [
+        {
+            "alias": "word-a-cafe-san-francisco",
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.73213,
+                "longitude": -122.39198
+            },
+            "display_phone": "(415) 500-2501",
+            "distance": 1318.0309180776044,
+            "id": "UedXQCDG3BzWG9kJjek2Vg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aqBlnCiJaAc4lqpBKf9kTg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5114 3rd St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "5114 3rd St",
+                    "San Francisco, CA 94124"
+                ],
+                "state": "CA",
+                "zip_code": "94124"
+            },
+            "name": "Word. A Cafe",
+            "phone": "+14155002501",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/word-a-cafe-san-francisco?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "rakiraki-ramen-and-tsukemen-san-francisco",
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.7444460860904,
+                "longitude": -122.421003654599
+            },
+            "display_phone": "(415) 237-6252",
+            "distance": 1599.7014202859289,
+            "id": "prxtScylvU9_7Qdxj5tkSw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2mIegVr0eMS8__GIddkGPw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3282 Mission St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "3282 Mission St",
+                    "San Francisco, CA 94110"
+                ],
+                "state": "CA",
+                "zip_code": "94110"
+            },
+            "name": "RakiRaki Ramen & Tsukemen",
+            "phone": "+14152376252",
+            "rating": 4.0,
+            "review_count": 77,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/rakiraki-ramen-and-tsukemen-san-francisco?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kerb-san-francisco-2",
+            "categories": [
+                {
+                    "alias": "vehicleshipping",
+                    "title": "Vehicle Shipping"
+                },
+                {
+                    "alias": "movers",
+                    "title": "Movers"
+                },
+                {
+                    "alias": "packingsupplies",
+                    "title": "Packing Supplies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.757438659668,
+                "longitude": -122.419372558594
+            },
+            "display_phone": "(628) 219-1170",
+            "distance": 1661.6220307780388,
+            "id": "94OGPwlE_nS8RI_m3rm84Q",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/s_Kj-fihwfRirz0amRsa6g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "San Francisco, CA 94110"
+                ],
+                "state": "CA",
+                "zip_code": "94110"
+            },
+            "name": "Kerb",
+            "phone": "+16282191170",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kerb-san-francisco-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sake-bomb-san-francisco",
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.75288,
+                "longitude": -122.40984
+            },
+            "display_phone": "(415) 824-2878",
+            "distance": 1670.9111378713915,
+            "id": "Y8QT8TKQMRUiU76-PKi8Wg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HLwTm4GSeTo-97mnSFaZ1g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2878 24th St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "2878 24th St",
+                    "San Francisco, CA 94110"
+                ],
+                "state": "CA",
+                "zip_code": "94110"
+            },
+            "name": "Sake Bomb",
+            "phone": "+14158242878",
+            "rating": 4.5,
+            "review_count": 40,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sake-bomb-san-francisco?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "flor-de-izote-san-francisco",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "salvadoran",
+                    "title": "Salvadoran"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.7362182067197,
+                "longitude": -122.424170839651
+            },
+            "display_phone": "",
+            "distance": 1756.5947938846375,
+            "id": "S8pKfqg5apY9ML_ft5dY-Q",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8tFkG8Cb-Dw1f7vjnskfGg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3781 Mission St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "3781 Mission St",
+                    "San Francisco, CA 94110"
+                ],
+                "state": "CA",
+                "zip_code": "94110"
+            },
+            "name": "Flor De Izote",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/flor-de-izote-san-francisco?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "poppy-and-finch-san-francisco",
+            "categories": [
+                {
+                    "alias": "hair",
+                    "title": "Hair Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.74657,
+                "longitude": -122.42665
+            },
+            "display_phone": "(415) 786-9470",
+            "distance": 2155.580740849002,
+            "id": "MfAPp6H3NnEEyf9v67CJww",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VafoZOqaj0Hxg0o23XmkEQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1515 Church St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "1515 Church St",
+                    "San Francisco, CA 94131"
+                ],
+                "state": "CA",
+                "zip_code": "94131"
+            },
+            "name": "Poppy & Finch",
+            "phone": "+14157869470",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/poppy-and-finch-san-francisco?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "pushcart-fare-san-francisco",
+            "categories": [
+                {
+                    "alias": "dimsum",
+                    "title": "Dim Sum"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "cantonese",
+                    "title": "Cantonese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.75552,
+                "longitude": -122.41955
+            },
+            "display_phone": "(415) 957-1688",
+            "distance": 2301.181735244638,
+            "id": "LBjVd9Q8uKidk-vB6gMpGw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/X-4R5SOSMUenD2N40cIFiA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3224 22nd St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "3224 22nd St",
+                    "San Francisco, CA 94110"
+                ],
+                "state": "CA",
+                "zip_code": "94110"
+            },
+            "name": "Pushcart Fare",
+            "phone": "+14159571688",
+            "rating": 4.0,
+            "review_count": 18,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/pushcart-fare-san-francisco?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "shabu-house-san-francisco-5",
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.75594,
+                "longitude": -122.42122
+            },
+            "display_phone": "(415) 757-0889",
+            "distance": 2439.8567626544104,
+            "id": "aj2UBxqRDD-9c1UDqRHapw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ipNql4Jdzkatmaq9QMBETw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1050 Valencia St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "1050 Valencia St",
+                    "San Francisco, CA 94110"
+                ],
+                "state": "CA",
+                "zip_code": "94110"
+            },
+            "name": "Shabu House",
+            "phone": "+14157570889",
+            "rating": 4.5,
+            "review_count": 29,
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "url": "https://www.yelp.com/biz/shabu-house-san-francisco-5?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "magnolia-dogpatch-san-francisco-2",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "brewpubs",
+                    "title": "Brewpubs"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.7577823468635,
+                "longitude": -122.388138502442
+            },
+            "display_phone": "(415) 864-7468",
+            "distance": 2577.3684353309914,
+            "id": "l8bcDyjM3LlYbCkuC7eEXA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ryAB6ZMv5tVodoDUfEmP7g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2505 3rd St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "2505 3rd St",
+                    "San Francisco, CA 94107"
+                ],
+                "state": "CA",
+                "zip_code": "94107"
+            },
+            "name": "Magnolia Dogpatch",
+            "phone": "+14158647468",
+            "rating": 4.0,
+            "review_count": 33,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/magnolia-dogpatch-san-francisco-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "prairie-san-francisco-2",
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.76003,
+                "longitude": -122.41984
+            },
+            "display_phone": "(415) 483-1112",
+            "distance": 2754.5444622510568,
+            "id": "0YV-X4o4imnCMp5Mzu5JqQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DMB9zfW6ip4cRifx8K0nmA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3431 19th St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "3431 19th St",
+                    "San Francisco, CA 94110"
+                ],
+                "state": "CA",
+                "zip_code": "94110"
+            },
+            "name": "PRAIRIE",
+            "phone": "+14154831112",
+            "rating": 4.0,
+            "review_count": 56,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/prairie-san-francisco-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-brew-coop-coming-soon-san-francisco",
+            "categories": [
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "restaurants",
+                    "title": "Restaurants"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.75976,
+                "longitude": -122.42111
+            },
+            "display_phone": "",
+            "distance": 2783.0755135026125,
+            "id": "c7oErwrhdsk3tL4vR9EC1w",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tat1bdDNpaibC9sMbMDbfQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "819 Valencia St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "819 Valencia St",
+                    "San Francisco, CA 94110"
+                ],
+                "state": "CA",
+                "zip_code": "94110"
+            },
+            "name": "The Brew Coop- Coming Soon!",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-brew-coop-coming-soon-san-francisco?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ramenwell-san-francisco-2",
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.7619720328061,
+                "longitude": -122.418856810102
+            },
+            "display_phone": "(415) 589-7680",
+            "distance": 2898.162351018808,
+            "id": "d4IcZGC-gvms4f45oXor8A",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wMc-xJYPzvuKkDvLbk8XVg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3378 18th St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "3378 18th St",
+                    "San Francisco, CA 94110"
+                ],
+                "state": "CA",
+                "zip_code": "94110"
+            },
+            "name": "Ramenwell",
+            "phone": "+14155897680",
+            "rating": 3.5,
+            "review_count": 43,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ramenwell-san-francisco-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "jolenes-bar-san-francisco",
+            "categories": [
+                {
+                    "alias": "gaybars",
+                    "title": "Gay Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.76576,
+                "longitude": -122.41348
+            },
+            "display_phone": "(415) 913-7948",
+            "distance": 3113.259269424485,
+            "id": "pA-YPqDPw1uWOrIHgrKh6w",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CJe-gYfVsmzmwFgdk-Wbsw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2700 16th St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "2700 16th St",
+                    "San Francisco, CA 94103"
+                ],
+                "state": "CA",
+                "zip_code": "94103"
+            },
+            "name": "Jolene's Bar",
+            "phone": "+14159137948",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/jolenes-bar-san-francisco?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bon-voyage-san-francisco",
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.76361,
+                "longitude": -122.42205
+            },
+            "display_phone": "(415) 926-5465",
+            "distance": 3182.3554483275507,
+            "id": "TvPheRa8TfhyET_vsN2uKQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mA4nNtdsnzKuwIbxYBJozQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "584 Valencia St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "584 Valencia St",
+                    "San Francisco, CA 94110"
+                ],
+                "state": "CA",
+                "zip_code": "94110"
+            },
+            "name": "Bon Voyage",
+            "phone": "+14159265465",
+            "rating": 4.0,
+            "review_count": 47,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bon-voyage-san-francisco?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "panchitas-pupuseria-san-francisco-3",
+            "categories": [
+                {
+                    "alias": "salvadoran",
+                    "title": "Salvadoran"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.76434,
+                "longitude": -122.42199
+            },
+            "display_phone": "(415) 913-7273",
+            "distance": 3267.194160967083,
+            "id": "yzjBQg-HAW7kOJnrmCkJ8A",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/54Y4uprX_ap-cxED2ASgBQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "530 Valencia St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "530 Valencia St",
+                    "San Francisco, CA 94110"
+                ],
+                "state": "CA",
+                "zip_code": "94110"
+            },
+            "name": "Panchitas Pupuseria",
+            "phone": "+14159137273",
+            "rating": 4.5,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/panchitas-pupuseria-san-francisco-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mannys-san-francisco",
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.76517,
+                "longitude": -122.42159
+            },
+            "display_phone": "(415) 203-7122",
+            "distance": 3330.0709140245435,
+            "id": "JZ1CWLfJ1cm6fuHkU2vo-g",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QgPBtskUIjLYVFGoOcG9Tg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3092 16th St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "3092 16th St",
+                    "San Francisco, CA 94103"
+                ],
+                "state": "CA",
+                "zip_code": "94103"
+            },
+            "name": "Manny's",
+            "phone": "+14152037122",
+            "rating": 4.5,
+            "review_count": 33,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mannys-san-francisco?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mauerpark-san-francisco",
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.76269,
+                "longitude": -122.42872
+            },
+            "display_phone": "(415) 525-4429",
+            "distance": 3431.6388807435787,
+            "id": "ppUyFBWrnUEAnuwPlfSF1A",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qkyL9LGQZm4gkTq7lVZ9Pw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "500 Church St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "500 Church St",
+                    "San Francisco, CA 94114"
+                ],
+                "state": "CA",
+                "zip_code": "94114"
+            },
+            "name": "Mauerpark",
+            "phone": "+14155254429",
+            "rating": 5.0,
+            "review_count": 22,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mauerpark-san-francisco?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "gai-chicken-rice-san-francisco",
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                },
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "singaporean",
+                    "title": "Singaporean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.7642,
+                "longitude": -122.42998
+            },
+            "display_phone": "(415) 535-0451",
+            "distance": 3632.4056684787683,
+            "id": "ZPsuN4ON2TWD1bhuMjyMQQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ybF0d6BP7kboLj9LkqdZeQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3463 16th St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "3463 16th St",
+                    "San Francisco, CA 94114"
+                ],
+                "state": "CA",
+                "zip_code": "94114"
+            },
+            "name": "Gai Chicken Rice",
+            "phone": "+14155350451",
+            "rating": 4.5,
+            "review_count": 20,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/gai-chicken-rice-san-francisco?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 37.73854371124314,
+            "longitude": -122.40441253321094
+        }
+    },
+    "total": 18
+}

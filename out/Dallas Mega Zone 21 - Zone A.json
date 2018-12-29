@@ -1,0 +1,822 @@
+{
+    "businesses": [
+        {
+            "alias": "kung-fu-tea-dallas-3",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.82143,
+                "longitude": -96.78701
+            },
+            "display_phone": "(972) 598-1732",
+            "distance": 390.7186974379855,
+            "id": "wqEn0xEsCKpM8kIH59Nqug",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7-ROt6nNZs8Da5lF0LVqIg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3001 Knox St",
+                "address2": "Ste 107A",
+                "address3": null,
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "3001 Knox St",
+                    "Ste 107A",
+                    "Dallas, TX 75205"
+                ],
+                "state": "TX",
+                "zip_code": "75205"
+            },
+            "name": "Kung Fu Tea",
+            "phone": "+19725981732",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kung-fu-tea-dallas-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "el-bolero-fitzhugh-dallas",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.81477,
+                "longitude": -96.7858
+            },
+            "display_phone": "(214) 238-2211",
+            "distance": 393.276391404077,
+            "id": "Lk5ecJCKWHN6XAoqd9sBGw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/a1pR4zOBuaElFQrV310XZg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2722 N Fitzhugh Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "2722 N Fitzhugh Ave",
+                    "Dallas, TX 75204"
+                ],
+                "state": "TX",
+                "zip_code": "75204"
+            },
+            "name": "El Bolero Fitzhugh",
+            "phone": "+12142382211",
+            "rating": 3.5,
+            "review_count": 7,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/el-bolero-fitzhugh-dallas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tacos-mariachi-dallas-3",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.8143164267915,
+                "longitude": -96.7701364964773
+            },
+            "display_phone": "(214) 702-5325",
+            "distance": 1473.160758675296,
+            "id": "mSF6f05iNh84bnc68-2JuA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/w0MSRpK_eciw4cMmAadEoQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2018 Greenville Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "2018 Greenville Ave",
+                    "Dallas, TX 75206"
+                ],
+                "state": "TX",
+                "zip_code": "75206"
+            },
+            "name": "Tacos Mariachi",
+            "phone": "+12147025325",
+            "rating": 5.0,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tacos-mariachi-dallas-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sams-club-dallas-23",
+            "categories": [
+                {
+                    "alias": "grocery",
+                    "title": "Grocery"
+                },
+                {
+                    "alias": "wholesale_stores",
+                    "title": "Wholesale Stores"
+                },
+                {
+                    "alias": "deptstores",
+                    "title": "Department Stores"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.81645,
+                "longitude": -96.7696
+            },
+            "display_phone": "(469) 329-5388",
+            "distance": 1486.206277148333,
+            "id": "yNexuawv15_gV-7MCtiPpg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EAbgxdbIcVdfwzGbgoEnCg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2218 Greenville Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "2218 Greenville Ave",
+                    "Dallas, TX 75206"
+                ],
+                "state": "TX",
+                "zip_code": "75206"
+            },
+            "name": "Sam's Club",
+            "phone": "+14693295388",
+            "rating": 3.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sams-club-dallas-23?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "louie-king-dallas-5",
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.81338,
+                "longitude": -96.76997
+            },
+            "display_phone": "(214) 812-9848",
+            "distance": 1514.7775795520708,
+            "id": "QHCQ8Yc9SQLqkZk_ETxxKA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PFSTytmYHVFvWZIRgR0Fqg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1916 Greenville Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "1916 Greenville Ave",
+                    "Dallas, TX 75206"
+                ],
+                "state": "TX",
+                "zip_code": "75206"
+            },
+            "name": "Louie King",
+            "phone": "+12148129848",
+            "rating": 4.0,
+            "review_count": 50,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/louie-king-dallas-5?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tulum-dallas",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.8202517,
+                "longitude": -96.8022451
+            },
+            "display_phone": "(972) 677-9747",
+            "distance": 1583.3451047994788,
+            "id": "rtX0x3PGCsg5TA4-ZU8J9g",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FLgXEG5ZLjeR1D_Z3dmN-w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4216 Oak Lawn Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "4216 Oak Lawn Ave",
+                    "Dallas, TX 75219"
+                ],
+                "state": "TX",
+                "zip_code": "75219"
+            },
+            "name": "Tulum",
+            "phone": "+19726779747",
+            "rating": 4.5,
+            "review_count": 28,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tulum-dallas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "khao-noodle-shop-dallas",
+            "categories": [
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                },
+                {
+                    "alias": "laotian",
+                    "title": "Laotian"
+                },
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.8033347149633,
+                "longitude": -96.7737596109509
+            },
+            "display_phone": "(972) 803-3373",
+            "distance": 1973.19095784765,
+            "id": "_9uL5z1VERdibNVg7mbyHQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CNx0sabCYKT1j0cPXFWsSQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4812 Bryan St",
+                "address2": "",
+                "address3": null,
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "4812 Bryan St",
+                    "Dallas, TX 75204"
+                ],
+                "state": "TX",
+                "zip_code": "75204"
+            },
+            "name": "Khao Noodle Shop",
+            "phone": "+19728033373",
+            "rating": 4.5,
+            "review_count": 12,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/khao-noodle-shop-dallas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "san-mart\u00edn-bakery-dallas",
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.80218,
+                "longitude": -96.79993
+            },
+            "display_phone": "(469) 571-4342",
+            "distance": 2262.368752772228,
+            "id": "hIm5FGO8w_an1hJHaFUUWw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JxPpipaEvdUADDOBZpIiCA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3120 McKinney Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "3120 McKinney Ave",
+                    "Dallas, TX 75204"
+                ],
+                "state": "TX",
+                "zip_code": "75204"
+            },
+            "name": "San Mart\u00edn Bakery",
+            "phone": "+14695714342",
+            "rating": 4.5,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/san-mart%C3%ADn-bakery-dallas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "verbena-parlor-social-house-dallas",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7988806188741,
+                "longitude": -96.8021199428528
+            },
+            "display_phone": "(214) 433-7359",
+            "distance": 2673.9139339999265,
+            "id": "gZ2tpeSfbhiLnYDMKuolDQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DStH5zTA2pmWBoST8NUtMA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2626 Howell St",
+                "address2": "Ste 166",
+                "address3": "",
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "2626 Howell St",
+                    "Ste 166",
+                    "Dallas, TX 75204"
+                ],
+                "state": "TX",
+                "zip_code": "75204"
+            },
+            "name": "Verbena Parlor + Social House",
+            "phone": "+12144337359",
+            "rating": 4.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/verbena-parlor-social-house-dallas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "i-nail-lounge-dallas",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                },
+                {
+                    "alias": "eyelashservice",
+                    "title": "Eyelash Service"
+                },
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.79746,
+                "longitude": -96.80106
+            },
+            "display_phone": "(214) 484-5106",
+            "distance": 2750.8469919501385,
+            "id": "hQ9rmChl8xqYauKkMVAsHg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6Bneoo2QYXzhTReuqDxHWQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2702 Mckinney Ave",
+                "address2": "Ste 102",
+                "address3": "",
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "2702 Mckinney Ave",
+                    "Ste 102",
+                    "Dallas, TX 75204"
+                ],
+                "state": "TX",
+                "zip_code": "75204"
+            },
+            "name": "i Nail Lounge",
+            "phone": "+12144845106",
+            "rating": 3.5,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/i-nail-lounge-dallas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bison-bar-and-grill-dallas-4",
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.79299,
+                "longitude": -96.79141
+            },
+            "display_phone": "",
+            "distance": 2848.380227262538,
+            "id": "ZDyf7Uf6bSGtBZqMcK1asA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fgKOIdzo0kyRj3Rwyp6bdQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3030 Ross Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "3030 Ross Ave",
+                    "Dallas, TX 75204"
+                ],
+                "state": "TX",
+                "zip_code": "75204"
+            },
+            "name": "Bison Bar and Grill",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bison-bar-and-grill-dallas-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "original-chopshop-dallas-6",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.84407,
+                "longitude": -96.78742
+            },
+            "display_phone": "(972) 546-0418",
+            "distance": 2878.2861335020316,
+            "id": "eYidMsvVzEbCZgyH1DI__w",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/08lbBjTFQslCCiAYh6plKQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6401 Hillcrest Ave",
+                "address2": "Ste 100",
+                "address3": null,
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "6401 Hillcrest Ave",
+                    "Ste 100",
+                    "Dallas, TX 75205"
+                ],
+                "state": "TX",
+                "zip_code": "75205"
+            },
+            "name": "Original ChopShop",
+            "phone": "+19725460418",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/original-chopshop-dallas-6?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "playwright-irish-pub-dallas",
+            "categories": [
+                {
+                    "alias": "irish",
+                    "title": "Irish"
+                },
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7920076201307,
+                "longitude": -96.7958315322937
+            },
+            "display_phone": "(214) 272-7316",
+            "distance": 3084.1902564542897,
+            "id": "yCVoDP0r-z8kyz40pQSaRA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1aTRmKi1YzApKhlUN6goxw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1722 Routh St",
+                "address2": "Ste 102",
+                "address3": null,
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "1722 Routh St",
+                    "Ste 102",
+                    "Dallas, TX 75201"
+                ],
+                "state": "TX",
+                "zip_code": "75201"
+            },
+            "name": "Playwright Irish Pub",
+            "phone": "+12142727316",
+            "rating": 5.0,
+            "review_count": 43,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/playwright-irish-pub-dallas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "eternity-nail-lounge-dallas",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                },
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                },
+                {
+                    "alias": "eyelashservice",
+                    "title": "Eyelash Service"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.84891,
+                "longitude": -96.77028
+            },
+            "display_phone": "(469) 399-7251",
+            "distance": 3727.08219001619,
+            "id": "XSsOhv0Vsav5a9Lxnf1OtA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/t_-wwo-54FEmgreOhlazTw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5111 Greenville Ave",
+                "address2": "Ste 130",
+                "address3": "",
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "5111 Greenville Ave",
+                    "Ste 130",
+                    "Dallas, TX 75206"
+                ],
+                "state": "TX",
+                "zip_code": "75206"
+            },
+            "name": "Eternity Nail Lounge",
+            "phone": "+14693997251",
+            "rating": 4.5,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/eternity-nail-lounge-dallas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "unicorn-magical-dessert-bar-dallas",
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "cakeshop",
+                    "title": "Patisserie/Cake Shop"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.78424,
+                "longitude": -96.78464
+            },
+            "display_phone": "",
+            "distance": 3779.0192978961927,
+            "id": "vGtKCd9B6PuvSXchhMzh8A",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ue1lfsfVmhtvaowyqf7M6A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2646 Elm St",
+                "address2": "",
+                "address3": null,
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "2646 Elm St",
+                    "Dallas, TX 75226"
+                ],
+                "state": "TX",
+                "zip_code": "75226"
+            },
+            "name": "Unicorn - Magical Dessert Bar",
+            "phone": "",
+            "rating": 3.0,
+            "review_count": 24,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/unicorn-magical-dessert-bar-dallas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mio-nonno-dallas-dallas",
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7901218,
+                "longitude": -96.8088687
+            },
+            "display_phone": "(972) 639-5070",
+            "distance": 3780.5521775822576,
+            "id": "nMM1q4EeVXvbuuqJxc224A",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xXf6kbFvPE5AnXNKB_rd7w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2588 N Houston St",
+                "address2": "Victory Park",
+                "address3": null,
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "2588 N Houston St",
+                    "Victory Park",
+                    "Dallas, TX 75219"
+                ],
+                "state": "TX",
+                "zip_code": "75219"
+            },
+            "name": "Mio Nonno - Dallas",
+            "phone": "+19726395070",
+            "rating": 4.5,
+            "review_count": 12,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mio-nonno-dallas-dallas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "cookie-shop-dallas",
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7841537,
+                "longitude": -96.7815811
+            },
+            "display_phone": "(214) 707-1597",
+            "distance": 3807.8784897779374,
+            "id": "GGIYiwlo_jD6b15Vq_6sYw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2wVZXf-5Oax1S9So4spWEw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2932 Main St",
+                "address2": "Ste 102",
+                "address3": "",
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "2932 Main St",
+                    "Ste 102",
+                    "Dallas, TX 75226"
+                ],
+                "state": "TX",
+                "zip_code": "75226"
+            },
+            "name": "Cookie Shop",
+            "phone": "+12147071597",
+            "rating": 4.5,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/cookie-shop-dallas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hibiki-sushi-deep-ellum-dallas",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7831629073407,
+                "longitude": -96.7842430248857
+            },
+            "display_phone": "(469) 248-0516",
+            "distance": 3903.5896256799547,
+            "id": "3Xs7T3DEkBw9XB24J4WHqA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QjDz8NzDOp52BtDwqHRtOw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2651 Commerce St",
+                "address2": "Ste 120",
+                "address3": null,
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "2651 Commerce St",
+                    "Ste 120",
+                    "Dallas, TX 75226"
+                ],
+                "state": "TX",
+                "zip_code": "75226"
+            },
+            "name": "Hibiki Sushi - Deep ellum",
+            "phone": "+14692480516",
+            "rating": 4.5,
+            "review_count": 28,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hibiki-sushi-deep-ellum-dallas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mesero-victory-park-dallas",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "tex-mex",
+                    "title": "Tex-Mex"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7867666612461,
+                "longitude": -96.8094234363153
+            },
+            "display_phone": "(214) 821-6426",
+            "distance": 4142.599995799208,
+            "id": "J9Gfcz8BzO0Wb7HV2ABCHQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1EndS-C5TVjvNdbm2zzQUQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2375 Victory Park Ln",
+                "address2": "Ste 180",
+                "address3": "",
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "2375 Victory Park Ln",
+                    "Ste 180",
+                    "Dallas, TX 75219"
+                ],
+                "state": "TX",
+                "zip_code": "75219"
+            },
+            "name": "Mesero - Victory Park",
+            "phone": "+12148216426",
+            "rating": 4.5,
+            "review_count": 27,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mesero-victory-park-dallas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 32.81825992895979,
+            "longitude": -96.78518034874145
+        }
+    },
+    "total": 19
+}

@@ -1,0 +1,25 @@
+Johnny & Tony's Italian Beef & Pizzeria
+426 N York St, Elmhurst, IL 60126, 
++16309931122
+https://www.yelp.com/biz/johnny-and-tonys-italian-beef-and-pizzeria-elmhurst?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Brook's Kitchen & Tap
+1919 S Meyers Rd, Oakbrook Terrace, IL 60181, 
++16306139588
+https://www.yelp.com/biz/brooks-kitchen-and-tap-oakbrook-terrace?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Cajun Boil & Bar
+17 W 512 22nd St, Oakbrook Terrace, IL 60181, 
++16302792888
+https://www.yelp.com/biz/cajun-boil-and-bar-oakbrook-terrace?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+L. L. Bean
+2202 Oakbrook Ctr, Oak Brook, IL 60523, 
++18004415713
+https://www.yelp.com/biz/l-l-bean-oak-brook?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Shake Shack
+1950 Spring Rd, Oak Brook, IL 60523, 
++16304131017
+https://www.yelp.com/biz/shake-shack-oak-brook-5?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+

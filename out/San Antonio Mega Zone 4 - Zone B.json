@@ -1,0 +1,300 @@
+{
+    "businesses": [
+        {
+            "alias": "merkaba-san-antonio-2",
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.42524,
+                "longitude": -98.48909
+            },
+            "display_phone": "(210) 212-4770",
+            "distance": 3132.7209562994226,
+            "id": "NZ-thk2CizHFoQQhGpnzvA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pRKjkEVRK-lvMIsfyWOC-Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "111 W Crockett St",
+                "address2": "Ste 205",
+                "address3": "",
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "111 W Crockett St",
+                    "Ste 205",
+                    "San Antonio, TX 78205"
+                ],
+                "state": "TX",
+                "zip_code": "78205"
+            },
+            "name": "Merkaba",
+            "phone": "+12102124770",
+            "rating": 4.0,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/merkaba-san-antonio-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kung-fu-tea-san-antonio-2",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.47581,
+                "longitude": -98.46325
+            },
+            "display_phone": "(210) 455-0092",
+            "distance": 3279.840839882411,
+            "id": "9brvj3UTxzJKcneDhxg2bg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/S9bMXbrXDKJUT7LomuILsw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5231 Broadway",
+                "address2": "Ste 101",
+                "address3": "",
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "5231 Broadway",
+                    "Ste 101",
+                    "San Antonio, TX 78209"
+                ],
+                "state": "TX",
+                "zip_code": "78209"
+            },
+            "name": "Kung Fu Tea",
+            "phone": "+12104550092",
+            "rating": 4.5,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kung-fu-tea-san-antonio-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "burnwood-68-san-antonio",
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.43556,
+                "longitude": -98.49978
+            },
+            "display_phone": "(210) 320-0584",
+            "distance": 3350.1569160248805,
+            "id": "QI6IzW3H72LLfUe3ZvKBRw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/t2FJHd-TalPdRDmLmwY2Tg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1012 N Flores St",
+                "address2": "",
+                "address3": null,
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "1012 N Flores St",
+                    "San Antonio, TX 78212"
+                ],
+                "state": "TX",
+                "zip_code": "78212"
+            },
+            "name": "Burnwood \u201868",
+            "phone": "+12103200584",
+            "rating": 4.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/burnwood-68-san-antonio?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "el-juice-bar-san-antonio",
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.4255916724284,
+                "longitude": -98.4932862740841
+            },
+            "display_phone": "",
+            "distance": 3401.3353017831905,
+            "id": "_Lxe_ZcqY9ngpWk4AsKhUA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/k9WBgfkIbIJ8E42mSUeQDw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "",
+                "address2": "",
+                "address3": null,
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "San Antonio, TX 78006"
+                ],
+                "state": "TX",
+                "zip_code": "78006"
+            },
+            "name": "El Juice Bar",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/el-juice-bar-san-antonio?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sohill-cafe-san-antonio-2",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.46222,
+                "longitude": -98.50805
+            },
+            "display_phone": "(210) 455-2177",
+            "distance": 4279.53948142867,
+            "id": "BOkC5cpT3lkVljfDkFDilQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/okuU090Kk1kmboRnJsjazw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1719 Blanco Rd",
+                "address2": null,
+                "address3": "",
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "1719 Blanco Rd",
+                    "San Antonio, TX 78212"
+                ],
+                "state": "TX",
+                "zip_code": "78212"
+            },
+            "name": "SoHill Cafe",
+            "phone": "+12104552177",
+            "rating": 5.0,
+            "review_count": 24,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sohill-cafe-san-antonio-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kimura-at-freight-san-antonio",
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                },
+                {
+                    "alias": "izakaya",
+                    "title": "Izakaya"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.40553,
+                "longitude": -98.50299
+            },
+            "display_phone": "(210) 332-5005",
+            "distance": 5703.317245937438,
+            "id": "n68kDOq_oY_vRvCGvOCXrg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JpQ7f5tmyVy2X_5AAtabjw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1913 S Flores St",
+                "address2": "",
+                "address3": null,
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "1913 S Flores St",
+                    "San Antonio, TX 78204"
+                ],
+                "state": "TX",
+                "zip_code": "78204"
+            },
+            "name": "Kimura at Freight",
+            "phone": "+12103325005",
+            "rating": 4.0,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kimura-at-freight-san-antonio?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "la-crawfish-san-antonio-3",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "cajun",
+                    "title": "Cajun/Creole"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.4941315,
+                "longitude": -98.432602
+            },
+            "display_phone": "",
+            "distance": 6184.990363849192,
+            "id": "DdeSdWgBFPLaKganpo6_kg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NpB0iJQOQM-P-axXmXrSsg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1518 Austin Hwy",
+                "address2": "Ste 18",
+                "address3": null,
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "1518 Austin Hwy",
+                    "Ste 18",
+                    "San Antonio, TX 78218"
+                ],
+                "state": "TX",
+                "zip_code": "78218"
+            },
+            "name": "LA Crawfish",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/la-crawfish-san-antonio-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 29.446534811607332,
+            "longitude": -98.46768636834294
+        }
+    },
+    "total": 7
+}

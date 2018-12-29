@@ -1,0 +1,25 @@
+Duck Donuts
+1452 Encinitas Blvd, Encinitas, CA 92024, 
++17604526849
+https://www.yelp.com/biz/duck-donuts-encinitas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+NAILPOP
+1289 Encinitas Blvd, Encinitas, CA 92024, 
++17604364111
+https://www.yelp.com/biz/nailpop-encinitas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Chiosco Caffè
+293 N El Camino Real, Encinitas, CA 92024, 
+
+https://www.yelp.com/biz/chiosco-caff%C3%A8-encinitas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Olde Line Tattoo West
+405 N Hwy 101, Solana Beach, CA 92075, 
++18589257087
+https://www.yelp.com/biz/olde-line-tattoo-west-solana-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Ranch 45
+512 Via De La Valle, Ste 102, Solana Beach, CA 92075, 
++18584610092
+https://www.yelp.com/biz/ranch-45-solana-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+

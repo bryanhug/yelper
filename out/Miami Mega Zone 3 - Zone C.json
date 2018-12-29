@@ -1,0 +1,516 @@
+{
+    "businesses": [
+        {
+            "alias": "salimar-ceviche-bar-oakland-park",
+            "categories": [
+                {
+                    "alias": "peruvian",
+                    "title": "Peruvian"
+                },
+                {
+                    "alias": "latin",
+                    "title": "Latin American"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.16686,
+                "longitude": -80.14512
+            },
+            "display_phone": "(954) 533-8682",
+            "distance": 1014.0146419865164,
+            "id": "DbnzM_3wpdt23YcaWxYX1Q",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6TMSUElBzXZi0POPt2VyrQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "199 E Oakland Park Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Oakland Park",
+                "country": "US",
+                "display_address": [
+                    "199 E Oakland Park Blvd",
+                    "Oakland Park, FL 33334"
+                ],
+                "state": "FL",
+                "zip_code": "33334"
+            },
+            "name": "Salimar Ceviche Bar",
+            "phone": "+19545338682",
+            "rating": 5.0,
+            "review_count": 20,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/salimar-ceviche-bar-oakland-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bulegreen-cafe-yard-oakland-park",
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.16849,
+                "longitude": -80.1318
+            },
+            "display_phone": "(786) 655-3411",
+            "distance": 2202.940422375054,
+            "id": "1A-QGN3vyWZz_2O2X7hJoA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fyG6Pdz2bzQ4OYyb8D7CIw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3299 N Dixie Hwy",
+                "address2": null,
+                "address3": "",
+                "city": "Oakland Park",
+                "country": "US",
+                "display_address": [
+                    "3299 N Dixie Hwy",
+                    "Oakland Park, FL 33334"
+                ],
+                "state": "FL",
+                "zip_code": "33334"
+            },
+            "name": "Bulegreen Cafe Yard",
+            "phone": "+17866553411",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bulegreen-cafe-yard-oakland-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "pint-wilton-manors-wilton-manors-2",
+            "categories": [
+                {
+                    "alias": "gaybars",
+                    "title": "Gay Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.15335,
+                "longitude": -80.1407
+            },
+            "display_phone": "(954) 480-3666",
+            "distance": 2338.3909141904373,
+            "id": "6HtJ1KcShevHikvccFS2Jg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZfhvuQZR_jnvnPrqVjjSOQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2031A Wilton Dr",
+                "address2": null,
+                "address3": "",
+                "city": "Wilton Manors",
+                "country": "US",
+                "display_address": [
+                    "2031A Wilton Dr",
+                    "Wilton Manors, FL 33305"
+                ],
+                "state": "FL",
+                "zip_code": "33305"
+            },
+            "name": "Pint Wilton Manors",
+            "phone": "+19544803666",
+            "rating": 4.0,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/pint-wilton-manors-wilton-manors-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "xes-wilton-manors",
+            "categories": [
+                {
+                    "alias": "gaybars",
+                    "title": "Gay Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.15735,
+                "longitude": -80.13229
+            },
+            "display_phone": "(954) 530-4160",
+            "distance": 2615.641123192359,
+            "id": "CtDOcsl4K-FzbmL9re-7mw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KCGYLgIgThJl3B-0bzvTrA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2309 N Dixie Hwy",
+                "address2": "",
+                "address3": null,
+                "city": "Wilton Manors",
+                "country": "US",
+                "display_address": [
+                    "2309 N Dixie Hwy",
+                    "Wilton Manors, FL 33305"
+                ],
+                "state": "FL",
+                "zip_code": "33305"
+            },
+            "name": "XES",
+            "phone": "+19545304160",
+            "rating": 4.5,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/xes-wilton-manors?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "fuzzys-taco-shop-fort-lauderdale",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.2030051,
+                "longitude": -80.1547514
+            },
+            "display_phone": "(954) 289-8111",
+            "distance": 3579.567956692477,
+            "id": "-2hBonBNj6Jd8CE4Uzd1og",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_FH7BnsFxRALPh8zIGOROA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "854 West Cypress Creek Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Fort Lauderdale",
+                "country": "US",
+                "display_address": [
+                    "854 West Cypress Creek Rd",
+                    "Fort Lauderdale, FL 33309"
+                ],
+                "state": "FL",
+                "zip_code": "33309"
+            },
+            "name": "Fuzzy's Taco Shop",
+            "phone": "+19542898111",
+            "rating": 3.0,
+            "review_count": 34,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/fuzzys-taco-shop-fort-lauderdale?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "shake-shack-fort-lauderdale-3",
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.15558,
+                "longitude": -80.11713
+            },
+            "display_phone": "(754) 216-4398",
+            "distance": 3992.9251471775806,
+            "id": "NsDw4VSlpGPWYUcinoj3Cg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_igoif-5RuXWDHNElhSZqA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2400 North Federal Hwy",
+                "address2": null,
+                "address3": "",
+                "city": "Fort Lauderdale",
+                "country": "US",
+                "display_address": [
+                    "2400 North Federal Hwy",
+                    "Fort Lauderdale, FL 33305"
+                ],
+                "state": "FL",
+                "zip_code": "33305"
+            },
+            "name": "Shake Shack",
+            "phone": "+17542164398",
+            "rating": 3.0,
+            "review_count": 34,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/shake-shack-fort-lauderdale-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "la-boulangerie-boulmich-fort-lauderdale-fort-lauderdale",
+            "categories": [
+                {
+                    "alias": "french",
+                    "title": "French"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.15555,
+                "longitude": -80.11714
+            },
+            "display_phone": "(954) 908-5570",
+            "distance": 4073.211669022095,
+            "id": "4rWNfwwW8kExjvAQE2ZUFg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_UvFHbImIftYE7Cwn2xwzg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2364 N Federal Hwy",
+                "address2": null,
+                "address3": "",
+                "city": "Fort Lauderdale",
+                "country": "US",
+                "display_address": [
+                    "2364 N Federal Hwy",
+                    "Fort Lauderdale, FL 33305"
+                ],
+                "state": "FL",
+                "zip_code": "33305"
+            },
+            "name": "La Boulangerie Boul'Mich - Fort Lauderdale",
+            "phone": "+19549085570",
+            "rating": 4.5,
+            "review_count": 20,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/la-boulangerie-boulmich-fort-lauderdale-fort-lauderdale?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "brgr-stop-fort-lauderdale",
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.1366736761871,
+                "longitude": -80.1204736413787
+            },
+            "display_phone": "(954) 533-8621",
+            "distance": 5050.01565305806,
+            "id": "3_yOpsinudLGlju-B8_Q4w",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1i1GQp0txeoXvdxquMm78g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1930 E Sunrise Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Fort Lauderdale",
+                "country": "US",
+                "display_address": [
+                    "1930 E Sunrise Blvd",
+                    "Fort Lauderdale, FL 33304"
+                ],
+                "state": "FL",
+                "zip_code": "33304"
+            },
+            "name": "Brgr Stop",
+            "phone": "+19545338621",
+            "rating": 4.5,
+            "review_count": 62,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/brgr-stop-fort-lauderdale?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "del-frisco-s-grille-fort-lauderdale",
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.1194844562273,
+                "longitude": -80.1384056851813
+            },
+            "display_phone": "(754) 312-3235",
+            "distance": 5920.9201904203055,
+            "id": "1RpFBDGycm1LG2r6OzjGGQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UJnfHF5UX9zjtfCxe-R-Tw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "501 E Las Olas Blvd",
+                "address2": "Ste 150",
+                "address3": null,
+                "city": "Fort Lauderdale",
+                "country": "US",
+                "display_address": [
+                    "501 E Las Olas Blvd",
+                    "Ste 150",
+                    "Fort Lauderdale, FL 33301"
+                ],
+                "state": "FL",
+                "zip_code": "33301"
+            },
+            "name": "Del Frisco\u2019s Grille",
+            "phone": "+17543123235",
+            "rating": 4.0,
+            "review_count": 51,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/del-frisco-s-grille-fort-lauderdale?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "flight-19-fort-lauderdale-2",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.11958,
+                "longitude": -80.13196
+            },
+            "display_phone": "(954) 451-5128",
+            "distance": 6108.525916589145,
+            "id": "vInvPNITDu-UbLJqlXw1Dw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sikKLEg_sML8qO0-wIziuQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1103 E Las Olas Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Fort Lauderdale",
+                "country": "US",
+                "display_address": [
+                    "1103 E Las Olas Blvd",
+                    "Fort Lauderdale, FL 33301"
+                ],
+                "state": "FL",
+                "zip_code": "33301"
+            },
+            "name": "Flight 19",
+            "phone": "+19544515128",
+            "rating": 5.0,
+            "review_count": 12,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/flight-19-fort-lauderdale-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sushi-shack-fort-lauderdale",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.11957,
+                "longitude": -80.12971
+            },
+            "display_phone": "(954) 500-9550",
+            "distance": 6191.846199490302,
+            "id": "UwmWDPuWQnxKJxVvtobhjA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dZRjm_CsZJFt1kYHDU2ojw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1301 East Las Olas Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Fort Lauderdale",
+                "country": "US",
+                "display_address": [
+                    "1301 East Las Olas Blvd",
+                    "Fort Lauderdale, FL 33301"
+                ],
+                "state": "FL",
+                "zip_code": "33301"
+            },
+            "name": "Sushi Shack",
+            "phone": "+19545009550",
+            "rating": 4.0,
+            "review_count": 50,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sushi-shack-fort-lauderdale?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "chez-wings-and-bbq-pompano-beach",
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "cajun",
+                    "title": "Cajun/Creole"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.2233188400744,
+                "longitude": -80.1252721715853
+            },
+            "display_phone": "(954) 586-4431",
+            "distance": 6477.969984072151,
+            "id": "JcHP5tRwwcCmVV1DJl9fbQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9HeFX5R_pCAwkwZfzmSQfg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "105 SW 6th St",
+                "address2": "",
+                "address3": null,
+                "city": "Pompano Beach",
+                "country": "US",
+                "display_address": [
+                    "105 SW 6th St",
+                    "Pompano Beach, FL 33060"
+                ],
+                "state": "FL",
+                "zip_code": "33060"
+            },
+            "name": "Chez Wings & BBQ",
+            "phone": "+19545864431",
+            "rating": 4.0,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/chez-wings-and-bbq-pompano-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 26.170935680446807,
+            "longitude": -80.15368551137203
+        }
+    },
+    "total": 12
+}

@@ -1,0 +1,355 @@
+{
+    "businesses": [
+        {
+            "alias": "dogtown-sausage-oakland-2",
+            "categories": [
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.76516,
+                "longitude": -122.1989
+            },
+            "display_phone": "(510) 686-1770",
+            "distance": 3693.9514698611815,
+            "id": "3gCoVDy2CV2f2hArFtCjqg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4uM5_n7X5pXLYDduKIUnSA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5916 International Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Oakland",
+                "country": "US",
+                "display_address": [
+                    "5916 International Blvd",
+                    "Oakland, CA 94621"
+                ],
+                "state": "CA",
+                "zip_code": "94621"
+            },
+            "name": "Dogtown Sausage",
+            "phone": "+15106861770",
+            "rating": 5.0,
+            "review_count": 23,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dogtown-sausage-oakland-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "dynasty-pot-san-leandro",
+            "categories": [
+                {
+                    "alias": "hotpot",
+                    "title": "Hot Pot"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.72438,
+                "longitude": -122.15559
+            },
+            "display_phone": "(510) 895-8066",
+            "distance": 4103.585114563593,
+            "id": "yvPZN-_rdkb3RFN-s9jVaw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DdswIAzGxZyu7a4beseXAw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1371 E 14th St",
+                "address2": "Unit D",
+                "address3": "",
+                "city": "San Leandro",
+                "country": "US",
+                "display_address": [
+                    "1371 E 14th St",
+                    "Unit D",
+                    "San Leandro, CA 94577"
+                ],
+                "state": "CA",
+                "zip_code": "94577"
+            },
+            "name": "Dynasty Pot",
+            "phone": "+15108958066",
+            "rating": 4.0,
+            "review_count": 60,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dynasty-pot-san-leandro?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kigawa-bistro-san-leandro-4",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.7054004329105,
+                "longitude": -122.178363315761
+            },
+            "display_phone": "(510) 626-4165",
+            "distance": 6489.178876827985,
+            "id": "U0k7uv_noeyLiNh9xcAKXw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZDMOSG3vrTKTm28Pp51ZQg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2108 Marina Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "San Leandro",
+                "country": "US",
+                "display_address": [
+                    "2108 Marina Blvd",
+                    "San Leandro, CA 94577"
+                ],
+                "state": "CA",
+                "zip_code": "94577"
+            },
+            "name": "Kigawa Bistro",
+            "phone": "+15106264165",
+            "rating": 4.5,
+            "review_count": 57,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kigawa-bistro-san-leandro-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "poke-star-sushi-san-leandro",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "poke",
+                    "title": "Poke"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.69974,
+                "longitude": -122.17639
+            },
+            "display_phone": "(510) 560-2506",
+            "distance": 7055.110164946291,
+            "id": "KzW5eQy8-ZNzrf_Af7atmA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LR3gw12MPmLSfud0O0pzEg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "13700 Doolittle Dr",
+                "address2": "Ste 102",
+                "address3": "",
+                "city": "San Leandro",
+                "country": "US",
+                "display_address": [
+                    "13700 Doolittle Dr",
+                    "Ste 102",
+                    "San Leandro, CA 94577"
+                ],
+                "state": "CA",
+                "zip_code": "94577"
+            },
+            "name": "Poke Star sushi",
+            "phone": "+15105602506",
+            "rating": 4.5,
+            "review_count": 58,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/poke-star-sushi-san-leandro?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "vietnam-hong-kong-cafe-san-leandro",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.700634,
+                "longitude": -122.126024
+            },
+            "display_phone": "(510) 397-2314",
+            "distance": 7302.6937512033155,
+            "id": "zH5I7pEYj7qdfilBFuYIcA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EDbY_so1ssL7W8TGUYSDsg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "15555 E 14th St",
+                "address2": "Ste 318",
+                "address3": "",
+                "city": "San Leandro",
+                "country": "US",
+                "display_address": [
+                    "15555 E 14th St",
+                    "Ste 318",
+                    "San Leandro, CA 94578"
+                ],
+                "state": "CA",
+                "zip_code": "94578"
+            },
+            "name": "Vietnam Hong Kong Cafe",
+            "phone": "+15103972314",
+            "rating": 3.0,
+            "review_count": 7,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/vietnam-hong-kong-cafe-san-leandro?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kerb-san-francisco-2",
+            "categories": [
+                {
+                    "alias": "vehicleshipping",
+                    "title": "Vehicle Shipping"
+                },
+                {
+                    "alias": "movers",
+                    "title": "Movers"
+                },
+                {
+                    "alias": "packingsupplies",
+                    "title": "Packing Supplies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.757438659668,
+                "longitude": -122.419372558594
+            },
+            "display_phone": "(628) 219-1170",
+            "distance": 23012.87278991682,
+            "id": "94OGPwlE_nS8RI_m3rm84Q",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/s_Kj-fihwfRirz0amRsa6g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "San Francisco, CA 94110"
+                ],
+                "state": "CA",
+                "zip_code": "94110"
+            },
+            "name": "Kerb",
+            "phone": "+16282191170",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kerb-san-francisco-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "momo-noodle-san-francisco",
+            "categories": [
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "szechuan",
+                    "title": "Szechuan"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.74434,
+                "longitude": -122.47868
+            },
+            "display_phone": "(408) 800-6819",
+            "distance": 26377.31246128406,
+            "id": "7dHj1XDVA_7AYXTfp5i-BQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JNjSRfVc8x6-EQMLNlOUOg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "country": "US",
+                "display_address": [
+                    "San Francisco, CA 94016"
+                ],
+                "state": "CA",
+                "zip_code": "94016"
+            },
+            "name": "MOMO noodle",
+            "phone": "+14088006819",
+            "rating": 4.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/momo-noodle-san-francisco?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "keeku-da-dhaba-fremont",
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.5530508,
+                "longitude": -121.9798298
+            },
+            "display_phone": "(510) 789-3437",
+            "distance": 27913.311051732468,
+            "id": "40DtuR_HxNuBVf_uSoy66Q",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/01Lkj-1u8DwBhRfzPqPFjw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "39200 Paseo Padre Pkwy",
+                "address2": "",
+                "address3": "Gateway Plaza",
+                "city": "Fremont",
+                "country": "US",
+                "display_address": [
+                    "39200 Paseo Padre Pkwy",
+                    "Gateway Plaza",
+                    "Fremont, CA 94538"
+                ],
+                "state": "CA",
+                "zip_code": "94538"
+            },
+            "name": "Keeku da Dhaba",
+            "phone": "+15107893437",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/keeku-da-dhaba-fremont?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 37.76129350168642,
+            "longitude": -122.15714125393289
+        }
+    },
+    "total": 8
+}

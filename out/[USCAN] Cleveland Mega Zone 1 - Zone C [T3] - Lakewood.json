@@ -1,0 +1,48 @@
+{
+    "businesses": [
+        {
+            "alias": "rood-food-and-pie-lakewood",
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.47742,
+                "longitude": -81.815
+            },
+            "display_phone": "(216) 712-4506",
+            "distance": 1322.2225144214951,
+            "id": "78uIa-R7QG8CinJc7M4B6w",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kBxjEm-sh4oz9mJ2AFNCww/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "17001 Madison Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Lakewood",
+                "country": "US",
+                "display_address": [
+                    "17001 Madison Ave",
+                    "Lakewood, OH 44107"
+                ],
+                "state": "OH",
+                "zip_code": "44107"
+            },
+            "name": "Rood Food and Pie",
+            "phone": "+12167124506",
+            "rating": 4.5,
+            "review_count": 12,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/rood-food-and-pie-lakewood?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 41.46616588555921,
+            "longitude": -81.82101541399923
+        }
+    },
+    "total": 1
+}

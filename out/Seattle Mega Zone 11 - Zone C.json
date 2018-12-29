@@ -1,0 +1,137 @@
+{
+    "businesses": [
+        {
+            "alias": "sugar-spoon-seattle",
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.6035804748535,
+                "longitude": -122.329452514648
+            },
+            "display_phone": "(206) 948-7684",
+            "distance": 1334.6971257619214,
+            "id": "j3ROEO71W0JJU14ppJ5M1Q",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZSDJh81SySf9zU5UF6ziSg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "",
+                "address2": null,
+                "address3": "",
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "Seattle, WA 98160"
+                ],
+                "state": "WA",
+                "zip_code": "98160"
+            },
+            "name": "sugar + spoon",
+            "phone": "+12069487684",
+            "rating": 4.5,
+            "review_count": 23,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sugar-spoon-seattle?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "huo-yan-chinese-hot-pot-shoreline",
+            "categories": [
+                {
+                    "alias": "hotpot",
+                    "title": "Hot Pot"
+                },
+                {
+                    "alias": "szechuan",
+                    "title": "Szechuan"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.7753,
+                "longitude": -122.34668
+            },
+            "display_phone": "(206) 698-7777",
+            "distance": 2195.078782665054,
+            "id": "4Uul8o9Os8izgJs5gp1gZA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yDmssqHi1djLmSXIEXyjPA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "20109 Aurora Ave N",
+                "address2": null,
+                "address3": "",
+                "city": "Shoreline",
+                "country": "US",
+                "display_address": [
+                    "20109 Aurora Ave N",
+                    "Shoreline, WA 98133"
+                ],
+                "state": "WA",
+                "zip_code": "98133"
+            },
+            "name": "Huo Yan Chinese Hot Pot",
+            "phone": "+12066987777",
+            "rating": 4.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/huo-yan-chinese-hot-pot-shoreline?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tasty-pot-shoreline",
+            "categories": [
+                {
+                    "alias": "taiwanese",
+                    "title": "Taiwanese"
+                },
+                {
+                    "alias": "hotpot",
+                    "title": "Hot Pot"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.77749,
+                "longitude": -122.3429
+            },
+            "display_phone": "(206) 546-8988",
+            "distance": 2347.9950715107,
+            "id": "z9TupGBgAh-yjLCt3bLL0Q",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SSopkCYgeqeJv_0oBTqAig/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1295 N 205th St",
+                "address2": null,
+                "address3": "",
+                "city": "Shoreline",
+                "country": "US",
+                "display_address": [
+                    "1295 N 205th St",
+                    "Shoreline, WA 98133"
+                ],
+                "state": "WA",
+                "zip_code": "98133"
+            },
+            "name": "Tasty Pot",
+            "phone": "+12065468988",
+            "rating": 4.0,
+            "review_count": 59,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tasty-pot-shoreline?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 47.75800854484334,
+            "longitude": -122.36079076058876
+        }
+    },
+    "total": 3
+}

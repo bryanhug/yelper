@@ -1,0 +1,93 @@
+{
+    "businesses": [
+        {
+            "alias": "rewild-quincy",
+            "categories": [
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                },
+                {
+                    "alias": "kombucha",
+                    "title": "Kombucha"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.24765,
+                "longitude": -71.00083
+            },
+            "display_phone": "",
+            "distance": 2085.4465963084335,
+            "id": "HaL6Wz3LOkRq_XuMxGmtVg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xPO7m-Z9ytlJylOM8NtE1A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1546 Hancock St",
+                "address2": "",
+                "address3": null,
+                "city": "Quincy",
+                "country": "US",
+                "display_address": [
+                    "1546 Hancock St",
+                    "Quincy, MA 02169"
+                ],
+                "state": "MA",
+                "zip_code": "02169"
+            },
+            "name": "Rewild",
+            "phone": "",
+            "rating": 3.5,
+            "review_count": 43,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/rewild-quincy?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "yuciren-eggwaffle-braintree",
+            "categories": [
+                {
+                    "alias": "taiwanese",
+                    "title": "Taiwanese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.22136,
+                "longitude": -71.02587
+            },
+            "display_phone": "",
+            "distance": 4774.933037823611,
+            "id": "mHXJvlMhuOPISh-K0DmtWw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/O0gYHssAyG1OdFFzUMUioA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "250 Granite St",
+                "address2": null,
+                "address3": "",
+                "city": "Braintree",
+                "country": "US",
+                "display_address": [
+                    "250 Granite St",
+                    "Braintree, MA 02184"
+                ],
+                "state": "MA",
+                "zip_code": "02184"
+            },
+            "name": "Yuciren EggWaffle",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/yuciren-eggwaffle-braintree?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 42.26422375293634,
+            "longitude": -71.01268095279404
+        }
+    },
+    "total": 2
+}

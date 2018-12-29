@@ -1,0 +1,53 @@
+{
+    "businesses": [
+        {
+            "alias": "kaizen-sushi-el-paso",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 31.79186,
+                "longitude": -106.2614
+            },
+            "display_phone": "(915) 301-1200",
+            "distance": 3886.111635087591,
+            "id": "qKVEl-_-81mrr_8lEiFCBw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cDMDzPIZ1KULo_TUOx0XyA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "12380 Edgemere Blvd",
+                "address2": "Ste 106",
+                "address3": "",
+                "city": "El Paso",
+                "country": "US",
+                "display_address": [
+                    "12380 Edgemere Blvd",
+                    "Ste 106",
+                    "El Paso, TX 79938"
+                ],
+                "state": "TX",
+                "zip_code": "79938"
+            },
+            "name": "Kaizen sushi",
+            "phone": "+19153011200",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kaizen-sushi-el-paso?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 31.776320087074136,
+            "longitude": -106.29798222736228
+        }
+    },
+    "total": 1
+}

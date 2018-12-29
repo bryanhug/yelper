@@ -1,0 +1,20 @@
+AVO TACO
+2340 Jericho Turnpike, New Hyde Park, NY 11040, 
++15163732340
+https://www.yelp.com/biz/avo-taco-new-hyde-park-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+CoreLife Eatery
+910 Franklin Ave, Garden City, NY 11530, 
++15162807292
+https://www.yelp.com/biz/corelife-eatery-garden-city?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Chen's Buffet Hibachi & Sushi
+472 Hempstead Tpke, West Hempstead, NY 11552, 
++15167508868
+https://www.yelp.com/biz/chens-buffet-hibachi-and-sushi-west-hempstead?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Dolce Aesthetics
+161-02 Cross Bay Blvd, Queens, NY 11414, 
++17183225300
+https://www.yelp.com/biz/dolce-aesthetics-queens-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+

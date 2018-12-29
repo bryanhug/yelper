@@ -1,0 +1,130 @@
+{
+    "businesses": [
+        {
+            "alias": "lidl-folsom",
+            "categories": [
+                {
+                    "alias": "grocery",
+                    "title": "Grocery"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.8881537445826,
+                "longitude": -75.325936563313
+            },
+            "display_phone": "(844) 747-5435",
+            "distance": 3508.2588008748826,
+            "id": "sgasyFue5oG20RDJ8yAkaQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9oKMesT2NKsjSUCUSBcqwg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "420 MacDade Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Folsom",
+                "country": "US",
+                "display_address": [
+                    "420 MacDade Blvd",
+                    "Folsom, PA 19033"
+                ],
+                "state": "PA",
+                "zip_code": "19033"
+            },
+            "name": "Lidl",
+            "phone": "+18447475435",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/lidl-folsom?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-brickhaus-ridley-park-3",
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.8792718989804,
+                "longitude": -75.3232285380363
+            },
+            "display_phone": "(610) 537-7351",
+            "distance": 3915.9722551259074,
+            "id": "pb1oZS_fVHwBkw3ysqF9pQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zJhM9qTJuv6THhRh1Mq3rA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "13 E Hinckley Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Ridley Park",
+                "country": "US",
+                "display_address": [
+                    "13 E Hinckley Ave",
+                    "Ridley Park, PA 19078"
+                ],
+                "state": "PA",
+                "zip_code": "19078"
+            },
+            "name": "The BrickHaus",
+            "phone": "+16105377351",
+            "rating": 5.0,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-brickhaus-ridley-park-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ne-flower-boutique-philadelphia-3",
+            "categories": [
+                {
+                    "alias": "florists",
+                    "title": "Florists"
+                },
+                {
+                    "alias": "floraldesigners",
+                    "title": "Floral Designers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.9515,
+                "longitude": -75.14356
+            },
+            "display_phone": "(267) 570-7707",
+            "distance": 13589.064747365384,
+            "id": "p9bz6eZT4y7He03nfLlQxQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/IatsUTK4X5NkXtBVHA8U_Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "60 N 2nd St",
+                "address2": null,
+                "address3": "",
+                "city": "Philadelphia",
+                "country": "US",
+                "display_address": [
+                    "60 N 2nd St",
+                    "Philadelphia, PA 19106"
+                ],
+                "state": "PA",
+                "zip_code": "19106"
+            },
+            "name": "NE Flower Boutique",
+            "phone": "+12675707707",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ne-flower-boutique-philadelphia-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 39.9036726145581,
+            "longitude": -75.29013150022907
+        }
+    },
+    "total": 3
+}

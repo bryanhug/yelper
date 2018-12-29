@@ -1,0 +1,143 @@
+{
+    "businesses": [
+        {
+            "alias": "yard-house-gaithersburg",
+            "categories": [
+                {
+                    "alias": "vegetarian",
+                    "title": "Vegetarian"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.11719,
+                "longitude": -77.20076
+            },
+            "display_phone": "(240) 683-8790",
+            "distance": 2688.5955431798984,
+            "id": "iIGiMbS8fih25nxPf1gf1w",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ncBILSU1OC9AketZD4uvgg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "211 Rio Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Gaithersburg",
+                "country": "US",
+                "display_address": [
+                    "211 Rio Blvd",
+                    "Gaithersburg, MD 20878"
+                ],
+                "state": "MD",
+                "zip_code": "20878"
+            },
+            "name": "Yard House",
+            "phone": "+12406838790",
+            "rating": 3.5,
+            "review_count": 30,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/yard-house-gaithersburg?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "flower-child-rockville-4",
+            "categories": [
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "vegetarian",
+                    "title": "Vegetarian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.0961323026285,
+                "longitude": -77.2076995773822
+            },
+            "display_phone": "(858) 314-6818",
+            "distance": 4504.334147564257,
+            "id": "CxZXH5CvogBVoWrBRyaNXg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FD7kIDHfOCNTFIKorC4eFQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "10072 Darnestown Rd",
+                "address2": "",
+                "address3": null,
+                "city": "Rockville",
+                "country": "US",
+                "display_address": [
+                    "10072 Darnestown Rd",
+                    "Rockville, MD 20850"
+                ],
+                "state": "MD",
+                "zip_code": "20850"
+            },
+            "name": "Flower Child",
+            "phone": "+18583146818",
+            "rating": 4.5,
+            "review_count": 41,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/flower-child-rockville-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "st-veg-rockville-3",
+            "categories": [
+                {
+                    "alias": "gourmet",
+                    "title": "Specialty Food"
+                },
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.0963560504698,
+                "longitude": -77.1920183434117
+            },
+            "display_phone": "(301) 605-7511",
+            "distance": 4999.908194540207,
+            "id": "Tb_bs2TfKfyEhrgtaAeoxA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SUyVJTrDvyk1fXzy3o5wbA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "14929 Shady Grove Rd",
+                "address2": "M",
+                "address3": null,
+                "city": "Rockville",
+                "country": "US",
+                "display_address": [
+                    "14929 Shady Grove Rd",
+                    "M",
+                    "Rockville, MD 20850"
+                ],
+                "state": "MD",
+                "zip_code": "20850"
+            },
+            "name": "St. Veg",
+            "phone": "+13016057511",
+            "rating": 4.5,
+            "review_count": 43,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/st-veg-rockville-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 39.13531198598619,
+            "longitude": -77.22096245890917
+        }
+    },
+    "total": 3
+}

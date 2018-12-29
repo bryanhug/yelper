@@ -1,0 +1,303 @@
+{
+    "businesses": [
+        {
+            "alias": "pho-ngon-alexandria-2",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.7732557940923,
+                "longitude": -77.1351078047123
+            },
+            "display_phone": "(571) 257-9205",
+            "distance": 2438.4255037165863,
+            "id": "oT97mb6kH7RTHpiO7r90JA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oT_57BIReX4kUPOD7P6Amw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5810 Kingstowne Ctr",
+                "address2": "Ste 140",
+                "address3": null,
+                "city": "Alexandria",
+                "country": "US",
+                "display_address": [
+                    "5810 Kingstowne Ctr",
+                    "Ste 140",
+                    "Alexandria, VA 22315"
+                ],
+                "state": "VA",
+                "zip_code": "22315"
+            },
+            "name": "Pho Ngon",
+            "phone": "+15712579205",
+            "rating": 4.0,
+            "review_count": 19,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/pho-ngon-alexandria-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sea-boil-crab-house-alexandria-2",
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.7583759892841,
+                "longitude": -77.0827260712344
+            },
+            "display_phone": "(571) 777-5655",
+            "distance": 2448.4810290393007,
+            "id": "ERZivWGZ2xsv6hkE4xXrpQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1aNua6RiWEJuMyBkTak8zw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7305 Richmond Hwy",
+                "address2": "",
+                "address3": null,
+                "city": "Alexandria",
+                "country": "US",
+                "display_address": [
+                    "7305 Richmond Hwy",
+                    "Alexandria, VA 22306"
+                ],
+                "state": "VA",
+                "zip_code": "22306"
+            },
+            "name": "Sea Boil Crab House",
+            "phone": "+15717775655",
+            "rating": 4.5,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sea-boil-crab-house-alexandria-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mcalisters-deli-alexandria-2",
+            "categories": [
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.74936,
+                "longitude": -77.08413
+            },
+            "display_phone": "",
+            "distance": 2953.0727738286546,
+            "id": "u8YLRRym_Nts8AnCHxMLig",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aaZ--kOjD_J7JSgAqYI_NQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7704 Richmond Hwy",
+                "address2": null,
+                "address3": null,
+                "city": "Alexandria",
+                "country": "US",
+                "display_address": [
+                    "7704 Richmond Hwy",
+                    "Alexandria, VA 22308"
+                ],
+                "state": "VA",
+                "zip_code": "22308"
+            },
+            "name": "McAlister's Deli",
+            "phone": "",
+            "rating": 3.5,
+            "review_count": 14,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/mcalisters-deli-alexandria-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "pho-777-alexandria-3",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.7474289201003,
+                "longitude": -77.0846298824308
+            },
+            "display_phone": "(703) 341-6587",
+            "distance": 3104.4011164351614,
+            "id": "O5qn4CcvRbxi6KMOL8ahgQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SPHMhha12l1tZLchjaHGeg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7770 Richmond Hwy",
+                "address2": "",
+                "address3": null,
+                "city": "Alexandria",
+                "country": "US",
+                "display_address": [
+                    "7770 Richmond Hwy",
+                    "Alexandria, VA 22306"
+                ],
+                "state": "VA",
+                "zip_code": "22306"
+            },
+            "name": "Pho 777",
+            "phone": "+17033416587",
+            "rating": 3.5,
+            "review_count": 20,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/pho-777-alexandria-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "t-zo-alexandria",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.8047032545299,
+                "longitude": -77.1331557426005
+            },
+            "display_phone": "(571) 867-9139",
+            "distance": 4560.16783799747,
+            "id": "jjAYnuIsB7CNu8abULOwcA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9BNv0tfQh0tn-TVz8Hqtgw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5774 Dow Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Alexandria",
+                "country": "US",
+                "display_address": [
+                    "5774 Dow Ave",
+                    "Alexandria, VA 22304"
+                ],
+                "state": "VA",
+                "zip_code": "22304"
+            },
+            "name": "T-ZO",
+            "phone": "+15718679139",
+            "rating": 3.5,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/t-zo-alexandria?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "chef-guo-alexandria",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.81708,
+                "longitude": -77.14336
+            },
+            "display_phone": "(703) 256-8886",
+            "distance": 6197.740080857696,
+            "id": "iKlUuTshDQ11W3MQdQMetA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CHEGzTL-nlZDBAPgh4lDtw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6259 Little River Turnpike",
+                "address2": "",
+                "address3": null,
+                "city": "Alexandria",
+                "country": "US",
+                "display_address": [
+                    "6259 Little River Turnpike",
+                    "Alexandria, VA 22312"
+                ],
+                "state": "VA",
+                "zip_code": "22312"
+            },
+            "name": "Chef Guo",
+            "phone": "+17032568886",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/chef-guo-alexandria?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "dc-lash-bar-arlington-arlington",
+            "categories": [
+                {
+                    "alias": "eyelashservice",
+                    "title": "Eyelash Service"
+                },
+                {
+                    "alias": "spraytanning",
+                    "title": "Spray Tanning"
+                },
+                {
+                    "alias": "hairremoval",
+                    "title": "Hair Removal"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.87984,
+                "longitude": -77.11131
+            },
+            "display_phone": "(571) 312-8891",
+            "distance": 12290.875758195889,
+            "id": "68oBMNcgZJ8-zrfMrwRiUw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ztRMfITbCb0thzTpl_dbAA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4238 Wilson Blvd",
+                "address2": "Ste 1150",
+                "address3": "",
+                "city": "Arlington",
+                "country": "US",
+                "display_address": [
+                    "4238 Wilson Blvd",
+                    "Ste 1150",
+                    "Arlington, VA 22203"
+                ],
+                "state": "VA",
+                "zip_code": "22203"
+            },
+            "name": "DC Lash Bar- Arlington",
+            "phone": "+15713128891",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dc-lash-bar-arlington-arlington?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 38.76887865698755,
+            "longitude": -77.10754683390587
+        }
+    },
+    "total": 7
+}

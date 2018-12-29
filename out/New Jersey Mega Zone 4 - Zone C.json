@@ -1,0 +1,137 @@
+{
+    "businesses": [
+        {
+            "alias": "el-chingon-tex-mex-union",
+            "categories": [
+                {
+                    "alias": "tex-mex",
+                    "title": "Tex-Mex"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.69597,
+                "longitude": -74.26955
+            },
+            "display_phone": "(908) 687-1713",
+            "distance": 1385.2068830975122,
+            "id": "pyAatFVO6sul0IyN1vOKfg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rEkZ5qwToEfU19HAn9VHmg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1996 Morris Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Union",
+                "country": "US",
+                "display_address": [
+                    "1996 Morris Ave",
+                    "Union, NJ 07083"
+                ],
+                "state": "NJ",
+                "zip_code": "07083"
+            },
+            "name": "El Chingon Tex-Mex",
+            "phone": "+19086871713",
+            "rating": 3.5,
+            "review_count": 14,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/el-chingon-tex-mex-union?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ava-s-kitchen-and-bar-kenilworth",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "beer_and_wine",
+                    "title": "Beer, Wine & Spirits"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.6764146671833,
+                "longitude": -74.2913711242664
+            },
+            "display_phone": "(908) 946-2827",
+            "distance": 2175.1550366088018,
+            "id": "SlW76hvbvpyRzOBEg0KkbA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nE3P2GAYS4NjBJk3KEWa7g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1 N 21st St",
+                "address2": "",
+                "address3": null,
+                "city": "Kenilworth",
+                "country": "US",
+                "display_address": [
+                    "1 N 21st St",
+                    "Kenilworth, NJ 07033"
+                ],
+                "state": "NJ",
+                "zip_code": "07033"
+            },
+            "name": "Ava\u2019s Kitchen & Bar",
+            "phone": "+19089462827",
+            "rating": 3.5,
+            "review_count": 26,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ava-s-kitchen-and-bar-kenilworth?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "rtsp-range-training-firearms-union-2",
+            "categories": [
+                {
+                    "alias": "firearmtraining",
+                    "title": "Firearm Training"
+                },
+                {
+                    "alias": "gun_ranges",
+                    "title": "Gun/Rifle Ranges"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.68902,
+                "longitude": -74.29667
+            },
+            "display_phone": "(973) 434-7600",
+            "distance": 2537.5574969193945,
+            "id": "NTxZhydb-YXSUh5hKM2hEw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IRzbDVIIX0T1dGOLS22EJw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2438 US Hwy 22 E",
+                "address2": null,
+                "address3": "",
+                "city": "Union",
+                "country": "US",
+                "display_address": [
+                    "2438 US Hwy 22 E",
+                    "Union, NJ 07083"
+                ],
+                "state": "NJ",
+                "zip_code": "07083"
+            },
+            "name": "RTSP Range. Training. Firearms.",
+            "phone": "+19734347600",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/rtsp-range-training-firearms-union-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 40.68371032991615,
+            "longitude": -74.26743759699221
+        }
+    },
+    "total": 3
+}

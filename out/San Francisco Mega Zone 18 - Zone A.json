@@ -1,0 +1,218 @@
+{
+    "businesses": [
+        {
+            "alias": "flores-corte-madera",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.92641,
+                "longitude": -122.5167
+            },
+            "display_phone": "(415) 500-5145",
+            "distance": 2728.4892409611025,
+            "id": "_06jmHg2pgd1WNI11gJcyg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rf5aSbiERPnIH2s1AP7k3g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "301 Corte Madera Town Ctr",
+                "address2": "",
+                "address3": null,
+                "city": "Corte Madera",
+                "country": "US",
+                "display_address": [
+                    "301 Corte Madera Town Ctr",
+                    "Corte Madera, CA 94925"
+                ],
+                "state": "CA",
+                "zip_code": "94925"
+            },
+            "name": "Flores",
+            "phone": "+14155005145",
+            "rating": 4.0,
+            "review_count": 86,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/flores-corte-madera?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tony-tutto-pizza-ross",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.9604045951378,
+                "longitude": -122.555722864547
+            },
+            "display_phone": "(415) 383-8646",
+            "distance": 4396.744762407549,
+            "id": "g8hnvgklPjKGYxytF5e7zQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EGzyAqWeeOagkSlRN_HEtA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "16 Ross Common",
+                "address2": "",
+                "address3": null,
+                "city": "Ross",
+                "country": "US",
+                "display_address": [
+                    "16 Ross Common",
+                    "Ross, CA 94957"
+                ],
+                "state": "CA",
+                "zip_code": "94957"
+            },
+            "name": "Tony Tutto Pizza",
+            "phone": "+14153838646",
+            "rating": 5.0,
+            "review_count": 23,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tony-tutto-pizza-ross?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "libation-taproom-and-bottle-shop-san-rafael",
+            "categories": [
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                },
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.9727,
+                "longitude": -122.52934
+            },
+            "display_phone": "",
+            "distance": 5907.70583371444,
+            "id": "QIBMVutjrR1yQ0ItoRnLZg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2vNr6P2jQV0oTyopgVMflg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "924 B St",
+                "address2": "",
+                "address3": null,
+                "city": "San Rafael",
+                "country": "US",
+                "display_address": [
+                    "924 B St",
+                    "San Rafael, CA 94901"
+                ],
+                "state": "CA",
+                "zip_code": "94901"
+            },
+            "name": "Libation Taproom & Bottle Shop",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 17,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/libation-taproom-and-bottle-shop-san-rafael?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-kitchen-table-san-rafael-3",
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.9740899,
+                "longitude": -122.5363
+            },
+            "display_phone": "(415) 521-5568",
+            "distance": 5925.983622773429,
+            "id": "2ZxWHuL8fMJQC0zr8fEojw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zbZToXPglBd4PI-eaDZA_w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1574 4th St",
+                "address2": "",
+                "address3": null,
+                "city": "San Rafael",
+                "country": "US",
+                "display_address": [
+                    "1574 4th St",
+                    "San Rafael, CA 94901"
+                ],
+                "state": "CA",
+                "zip_code": "94901"
+            },
+            "name": "The Kitchen Table",
+            "phone": "+14155215568",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "url": "https://www.yelp.com/biz/the-kitchen-table-san-rafael-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "julie-s-hummus-bar-san-rafael",
+            "categories": [
+                {
+                    "alias": "falafel",
+                    "title": "Falafel"
+                },
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.9736215,
+                "longitude": -122.5267894
+            },
+            "display_phone": "(415) 755-4818",
+            "distance": 6063.69407766265,
+            "id": "OB4vVV4cBgEBoxPFDf0Hvg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ikEtMxtdYUhMMO0HMIe9Vg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1026 Court St",
+                "address2": null,
+                "address3": "",
+                "city": "San Rafael",
+                "country": "US",
+                "display_address": [
+                    "1026 Court St",
+                    "San Rafael, CA 94901"
+                ],
+                "state": "CA",
+                "zip_code": "94901"
+            },
+            "name": "Julie\u2019s hummus bar",
+            "phone": "+14157554818",
+            "rating": 4.5,
+            "review_count": 42,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/julie-s-hummus-bar-san-rafael?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 37.92144918222719,
+            "longitude": -122.54712661569789
+        }
+    },
+    "total": 5
+}

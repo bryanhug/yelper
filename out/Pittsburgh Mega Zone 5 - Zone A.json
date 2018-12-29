@@ -1,0 +1,289 @@
+{
+    "businesses": [
+        {
+            "alias": "the-milk-shake-factory-pittsburgh-3",
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.46103,
+                "longitude": -79.9246
+            },
+            "display_phone": "(412) 450-8515",
+            "distance": 557.865715956482,
+            "id": "uIkP1qCy3m3y0FHINJBCVg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/t9_IFQPwWR7e9PzR5DJejA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6000 Penn Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Pittsburgh",
+                "country": "US",
+                "display_address": [
+                    "6000 Penn Ave",
+                    "Pittsburgh, PA 15203"
+                ],
+                "state": "PA",
+                "zip_code": "15203"
+            },
+            "name": "The Milk Shake Factory",
+            "phone": "+14124508515",
+            "rating": 4.5,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-milk-shake-factory-pittsburgh-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "selamis-turkish-kebab-house-pittsburgh",
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.45686,
+                "longitude": -79.93643
+            },
+            "display_phone": "(412) 683-3663",
+            "distance": 719.90237696675,
+            "id": "7rO0ET3aQLT_NtFutyZC1w",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/F3Nd2H9rBDKaq7ZqyH75Ng/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5501 Centre Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Pittsburgh",
+                "country": "US",
+                "display_address": [
+                    "5501 Centre Ave",
+                    "Pittsburgh, PA 15232"
+                ],
+                "state": "PA",
+                "zip_code": "15232"
+            },
+            "name": "Selamis Turkish Kebab House",
+            "phone": "+14126833663",
+            "rating": 4.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/selamis-turkish-kebab-house-pittsburgh?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-bureau-coffee-pittsburgh",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.463667,
+                "longitude": -79.926716
+            },
+            "display_phone": "",
+            "distance": 775.4495471349218,
+            "id": "UN6nhW0QavVlYwMP-_7KRg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lIwCq35r3oiPbW6ZSiAMdA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "224 N Euclid Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Pittsburgh",
+                "country": "US",
+                "display_address": [
+                    "224 N Euclid Ave",
+                    "Pittsburgh, PA 15206"
+                ],
+                "state": "PA",
+                "zip_code": "15206"
+            },
+            "name": "The Bureau Coffee",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-bureau-coffee-pittsburgh?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "masala-house-indian-bistro-pittsburgh",
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.45521,
+                "longitude": -79.94362
+            },
+            "display_phone": "(412) 586-7655",
+            "distance": 1341.402445028707,
+            "id": "35KvoWbA3kEsdckaWqG3OA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Wy7XWpTyWkTpRZZewUo-6A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5102 Baum Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Pittsburgh",
+                "country": "US",
+                "display_address": [
+                    "5102 Baum Blvd",
+                    "Pittsburgh, PA 15224"
+                ],
+                "state": "PA",
+                "zip_code": "15224"
+            },
+            "name": "Masala House Indian Bistro",
+            "phone": "+14125867655",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/masala-house-indian-bistro-pittsburgh?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "casa-brasil-pittsburgh",
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "popuprestaurants",
+                    "title": "Pop-Up Restaurants"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.4756756928209,
+                "longitude": -79.9197259864038
+            },
+            "display_phone": "(412) 404-7573",
+            "distance": 2214.574625544741,
+            "id": "rVqw2DVJwZnZ1FV-ZYa-Mw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qX2yGxPb-EL7pZawL5tTDw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5904 Bryant St",
+                "address2": "",
+                "address3": null,
+                "city": "Pittsburgh",
+                "country": "US",
+                "display_address": [
+                    "5904 Bryant St",
+                    "Pittsburgh, PA 15206"
+                ],
+                "state": "PA",
+                "zip_code": "15206"
+            },
+            "name": "Casa Brasil",
+            "phone": "+14124047573",
+            "rating": 5.0,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/casa-brasil-pittsburgh?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "condado-tacos-pittsburgh-3",
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.47058,
+                "longitude": -79.96004
+            },
+            "display_phone": "(412) 863-7630",
+            "distance": 3120.2158855397524,
+            "id": "in39cUCMBRjpwxw7qNSOfg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GHsRXN8PVNA_os1Qs7BkRQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4300 Butler St",
+                "address2": "",
+                "address3": null,
+                "city": "Pittsburgh",
+                "country": "US",
+                "display_address": [
+                    "4300 Butler St",
+                    "Pittsburgh, PA 15201"
+                ],
+                "state": "PA",
+                "zip_code": "15201"
+            },
+            "name": "Condado Tacos",
+            "phone": "+14128637630",
+            "rating": 4.5,
+            "review_count": 54,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/condado-tacos-pittsburgh-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ruhling-woven-pittsburgh",
+            "categories": [
+                {
+                    "alias": "womenscloth",
+                    "title": "Women's Clothing"
+                },
+                {
+                    "alias": "accessories",
+                    "title": "Accessories"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.48335,
+                "longitude": -79.95081
+            },
+            "display_phone": "",
+            "distance": 3531.5452471069834,
+            "id": "jzRKazR1VM555KyE44YDvQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wgOlrTke6J6Vf51yTbTk0Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5417 Butler St",
+                "address2": "",
+                "address3": null,
+                "city": "Pittsburgh",
+                "country": "US",
+                "display_address": [
+                    "5417 Butler St",
+                    "Pittsburgh, PA 15201"
+                ],
+                "state": "PA",
+                "zip_code": "15201"
+            },
+            "name": "Ruhling Woven",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ruhling-woven-pittsburgh?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 40.456749927383555,
+            "longitude": -79.92787852148315
+        }
+    },
+    "total": 7
+}

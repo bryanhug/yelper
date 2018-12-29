@@ -1,0 +1,140 @@
+{
+    "businesses": [
+        {
+            "alias": "pizzamore-carlstadt-2",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.83574,
+                "longitude": -74.08832
+            },
+            "display_phone": "(201) 939-1254",
+            "distance": 2878.0864001751333,
+            "id": "ZbImVNrYNl3Z3PqwZ1UlLA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tcLdn88AEwHpUuktERh2_g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "323 Broad St",
+                "address2": null,
+                "address3": "",
+                "city": "Carlstadt",
+                "country": "US",
+                "display_address": [
+                    "323 Broad St",
+                    "Carlstadt, NJ 07072"
+                ],
+                "state": "NJ",
+                "zip_code": "07072"
+            },
+            "name": "pizzAmore",
+            "phone": "+12019391254",
+            "rating": 4.5,
+            "review_count": 4,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/pizzamore-carlstadt-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "viva-margarita-wallington",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.843516,
+                "longitude": -74.10575
+            },
+            "display_phone": "(201) 935-8484",
+            "distance": 4204.243789511102,
+            "id": "gz4jQDLdzGP1RdL0moEqww",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/F38gclzhqOz_k2kZcdKC_g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "413 Paterson Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Wallington",
+                "country": "US",
+                "display_address": [
+                    "413 Paterson Ave",
+                    "Wallington, NJ 07057"
+                ],
+                "state": "NJ",
+                "zip_code": "07057"
+            },
+            "name": "Viva Margarita",
+            "phone": "+12019358484",
+            "rating": 4.5,
+            "review_count": 31,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/viva-margarita-wallington?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "just4move-nyc-brooklyn",
+            "categories": [
+                {
+                    "alias": "movers",
+                    "title": "Movers"
+                },
+                {
+                    "alias": "packingservices",
+                    "title": "Packing Services"
+                },
+                {
+                    "alias": "packingsupplies",
+                    "title": "Packing Supplies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.6698599111662,
+                "longitude": -73.9560807868838
+            },
+            "display_phone": "(516) 399-1055",
+            "distance": 18864.443840551427,
+            "id": "SMTa4VpGZRBm3KjYkEMOkg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VB_SkT1ozb1ZcUwoqqUy-w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "390 Eastern Pkwy",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "country": "US",
+                "display_address": [
+                    "390 Eastern Pkwy",
+                    "Brooklyn, NY 11225"
+                ],
+                "state": "NY",
+                "zip_code": "11225"
+            },
+            "name": "Just4Move NYC",
+            "phone": "+15163991055",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/just4move-nyc-brooklyn?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 40.81036119678008,
+            "longitude": -74.08157693642734
+        }
+    },
+    "total": 3
+}

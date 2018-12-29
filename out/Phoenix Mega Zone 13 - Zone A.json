@@ -1,0 +1,133 @@
+{
+    "businesses": [
+        {
+            "alias": "los-taquitos-arcadia-phoenix",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.4953303,
+                "longitude": -112.0133379
+            },
+            "display_phone": "(602) 237-5141",
+            "distance": 2307.9294236207616,
+            "id": "OErw2LJmXex7sNOdsKE7QA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8ZLdcYQ9sJbTFJuw4XSVYw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3176 E Indian School Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Phoenix",
+                "country": "US",
+                "display_address": [
+                    "3176 E Indian School Rd",
+                    "Phoenix, AZ 85016"
+                ],
+                "state": "AZ",
+                "zip_code": "85016"
+            },
+            "name": "Los Taquitos Arcadia",
+            "phone": "+16022375141",
+            "rating": 4.0,
+            "review_count": 18,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/los-taquitos-arcadia-phoenix?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tacos-culichi-phoenix",
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                },
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.46603,
+                "longitude": -112.01708
+            },
+            "display_phone": "(602) 368-4518",
+            "distance": 2664.451406880094,
+            "id": "v7UIeEvwNd3fleFE6icm3A",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xxTVH4vF6-bI-zJiQAAk8Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3004 E McDowell Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Phoenix",
+                "country": "US",
+                "display_address": [
+                    "3004 E McDowell Rd",
+                    "Phoenix, AZ 85008"
+                ],
+                "state": "AZ",
+                "zip_code": "85008"
+            },
+            "name": "Tacos Culichi",
+            "phone": "+16023684518",
+            "rating": 5.0,
+            "review_count": 36,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/tacos-culichi-phoenix?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "rewined-beer-and-wine-bar-phoenix",
+            "categories": [
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.487130111271,
+                "longitude": -112.030566608769
+            },
+            "display_phone": "(602) 429-9660",
+            "distance": 3287.025499081507,
+            "id": "COfmsJPeRu_4qFzDpvAAgw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IQ4a6mXWoodPbrqbHkD2Lw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3308 N 24th St",
+                "address2": "",
+                "address3": null,
+                "city": "Phoenix",
+                "country": "US",
+                "display_address": [
+                    "3308 N 24th St",
+                    "Phoenix, AZ 85016"
+                ],
+                "state": "AZ",
+                "zip_code": "85016"
+            },
+            "name": "Rewined Beer And Wine Bar",
+            "phone": "+16024299660",
+            "rating": 5.0,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/rewined-beer-and-wine-bar-phoenix?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 33.48196784847812,
+            "longitude": -111.9956679047657
+        }
+    },
+    "total": 3
+}

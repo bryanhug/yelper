@@ -1,0 +1,178 @@
+{
+    "businesses": [
+        {
+            "alias": "integral-3-collectibles-san-fernando-3",
+            "categories": [
+                {
+                    "alias": "toys",
+                    "title": "Toy Stores"
+                },
+                {
+                    "alias": "hobbyshops",
+                    "title": "Hobby Shops"
+                },
+                {
+                    "alias": "comicbooks",
+                    "title": "Comic Books"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.2829985,
+                "longitude": -118.441969
+            },
+            "display_phone": "(818) 361-3233",
+            "distance": 2247.2582655894403,
+            "id": "bgQH5zF1F8Afie2IrE4ciQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LCWAbzLAyyCR32UkBMBz2g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1102 San Fernando",
+                "address2": "Ste 208",
+                "address3": "",
+                "city": "San Fernando",
+                "country": "US",
+                "display_address": [
+                    "1102 San Fernando",
+                    "Ste 208",
+                    "San Fernando, CA 91340"
+                ],
+                "state": "CA",
+                "zip_code": "91340"
+            },
+            "name": "Integral 3 Collectibles",
+            "phone": "+18183613233",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/integral-3-collectibles-san-fernando-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "horchateria-rio-luna-san-fernando",
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.2856906,
+                "longitude": -118.4384284
+            },
+            "display_phone": "",
+            "distance": 2423.974702253636,
+            "id": "_lIIomFEZFjvTOl-c3dtow",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GboZEN-wKNSVteCvLiV5vg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "231 N Maclay Ave",
+                "address2": "",
+                "address3": null,
+                "city": "San Fernando",
+                "country": "US",
+                "display_address": [
+                    "231 N Maclay Ave",
+                    "San Fernando, CA 91340"
+                ],
+                "state": "CA",
+                "zip_code": "91340"
+            },
+            "name": "Horchateria Rio Luna",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/horchateria-rio-luna-san-fernando?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "nashville-hot-chicken-pacoima-2",
+            "categories": [
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.2653808762473,
+                "longitude": -118.402314931154
+            },
+            "display_phone": "(818) 897-6666",
+            "distance": 2730.294967356078,
+            "id": "Cum585ydruYiHdvMqW4hKw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9KLDeXgsPGLwvPhL_vgkNA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "10750 Glenoaks Blvd",
+                "address2": "Ste 3",
+                "address3": "",
+                "city": "Pacoima",
+                "country": "US",
+                "display_address": [
+                    "10750 Glenoaks Blvd",
+                    "Ste 3",
+                    "Pacoima, CA 91331"
+                ],
+                "state": "CA",
+                "zip_code": "91331"
+            },
+            "name": "Nashville Hot Chicken",
+            "phone": "+18188976666",
+            "rating": 4.5,
+            "review_count": 11,
+            "transactions": [
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/nashville-hot-chicken-pacoima-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-woke-truck-burbank",
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.15592,
+                "longitude": -118.34321
+            },
+            "display_phone": "(516) 233-6368",
+            "distance": 14222.92371400546,
+            "id": "IpumvReJGi1eih4hG7Nelw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IT0GqAtv7QRB7Ml4ib751w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "Burbank",
+                "country": "US",
+                "display_address": [
+                    "Burbank, CA 91505"
+                ],
+                "state": "CA",
+                "zip_code": "91505"
+            },
+            "name": "The Woke Truck",
+            "phone": "+15162336368",
+            "rating": 4.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-woke-truck-burbank?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 34.26454662242162,
+            "longitude": -118.43200843852222
+        }
+    },
+    "total": 4
+}

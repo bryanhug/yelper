@@ -1,0 +1,48 @@
+{
+    "businesses": [
+        {
+            "alias": "amigos-tortilla-bar-st-petersburg",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 27.7713323622597,
+                "longitude": -82.6431444443766
+            },
+            "display_phone": "(727) 258-8529",
+            "distance": 7472.952537554803,
+            "id": "B6Nyhhfj5RroD7nsXtOFTw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/O5zAMfuXPlJac_T-ABhv4A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "681 Central Ave",
+                "address2": "",
+                "address3": null,
+                "city": "St Petersburg",
+                "country": "US",
+                "display_address": [
+                    "681 Central Ave",
+                    "St Petersburg, FL 33701"
+                ],
+                "state": "FL",
+                "zip_code": "33701"
+            },
+            "name": "Amigos Tortilla Bar",
+            "phone": "+17272588529",
+            "rating": 3.5,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/amigos-tortilla-bar-st-petersburg?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 27.725741045797328,
+            "longitude": -82.69893751024492
+        }
+    },
+    "total": 1
+}

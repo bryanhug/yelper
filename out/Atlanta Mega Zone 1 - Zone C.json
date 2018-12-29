@@ -1,0 +1,126 @@
+{
+    "businesses": [
+        {
+            "alias": "tuza-taco-atlanta",
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7967893982086,
+                "longitude": -84.4158232212067
+            },
+            "display_phone": "",
+            "distance": 2767.680685743791,
+            "id": "iNpKyGdjCb40PECLpyF-rg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Wl6WlcIkdQfNIGaE2pSj8w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1523 Howell Mill Rd",
+                "address2": "",
+                "address3": null,
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "1523 Howell Mill Rd",
+                    "Atlanta, GA 30318"
+                ],
+                "state": "GA",
+                "zip_code": "30318"
+            },
+            "name": "Tuza Taco",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tuza-taco-atlanta?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "trap-music-museum-atlanta",
+            "categories": [
+                {
+                    "alias": "museums",
+                    "title": "Museums"
+                },
+                {
+                    "alias": "escapegames",
+                    "title": "Escape Games"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7716999189713,
+                "longitude": -84.4086499884725
+            },
+            "display_phone": "",
+            "distance": 3447.7917129984,
+            "id": "Ag6dt9EyynhCf-vPSHU2Tw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8TSf5Dkg9t-Thz9OpTTKbQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "630 Travis St NW",
+                "address2": "",
+                "address3": null,
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "630 Travis St NW",
+                    "Atlanta, GA 30318"
+                ],
+                "state": "GA",
+                "zip_code": "30318"
+            },
+            "name": "Trap Music Museum",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/trap-music-museum-atlanta?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "odyssey-bjj-atlanta",
+            "categories": [
+                {
+                    "alias": "brazilianjiujitsu",
+                    "title": "Brazilian Jiu-jitsu"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.82089,
+                "longitude": -84.45976
+            },
+            "display_phone": "(740) 621-5854",
+            "distance": 4291.253878878378,
+            "id": "g_cocE8XamS8eOJsDDi85g",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3bR3XuGi62gC2BRUkUf5xw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2382 Bolton Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Atlanta",
+                "country": "US",
+                "display_address": [
+                    "2382 Bolton Rd",
+                    "Atlanta, GA 30318"
+                ],
+                "state": "GA",
+                "zip_code": "30318"
+            },
+            "name": "Odyssey BJJ",
+            "phone": "+17406215854",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/odyssey-bjj-atlanta?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 33.78512118174297,
+            "longitude": -84.44227818568595
+        }
+    },
+    "total": 3
+}

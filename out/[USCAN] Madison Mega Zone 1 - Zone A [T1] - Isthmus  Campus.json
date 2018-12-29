@@ -1,0 +1,92 @@
+{
+    "businesses": [
+        {
+            "alias": "hungrybadger-cafe-madison-2",
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "coordinates": {
+                "latitude": 43.07513,
+                "longitude": -89.39444
+            },
+            "display_phone": "(608) 501-1468",
+            "distance": 347.55698393658344,
+            "id": "aknfWx4ZkyIDBpfuLYw2ug",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uuyQ0Ze2ksrs3i1Vnq8gpg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "540 State St",
+                "address2": null,
+                "address3": "",
+                "city": "Madison",
+                "country": "US",
+                "display_address": [
+                    "540 State St",
+                    "Madison, WI 53703"
+                ],
+                "state": "WI",
+                "zip_code": "53703"
+            },
+            "name": "HungryBadger Cafe",
+            "phone": "+16085011468",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hungrybadger-cafe-madison-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-globe-madison",
+            "categories": [
+                {
+                    "alias": "gourmet",
+                    "title": "Specialty Food"
+                },
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                }
+            ],
+            "coordinates": {
+                "latitude": 43.07519,
+                "longitude": -89.39013
+            },
+            "display_phone": "(608) 640-4435",
+            "distance": 403.7749485780751,
+            "id": "pYwbI79QoSztj3qzwztQ4Q",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3KdyhoLEhWGc68px2w1atw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "309 N Henry St",
+                "address2": null,
+                "address3": "",
+                "city": "Madison",
+                "country": "US",
+                "display_address": [
+                    "309 N Henry St",
+                    "Madison, WI 53703"
+                ],
+                "state": "WI",
+                "zip_code": "53703"
+            },
+            "name": "The Globe",
+            "phone": "+16086404435",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/the-globe-madison?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 43.07219084832003,
+            "longitude": -89.3929159244547
+        }
+    },
+    "total": 2
+}

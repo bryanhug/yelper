@@ -1,0 +1,216 @@
+{
+    "businesses": [
+        {
+            "alias": "escape-vr-santa-ana-2",
+            "categories": [
+                {
+                    "alias": "escapegames",
+                    "title": "Escape Games"
+                },
+                {
+                    "alias": "virtualrealitycenters",
+                    "title": "Virtual Reality Centers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.74946,
+                "longitude": -117.86835
+            },
+            "display_phone": "(949) 436-6372",
+            "distance": 2303.189375119788,
+            "id": "Y42KsWGMSaj2VN4I-7FqYQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/D13HNVtBDDk4UyZMVFqvbA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "515 N Sycamore St",
+                "address2": null,
+                "address3": "",
+                "city": "Santa Ana",
+                "country": "US",
+                "display_address": [
+                    "515 N Sycamore St",
+                    "Santa Ana, CA 92701"
+                ],
+                "state": "CA",
+                "zip_code": "92701"
+            },
+            "name": "Escape VR",
+            "phone": "+19494366372",
+            "rating": 5.0,
+            "review_count": 20,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/escape-vr-santa-ana-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "la-s\u00faper-birria-santa-ana-2",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7455917088964,
+                "longitude": -117.879284289481
+            },
+            "display_phone": "(657) 245-3810",
+            "distance": 2910.2612687405212,
+            "id": "_vw_4wA-tCE6KyelObmTaw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QBvE2YLs7p3KXtkpRpmNAQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1041 W First St",
+                "address2": null,
+                "address3": "",
+                "city": "Santa Ana",
+                "country": "US",
+                "display_address": [
+                    "1041 W First St",
+                    "Santa Ana, CA 92703"
+                ],
+                "state": "CA",
+                "zip_code": "92703"
+            },
+            "name": "La S\u00faper Birria",
+            "phone": "+16572453810",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/la-s%C3%BAper-birria-santa-ana-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hair-makeup-by-sydney-orange",
+            "categories": [
+                {
+                    "alias": "makeupartists",
+                    "title": "Makeup Artists"
+                },
+                {
+                    "alias": "hairstylists",
+                    "title": "Hair Stylists"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7874,
+                "longitude": -117.82252
+            },
+            "display_phone": "(951) 552-5675",
+            "distance": 4621.482597255641,
+            "id": "lM7he-sB9ItDgdNz6xOxHg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EZmQYEkZ-tjK6nVsSS-SEQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2922 E Chapman Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Orange",
+                "country": "US",
+                "display_address": [
+                    "2922 E Chapman Ave",
+                    "Orange, CA 92869"
+                ],
+                "state": "CA",
+                "zip_code": "92869"
+            },
+            "name": "Hair + Makeup by Sydney",
+            "phone": "+19515525675",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hair-makeup-by-sydney-orange?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "energy-haus-long-beach",
+            "categories": [
+                {
+                    "alias": "reiki",
+                    "title": "Reiki"
+                },
+                {
+                    "alias": "spiritual_shop",
+                    "title": "Spiritual Shop"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.76421,
+                "longitude": -118.15339
+            },
+            "display_phone": "(562) 506-5386",
+            "distance": 26379.336901540766,
+            "id": "7A7czRDduVGb4javOVXWdQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aBUmbDuC6jjcvwveIQnwAg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3300 E Broadway",
+                "address2": "",
+                "address3": "",
+                "city": "Long Beach",
+                "country": "US",
+                "display_address": [
+                    "3300 E Broadway",
+                    "Long Beach, CA 90803"
+                ],
+                "state": "CA",
+                "zip_code": "90803"
+            },
+            "name": "Energy Haus",
+            "phone": "+15625065386",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/energy-haus-long-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "otto-s-pizza-stix-los-angeles-2",
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0624708095338,
+                "longitude": -118.358365834324
+            },
+            "display_phone": "(562) 743-1964",
+            "distance": 55698.198249782676,
+            "id": "s-nSluuP5yRFqcdPOMbWNQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/H_f3gpWrxEWJ0pJWXAn9gw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5900 Wilshire Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "country": "US",
+                "display_address": [
+                    "5900 Wilshire Blvd",
+                    "Los Angeles, CA 90036"
+                ],
+                "state": "CA",
+                "zip_code": "90036"
+            },
+            "name": "Otto\u2019s Pizza Stix",
+            "phone": "+15627431964",
+            "rating": 4.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/otto-s-pizza-stix-los-angeles-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 33.77021450495728,
+            "longitude": -117.86814606895508
+        }
+    },
+    "total": 5
+}

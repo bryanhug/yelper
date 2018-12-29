@@ -1,0 +1,174 @@
+{
+    "businesses": [
+        {
+            "alias": "ivars-seafood-bar-issaquah",
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.5475,
+                "longitude": -122.04021
+            },
+            "display_phone": "",
+            "distance": 2934.70905280646,
+            "id": "amdoyQyiRdW4nUKt9_337Q",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/M8nkuYYJa2QnTaIiUZ_8xQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6150 E Lake Sammamish Pkwy SE",
+                "address2": "Ste G",
+                "address3": null,
+                "city": "Issaquah",
+                "country": "US",
+                "display_address": [
+                    "6150 E Lake Sammamish Pkwy SE",
+                    "Ste G",
+                    "Issaquah, WA 98029"
+                ],
+                "state": "WA",
+                "zip_code": "98029"
+            },
+            "name": "Ivar's Seafood Bar",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 20,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ivars-seafood-bar-issaquah?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sharetea-issaquah-issaquah",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.5408,
+                "longitude": -122.03996
+            },
+            "display_phone": "(425) 395-4010",
+            "distance": 3490.6724534477808,
+            "id": "2YoF9oUe2Mz8uLVO95kVQA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HRxr8xtg_5lP7u_82C576w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "240 NW Gilman Blvd",
+                "address2": "Ste 5",
+                "address3": "",
+                "city": "Issaquah",
+                "country": "US",
+                "display_address": [
+                    "240 NW Gilman Blvd",
+                    "Ste 5",
+                    "Issaquah, WA 98027"
+                ],
+                "state": "WA",
+                "zip_code": "98027"
+            },
+            "name": "Sharetea - Issaquah",
+            "phone": "+14253954010",
+            "rating": 4.5,
+            "review_count": 31,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sharetea-issaquah-issaquah?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "vinason-pho-and-grill-sammamish-3",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.617196,
+                "longitude": -122.0345
+            },
+            "display_phone": "(425) 636-8799",
+            "distance": 5906.748814125314,
+            "id": "RYr7XPgbeTsYQd_l7Ncbmg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HVrEy7vW0OG4DuqoJMMpwQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "22830 NE 8th St",
+                "address2": "Ste 101",
+                "address3": null,
+                "city": "Sammamish",
+                "country": "US",
+                "display_address": [
+                    "22830 NE 8th St",
+                    "Ste 101",
+                    "Sammamish, WA 98074"
+                ],
+                "state": "WA",
+                "zip_code": "98074"
+            },
+            "name": "Vinason Pho And Grill",
+            "phone": "+14256368799",
+            "rating": 4.0,
+            "review_count": 40,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/vinason-pho-and-grill-sammamish-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "pagliacci-pizza-sammamish",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.6173,
+                "longitude": -122.03404
+            },
+            "display_phone": "",
+            "distance": 5915.884134536512,
+            "id": "DUdGaOU8A_tBFgeS7aimVA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/D2aKf3lmqlbtTywSz-bLTg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "22830 NE 8th St",
+                "address2": "",
+                "address3": null,
+                "city": "Sammamish",
+                "country": "US",
+                "display_address": [
+                    "22830 NE 8th St",
+                    "Sammamish, WA 98074"
+                ],
+                "state": "WA",
+                "zip_code": "98074"
+            },
+            "name": "Pagliacci Pizza",
+            "phone": "",
+            "rating": 3.0,
+            "review_count": 18,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/pagliacci-pizza-sammamish?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 47.56616878743714,
+            "longitude": -122.01260526571984
+        }
+    },
+    "total": 4
+}

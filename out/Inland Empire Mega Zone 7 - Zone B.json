@@ -1,0 +1,797 @@
+{
+    "businesses": [
+        {
+            "alias": "spice-garden-indian-restaurant-chino-hills",
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.98507,
+                "longitude": -117.7484234
+            },
+            "display_phone": "(909) 393-8878",
+            "distance": 2572.2850434375364,
+            "id": "zeM3PBCBhdapQcLW6PjJJw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WZpwrLSDFP9uK2U9QJ6eOw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2545 Chino Hills Pkwy",
+                "address2": "Ste A-C",
+                "address3": "",
+                "city": "Chino Hills",
+                "country": "US",
+                "display_address": [
+                    "2545 Chino Hills Pkwy",
+                    "Ste A-C",
+                    "Chino Hills, CA 91709"
+                ],
+                "state": "CA",
+                "zip_code": "91709"
+            },
+            "name": "Spice Garden Indian Restaurant",
+            "phone": "+19093938878",
+            "rating": 4.5,
+            "review_count": 10,
+            "transactions": [
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/spice-garden-indian-restaurant-chino-hills?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ikes-love-and-sandwiches-chino-4",
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "vegetarian",
+                    "title": "Vegetarian"
+                },
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.99673,
+                "longitude": -117.71593
+            },
+            "display_phone": "(909) 464-0038",
+            "distance": 4060.1162988095175,
+            "id": "0UYNgmrk-fA1PkNre3xI2g",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ui8YM9YLg117nC0tq9kxIg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4013 Grand Ave",
+                "address2": "Ste C",
+                "address3": "",
+                "city": "Chino",
+                "country": "US",
+                "display_address": [
+                    "4013 Grand Ave",
+                    "Ste C",
+                    "Chino, CA 91710"
+                ],
+                "state": "CA",
+                "zip_code": "91710"
+            },
+            "name": "Ike's Love and Sandwiches",
+            "phone": "+19094640038",
+            "rating": 4.5,
+            "review_count": 16,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/ikes-love-and-sandwiches-chino-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "squeeze-in-chino-hills-2",
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.9632828364675,
+                "longitude": -117.692948667293
+            },
+            "display_phone": "(909) 393-2706",
+            "distance": 4076.7529921382043,
+            "id": "zQsMzN78tzAiMTEcNFsLTg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Bt8u2v70a37nfjsMOorDbg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "15855 Soquel Canyon Pkwy",
+                "address2": "Ste 140",
+                "address3": "",
+                "city": "Chino Hills",
+                "country": "US",
+                "display_address": [
+                    "15855 Soquel Canyon Pkwy",
+                    "Ste 140",
+                    "Chino Hills, CA 91709"
+                ],
+                "state": "CA",
+                "zip_code": "91709"
+            },
+            "name": "Squeeze In",
+            "phone": "+19093932706",
+            "rating": 4.0,
+            "review_count": 103,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/squeeze-in-chino-hills-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "oi-asian-fusion-chino-2",
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "filipino",
+                    "title": "Filipino"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.998721795829,
+                "longitude": -117.716294039816
+            },
+            "display_phone": "(909) 644-1054",
+            "distance": 4235.24580322627,
+            "id": "MlKfLrbE9bwGLuwecXhS9Q",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oeG89V1QbvqhqV-CU9wb3w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4024 Grand Ave",
+                "address2": "Ste 107",
+                "address3": "",
+                "city": "Chino",
+                "country": "US",
+                "display_address": [
+                    "4024 Grand Ave",
+                    "Ste 107",
+                    "Chino, CA 91710"
+                ],
+                "state": "CA",
+                "zip_code": "91710"
+            },
+            "name": "Oi Asian Fusion",
+            "phone": "+19096441054",
+            "rating": 4.5,
+            "review_count": 94,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/oi-asian-fusion-chino-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "luna-grill-chino-hills-chino-hills",
+            "categories": [
+                {
+                    "alias": "greek",
+                    "title": "Greek"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0011659741625,
+                "longitude": -117.726232528392
+            },
+            "display_phone": "(909) 703-5862",
+            "distance": 4252.174488242704,
+            "id": "mSS7WA9W4A1UpTUsbr3z7w",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NN5nGrLK1F5pqVu_tKcnlw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3660-A Grand Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chino Hills",
+                "country": "US",
+                "display_address": [
+                    "3660-A Grand Ave",
+                    "Chino Hills, CA 91709"
+                ],
+                "state": "CA",
+                "zip_code": "91709"
+            },
+            "name": "Luna Grill - Chino Hills",
+            "phone": "+19097035862",
+            "rating": 4.0,
+            "review_count": 72,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/luna-grill-chino-hills-chino-hills?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "piju-social-hour-chino",
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.9992341689537,
+                "longitude": -117.716123722494
+            },
+            "display_phone": "",
+            "distance": 4293.456914461227,
+            "id": "Ut9Pw8PABpg3mUdBeD2jmg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OwNyJ-oLCVOwDV2QpDzWfQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4024 Grand Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chino",
+                "country": "US",
+                "display_address": [
+                    "4024 Grand Ave",
+                    "Chino, CA 91710"
+                ],
+                "state": "CA",
+                "zip_code": "91710"
+            },
+            "name": "Piju Social Hour",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/piju-social-hour-chino?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "shomi-noods-chino",
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.9992341689537,
+                "longitude": -117.716123722494
+            },
+            "display_phone": "(909) 465-9870",
+            "distance": 4293.456914461227,
+            "id": "p73e-PAvNWmjtNx3xJwrlg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RTLQG_G6giwaGdSNsU_zKQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4024 Grand Ave",
+                "address2": "Unit 104",
+                "address3": null,
+                "city": "Chino",
+                "country": "US",
+                "display_address": [
+                    "4024 Grand Ave",
+                    "Unit 104",
+                    "Chino, CA 91710"
+                ],
+                "state": "CA",
+                "zip_code": "91710"
+            },
+            "name": "SHOMI NOODS",
+            "phone": "+19094659870",
+            "rating": 4.0,
+            "review_count": 89,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/shomi-noods-chino?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "cravings-by-99-ranch-market-chino-2",
+            "categories": [
+                {
+                    "alias": "grocery",
+                    "title": "Grocery"
+                },
+                {
+                    "alias": "restaurants",
+                    "title": "Restaurants"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.999256,
+                "longitude": -117.716091
+            },
+            "display_phone": "(909) 760-8899",
+            "distance": 4296.94024355412,
+            "id": "oy9-sn5n8O8YIE7TXt6UVQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iPSDEhLopcyAWRJJz0ht-A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4024 Grand Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chino",
+                "country": "US",
+                "display_address": [
+                    "4024 Grand Ave",
+                    "Chino, CA 91710"
+                ],
+                "state": "CA",
+                "zip_code": "91710"
+            },
+            "name": "Cravings by 99 Ranch Market",
+            "phone": "+19097608899",
+            "rating": 3.0,
+            "review_count": 160,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/cravings-by-99-ranch-market-chino-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "red-envelope-chino",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.9992388942567,
+                "longitude": -117.716011404991
+            },
+            "display_phone": "(714) 383-0414",
+            "distance": 4298.362196233911,
+            "id": "JALcBACeQiSdSlVPdzcFvw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/aDIxRls61xNVF3PsN46IWg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4036 Grand Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chino",
+                "country": "US",
+                "display_address": [
+                    "4036 Grand Ave",
+                    "Chino, CA 91710"
+                ],
+                "state": "CA",
+                "zip_code": "91710"
+            },
+            "name": "Red Envelope",
+            "phone": "+17143830414",
+            "rating": 4.0,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/red-envelope-chino?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "madbun-chino",
+            "categories": [
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.99932,
+                "longitude": -117.71653
+            },
+            "display_phone": "",
+            "distance": 4315.011357931749,
+            "id": "tef7nbI2izYfwqZQ2a9ncw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/beeWQTOv9CjtqaVeC1nvtw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4024 Grand Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chino",
+                "country": "US",
+                "display_address": [
+                    "4024 Grand Ave",
+                    "Chino, CA 91710"
+                ],
+                "state": "CA",
+                "zip_code": "91710"
+            },
+            "name": "Madbun",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 39,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/madbun-chino?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tenori-chino",
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.99932,
+                "longitude": -117.71653
+            },
+            "display_phone": "",
+            "distance": 4315.011357931749,
+            "id": "VbW-Co7fwZoj7s3yV4IhPw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2K0iMvVlJzD_GeG_DKr1uw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4024 Grand Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chino",
+                "country": "US",
+                "display_address": [
+                    "4024 Grand Ave",
+                    "Chino, CA 91710"
+                ],
+                "state": "CA",
+                "zip_code": "91710"
+            },
+            "name": "Tenori",
+            "phone": "",
+            "rating": 3.5,
+            "review_count": 40,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tenori-chino?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "dos-chinos-chino",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.99932,
+                "longitude": -117.71653
+            },
+            "display_phone": "(714) 383-0414",
+            "distance": 4315.011357931749,
+            "id": "gbFRdCDQb1Wa-5R3U9OxWw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3CXsFj9b9KYmoFORpUxV7A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4024 Grand Ave",
+                "address2": "Ste 101",
+                "address3": null,
+                "city": "Chino",
+                "country": "US",
+                "display_address": [
+                    "4024 Grand Ave",
+                    "Ste 101",
+                    "Chino, CA 91710"
+                ],
+                "state": "CA",
+                "zip_code": "91710"
+            },
+            "name": "Dos Chinos",
+            "phone": "+17143830414",
+            "rating": 3.5,
+            "review_count": 73,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dos-chinos-chino?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "wingman-kitchen-chino-4",
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.99932,
+                "longitude": -117.71653
+            },
+            "display_phone": "(714) 595-1768",
+            "distance": 4315.011357931749,
+            "id": "L1xDQyt6L07cNJksUT5PjQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iBN3yA6BCJuq1STFsGBqpA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4024 Grand Ave",
+                "address2": "Ste 108",
+                "address3": "Cravings Food Village",
+                "city": "Chino",
+                "country": "US",
+                "display_address": [
+                    "4024 Grand Ave",
+                    "Ste 108",
+                    "Cravings Food Village",
+                    "Chino, CA 91710"
+                ],
+                "state": "CA",
+                "zip_code": "91710"
+            },
+            "name": "Wingman Kitchen",
+            "phone": "+17145951768",
+            "rating": 4.0,
+            "review_count": 233,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/wingman-kitchen-chino-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "pinky-promise-chino",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.99932,
+                "longitude": -117.71653
+            },
+            "display_phone": "(909) 465-9885",
+            "distance": 4315.011357931749,
+            "id": "GaRiEwJYgwWm9hszq91hVg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eZavJNVYxfQGLj1tQw5Gag/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4024 Grand Ave",
+                "address2": "Ste 105",
+                "address3": null,
+                "city": "Chino",
+                "country": "US",
+                "display_address": [
+                    "4024 Grand Ave",
+                    "Ste 105",
+                    "Chino, CA 91710"
+                ],
+                "state": "CA",
+                "zip_code": "91710"
+            },
+            "name": "Pinky Promise",
+            "phone": "+19094659885",
+            "rating": 4.0,
+            "review_count": 43,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/pinky-promise-chino?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "cauldron-ice-cream-mini-chino",
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.99932,
+                "longitude": -117.71653
+            },
+            "display_phone": "(909) 517-9119",
+            "distance": 4315.011357931749,
+            "id": "DWLqK8tTe3IwJJI0ZUdUSw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LKyGGOdsLapxJeVIkeqijw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4024 Grand Ave",
+                "address2": "Unit 106",
+                "address3": "",
+                "city": "Chino",
+                "country": "US",
+                "display_address": [
+                    "4024 Grand Ave",
+                    "Unit 106",
+                    "Chino, CA 91710"
+                ],
+                "state": "CA",
+                "zip_code": "91710"
+            },
+            "name": "Cauldron Ice Cream Mini",
+            "phone": "+19095179119",
+            "rating": 4.0,
+            "review_count": 37,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/cauldron-ice-cream-mini-chino?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "buy-2-go-chino",
+            "categories": [
+                {
+                    "alias": "convenience",
+                    "title": "Convenience Stores"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.01923,
+                "longitude": -117.70638
+            },
+            "display_phone": "",
+            "distance": 6691.112479294599,
+            "id": "Gd2YPY9HrpOMxW_P8t9--A",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/K5VMir896qVkXzIFHF4R5Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4508 Riverside Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Chino",
+                "country": "US",
+                "display_address": [
+                    "4508 Riverside Rd",
+                    "Chino, CA 91710"
+                ],
+                "state": "CA",
+                "zip_code": "91710"
+            },
+            "name": "Buy 2 GO",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/buy-2-go-chino?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "princess-lash-chino",
+            "categories": [
+                {
+                    "alias": "eyelashservice",
+                    "title": "Eyelash Service"
+                },
+                {
+                    "alias": "permanentmakeup",
+                    "title": "Permanent Makeup"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.01853,
+                "longitude": -117.70277
+            },
+            "display_phone": "(909) 997-2833",
+            "distance": 6748.337855047219,
+            "id": "Ca96mHR3p4v3qR6vTBqKgA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NdVI9guiXKAv5b0cOvAWzg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4673 Riverside Dr",
+                "address2": "Ste F",
+                "address3": "",
+                "city": "Chino",
+                "country": "US",
+                "display_address": [
+                    "4673 Riverside Dr",
+                    "Ste F",
+                    "Chino, CA 91710"
+                ],
+                "state": "CA",
+                "zip_code": "91710"
+            },
+            "name": "Princess Lash",
+            "phone": "+19099972833",
+            "rating": 5.0,
+            "review_count": 21,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/princess-lash-chino?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "lumen-spa-claremont",
+            "categories": [
+                {
+                    "alias": "skincare",
+                    "title": "Skin Care"
+                },
+                {
+                    "alias": "massage_therapy",
+                    "title": "Massage Therapy"
+                },
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0968474715382,
+                "longitude": -117.717474607535
+            },
+            "display_phone": "(909) 741-7667",
+            "distance": 14835.325249401474,
+            "id": "HhzJ9cu3GICbGK0nFkUjvQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RHZRDft5poVSWOEfzcw2UA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "267 W Bonita Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Claremont",
+                "country": "US",
+                "display_address": [
+                    "267 W Bonita Ave",
+                    "Claremont, CA 91711"
+                ],
+                "state": "CA",
+                "zip_code": "91711"
+            },
+            "name": "Lumen Spa",
+            "phone": "+19097417667",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/lumen-spa-claremont?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hair-makeup-by-sydney-orange",
+            "categories": [
+                {
+                    "alias": "makeupartists",
+                    "title": "Makeup Artists"
+                },
+                {
+                    "alias": "hairstylists",
+                    "title": "Hair Stylists"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7874,
+                "longitude": -117.82252
+            },
+            "display_phone": "(951) 552-5675",
+            "distance": 21234.18048713698,
+            "id": "lM7he-sB9ItDgdNz6xOxHg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EZmQYEkZ-tjK6nVsSS-SEQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2922 E Chapman Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Orange",
+                "country": "US",
+                "display_address": [
+                    "2922 E Chapman Ave",
+                    "Orange, CA 92869"
+                ],
+                "state": "CA",
+                "zip_code": "92869"
+            },
+            "name": "Hair + Makeup by Sydney",
+            "phone": "+19515525675",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hair-makeup-by-sydney-orange?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 33.96431625439949,
+            "longitude": -117.73599930728743
+        }
+    },
+    "total": 19
+}

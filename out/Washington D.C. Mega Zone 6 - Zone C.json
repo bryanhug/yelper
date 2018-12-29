@@ -1,0 +1,267 @@
+{
+    "businesses": [
+        {
+            "alias": "taqueria-habanero-college-park-3",
+            "categories": [
+                {
+                    "alias": "newmexican",
+                    "title": "New Mexican Cuisine"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.99091,
+                "longitude": -76.93276
+            },
+            "display_phone": "(240) 241-4486",
+            "distance": 658.609658983306,
+            "id": "xY6IuDhzT9-m8CMNk812zQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PJQZ2X87WMK1UOoKqobgFg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8145 Baltimore Ave",
+                "address2": null,
+                "address3": "",
+                "city": "College Park",
+                "country": "US",
+                "display_address": [
+                    "8145 Baltimore Ave",
+                    "College Park, MD 20740"
+                ],
+                "state": "MD",
+                "zip_code": "20740"
+            },
+            "name": "Taqueria Habanero",
+            "phone": "+12402414486",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/taqueria-habanero-college-park-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "qu-japan-college-park-2",
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                },
+                {
+                    "alias": "teppanyaki",
+                    "title": "Teppanyaki"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.9811,
+                "longitude": -76.93808
+            },
+            "display_phone": "(240) 467-3332",
+            "distance": 1844.4786200721933,
+            "id": "Jjwhw-iyZqf9WFiaHDLkow",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6-lWT31VDV3PW_JmNd_y2A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7406 Baltimore Ave",
+                "address2": null,
+                "address3": "",
+                "city": "College Park",
+                "country": "US",
+                "display_address": [
+                    "7406 Baltimore Ave",
+                    "College Park, MD 20740"
+                ],
+                "state": "MD",
+                "zip_code": "20740"
+            },
+            "name": "Qu Japan",
+            "phone": "+12404673332",
+            "rating": 4.5,
+            "review_count": 31,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/qu-japan-college-park-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "cava-college-park",
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.98025,
+                "longitude": -76.93815
+            },
+            "display_phone": "(301) 200-5417",
+            "distance": 1918.9894505076777,
+            "id": "Qfwuu24x0YFwyUbggnGjqw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Y4Xt06BpWTcS9FpNWUczIw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7350 Baltimore Ave",
+                "address2": "",
+                "address3": null,
+                "city": "College Park",
+                "country": "US",
+                "display_address": [
+                    "7350 Baltimore Ave",
+                    "College Park, MD 20740"
+                ],
+                "state": "MD",
+                "zip_code": "20740"
+            },
+            "name": "CAVA",
+            "phone": "+13012005417",
+            "rating": 4.5,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/cava-college-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "wings-over-college-park-college-park",
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.9799513918886,
+                "longitude": -76.9422777276122
+            },
+            "display_phone": "(240) 828-8158",
+            "distance": 2090.165103837001,
+            "id": "nFeMb32-tlTpApj1G-Ervw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UJArYL3Iy_8rFQMbFF4chw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4200 Hartwick Rd",
+                "address2": "Ste D",
+                "address3": "",
+                "city": "College Park",
+                "country": "US",
+                "display_address": [
+                    "4200 Hartwick Rd",
+                    "Ste D",
+                    "College Park, MD 20740"
+                ],
+                "state": "MD",
+                "zip_code": "20740"
+            },
+            "name": "Wings Over - College Park",
+            "phone": "+12408288158",
+            "rating": 4.0,
+            "review_count": 9,
+            "transactions": [
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/wings-over-college-park-college-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "seoulspice-college-park",
+            "categories": [
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                },
+                {
+                    "alias": "gluten_free",
+                    "title": "Gluten-Free"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.9809206722981,
+                "longitude": -76.9439377013476
+            },
+            "display_phone": "(202) 792-8879",
+            "distance": 2125.0347973884086,
+            "id": "g5dSvFcE560E0ieZt-08Yg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yxoxVIQc0c_cFj5wIXdShw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4200 Guilford Dr",
+                "address2": null,
+                "address3": "",
+                "city": "College Park",
+                "country": "US",
+                "display_address": [
+                    "4200 Guilford Dr",
+                    "College Park, MD 20740"
+                ],
+                "state": "MD",
+                "zip_code": "20740"
+            },
+            "name": "SEOULSPICE",
+            "phone": "+12027928879",
+            "rating": 4.0,
+            "review_count": 7,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/seoulspice-college-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "marco-and-polo-hyattsville",
+            "categories": [
+                {
+                    "alias": "uzbek",
+                    "title": "Uzbek"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.96879,
+                "longitude": -76.95247
+            },
+            "display_phone": "(301) 864-1670",
+            "distance": 3663.0726436523887,
+            "id": "YoHfjQvGxQ52shKkvmdDvg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BjuHYszAdaQ30pMg5Xw2yw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6504 America Blvd",
+                "address2": "Ste 104",
+                "address3": null,
+                "city": "Hyattsville",
+                "country": "US",
+                "display_address": [
+                    "6504 America Blvd",
+                    "Ste 104",
+                    "Hyattsville, MD 20782"
+                ],
+                "state": "MD",
+                "zip_code": "20782"
+            },
+            "name": "Marco & Polo",
+            "phone": "+13018641670",
+            "rating": 4.5,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/marco-and-polo-hyattsville?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 38.996066157899904,
+            "longitude": -76.92882504611235
+        }
+    },
+    "total": 6
+}

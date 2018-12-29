@@ -1,0 +1,93 @@
+{
+    "businesses": [
+        {
+            "alias": "los-arcos-mexican-restaurant-allen-park",
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.2696972791652,
+                "longitude": -83.1968417018652
+            },
+            "display_phone": "",
+            "distance": 5192.140345776649,
+            "id": "a1dxdqi3NPd6usfI_N4SxA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FK2_Uu-osnRwNykQylHutA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4327 Allen Rd",
+                "address2": "",
+                "address3": null,
+                "city": "Allen Park",
+                "country": "US",
+                "display_address": [
+                    "4327 Allen Rd",
+                    "Allen Park, MI 48101"
+                ],
+                "state": "MI",
+                "zip_code": "48101"
+            },
+            "name": "Los Arcos Mexican Restaurant",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/los-arcos-mexican-restaurant-allen-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-pentacle-path-birmingham",
+            "categories": [
+                {
+                    "alias": "psychics",
+                    "title": "Psychics"
+                },
+                {
+                    "alias": "spiritual_shop",
+                    "title": "Spiritual Shop"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.54697,
+                "longitude": -83.21309
+            },
+            "display_phone": "(313) 583-9509",
+            "distance": 26059.763001582225,
+            "id": "Ad_c3Kkw9RnXbPJjl2kJFg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RkdyDvfl-lJuljDgUCZObQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "303 E Maple Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Birmingham",
+                "country": "US",
+                "display_address": [
+                    "303 E Maple Rd",
+                    "Birmingham, MI 48009"
+                ],
+                "state": "MI",
+                "zip_code": "48009"
+            },
+            "name": "The Pentacle Path",
+            "phone": "+13135839509",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-pentacle-path-birmingham?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 42.314140455341914,
+            "longitude": -83.17747941045008
+        }
+    },
+    "total": 2
+}

@@ -1,0 +1,214 @@
+{
+    "businesses": [
+        {
+            "alias": "kona-pok\u00e9-lake-mary",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "hawaiian",
+                    "title": "Hawaiian"
+                },
+                {
+                    "alias": "poke",
+                    "title": "Poke"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.7519475,
+                "longitude": -81.3359932
+            },
+            "display_phone": "(407) 500-5662",
+            "distance": 3701.4691454204813,
+            "id": "5js2enoSdsgeUW87CvF7ow",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KpuywL7zqIezZXxtyAElgg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "242 Wheelhouse Ln",
+                "address2": "Unit 1230",
+                "address3": "",
+                "city": "Lake Mary",
+                "country": "US",
+                "display_address": [
+                    "242 Wheelhouse Ln",
+                    "Unit 1230",
+                    "Lake Mary, FL 32746"
+                ],
+                "state": "FL",
+                "zip_code": "32746"
+            },
+            "name": "Kona Pok\u00e9",
+            "phone": "+14075005662",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kona-pok%C3%A9-lake-mary?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "grato-italian-grill-and-pizzeria-lake-mary",
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.75531,
+                "longitude": -81.34562
+            },
+            "display_phone": "(407) 268-3715",
+            "distance": 4538.363034780154,
+            "id": "JWk9vlouQsMZWbHaPXurkg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uHjD5WojUKC6OB6ICHxXow/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3801 W Lake Mary Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Lake Mary",
+                "country": "US",
+                "display_address": [
+                    "3801 W Lake Mary Blvd",
+                    "Lake Mary, FL 32746"
+                ],
+                "state": "FL",
+                "zip_code": "32746"
+            },
+            "name": "Grato Italian Grill & Pizzeria",
+            "phone": "+14072683715",
+            "rating": 4.0,
+            "review_count": 30,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/grato-italian-grill-and-pizzeria-lake-mary?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "red-lantern-sanford",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.80293,
+                "longitude": -81.3306
+            },
+            "display_phone": "(407) 915-7077",
+            "distance": 5340.504588905331,
+            "id": "wL18WivSEQrJNac_mq0kOA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-PEBvMZ5eLz6A8VTLekMlA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1625 Rinehart Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Sanford",
+                "country": "US",
+                "display_address": [
+                    "1625 Rinehart Rd",
+                    "Sanford, FL 32771"
+                ],
+                "state": "FL",
+                "zip_code": "32771"
+            },
+            "name": "Red Lantern",
+            "phone": "+14079157077",
+            "rating": 4.5,
+            "review_count": 45,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/red-lantern-sanford?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "pho-au-lac-winter-springs",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.6979334472766,
+                "longitude": -81.2619926780462
+            },
+            "display_phone": "(407) 278-3113",
+            "distance": 8139.2939563716745,
+            "id": "IkYecwYUK_Rl2uxLYVOw4g",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/B3Bk2MUG2M8hf0ZCaN0JFg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "158 Tuskawilla Rd",
+                "address2": "Ste 1300",
+                "address3": null,
+                "city": "Winter Springs",
+                "country": "US",
+                "display_address": [
+                    "158 Tuskawilla Rd",
+                    "Ste 1300",
+                    "Winter Springs, FL 32708"
+                ],
+                "state": "FL",
+                "zip_code": "32708"
+            },
+            "name": "Pho Au Lac",
+            "phone": "+14072783113",
+            "rating": 4.0,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/pho-au-lac-winter-springs?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "get-up-and-go-kayaking-crystal-river",
+            "categories": [
+                {
+                    "alias": "rafting",
+                    "title": "Rafting/Kayaking"
+                },
+                {
+                    "alias": "boattours",
+                    "title": "Boat Tours"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.8968550340356,
+                "longitude": -82.5944999714781
+            },
+            "display_phone": "(407) 212-7306",
+            "distance": 127166.03620110512,
+            "id": "W_k1CzXj1zf0zIXcEAmwWg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9Ray-7UyodoJflXkIfvEMw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "268 NW 3rd St",
+                "address2": null,
+                "address3": "",
+                "city": "Crystal River",
+                "country": "US",
+                "display_address": [
+                    "268 NW 3rd St",
+                    "Crystal River, FL 34428"
+                ],
+                "state": "FL",
+                "zip_code": "34428"
+            },
+            "name": "Get Up And Go Kayaking",
+            "phone": "+14072127306",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/get-up-and-go-kayaking-crystal-river?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 28.763518589694964,
+            "longitude": -81.29906187971743
+        }
+    },
+    "total": 5
+}

@@ -1,0 +1,177 @@
+{
+    "businesses": [
+        {
+            "alias": "kiyo-sushi-and-sake-irvine",
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.72254,
+                "longitude": -117.77219
+            },
+            "display_phone": "(714) 389-7999",
+            "distance": 2264.5924030127885,
+            "id": "lNHAQ0iE3gW_8yOFBbmoWg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZEczLipB2UlGIFnZBnvu0w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3957 Irvine Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Irvine",
+                "country": "US",
+                "display_address": [
+                    "3957 Irvine Blvd",
+                    "Irvine, CA 92602"
+                ],
+                "state": "CA",
+                "zip_code": "92602"
+            },
+            "name": "Kiyo Sushi And Sake",
+            "phone": "+17143897999",
+            "rating": 4.5,
+            "review_count": 37,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kiyo-sushi-and-sake-irvine?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "la-crab-irvine-5",
+            "categories": [
+                {
+                    "alias": "cajun",
+                    "title": "Cajun/Creole"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7122307,
+                "longitude": -117.7607373
+            },
+            "display_phone": "(714) 389-7777",
+            "distance": 2479.927529639405,
+            "id": "1B07P84MbYs3uVXKQ0vsRg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JtrneBVwW33DNRWuOniZ9Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4800 Irvine Blvd",
+                "address2": null,
+                "address3": "Zion Market",
+                "city": "Irvine",
+                "country": "US",
+                "display_address": [
+                    "4800 Irvine Blvd",
+                    "Zion Market",
+                    "Irvine, CA 92620"
+                ],
+                "state": "CA",
+                "zip_code": "92620"
+            },
+            "name": "La Crab",
+            "phone": "+17143897777",
+            "rating": 4.5,
+            "review_count": 29,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/la-crab-irvine-5?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hako-irvine",
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.712337,
+                "longitude": -117.76139
+            },
+            "display_phone": "(714) 389-4202",
+            "distance": 2497.4005381128604,
+            "id": "Nmgqn9hiV0ipRj7Zu0v0wQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8dEk_h-ga7tuYw5phFw8Ig/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4790 Irvine Blvd",
+                "address2": "Ste 103",
+                "address3": null,
+                "city": "Irvine",
+                "country": "US",
+                "display_address": [
+                    "4790 Irvine Blvd",
+                    "Ste 103",
+                    "Irvine, CA 92620"
+                ],
+                "state": "CA",
+                "zip_code": "92620"
+            },
+            "name": "Hako",
+            "phone": "+17143894202",
+            "rating": 4.0,
+            "review_count": 33,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hako-irvine?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "redstraw-irvine-6",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.69619,
+                "longitude": -117.76277
+            },
+            "display_phone": "(949) 336-7527",
+            "distance": 4216.807232844417,
+            "id": "6xocTIjQO92rKxH0JbkZmw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LUqDHJIlh5hR6rr1b-X-zg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "14031 Jeffrey Rd",
+                "address2": "",
+                "address3": null,
+                "city": "Irvine",
+                "country": "US",
+                "display_address": [
+                    "14031 Jeffrey Rd",
+                    "Irvine, CA 92620"
+                ],
+                "state": "CA",
+                "zip_code": "92620"
+            },
+            "name": "Redstraw",
+            "phone": "+19493367527",
+            "rating": 4.0,
+            "review_count": 43,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/redstraw-irvine-6?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 33.73245216798248,
+            "longitude": -117.74942697120395
+        }
+    },
+    "total": 4
+}

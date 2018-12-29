@@ -1,0 +1,50 @@
+Prime 1024
+1024 Northern Blvd, Roslyn, NY 11576, 
++15166211024
+https://www.yelp.com/biz/prime-1024-roslyn?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Boychiks Bagels
+900 Port Washington Blvd, Port Washington, NY 11050, 
++15169189444
+https://www.yelp.com/biz/boychiks-bagels-port-washington?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Empire Dynasty Barber Shop & Unisex Salon
+102 Mineola Ave, Roslyn Heights, NY 11577, 
++16466517572
+https://www.yelp.com/biz/empire-dynasty-barber-shop-and-unisex-salon-roslyn-heights?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Maldon & Mignonette
+243 Glen Cove Ave, Sea Cliff, NY 11579, 
++15168013250
+https://www.yelp.com/biz/maldon-and-mignonette-sea-cliff?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+NY Chicken & Rice
+214 Glen Cove Ave, Glen Cove, NY 11542, 
++15168018080
+https://www.yelp.com/biz/ny-chicken-and-rice-glen-cove?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+AVO TACO
+2340 Jericho Turnpike, New Hyde Park, NY 11040, 
++15163732340
+https://www.yelp.com/biz/avo-taco-new-hyde-park-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Halal-N-out
+783 Hillside Ave, New Hyde Park, NY 11040, 
++15165026791
+https://www.yelp.com/biz/halal-n-out-new-hyde-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Small Batch
+630 Old Country Rd, Garden City, NY 11530, 
++15165488162
+https://www.yelp.com/biz/small-batch-garden-city?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Kung Fu Kitchen
+630 Old Country Rd, Roosevelt Field Mall, Garden City, NY 11530, 
+
+https://www.yelp.com/biz/kung-fu-kitchen-garden-city?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Dolce Aesthetics
+161-02 Cross Bay Blvd, Queens, NY 11414, 
++17183225300
+https://www.yelp.com/biz/dolce-aesthetics-queens-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+

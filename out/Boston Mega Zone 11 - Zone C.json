@@ -1,0 +1,101 @@
+{
+    "businesses": [
+        {
+            "alias": "alcove-boston",
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.3666759,
+                "longitude": -71.0595845
+            },
+            "display_phone": "(617) 248-0050",
+            "distance": 2908.8501206784954,
+            "id": "o9DfCXqPQvzEPdBSaCBd1g",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WjQ2Bp7_3n1k93QLcqXlRA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "50 Lovejoy Wharf",
+                "address2": null,
+                "address3": "",
+                "city": "Boston",
+                "country": "US",
+                "display_address": [
+                    "50 Lovejoy Wharf",
+                    "Boston, MA 02114"
+                ],
+                "state": "MA",
+                "zip_code": "02114"
+            },
+            "name": "Alcove",
+            "phone": "+16172480050",
+            "rating": 4.5,
+            "review_count": 32,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/alcove-boston?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "elmendorf-baking-supplies-cambridge",
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "gourmet",
+                    "title": "Specialty Food"
+                },
+                {
+                    "alias": "hobbyshops",
+                    "title": "Hobby Shops"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.37176,
+                "longitude": -71.08629
+            },
+            "display_phone": "(617) 945-0045",
+            "distance": 2967.1032306783995,
+            "id": "kep4X3l6_QGontdytpPdwg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/C58sXkstnv2jzUHUlnLnsw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "594 Cambridge St",
+                "address2": null,
+                "address3": "",
+                "city": "Cambridge",
+                "country": "US",
+                "display_address": [
+                    "594 Cambridge St",
+                    "Cambridge, MA 02141"
+                ],
+                "state": "MA",
+                "zip_code": "02141"
+            },
+            "name": "Elmendorf Baking Supplies",
+            "phone": "+16179450045",
+            "rating": 5.0,
+            "review_count": 6,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/elmendorf-baking-supplies-cambridge?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 42.39242973519276,
+            "longitude": -71.06347894288692
+        }
+    },
+    "total": 2
+}

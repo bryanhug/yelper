@@ -1,0 +1,51 @@
+{
+    "businesses": [
+        {
+            "alias": "achilitos-taqueria-boston",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.29874,
+                "longitude": -71.11405
+            },
+            "display_phone": "(617) 942-7901",
+            "distance": 5277.850323143108,
+            "id": "1sehXiCONsgT0PpG08-nvg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WYMkdIl_XXXbA_ZxddUAbg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "38 Hyde Park Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Boston",
+                "country": "US",
+                "display_address": [
+                    "38 Hyde Park Ave",
+                    "Boston, MA 02130"
+                ],
+                "state": "MA",
+                "zip_code": "02130"
+            },
+            "name": "Achilito's Taqueria",
+            "phone": "+16179427901",
+            "rating": 3.5,
+            "review_count": 7,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/achilitos-taqueria-boston?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 42.25708647759966,
+            "longitude": -71.08348626890357
+        }
+    },
+    "total": 1
+}

@@ -1,0 +1,353 @@
+{
+    "businesses": [
+        {
+            "alias": "the-human-bean-phoenix-3",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.53131,
+                "longitude": -112.04779
+            },
+            "display_phone": "",
+            "distance": 427.22572289937654,
+            "id": "4dnmLpNobhNAyZDdXOhoWg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MV3o8Zt2PGXhhFGHc9S6rQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6502 N 16th St",
+                "address2": null,
+                "address3": null,
+                "city": "Phoenix",
+                "country": "US",
+                "display_address": [
+                    "6502 N 16th St",
+                    "Phoenix, AZ 85016"
+                ],
+                "state": "AZ",
+                "zip_code": "85016"
+            },
+            "name": "The Human Bean",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-human-bean-phoenix-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "george-yang-s-chinese-cuisine-phoenix",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.5251608387587,
+                "longitude": -112.047549133301
+            },
+            "display_phone": "(602) 368-2688",
+            "distance": 1039.6558440721035,
+            "id": "ZDTcBK9f7PP4oLDf2VrgGg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/n2bVyrxCjDtuGv8B9GoS2g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6048 N 16th St",
+                "address2": "",
+                "address3": null,
+                "city": "Phoenix",
+                "country": "US",
+                "display_address": [
+                    "6048 N 16th St",
+                    "Phoenix, AZ 85016"
+                ],
+                "state": "AZ",
+                "zip_code": "85016"
+            },
+            "name": "George Yang\u2019s Chinese Cuisine",
+            "phone": "+16023682688",
+            "rating": 4.0,
+            "review_count": 56,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/george-yang-s-chinese-cuisine-phoenix?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "atl-wings-phoenix-2",
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.55092,
+                "longitude": -112.0567049
+            },
+            "display_phone": "(602) 368-4332",
+            "distance": 2200.2490681113773,
+            "id": "TdgmUfxEsch8Top9bvb3TA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RAd7Wk8enHzsb62mdttSRw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7810 N 12th St",
+                "address2": "",
+                "address3": null,
+                "city": "Phoenix",
+                "country": "US",
+                "display_address": [
+                    "7810 N 12th St",
+                    "Phoenix, AZ 85020"
+                ],
+                "state": "AZ",
+                "zip_code": "85020"
+            },
+            "name": "ATL Wings",
+            "phone": "+16023684332",
+            "rating": 4.5,
+            "review_count": 37,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/atl-wings-phoenix-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ritos-mexican-food-crown-phoenix",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.52249,
+                "longitude": -112.06461
+            },
+            "display_phone": "(602) 368-6726",
+            "distance": 2258.2759219530653,
+            "id": "ayAe3Ap3lN2tPwkfKDLeuA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HbS89gT7YulBCthoiy_qYw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5813 N 7th St",
+                "address2": "Ste 135",
+                "address3": "",
+                "city": "Phoenix",
+                "country": "US",
+                "display_address": [
+                    "5813 N 7th St",
+                    "Ste 135",
+                    "Phoenix, AZ 85014"
+                ],
+                "state": "AZ",
+                "zip_code": "85014"
+            },
+            "name": "Rito's Mexican Food - Crown",
+            "phone": "+16023686726",
+            "rating": 4.5,
+            "review_count": 43,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ritos-mexican-food-crown-phoenix?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "lavatory-phoenix",
+            "categories": [
+                {
+                    "alias": "danceclubs",
+                    "title": "Dance Clubs"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.50589,
+                "longitude": -112.05688
+            },
+            "display_phone": "(480) 968-7895",
+            "distance": 3343.9897921201896,
+            "id": "Tpta8AcqceWrCdSBh3ChxQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lbG4ypvEzwSGMeO5s0QoVw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4700 N 12th St",
+                "address2": "",
+                "address3": null,
+                "city": "Phoenix",
+                "country": "US",
+                "display_address": [
+                    "4700 N 12th St",
+                    "Phoenix, AZ 85014"
+                ],
+                "state": "AZ",
+                "zip_code": "85014"
+            },
+            "name": "Lavatory",
+            "phone": "+14809687895",
+            "rating": 4.5,
+            "review_count": 6,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/lavatory-phoenix?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "whyld-ass-phoenix",
+            "categories": [
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.5082255667406,
+                "longitude": -112.065438991074
+            },
+            "display_phone": "(602) 237-6724",
+            "distance": 3467.2990802213435,
+            "id": "ivjJxc3IhwrY8r-ESilEiQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SeLrDGYNI0tDN0Y24bRbpA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4810 N 7th St",
+                "address2": "",
+                "address3": null,
+                "city": "Phoenix",
+                "country": "US",
+                "display_address": [
+                    "4810 N 7th St",
+                    "Phoenix, AZ 85014"
+                ],
+                "state": "AZ",
+                "zip_code": "85014"
+            },
+            "name": "Whyld Ass",
+            "phone": "+16022376724",
+            "rating": 3.5,
+            "review_count": 50,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/whyld-ass-phoenix?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "little-miss-bbq-sunnyslope-phoenix",
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.5663636723435,
+                "longitude": -112.06480065542
+            },
+            "display_phone": "(602) 314-6922",
+            "distance": 4026.6432061221553,
+            "id": "j-3kj1ZCKINyqRVHbWHv3Q",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SHZ19eRZXccB_CGcbT7Dtg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8901 N 7th St",
+                "address2": "",
+                "address3": null,
+                "city": "Phoenix",
+                "country": "US",
+                "display_address": [
+                    "8901 N 7th St",
+                    "Phoenix, AZ 85020"
+                ],
+                "state": "AZ",
+                "zip_code": "85020"
+            },
+            "name": "Little Miss BBQ - Sunnyslope",
+            "phone": "+16023146922",
+            "rating": 4.0,
+            "review_count": 43,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/little-miss-bbq-sunnyslope-phoenix?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "across-the-pond-phoenix",
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.49747,
+                "longitude": -112.07415
+            },
+            "display_phone": "(602) 296-5629",
+            "distance": 4901.248045325476,
+            "id": "XB5_UKDqkZqpD_nZSIASvw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MudvFcrcVL4po3y6zcXnWA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4236 N Central Ave",
+                "address2": "Ste 101",
+                "address3": null,
+                "city": "Phoenix",
+                "country": "US",
+                "display_address": [
+                    "4236 N Central Ave",
+                    "Ste 101",
+                    "Phoenix, AZ 85012"
+                ],
+                "state": "AZ",
+                "zip_code": "85012"
+            },
+            "name": "Across The Pond",
+            "phone": "+16022965629",
+            "rating": 4.0,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/across-the-pond-phoenix?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "los-taquitos-arcadia-phoenix",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.4953303,
+                "longitude": -112.0133379
+            },
+            "display_phone": "(602) 237-5141",
+            "distance": 5118.480748590555,
+            "id": "OErw2LJmXex7sNOdsKE7QA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8ZLdcYQ9sJbTFJuw4XSVYw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3176 E Indian School Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Phoenix",
+                "country": "US",
+                "display_address": [
+                    "3176 E Indian School Rd",
+                    "Phoenix, AZ 85016"
+                ],
+                "state": "AZ",
+                "zip_code": "85016"
+            },
+            "name": "Los Taquitos Arcadia",
+            "phone": "+16022375141",
+            "rating": 4.0,
+            "review_count": 18,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/los-taquitos-arcadia-phoenix?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 33.534222216923766,
+            "longitude": -112.04478446397738
+        }
+    },
+    "total": 9
+}

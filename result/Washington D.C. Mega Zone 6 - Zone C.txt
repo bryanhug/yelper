@@ -1,0 +1,30 @@
+Taqueria Habanero
+8145 Baltimore Ave, College Park, MD 20740, 
++12402414486
+https://www.yelp.com/biz/taqueria-habanero-college-park-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Qu Japan
+7406 Baltimore Ave, College Park, MD 20740, 
++12404673332
+https://www.yelp.com/biz/qu-japan-college-park-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+CAVA
+7350 Baltimore Ave, College Park, MD 20740, 
++13012005417
+https://www.yelp.com/biz/cava-college-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Wings Over - College Park
+4200 Hartwick Rd, Ste D, College Park, MD 20740, 
++12408288158
+https://www.yelp.com/biz/wings-over-college-park-college-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+SEOULSPICE
+4200 Guilford Dr, College Park, MD 20740, 
++12027928879
+https://www.yelp.com/biz/seoulspice-college-park?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Marco & Polo
+6504 America Blvd, Ste 104, Hyattsville, MD 20782, 
++13018641670
+https://www.yelp.com/biz/marco-and-polo-hyattsville?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+

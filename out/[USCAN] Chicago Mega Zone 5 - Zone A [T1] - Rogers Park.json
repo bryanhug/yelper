@@ -1,0 +1,134 @@
+{
+    "businesses": [
+        {
+            "alias": "sebastian-s-coffee-and-bakery-chicago",
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.00392,
+                "longitude": -87.67296
+            },
+            "display_phone": "(773) 942-6749",
+            "distance": 899.2718875300435,
+            "id": "lbRT4Kn5lty0VsTrgDdK9g",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oewF8XVnwSTbSBiPpnmpcA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6712 N Clark St",
+                "address2": "",
+                "address3": null,
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "6712 N Clark St",
+                    "Chicago, IL 60626"
+                ],
+                "state": "IL",
+                "zip_code": "60626"
+            },
+            "name": "Sebastian\u2019s Coffee & Bakery",
+            "phone": "+17739426749",
+            "rating": 4.5,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sebastian-s-coffee-and-bakery-chicago?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "anto-pizza-chicago-chicago",
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.01578,
+                "longitude": -87.66985
+            },
+            "display_phone": "(773) 942-7427",
+            "distance": 1187.1672591073675,
+            "id": "ss_w9TZiXBnuBrTfrMtG4Q",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/C7hh1rV3_bNbLz5PsxgPSA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1547 W Jarvis",
+                "address2": null,
+                "address3": "",
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "1547 W Jarvis",
+                    "Chicago, IL 60626"
+                ],
+                "state": "IL",
+                "zip_code": "60626"
+            },
+            "name": "Anto pizza Chicago",
+            "phone": "+17739427427",
+            "rating": 5.0,
+            "review_count": 14,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/anto-pizza-chicago-chicago?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "le-piano-chicago",
+            "categories": [
+                {
+                    "alias": "jazzandblues",
+                    "title": "Jazz & Blues"
+                },
+                {
+                    "alias": "pianobars",
+                    "title": "Piano Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 42.0086688,
+                "longitude": -87.6663522
+            },
+            "display_phone": "(773) 209-7631",
+            "distance": 1223.7951134119737,
+            "id": "3onKRG1fxPYuESYOjt0A9w",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aSL4rXSToNdauT1yOC6mRA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6970 N Glenwood Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "6970 N Glenwood Ave",
+                    "Chicago, IL 60626"
+                ],
+                "state": "IL",
+                "zip_code": "60626"
+            },
+            "name": "Le Piano",
+            "phone": "+17732097631",
+            "rating": 4.5,
+            "review_count": 14,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/le-piano-chicago?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 42.00917954653898,
+            "longitude": -87.68112055886463
+        }
+    },
+    "total": 3
+}

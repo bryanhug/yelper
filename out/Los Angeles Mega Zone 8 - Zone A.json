@@ -1,0 +1,821 @@
+{
+    "businesses": [
+        {
+            "alias": "milo-cafe-and-organic-juicery-pasadena",
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.15834,
+                "longitude": -118.13201
+            },
+            "display_phone": "(626) 486-2044",
+            "distance": 1362.0582545211794,
+            "id": "wnS1QP7DDmC_XU-lTmDamw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GzuiIyfsTa7PDHkaRSB_Gw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "720 N Lake Ave",
+                "address2": "Ste 5",
+                "address3": null,
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "720 N Lake Ave",
+                    "Ste 5",
+                    "Pasadena, CA 91104"
+                ],
+                "state": "CA",
+                "zip_code": "91104"
+            },
+            "name": "Milo Cafe & Organic Juicery",
+            "phone": "+16264862044",
+            "rating": 4.5,
+            "review_count": 20,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/milo-cafe-and-organic-juicery-pasadena?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-pan-pasadena-3",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.14778,
+                "longitude": -118.14934
+            },
+            "display_phone": "(626) 469-0099",
+            "distance": 1534.641696784381,
+            "id": "9DpCuYwjZu9BWacCUocVAQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uZdCu8hQyhrVA_Uh_s3n0w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "57 E Holly St",
+                "address2": null,
+                "address3": "",
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "57 E Holly St",
+                    "Pasadena, CA 91103"
+                ],
+                "state": "CA",
+                "zip_code": "91103"
+            },
+            "name": "The Pan",
+            "phone": "+16264690099",
+            "rating": 4.0,
+            "review_count": 137,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-pan-pasadena-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "donut-bar-pasadena-2",
+            "categories": [
+                {
+                    "alias": "donuts",
+                    "title": "Donuts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.1459745804369,
+                "longitude": -118.141136867042
+            },
+            "display_phone": "",
+            "distance": 1786.2664977119548,
+            "id": "eVM8Ceqs9s17Q7BgjWt-Vw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fCN0KOI-n4WBuMol0r0PIA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "445 E Colorado Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "445 E Colorado Blvd",
+                    "Pasadena, CA 91101"
+                ],
+                "state": "CA",
+                "zip_code": "91101"
+            },
+            "name": "Donut Bar",
+            "phone": "",
+            "rating": 3.5,
+            "review_count": 28,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/donut-bar-pasadena-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "blue-bottle-coffee-pasadena",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.1454764,
+                "longitude": -118.1503451
+            },
+            "display_phone": "",
+            "distance": 1818.4897585576869,
+            "id": "_GrodmsECI-bCUdo_cUMqA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8w0K1FLw8bEZcigbas0TVQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "18 S Fair Oaks Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "18 S Fair Oaks Ave",
+                    "Pasadena, CA 91105"
+                ],
+                "state": "CA",
+                "zip_code": "91105"
+            },
+            "name": "Blue Bottle Coffee",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 29,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/blue-bottle-coffee-pasadena?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bayou-shrimp-pasadena",
+            "categories": [
+                {
+                    "alias": "cajun",
+                    "title": "Cajun/Creole"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.14512,
+                "longitude": -118.14849
+            },
+            "display_phone": "(626) 817-9522",
+            "distance": 1818.9050711424268,
+            "id": "JwSEO0PoY5emQwXLZ0Sy4A",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/J-_ls-aQC8wUVOFROReLJA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "34 S Raymond Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "34 S Raymond Ave",
+                    "Pasadena, CA 91105"
+                ],
+                "state": "CA",
+                "zip_code": "91105"
+            },
+            "name": "Bayou Shrimp",
+            "phone": "+16268179522",
+            "rating": 4.5,
+            "review_count": 53,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bayou-shrimp-pasadena?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "half-off-books-pasadena",
+            "categories": [
+                {
+                    "alias": "musicvideo",
+                    "title": "Music & DVDs"
+                },
+                {
+                    "alias": "bookstores",
+                    "title": "Bookstores"
+                },
+                {
+                    "alias": "comicbooks",
+                    "title": "Comic Books"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.145383,
+                "longitude": -118.151399
+            },
+            "display_phone": "(626) 365-1211",
+            "distance": 1842.8967466191643,
+            "id": "J3hLiOuB0F-8X9O2LYBjpw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Oz0w2vZDEOSA9jmACUe68Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "42 E Colorado Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "42 E Colorado Blvd",
+                    "Pasadena, CA 91105"
+                ],
+                "state": "CA",
+                "zip_code": "91105"
+            },
+            "name": "Half Off Books",
+            "phone": "+16263651211",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/half-off-books-pasadena?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "me-crepe-pasadena",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.1446739976045,
+                "longitude": -118.148570917547
+            },
+            "display_phone": "(626) 345-5291",
+            "distance": 1874.2391831437576,
+            "id": "71ZRyvkW8E56KnXE8G07fQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/g3EeBiDZQskZpYrpndnyUg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "89 E Green St",
+                "address2": "",
+                "address3": null,
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "89 E Green St",
+                    "Pasadena, CA 91105"
+                ],
+                "state": "CA",
+                "zip_code": "91105"
+            },
+            "name": "Me + Crepe",
+            "phone": "+16263455291",
+            "rating": 3.5,
+            "review_count": 69,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/me-crepe-pasadena?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "pure-nails-spa-pasadena-2",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                },
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.14416,
+                "longitude": -118.15072
+            },
+            "display_phone": "(626) 710-4215",
+            "distance": 1949.4111298765279,
+            "id": "RmZMzIA0grnvyVeRfJJLsQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/boLXm-wW9FIcrxAA_xnAFQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "85 S Fair Oaks Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "85 S Fair Oaks Ave",
+                    "Pasadena, CA 91105"
+                ],
+                "state": "CA",
+                "zip_code": "91105"
+            },
+            "name": "Pure Nails Spa",
+            "phone": "+16267104215",
+            "rating": 4.0,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/pure-nails-spa-pasadena-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "entre-nous-pasadena-2",
+            "categories": [
+                {
+                    "alias": "french",
+                    "title": "French"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.14473,
+                "longitude": -118.15302
+            },
+            "display_phone": "(626) 844-4500",
+            "distance": 1950.6273374718994,
+            "id": "N3-2xNw7Hq0jQqwwo6idLg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-2eQ8mSeeqzww8kfDsJi-g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "119 W Green St",
+                "address2": "",
+                "address3": null,
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "119 W Green St",
+                    "Pasadena, CA 91105"
+                ],
+                "state": "CA",
+                "zip_code": "91105"
+            },
+            "name": "Entre Nous",
+            "phone": "+16268444500",
+            "rating": 4.5,
+            "review_count": 45,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/entre-nous-pasadena-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-crack-shack-pasadena",
+            "categories": [
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.14423,
+                "longitude": -118.15115
+            },
+            "display_phone": "(424) 901-0077",
+            "distance": 1961.8562751297532,
+            "id": "iaG-r5aQ5Ide5nhemJurww",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CQ-yKd7M1etatsL0iRZotA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "30 W Green St",
+                "address2": "",
+                "address3": null,
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "30 W Green St",
+                    "Pasadena, CA 91105"
+                ],
+                "state": "CA",
+                "zip_code": "91105"
+            },
+            "name": "The Crack Shack",
+            "phone": "+14249010077",
+            "rating": 4.0,
+            "review_count": 102,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-crack-shack-pasadena?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "midori-matcha-cafe-pasadena",
+            "categories": [
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.1431958,
+                "longitude": -118.1524649
+            },
+            "display_phone": "(626) 460-8550",
+            "distance": 2098.6730452485795,
+            "id": "6PAawirLY99hetimetqL3g",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zyscLeqqVmTuvRJBQVCArA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "165 S De Lacey Ave",
+                "address2": "Ste 1049",
+                "address3": "",
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "165 S De Lacey Ave",
+                    "Ste 1049",
+                    "Pasadena, CA 91105"
+                ],
+                "state": "CA",
+                "zip_code": "91105"
+            },
+            "name": "Midori Matcha Cafe",
+            "phone": "+16264608550",
+            "rating": 4.5,
+            "review_count": 53,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/midori-matcha-cafe-pasadena?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "vitaminologie-pasadena",
+            "categories": [
+                {
+                    "alias": "ivhydration",
+                    "title": "IV Hydration"
+                },
+                {
+                    "alias": "medicalspa",
+                    "title": "Medical Spas"
+                },
+                {
+                    "alias": "vitaminssupplements",
+                    "title": "Vitamins & Supplements"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.1460449,
+                "longitude": -118.1301306
+            },
+            "display_phone": "(833) 800-8487",
+            "distance": 2257.4082552161026,
+            "id": "UKc9-OXIg9IAs-v6YgXaMQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QImFrrsko7J_WcYfrSLjkQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "977 East Colorado Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "977 East Colorado Blvd",
+                    "Pasadena, CA 91106"
+                ],
+                "state": "CA",
+                "zip_code": "91106"
+            },
+            "name": "Vitaminologie",
+            "phone": "+18338008487",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/vitaminologie-pasadena?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "millie-s-cafe-pasadena-pasadena",
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.16925,
+                "longitude": -118.12161
+            },
+            "display_phone": "",
+            "distance": 2432.097044309684,
+            "id": "DoUkE6zDmsQEckKCN6-blw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wAafYhcyHse9MJ2Fottm5Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1399 E Washington Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "1399 E Washington Blvd",
+                    "Pasadena, CA 91104"
+                ],
+                "state": "CA",
+                "zip_code": "91104"
+            },
+            "name": "Millie\u2019s Cafe - Pasadena",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 57,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/millie-s-cafe-pasadena-pasadena?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "dan-modern-chinese-pasadena",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.1430815,
+                "longitude": -118.1320864
+            },
+            "display_phone": "(626) 817-9799",
+            "distance": 2432.556827083243,
+            "id": "vkHkq3m9NHhEMgaPZkL0_A",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/sJeHXgn4VufG-8ghNMF4rg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "146 S Lake Ave",
+                "address2": "Ste 105",
+                "address3": null,
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "146 S Lake Ave",
+                    "Ste 105",
+                    "Pasadena, CA 91101"
+                ],
+                "state": "CA",
+                "zip_code": "91101"
+            },
+            "name": "Dan Modern Chinese",
+            "phone": "+16268179799",
+            "rating": 4.5,
+            "review_count": 67,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dan-modern-chinese-pasadena?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mendocino-farms-pasadena",
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.141777588581,
+                "longitude": -118.132095783949
+            },
+            "display_phone": "(626) 773-3140",
+            "distance": 2552.0300789563394,
+            "id": "Vjq88tjTiylShfCbSPzI-A",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FULZMsKr3cJdNMrGm_Y3SQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "238 S Lake Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "238 S Lake Ave",
+                    "Pasadena, CA 91101"
+                ],
+                "state": "CA",
+                "zip_code": "91101"
+            },
+            "name": "Mendocino Farms",
+            "phone": "+16267733140",
+            "rating": 4.5,
+            "review_count": 93,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mendocino-farms-pasadena?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "panic-room-girl-house-altadena-2",
+            "categories": [
+                {
+                    "alias": "eyebrowservices",
+                    "title": "Eyebrow Services"
+                },
+                {
+                    "alias": "nailtechnicians",
+                    "title": "Nail Technicians"
+                },
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.1816165,
+                "longitude": -118.1598149
+            },
+            "display_phone": "(626) 469-0044",
+            "distance": 2583.2657277310987,
+            "id": "CRqOal_JEdO0vWHP7qaesQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DhZ0oYccVkG_hx0kMfim1A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2095 Lincoln Ave",
+                "address2": "Ste 104",
+                "address3": "",
+                "city": "Altadena",
+                "country": "US",
+                "display_address": [
+                    "2095 Lincoln Ave",
+                    "Ste 104",
+                    "Altadena, CA 91001"
+                ],
+                "state": "CA",
+                "zip_code": "91001"
+            },
+            "name": "Panic Room Girl House",
+            "phone": "+16264690044",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/panic-room-girl-house-altadena-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "smosh-town-pasadena",
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.1502683,
+                "longitude": -118.1212451
+            },
+            "display_phone": "",
+            "distance": 2621.825648732633,
+            "id": "IxkuiVyPqq4-6qcc2NoUpg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LpwQJpX0Yo6dvXV5fMpvjA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "250 N Hill Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "250 N Hill Ave",
+                    "Pasadena, CA 91106"
+                ],
+                "state": "CA",
+                "zip_code": "91106"
+            },
+            "name": "Smosh Town",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/smosh-town-pasadena?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-pier-grill-pasadena",
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.1488,
+                "longitude": -118.12179
+            },
+            "display_phone": "(626) 314-3680",
+            "distance": 2677.6156750542286,
+            "id": "QJG1tqwPTKbzAEwFnnyjLw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WWV2dsbxhPr8f9UTA8waTA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "163 N Hill Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "163 N Hill Ave",
+                    "Pasadena, CA 91106"
+                ],
+                "state": "CA",
+                "zip_code": "91106"
+            },
+            "name": "The Pier Grill",
+            "phone": "+16263143680",
+            "rating": 5.0,
+            "review_count": 35,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-pier-grill-pasadena?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "shawerma-masters-pasadena-3",
+            "categories": [
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.16881,
+                "longitude": -118.11336
+            },
+            "display_phone": "(626) 486-2800",
+            "distance": 3142.8844449088842,
+            "id": "R0ajYotHmpg0IzkPkMbVQw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6iDDiq-GrGmrUvFY717rSg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1802 E Washington Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "1802 E Washington Blvd",
+                    "Pasadena, CA 91104"
+                ],
+                "state": "CA",
+                "zip_code": "91104"
+            },
+            "name": "Shawerma Masters",
+            "phone": "+16264862800",
+            "rating": 4.0,
+            "review_count": 32,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/shawerma-masters-pasadena-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bishops-pasadena",
+            "categories": [
+                {
+                    "alias": "hair",
+                    "title": "Hair Salons"
+                },
+                {
+                    "alias": "barbers",
+                    "title": "Barbers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.14647,
+                "longitude": -118.11501
+            },
+            "display_phone": "(626) 808-4350",
+            "distance": 3338.773726338609,
+            "id": "p5wu0CJtl0X9to2zvT7cww",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qnhbaBcXEMpzq2aAWw8Qqg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1715 E Colorado Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Pasadena",
+                "country": "US",
+                "display_address": [
+                    "1715 E Colorado Blvd",
+                    "Pasadena, CA 91106"
+                ],
+                "state": "CA",
+                "zip_code": "91106"
+            },
+            "name": "Bishops",
+            "phone": "+16268084350",
+            "rating": 3.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bishops-pasadena?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 34.16143446816548,
+            "longitude": -118.14641161729293
+        }
+    },
+    "total": 28
+}

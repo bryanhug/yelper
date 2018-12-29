@@ -1,0 +1,52 @@
+{
+    "businesses": [
+        {
+            "alias": "ginza-philadelphia-3",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.93245,
+                "longitude": -75.14619
+            },
+            "display_phone": "(267) 534-4046",
+            "distance": 3423.139702898175,
+            "id": "BRl-KarobZBNuCvhz5RWKg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1b5axZnqsnsHn4jaLro5ow/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1100 S Front St",
+                "address2": "",
+                "address3": null,
+                "city": "Philadelphia",
+                "country": "US",
+                "display_address": [
+                    "1100 S Front St",
+                    "Philadelphia, PA 19147"
+                ],
+                "state": "PA",
+                "zip_code": "19147"
+            },
+            "name": "Ginza",
+            "phone": "+12675344046",
+            "rating": 4.5,
+            "review_count": 35,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ginza-philadelphia-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 39.90315898198386,
+            "longitude": -75.1585425768858
+        }
+    },
+    "total": 1
+}

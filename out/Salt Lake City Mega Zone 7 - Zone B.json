@@ -1,0 +1,502 @@
+{
+    "businesses": [
+        {
+            "alias": "yoyis-mexican-grill-salt-lake-city",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "tex-mex",
+                    "title": "Tex-Mex"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.7420854,
+                "longitude": -111.8597349
+            },
+            "display_phone": "(801) 466-4617",
+            "distance": 1900.3347127101135,
+            "id": "V4IsTncaUlR9Sb_xoKPX0A",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BPwHJ8p2bcjMguEEa5QtQg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1270 South 1100 E",
+                "address2": null,
+                "address3": "",
+                "city": "Salt Lake City",
+                "country": "US",
+                "display_address": [
+                    "1270 South 1100 E",
+                    "Salt Lake City, UT 84105"
+                ],
+                "state": "UT",
+                "zip_code": "84105"
+            },
+            "name": "Yoyis Mexican Grill",
+            "phone": "+18014664617",
+            "rating": 4.0,
+            "review_count": 18,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/yoyis-mexican-grill-salt-lake-city?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "d\u00e9lice-bakery-and-cafe-salt-lake-city-2",
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.7117259,
+                "longitude": -111.8879052
+            },
+            "display_phone": "(801) 953-1910",
+            "distance": 2213.2810700434084,
+            "id": "DX2ED5Eo06QpNAzOHcoarQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/A6yZ_PPBh0fDzS1ur6cAkQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2747 S State St",
+                "address2": "",
+                "address3": null,
+                "city": "Salt Lake City",
+                "country": "US",
+                "display_address": [
+                    "2747 S State St",
+                    "Salt Lake City, UT 84115"
+                ],
+                "state": "UT",
+                "zip_code": "84115"
+            },
+            "name": "D\u00e9lice Bakery & Cafe",
+            "phone": "+18019531910",
+            "rating": 4.5,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/d%C3%A9lice-bakery-and-cafe-salt-lake-city-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "stratford-proper-salt-lake-city",
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.71533,
+                "longitude": -111.84511
+            },
+            "display_phone": "",
+            "distance": 2751.92185524135,
+            "id": "Sf4177RlRbaQmKorrbPUxA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0Ggp4nRR1ggj7OSqn2OcyA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1588 E Stratford Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Salt Lake City",
+                "country": "US",
+                "display_address": [
+                    "1588 E Stratford Ave",
+                    "Salt Lake City, UT 84106"
+                ],
+                "state": "UT",
+                "zip_code": "84106"
+            },
+            "name": "Stratford Proper",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/stratford-proper-salt-lake-city?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "brownies-brownies-brownies-salt-lake-city",
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.7323499,
+                "longitude": -111.85946
+            },
+            "display_phone": "(385) 522-2825",
+            "distance": 2922.074558270867,
+            "id": "n78m_fRi50DYLHWlMuRM1Q",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oWz2pECaWxpS9Xbc-A2aJA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1751 S 1100th E",
+                "address2": null,
+                "address3": "",
+                "city": "Salt Lake City",
+                "country": "US",
+                "display_address": [
+                    "1751 S 1100th E",
+                    "Salt Lake City, UT 84106"
+                ],
+                "state": "UT",
+                "zip_code": "84106"
+            },
+            "name": "Brownies! Brownies! Brownies!",
+            "phone": "+13855222825",
+            "rating": 4.5,
+            "review_count": 10,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/brownies-brownies-brownies-salt-lake-city?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "one-0-eight-salt-lake-city",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.7418004805249,
+                "longitude": -111.842060498893
+            },
+            "display_phone": "",
+            "distance": 3018.4197208321248,
+            "id": "bNkrk1H3qqXtPiWd_VmrVg",
+            "image_url": "",
+            "is_closed": false,
+            "location": {
+                "address1": "1709 E 1300th S",
+                "address2": "",
+                "address3": null,
+                "city": "Salt Lake City",
+                "country": "US",
+                "display_address": [
+                    "1709 E 1300th S",
+                    "Salt Lake City, UT 84108"
+                ],
+                "state": "UT",
+                "zip_code": "84108"
+            },
+            "name": "One 0 Eight",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/one-0-eight-salt-lake-city?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bambu-south-salt-lake-2",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.69963,
+                "longitude": -111.87713
+            },
+            "display_phone": "(385) 229-4296",
+            "distance": 3198.3056651916286,
+            "id": "uFlwGr9G4BZ8i73bcIIF9w",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/H7p5o9pPm4oiOncGv-rLLg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3310 500th E",
+                "address2": "",
+                "address3": null,
+                "city": "South Salt Lake",
+                "country": "US",
+                "display_address": [
+                    "3310 500th E",
+                    "South Salt Lake, UT 84106"
+                ],
+                "state": "UT",
+                "zip_code": "84106"
+            },
+            "name": "Bambu",
+            "phone": "+13852294296",
+            "rating": 4.0,
+            "review_count": 24,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bambu-south-salt-lake-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "t-f-brewing-salt-lake-city",
+            "categories": [
+                {
+                    "alias": "brewpubs",
+                    "title": "Brewpubs"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.7487,
+                "longitude": -111.8999
+            },
+            "display_phone": "(385) 270-5972",
+            "distance": 3231.370801186109,
+            "id": "AaS_FWmVsw56KTxK4rd49Q",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/61K0faTtlBKs65j8yItLIQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "936 South 300 W",
+                "address2": null,
+                "address3": "",
+                "city": "Salt Lake City",
+                "country": "US",
+                "display_address": [
+                    "936 South 300 W",
+                    "Salt Lake City, UT 84101"
+                ],
+                "state": "UT",
+                "zip_code": "84101"
+            },
+            "name": "T. F. Brewing",
+            "phone": "+13852705972",
+            "rating": 4.5,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/t-f-brewing-salt-lake-city?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ramen-bar-salt-lake-city-4",
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                },
+                {
+                    "alias": "izakaya",
+                    "title": "Izakaya"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.7620359936014,
+                "longitude": -111.890816386902
+            },
+            "display_phone": "(801) 355-0158",
+            "distance": 4059.859736597634,
+            "id": "X30DXHX8aYiolBIiwfNxYw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lLpljqUevBo3SlehrYNtkg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "319 Main St",
+                "address2": "",
+                "address3": null,
+                "city": "Salt Lake City",
+                "country": "US",
+                "display_address": [
+                    "319 Main St",
+                    "Salt Lake City, UT 84111"
+                ],
+                "state": "UT",
+                "zip_code": "84111"
+            },
+            "name": "Ramen Bar",
+            "phone": "+18013550158",
+            "rating": 4.0,
+            "review_count": 36,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ramen-bar-salt-lake-city-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sicilia-mia-downtown-slc-salt-lake-city-2",
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.7626285197397,
+                "longitude": -111.890631280839
+            },
+            "display_phone": "(385) 420-4114",
+            "distance": 4115.4909046276925,
+            "id": "joy9XC9Xq4RfFCTLMEUtcw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1gaYpRlIzBrum1_Yx5xPaw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "10 East Broadway",
+                "address2": null,
+                "address3": "",
+                "city": "Salt Lake City",
+                "country": "US",
+                "display_address": [
+                    "10 East Broadway",
+                    "Salt Lake City, UT 84101"
+                ],
+                "state": "UT",
+                "zip_code": "84101"
+            },
+            "name": "Sicilia Mia Downtown SLC",
+            "phone": "+13854204114",
+            "rating": 4.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sicilia-mia-downtown-slc-salt-lake-city-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "king-buffet-south-salt-lake",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.6926872805677,
+                "longitude": -111.889075814819
+            },
+            "display_phone": "(801) 905-1186",
+            "distance": 4165.716159266255,
+            "id": "tEgBk5n8wEh7HS2kooUHDQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qkwLFjYV563UBLg_zeih3Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3620 S State St",
+                "address2": null,
+                "address3": "",
+                "city": "South Salt Lake",
+                "country": "US",
+                "display_address": [
+                    "3620 S State St",
+                    "South Salt Lake, UT 84115"
+                ],
+                "state": "UT",
+                "zip_code": "84115"
+            },
+            "name": "King Buffet",
+            "phone": "+18019051186",
+            "rating": 4.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/king-buffet-south-salt-lake?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sonoma-grill-and-wine-bar-salt-lake-city",
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.76305,
+                "longitude": -111.89448
+            },
+            "display_phone": "(801) 890-6612",
+            "distance": 4297.0837990126565,
+            "id": "DzeVlvjvBV7AcET26SXStQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Dpl3NUnyxd-L6OY1UvFP8Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "110 W Broadway",
+                "address2": null,
+                "address3": null,
+                "city": "Salt Lake City",
+                "country": "US",
+                "display_address": [
+                    "110 W Broadway",
+                    "Salt Lake City, UT 84101"
+                ],
+                "state": "UT",
+                "zip_code": "84101"
+            },
+            "name": "Sonoma Grill & Wine Bar",
+            "phone": "+18018906612",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sonoma-grill-and-wine-bar-salt-lake-city?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-daily-salt-lake-city",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.7641531892928,
+                "longitude": -111.891404762864
+            },
+            "display_phone": "(385) 322-1270",
+            "distance": 4297.110338089707,
+            "id": "mGQFfHgich3HF2SMbzK7UQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BXbHSvi1Q1ECvUf_SOqJ3w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "222 S Main St",
+                "address2": "",
+                "address3": null,
+                "city": "Salt Lake City",
+                "country": "US",
+                "display_address": [
+                    "222 S Main St",
+                    "Salt Lake City, UT 84101"
+                ],
+                "state": "UT",
+                "zip_code": "84101"
+            },
+            "name": "The Daily",
+            "phone": "+13853221270",
+            "rating": 4.0,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-daily-salt-lake-city?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 40.728112446767085,
+            "longitude": -111.87299680018117
+        }
+    },
+    "total": 12
+}

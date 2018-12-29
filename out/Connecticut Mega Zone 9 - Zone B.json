@@ -1,0 +1,175 @@
+{
+    "businesses": [
+        {
+            "alias": "taqueria-micheladas-don-efren-west-haven-2",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.2834808820703,
+                "longitude": -72.9802635367881
+            },
+            "display_phone": "(203) 507-2139",
+            "distance": 892.7728432436164,
+            "id": "QRkP6a9lONcB8sANMjf93Q",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HZol-rhpQhHzHQIwYzQfug/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1049 Boston Post Rd",
+                "address2": null,
+                "address3": "",
+                "city": "West Haven",
+                "country": "US",
+                "display_address": [
+                    "1049 Boston Post Rd",
+                    "West Haven, CT 06516"
+                ],
+                "state": "CT",
+                "zip_code": "06516"
+            },
+            "name": "Taqueria Micheladas Don Efren",
+            "phone": "+12035072139",
+            "rating": 4.5,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/taqueria-micheladas-don-efren-west-haven-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "iishin-ramen-bar-west-haven-2",
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.25996,
+                "longitude": -72.94871
+            },
+            "display_phone": "(203) 691-1882",
+            "distance": 4627.384332552263,
+            "id": "1WNsq6yu7j-XWme-X-jL_A",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/H1TooVhU9-SVlt2MaQBPRQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "291 Captain Thomas Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "West Haven",
+                "country": "US",
+                "display_address": [
+                    "291 Captain Thomas Blvd",
+                    "West Haven, CT 06516"
+                ],
+                "state": "CT",
+                "zip_code": "06516"
+            },
+            "name": "Iishin Ramen Bar",
+            "phone": "+12036911882",
+            "rating": 4.5,
+            "review_count": 6,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/iishin-ramen-bar-west-haven-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "prospect-beach-house-west-haven",
+            "categories": [
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.2485367153846,
+                "longitude": -72.9637591825253
+            },
+            "display_phone": "(203) 932-5555",
+            "distance": 5057.237421865335,
+            "id": "pMmn0rvFD9ESIEOc9x9axQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MkD_AUAdeGjOKVUWSnTZig/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "940 Ocean Ave",
+                "address2": "",
+                "address3": null,
+                "city": "West Haven",
+                "country": "US",
+                "display_address": [
+                    "940 Ocean Ave",
+                    "West Haven, CT 06516"
+                ],
+                "state": "CT",
+                "zip_code": "06516"
+            },
+            "name": "Prospect Beach House",
+            "phone": "+12039325555",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/prospect-beach-house-west-haven?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "just4move-nyc-brooklyn",
+            "categories": [
+                {
+                    "alias": "movers",
+                    "title": "Movers"
+                },
+                {
+                    "alias": "packingservices",
+                    "title": "Packing Services"
+                },
+                {
+                    "alias": "packingsupplies",
+                    "title": "Packing Supplies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 40.6698599111662,
+                "longitude": -73.9560807868838
+            },
+            "display_phone": "(516) 399-1055",
+            "distance": 106825.49275207231,
+            "id": "SMTa4VpGZRBm3KjYkEMOkg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VB_SkT1ozb1ZcUwoqqUy-w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "390 Eastern Pkwy",
+                "address2": null,
+                "address3": "",
+                "city": "Brooklyn",
+                "country": "US",
+                "display_address": [
+                    "390 Eastern Pkwy",
+                    "Brooklyn, NY 11225"
+                ],
+                "state": "NY",
+                "zip_code": "11225"
+            },
+            "name": "Just4Move NYC",
+            "phone": "+15163991055",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/just4move-nyc-brooklyn?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 41.29104029081835,
+            "longitude": -72.98529299142041
+        }
+    },
+    "total": 4
+}

@@ -1,0 +1,45 @@
+Zandra's Taqueria
+3950 University Dr, Ste 210, Fairfax, VA 22030, 
++15713596767
+https://www.yelp.com/biz/zandras-taqueria-fairfax?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Ornery Beer Company
+3950 University Dr, Ste 209, Fairfax, VA 22030, 
++15714592143
+https://www.yelp.com/biz/ornery-beer-company-fairfax?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Taco Bamba
+10629 Braddock Rd, Fairfax, VA 22032, 
++15716556265
+https://www.yelp.com/biz/taco-bamba-fairfax-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+The Nail Bar
+11060 Lee Hwy, Fairfax, VA 22030, 
++15714592729
+https://www.yelp.com/biz/the-nail-bar-fairfax-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Pho4ever
+9966 Main St, Fairfax, VA 22031, 
++17036910090
+https://www.yelp.com/biz/pho4ever-fairfax-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Senor Tequila's
+9959 Main St, Fairfax, VA 22031, 
++17035434494
+https://www.yelp.com/biz/senor-tequilas-fairfax?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Sushi Plus
+11166 Fairfax Blvd, Ste 102, Fairfax, VA 22030, 
++15714592950
+https://www.yelp.com/biz/sushi-plus-fairfax?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+Simply Social Coffee
+11282 James Swart Cir, Fairfax, VA 22030, 
++17032396889
+https://www.yelp.com/biz/simply-social-coffee-fairfax-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+
+DC Lash Bar- Arlington
+4238 Wilson Blvd, Ste 1150, Arlington, VA 22203, 
++15713128891
+https://www.yelp.com/biz/dc-lash-bar-arlington-arlington?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA
+

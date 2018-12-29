@@ -1,0 +1,52 @@
+{
+    "businesses": [
+        {
+            "alias": "sumo-sushi-and-grill-thornton",
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 39.8787239151843,
+                "longitude": -104.983531813413
+            },
+            "display_phone": "(303) 954-9833",
+            "distance": 2213.531208806581,
+            "id": "FZaioNOduWUrsQXi3Vuv6w",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vs9FrVDC_BoTaF-vhHlSwQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "10048 Grant St",
+                "address2": null,
+                "address3": "",
+                "city": "Thornton",
+                "country": "US",
+                "display_address": [
+                    "10048 Grant St",
+                    "Thornton, CO 80229"
+                ],
+                "state": "CO",
+                "zip_code": "80229"
+            },
+            "name": "Sumo Sushi & Grill",
+            "phone": "+13039549833",
+            "rating": 4.5,
+            "review_count": 26,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sumo-sushi-and-grill-thornton?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 39.89131516561269,
+            "longitude": -104.96376387567312
+        }
+    },
+    "total": 1
+}

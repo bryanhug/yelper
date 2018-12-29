@@ -1,0 +1,52 @@
+{
+    "businesses": [
+        {
+            "alias": "peachs-at-currency-exchange-cafe-chicago-2",
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.79413,
+                "longitude": -87.61878
+            },
+            "display_phone": "(312) 300-4471",
+            "distance": 2968.391375016932,
+            "id": "f_kdJdy7HTyUzjg1xsudaA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fZjfF-owE_ZPwiZ6ZY34lg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "305 E Garfield Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Chicago",
+                "country": "US",
+                "display_address": [
+                    "305 E Garfield Blvd",
+                    "Chicago, IL 60637"
+                ],
+                "state": "IL",
+                "zip_code": "60637"
+            },
+            "name": "Peach's at Currency Exchange Cafe",
+            "phone": "+13123004471",
+            "rating": 4.5,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/peachs-at-currency-exchange-cafe-chicago-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 41.81454941516459,
+            "longitude": -87.64187620564172
+        }
+    },
+    "total": 1
+}

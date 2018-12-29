@@ -1,0 +1,872 @@
+{
+    "businesses": [
+        {
+            "alias": "bites-of-bangkok-seattle-3",
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.62165,
+                "longitude": -122.31239
+            },
+            "display_phone": "(206) 268-0823",
+            "distance": 437.60413015719627,
+            "id": "xIjByCkyXbsJ5diSO-nYCw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4z_lmJ6YpTiETXqggwWSkg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "340 15th Ave E",
+                "address2": "Ste 201",
+                "address3": "",
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "340 15th Ave E",
+                    "Ste 201",
+                    "Seattle, WA 98112"
+                ],
+                "state": "WA",
+                "zip_code": "98112"
+            },
+            "name": "Bites of Bangkok",
+            "phone": "+12062680823",
+            "rating": 4.5,
+            "review_count": 13,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/bites-of-bangkok-seattle-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-lounge-by-at-and-t-seattle-2",
+            "categories": [
+                {
+                    "alias": "mobilephones",
+                    "title": "Mobile Phones"
+                },
+                {
+                    "alias": "internetcafe",
+                    "title": "Internet Cafes"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.62121,
+                "longitude": -122.32166
+            },
+            "display_phone": "(206) 323-0212",
+            "distance": 1037.061691640272,
+            "id": "XtKyBVZbLzi2oAlpx8lwvg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wS64fF_wqhIn00QfD6tDQA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "800 E Thomas St",
+                "address2": "",
+                "address3": null,
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "800 E Thomas St",
+                    "Seattle, WA 98102"
+                ],
+                "state": "WA",
+                "zip_code": "98102"
+            },
+            "name": "The Lounge by AT&T",
+            "phone": "+12063230212",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-lounge-by-at-and-t-seattle-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "atulea-seattle",
+            "categories": [
+                {
+                    "alias": "tea",
+                    "title": "Tea Rooms"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.61691,
+                "longitude": -122.31718
+            },
+            "display_phone": "(206) 413-5903",
+            "distance": 1079.902956394815,
+            "id": "BXjaJd5j3BJl8K4EVdSvEA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BAwVMM3aD1YhG3XKR9-cXw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1715 12th Ave",
+                "address2": "Suite.100",
+                "address3": null,
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "1715 12th Ave",
+                    "Suite.100",
+                    "Seattle, WA 98122"
+                ],
+                "state": "WA",
+                "zip_code": "98122"
+            },
+            "name": "Atulea",
+            "phone": "+12064135903",
+            "rating": 4.5,
+            "review_count": 22,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/atulea-seattle?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ma-ono-fried-chicken-seattle",
+            "categories": [
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.61563,
+                "longitude": -122.31654
+            },
+            "display_phone": "",
+            "distance": 1145.3862172801028,
+            "id": "yZheo-syrGx023Ac0P89WQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/purPg6IXgvlm5BVIalQzuQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1610 12th Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "1610 12th Ave",
+                    "Seattle, WA 98122"
+                ],
+                "state": "WA",
+                "zip_code": "98122"
+            },
+            "name": "Ma\u2019ono Fried Chicken",
+            "phone": "",
+            "rating": 3.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ma-ono-fried-chicken-seattle?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "by-tae-seattle",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.61371,
+                "longitude": -122.31773
+            },
+            "display_phone": "",
+            "distance": 1406.0536038433536,
+            "id": "XPHTcSeBF4Ydkm_ex4O3sg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qKdealVFvolfLM5OUnlz_g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1424 11th Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "1424 11th Ave",
+                    "Seattle, WA 98122"
+                ],
+                "state": "WA",
+                "zip_code": "98122"
+            },
+            "name": "By Tae",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 6,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/by-tae-seattle?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tacos-chukis-seattle-10",
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.61281,
+                "longitude": -122.30342
+            },
+            "display_phone": "",
+            "distance": 1436.9713969785116,
+            "id": "6i8EM7X0mGJesKeHgHZ17g",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/S5zofRl9ktftKK0g94vBsw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2203 E Union St",
+                "address2": "",
+                "address3": null,
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "2203 E Union St",
+                    "Seattle, WA 98122"
+                ],
+                "state": "WA",
+                "zip_code": "98122"
+            },
+            "name": "Tacos Chukis",
+            "phone": "",
+            "rating": 3.5,
+            "review_count": 19,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tacos-chukis-seattle-10?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "cinnaholic-seattle",
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.6142049,
+                "longitude": -122.3213484
+            },
+            "display_phone": "(206) 922-3253",
+            "distance": 1504.0874240071569,
+            "id": "KSDfg4715v4RgJe21Bdqmw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UQcDosXse6F8nSUCH9_j3g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "816 E Pike St",
+                "address2": "",
+                "address3": null,
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "816 E Pike St",
+                    "Seattle, WA 98122"
+                ],
+                "state": "WA",
+                "zip_code": "98122"
+            },
+            "name": "Cinnaholic",
+            "phone": "+12069223253",
+            "rating": 4.5,
+            "review_count": 62,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/cinnaholic-seattle?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "dacha-diner-seattle",
+            "categories": [
+                {
+                    "alias": "modern_european",
+                    "title": "Modern European"
+                },
+                {
+                    "alias": "ukrainian",
+                    "title": "Ukrainian"
+                },
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.61758,
+                "longitude": -122.32658
+            },
+            "display_phone": "",
+            "distance": 1544.6996125531466,
+            "id": "xE45ZXWmwxVFJyz-MAsKRQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CjD8jZS4tSLr7PdugEcrRA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1416 E Olive Way",
+                "address2": "",
+                "address3": null,
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "1416 E Olive Way",
+                    "Seattle, WA 98122"
+                ],
+                "state": "WA",
+                "zip_code": "98122"
+            },
+            "name": "Dacha Diner",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dacha-diner-seattle?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "menya-musashi-niten-ichiryu-seattle",
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.61443,
+                "longitude": -122.32423
+            },
+            "display_phone": "",
+            "distance": 1625.4256249903904,
+            "id": "uakk24V_xpD-INF6kxc4rg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/M3bhBk7oo3G54TF_-q5VKQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1510 Belmont Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "1510 Belmont Ave",
+                    "Seattle, WA 98122"
+                ],
+                "state": "WA",
+                "zip_code": "98122"
+            },
+            "name": "Menya Musashi Niten Ichiryu",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 73,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/menya-musashi-niten-ichiryu-seattle?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "whole-foods-market-seattle-6",
+            "categories": [
+                {
+                    "alias": "grocery",
+                    "title": "Grocery"
+                },
+                {
+                    "alias": "healthmarkets",
+                    "title": "Health Markets"
+                },
+                {
+                    "alias": "organic_stores",
+                    "title": "Organic Stores"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.61141,
+                "longitude": -122.32134
+            },
+            "display_phone": "(206) 802-3720",
+            "distance": 1760.6400397063155,
+            "id": "GDpTPP4s6KpBaZqYMXFYYQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qoBjoH5OAR1d0gJXJk4dLA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1001 Broadway",
+                "address2": "",
+                "address3": null,
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "1001 Broadway",
+                    "Seattle, WA 98122"
+                ],
+                "state": "WA",
+                "zip_code": "98122"
+            },
+            "name": "Whole Foods Market",
+            "phone": "+12068023720",
+            "rating": 4.0,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/whole-foods-market-seattle-6?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "noren-seattle-2",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.6143,
+                "longitude": -122.32706
+            },
+            "display_phone": "(206) 327-9269",
+            "distance": 1792.3255145820747,
+            "id": "88I5mTFd8FiW3DW5S6DHQg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ko8sP9E101gceLPSvypO6g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "320 E Pike St",
+                "address2": "",
+                "address3": null,
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "320 E Pike St",
+                    "Seattle, WA 98122"
+                ],
+                "state": "WA",
+                "zip_code": "98122"
+            },
+            "name": "Noren",
+            "phone": "+12063279269",
+            "rating": 4.0,
+            "review_count": 34,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/noren-seattle-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "nana-s-green-tea-seattle",
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.61638,
+                "longitude": -122.33312
+            },
+            "display_phone": "(206) 785-6477",
+            "distance": 2035.7359859613568,
+            "id": "X0DkXqaRwCvq1pAqVwDXbQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/d5_Wv_TgzzJGGufrH5-UBA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1007 Stewart St",
+                "address2": "Ste 103",
+                "address3": null,
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "1007 Stewart St",
+                    "Ste 103",
+                    "Seattle, WA 98101"
+                ],
+                "state": "WA",
+                "zip_code": "98101"
+            },
+            "name": "Nana\u2019s Green Tea",
+            "phone": "+12067856477",
+            "rating": 4.0,
+            "review_count": 98,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/nana-s-green-tea-seattle?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "migoto-seattle-4",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "soup",
+                    "title": "Soup"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.6067280610954,
+                "longitude": -122.316612245488
+            },
+            "display_phone": "(206) 329-1112",
+            "distance": 2102.6266313817973,
+            "id": "xYpw8slGWrhofgwfMX8-tA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/s0YJ-cUvabIk9CHo5fec0w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "514 12th Ave",
+                "address2": "Across Seattle University",
+                "address3": null,
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "514 12th Ave",
+                    "Across Seattle University",
+                    "Seattle, WA 98122"
+                ],
+                "state": "WA",
+                "zip_code": "98122"
+            },
+            "name": "Migoto",
+            "phone": "+12063291112",
+            "rating": 5.0,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/migoto-seattle-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sharetea-seattle-4",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.607,
+                "longitude": -122.32039
+            },
+            "display_phone": "(425) 829-8644",
+            "distance": 2162.1793972496043,
+            "id": "Yb08Q7BFawBi2g2W2d4Xqg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jWqItO_nee5owvs019X8Aw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "530 Broadway",
+                "address2": null,
+                "address3": "",
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "530 Broadway",
+                    "Seattle, WA 98122"
+                ],
+                "state": "WA",
+                "zip_code": "98122"
+            },
+            "name": "Sharetea",
+            "phone": "+14258298644",
+            "rating": 4.5,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sharetea-seattle-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "daniels-broiler-seattle-14",
+            "categories": [
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.61452,
+                "longitude": -122.33394
+            },
+            "display_phone": "(206) 596-9512",
+            "distance": 2190.910081138184,
+            "id": "thzm0_5S1f0TWB1Aeeq6UQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pbJepPFl1VGUQhFGmhhmpg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "808 Howell St",
+                "address2": "",
+                "address3": null,
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "808 Howell St",
+                    "Seattle, WA 98101"
+                ],
+                "state": "WA",
+                "zip_code": "98101"
+            },
+            "name": "Daniel's Broiler",
+            "phone": "+12065969512",
+            "rating": 3.5,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/daniels-broiler-seattle-14?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bounty-kitchen-denny-triangle-seattle",
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "comfortfood",
+                    "title": "Comfort Food"
+                },
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.6164699,
+                "longitude": -122.3376593
+            },
+            "display_phone": "(206) 602-6045",
+            "distance": 2333.424989330369,
+            "id": "1I6YoO6ALgu-IEG4It9ekw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HSWfERQcJEv3H9H7hGVupA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "801 Lenora St",
+                "address2": null,
+                "address3": "",
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "801 Lenora St",
+                    "Seattle, WA 98121"
+                ],
+                "state": "WA",
+                "zip_code": "98121"
+            },
+            "name": "Bounty Kitchen Denny Triangle",
+            "phone": "+12066026045",
+            "rating": 5.0,
+            "review_count": 12,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bounty-kitchen-denny-triangle-seattle?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "shake-shack-seattle-3",
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.617076,
+                "longitude": -122.338457
+            },
+            "display_phone": "(206) 279-2313",
+            "distance": 2366.837346660105,
+            "id": "jW3fDH6JjtQC8GhQDtm4Fw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BuSeQjY_c6NeKWSRY-bD2A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2115 Westlake Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "2115 Westlake Ave",
+                    "Seattle, WA 98121"
+                ],
+                "state": "WA",
+                "zip_code": "98121"
+            },
+            "name": "Shake Shack",
+            "phone": "+12062792313",
+            "rating": 3.5,
+            "review_count": 188,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/shake-shack-seattle-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hanok-seattle-2",
+            "categories": [
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.63383,
+                "longitude": -122.28028
+            },
+            "display_phone": "",
+            "distance": 2372.9256898493672,
+            "id": "ZHMHUTDxXhufLU-iFSNntg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/S7NwaA85IorudiDdYpOoog/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4021 E Madison St",
+                "address2": "",
+                "address3": null,
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "4021 E Madison St",
+                    "Seattle, WA 98112"
+                ],
+                "state": "WA",
+                "zip_code": "98112"
+            },
+            "name": "Hanok",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 32,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hanok-seattle-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "willmotts-ghost-seattle",
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.61547,
+                "longitude": -122.33962
+            },
+            "display_phone": "(206) 900-9650",
+            "distance": 2515.4436603511663,
+            "id": "19RsZR7lPGpFEy2NfD8JSA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yYqNBdnLylVMiUZHun3uFQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2100 6th Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "2100 6th Ave",
+                    "Seattle, WA 98121"
+                ],
+                "state": "WA",
+                "zip_code": "98121"
+            },
+            "name": "Willmott's Ghost",
+            "phone": "+12069009650",
+            "rating": 3.5,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/willmotts-ghost-seattle?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bad-bishop-seattle",
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "comfortfood",
+                    "title": "Comfort Food"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.60286,
+                "longitude": -122.33427
+            },
+            "display_phone": "(206) 623-3440",
+            "distance": 3100.858520614937,
+            "id": "KFMsgY5mV_wCYsa0XX_hEQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1GpjX0chDFtVKWqYTxLzzQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "704 1st Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Seattle",
+                "country": "US",
+                "display_address": [
+                    "704 1st Ave",
+                    "Seattle, WA 98104"
+                ],
+                "state": "WA",
+                "zip_code": "98104"
+            },
+            "name": "Bad Bishop",
+            "phone": "+12066233440",
+            "rating": 4.5,
+            "review_count": 14,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bad-bishop-seattle?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 47.62495010630132,
+            "longitude": -122.30911784097087
+        }
+    },
+    "total": 28
+}

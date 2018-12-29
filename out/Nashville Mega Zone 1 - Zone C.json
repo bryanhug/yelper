@@ -1,0 +1,211 @@
+{
+    "businesses": [
+        {
+            "alias": "frutta-bowls-nashville",
+            "categories": [
+                {
+                    "alias": "acaibowls",
+                    "title": "Acai Bowls"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 36.1624789957668,
+                "longitude": -86.8485259485263
+            },
+            "display_phone": "(615) 953-1164",
+            "distance": 4093.7953051258014,
+            "id": "VX7SgMmSGbCgNenms2XP0A",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Nq7K3cO9f2-uDTddEJuDyQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5016 Centennial Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Nashville",
+                "country": "US",
+                "display_address": [
+                    "5016 Centennial Blvd",
+                    "Nashville, TN 37209"
+                ],
+                "state": "TN",
+                "zip_code": "37209"
+            },
+            "name": "Frutta Bowls",
+            "phone": "+16159531164",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/frutta-bowls-nashville?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "chaatable-nashville",
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 36.1517816,
+                "longitude": -86.833844
+            },
+            "display_phone": "(615) 383-1303",
+            "distance": 5848.802444148348,
+            "id": "KbhKbjG7fVM2vTtO3qbe0w",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5hn13RbGA7u6uBYWnJg9vA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "345 40th Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Nashville",
+                "country": "US",
+                "display_address": [
+                    "345 40th Ave",
+                    "Nashville, TN 37209"
+                ],
+                "state": "TN",
+                "zip_code": "37209"
+            },
+            "name": "Chaatable",
+            "phone": "+16153831303",
+            "rating": 4.5,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/chaatable-nashville?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ainsworth-nashville",
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 36.1481697,
+                "longitude": -86.7990593
+            },
+            "display_phone": "",
+            "distance": 8473.837215728594,
+            "id": "Pr6evSEG2vmtS8ny7K4nVA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tx38-vRqPUb9hIdBO4QpmA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "206 21st Ave S",
+                "address2": "",
+                "address3": null,
+                "city": "Nashville",
+                "country": "US",
+                "display_address": [
+                    "206 21st Ave S",
+                    "Nashville, TN 37203"
+                ],
+                "state": "TN",
+                "zip_code": "37203"
+            },
+            "name": "Ainsworth",
+            "phone": "",
+            "rating": 3.0,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ainsworth-nashville?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "rocknroll-sushi-nashville",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "teppanyaki",
+                    "title": "Teppanyaki"
+                }
+            ],
+            "coordinates": {
+                "latitude": 36.138221031291,
+                "longitude": -86.8005082011223
+            },
+            "display_phone": "(615) 818-0352",
+            "distance": 9035.098415129276,
+            "id": "nsnehrg4TxUbO-6XrcZNFA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DkgZyFg25C_8Gg8ZCLbjvA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1610 21st Ave S",
+                "address2": "",
+                "address3": null,
+                "city": "Nashville",
+                "country": "US",
+                "display_address": [
+                    "1610 21st Ave S",
+                    "Nashville, TN 37212"
+                ],
+                "state": "TN",
+                "zip_code": "37212"
+            },
+            "name": "RocknRoll Sushi",
+            "phone": "+16158180352",
+            "rating": 4.0,
+            "review_count": 5,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/rocknroll-sushi-nashville?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mestizos-mexican-cuisine-nashville-2",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "coordinates": {
+                "latitude": 36.1160961771767,
+                "longitude": -86.9235468283296
+            },
+            "display_phone": "(615) 942-9007",
+            "distance": 9413.947089450636,
+            "id": "raXCiQLUGbryuLoZistiKw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NPRSwdOlmA6q5RROKRBkVg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "699 Old Hickory Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Nashville",
+                "country": "US",
+                "display_address": [
+                    "699 Old Hickory Blvd",
+                    "Nashville, TN 37209"
+                ],
+                "state": "TN",
+                "zip_code": "37209"
+            },
+            "name": "Mestizo's Mexican Cuisine",
+            "phone": "+16159429007",
+            "rating": 4.0,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mestizos-mexican-cuisine-nashville-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 36.191678398187754,
+            "longitude": -86.87630628090612
+        }
+    },
+    "total": 5
+}

@@ -1,0 +1,265 @@
+{
+    "businesses": [
+        {
+            "alias": "duck-donuts-encinitas",
+            "categories": [
+                {
+                    "alias": "donuts",
+                    "title": "Donuts"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.046465,
+                "longitude": -117.257838
+            },
+            "display_phone": "(760) 452-6849",
+            "distance": 3592.052074506892,
+            "id": "OQ1S_AmCNNslr-lXXANLMg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Fq6vb114G57PIIytm-yXeA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1452 Encinitas Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Encinitas",
+                "country": "US",
+                "display_address": [
+                    "1452 Encinitas Blvd",
+                    "Encinitas, CA 92024"
+                ],
+                "state": "CA",
+                "zip_code": "92024"
+            },
+            "name": "Duck Donuts",
+            "phone": "+17604526849",
+            "rating": 4.5,
+            "review_count": 60,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/duck-donuts-encinitas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "nailpop-encinitas",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                },
+                {
+                    "alias": "eyelashservice",
+                    "title": "Eyelash Service"
+                },
+                {
+                    "alias": "hairremoval",
+                    "title": "Hair Removal"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.0458507,
+                "longitude": -117.2611311
+            },
+            "display_phone": "(760) 436-4111",
+            "distance": 3745.896414938261,
+            "id": "d3swTdemHD7xIoMv0nqMfg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/S_S1GTDEJxEMBZG3X_VNjw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1289 Encinitas Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Encinitas",
+                "country": "US",
+                "display_address": [
+                    "1289 Encinitas Blvd",
+                    "Encinitas, CA 92024"
+                ],
+                "state": "CA",
+                "zip_code": "92024"
+            },
+            "name": "NAILPOP",
+            "phone": "+17604364111",
+            "rating": 4.5,
+            "review_count": 41,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/nailpop-encinitas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "chiosco-caff\u00e8-encinitas",
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.05391,
+                "longitude": -117.261
+            },
+            "display_phone": "",
+            "distance": 4396.248048518443,
+            "id": "RizbQf5fXWYND06KaIwElw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dhqW7PDuXkucORHBSRxbHw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "293 N El Camino Real",
+                "address2": null,
+                "address3": "",
+                "city": "Encinitas",
+                "country": "US",
+                "display_address": [
+                    "293 N El Camino Real",
+                    "Encinitas, CA 92024"
+                ],
+                "state": "CA",
+                "zip_code": "92024"
+            },
+            "name": "Chiosco Caff\u00e8",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/chiosco-caff%C3%A8-encinitas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "olde-line-tattoo-west-solana-beach",
+            "categories": [
+                {
+                    "alias": "tattoo",
+                    "title": "Tattoo"
+                },
+                {
+                    "alias": "piercing",
+                    "title": "Piercing"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.99684,
+                "longitude": -117.27368
+            },
+            "display_phone": "(858) 925-7087",
+            "distance": 5131.316720592591,
+            "id": "NIs7L9_rB3X_DNNPqUgOew",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yFinIDKz_S5WSajTZ_nbwQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "405 N Hwy 101",
+                "address2": null,
+                "address3": "",
+                "city": "Solana Beach",
+                "country": "US",
+                "display_address": [
+                    "405 N Hwy 101",
+                    "Solana Beach, CA 92075"
+                ],
+                "state": "CA",
+                "zip_code": "92075"
+            },
+            "name": "Olde Line Tattoo West",
+            "phone": "+18589257087",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/olde-line-tattoo-west-solana-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ranch-45-solana-beach",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.98077,
+                "longitude": -117.26054
+            },
+            "display_phone": "(858) 461-0092",
+            "distance": 5685.268360610734,
+            "id": "CcIfv7swUuQ8bfawVP_Rlw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZGJMhdpRnsaq_TOjY-V9kA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "512 Via De La Valle",
+                "address2": "Ste 102",
+                "address3": null,
+                "city": "Solana Beach",
+                "country": "US",
+                "display_address": [
+                    "512 Via De La Valle",
+                    "Ste 102",
+                    "Solana Beach, CA 92075"
+                ],
+                "state": "CA",
+                "zip_code": "92075"
+            },
+            "name": "Ranch 45",
+            "phone": "+18584610092",
+            "rating": 5.0,
+            "review_count": 13,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/ranch-45-solana-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "cava-encinitas",
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.065783,
+                "longitude": -117.265282
+            },
+            "display_phone": "(442) 200-6002",
+            "distance": 5717.0395551078245,
+            "id": "xctvaTT7WSScCosJ80eMtQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2sz0APGWtXMNoRCoWsroOw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1042 N El Camino Real",
+                "address2": "Ste E",
+                "address3": null,
+                "city": "Encinitas",
+                "country": "US",
+                "display_address": [
+                    "1042 N El Camino Real",
+                    "Ste E",
+                    "Encinitas, CA 92024"
+                ],
+                "state": "CA",
+                "zip_code": "92024"
+            },
+            "name": "CAVA",
+            "phone": "+14422006002",
+            "rating": 4.5,
+            "review_count": 85,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/cava-encinitas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 33.0245036617913,
+            "longitude": -117.22957851672791
+        }
+    },
+    "total": 6
+}

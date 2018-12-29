@@ -1,0 +1,56 @@
+{
+    "businesses": [
+        {
+            "alias": "green-nails-and-spa-athens",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                },
+                {
+                    "alias": "threadingservices",
+                    "title": "Threading Services"
+                },
+                {
+                    "alias": "skincare",
+                    "title": "Skin Care"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.9405165204699,
+                "longitude": -83.4582373131359
+            },
+            "display_phone": "(706) 546-1073",
+            "distance": 7041.45743240861,
+            "id": "qYW9LzsJ9Ss2F886cDf-eA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hk1IWp6MGe3lTTNabGw8gQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3650 Atlanta Hwy",
+                "address2": null,
+                "address3": null,
+                "city": "Athens",
+                "country": "US",
+                "display_address": [
+                    "3650 Atlanta Hwy",
+                    "Athens, GA 30606"
+                ],
+                "state": "GA",
+                "zip_code": "30606"
+            },
+            "name": "Green Nails & Spa",
+            "phone": "+17065461073",
+            "rating": 4.5,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/green-nails-and-spa-athens?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 33.898416940559564,
+            "longitude": -83.40123152882315
+        }
+    },
+    "total": 1
+}

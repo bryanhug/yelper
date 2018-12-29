@@ -1,0 +1,660 @@
+{
+    "businesses": [
+        {
+            "alias": "nailstalgic-salon-san-diego",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.79015,
+                "longitude": -117.09732
+            },
+            "display_phone": "(619) 988-6245",
+            "distance": 2268.1810139822614,
+            "id": "fJr7FCILiGxqatGgFlWxPQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xHZDsmQz2tGCUMugrhk23g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6403 Mission Gorge Rd",
+                "address2": "Ste B",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "6403 Mission Gorge Rd",
+                    "Ste B",
+                    "San Diego, CA 92120"
+                ],
+                "state": "CA",
+                "zip_code": "92120"
+            },
+            "name": "Nailstalgic Salon",
+            "phone": "+16199886245",
+            "rating": 5.0,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/nailstalgic-salon-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "brick-bowl-san-diego",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.81514,
+                "longitude": -117.15325
+            },
+            "display_phone": "",
+            "distance": 3777.5219375707916,
+            "id": "WH9Nderu0fv9tMrOFi2yeA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-d_9Z9q7e56Wi8Qq5gee0Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3927 Convoy St",
+                "address2": null,
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "3927 Convoy St",
+                    "San Diego, CA 92111"
+                ],
+                "state": "CA",
+                "zip_code": "92111"
+            },
+            "name": "Brick Bowl",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 70,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/brick-bowl-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hashtag-nails-and-beauty-san-diego",
+            "categories": [
+                {
+                    "alias": "permanentmakeup",
+                    "title": "Permanent Makeup"
+                },
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.8203110997259,
+                "longitude": -117.154467143118
+            },
+            "display_phone": "(858) 776-6480",
+            "distance": 4104.474665418944,
+            "id": "QFjdUEX2LakQc6oh_c07JQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IMm1mwHYb3A34m4z0R1Ivg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4425 Convoy St",
+                "address2": "Ste 224",
+                "address3": null,
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "4425 Convoy St",
+                    "Ste 224",
+                    "San Diego, CA 92111"
+                ],
+                "state": "CA",
+                "zip_code": "92111"
+            },
+            "name": "Hashtag Nails And Beauty",
+            "phone": "+18587766480",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hashtag-nails-and-beauty-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "epic-wings-n-things-san-diego-6",
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.77543,
+                "longitude": -117.14379
+            },
+            "display_phone": "(619) 230-5998",
+            "distance": 4142.173274332645,
+            "id": "5gXxpEeckH2GO7hSl4TwvQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ThW-IclyyK35Jm837tTnJQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8660 Rio San Diego Dr",
+                "address2": "Ste 102",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "8660 Rio San Diego Dr",
+                    "Ste 102",
+                    "San Diego, CA 92108"
+                ],
+                "state": "CA",
+                "zip_code": "92108"
+            },
+            "name": "Epic Wings N Things",
+            "phone": "+16192305998",
+            "rating": 4.5,
+            "review_count": 17,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/epic-wings-n-things-san-diego-6?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tbs-tavern-san-diego",
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7741307535619,
+                "longitude": -117.142537791842
+            },
+            "display_phone": "(619) 359-4198",
+            "distance": 4169.6532299657665,
+            "id": "uUTp1QA34_NBiixhfH6SfQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_og18Fw20roEhO9pvxqxYA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8555 Station Village Way",
+                "address2": null,
+                "address3": null,
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "8555 Station Village Way",
+                    "San Diego, CA 92108"
+                ],
+                "state": "CA",
+                "zip_code": "92108"
+            },
+            "name": "TBS Tavern",
+            "phone": "+16193594198",
+            "rating": 5.0,
+            "review_count": 23,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/tbs-tavern-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kangxi-is-coming-san-diego-3",
+            "categories": [
+                {
+                    "alias": "szechuan",
+                    "title": "Szechuan"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.820903,
+                "longitude": -117.156269
+            },
+            "display_phone": "(858) 240-2728",
+            "distance": 4284.523777238449,
+            "id": "1pjvdHg2TbVhiLmnpNfs8g",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/AsW6QtDzSVg_zzkJEfK3cg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4428 Convoy St",
+                "address2": "Ste 320,330",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "4428 Convoy St",
+                    "Ste 320,330",
+                    "San Diego, CA 92111"
+                ],
+                "state": "CA",
+                "zip_code": "92111"
+            },
+            "name": "Kangxi Is Coming",
+            "phone": "+18582402728",
+            "rating": 3.5,
+            "review_count": 28,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kangxi-is-coming-san-diego-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "about-fish-san-diego-2",
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.82518,
+                "longitude": -117.15449
+            },
+            "display_phone": "(858) 430-6003",
+            "distance": 4348.1707686428545,
+            "id": "fuQR0Clq_wrqlr6RWiciOQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IBjgl5NlU6hSGpcGvv9AFg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4637 Convoy St",
+                "address2": "Ste 104",
+                "address3": null,
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "4637 Convoy St",
+                    "Ste 104",
+                    "San Diego, CA 92111"
+                ],
+                "state": "CA",
+                "zip_code": "92111"
+            },
+            "name": "About Fish",
+            "phone": "+18584306003",
+            "rating": 4.5,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/about-fish-san-diego-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "yummy-house-san-diego-2",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.82473,
+                "longitude": -117.15458
+            },
+            "display_phone": "(858) 499-8999",
+            "distance": 4350.2479060876785,
+            "id": "967KOtItPjNjCsLsA1J_LQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JmZ0q1gMfV3wpUH4G1tEyg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4633 Convoy St",
+                "address2": "Ste 102",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "4633 Convoy St",
+                    "Ste 102",
+                    "San Diego, CA 92111"
+                ],
+                "state": "CA",
+                "zip_code": "92111"
+            },
+            "name": "Yummy House",
+            "phone": "+18584998999",
+            "rating": 3.5,
+            "review_count": 41,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/yummy-house-san-diego-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "realm-of-the-52-remedies-san-diego",
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.8290896,
+                "longitude": -117.1530964
+            },
+            "display_phone": "",
+            "distance": 4515.137867423365,
+            "id": "izm607jYi77MZhxe-cRniw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Cv7f5ennpLa6gp4p9hPbAQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4805 Convoy St",
+                "address2": null,
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "4805 Convoy St",
+                    "San Diego, CA 92111"
+                ],
+                "state": "CA",
+                "zip_code": "92111"
+            },
+            "name": "Realm of the 52 Remedies",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 23,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/realm-of-the-52-remedies-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "gong-cha-san-diego",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.82841,
+                "longitude": -117.15385
+            },
+            "display_phone": "(858) 879-9042",
+            "distance": 4538.983682780463,
+            "id": "lprSQylWpV1pp3eqwQyHOQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7CuwT7gVdm1gyt8yfvpvew/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4764 Convoy St",
+                "address2": "Unit C",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "4764 Convoy St",
+                    "Unit C",
+                    "San Diego, CA 92111"
+                ],
+                "state": "CA",
+                "zip_code": "92111"
+            },
+            "name": "Gong Cha",
+            "phone": "+18588799042",
+            "rating": 4.0,
+            "review_count": 17,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/gong-cha-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "jj-beauty-hair-salon-san-diego-2",
+            "categories": [
+                {
+                    "alias": "hairstylists",
+                    "title": "Hair Stylists"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.83328,
+                "longitude": -117.14958
+            },
+            "display_phone": "(858) 205-8194",
+            "distance": 4550.234399244984,
+            "id": "17hM7NDPD6g0vRu4h2i7ZQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MeoeAFpsg7Fq2cXWCHwmeg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8062 Clairemont Mesa Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "8062 Clairemont Mesa Blvd",
+                    "San Diego, CA 92111"
+                ],
+                "state": "CA",
+                "zip_code": "92111"
+            },
+            "name": "JJ Beauty Hair Salon",
+            "phone": "+18582058194",
+            "rating": 5.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/jj-beauty-hair-salon-san-diego-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bonchon-convoy-san-diego",
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.82665,
+                "longitude": -117.15581
+            },
+            "display_phone": "(858) 836-1287",
+            "distance": 4568.663234944187,
+            "id": "9sqn-GW1hXjQy4g3g7oOwA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HFQKQzdusj4rHwo7_xWvYg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4690 Convoy St",
+                "address2": "",
+                "address3": null,
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "4690 Convoy St",
+                    "San Diego, CA 92111"
+                ],
+                "state": "CA",
+                "zip_code": "92111"
+            },
+            "name": "Bonchon - Convoy",
+            "phone": "+18588361287",
+            "rating": 3.5,
+            "review_count": 93,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bonchon-convoy-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "wich-addiction-san-diego-4",
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.775217,
+                "longitude": -117.156098
+            },
+            "display_phone": "(619) 269-7269",
+            "distance": 4976.575665463365,
+            "id": "vsjPGO7luhUIybeZdLlMRA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pOR4xzYrdGE3rqcL6McEag/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5664 Mission Center Rd",
+                "address2": "Ste 402",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "5664 Mission Center Rd",
+                    "Ste 402",
+                    "San Diego, CA 92108"
+                ],
+                "state": "CA",
+                "zip_code": "92108"
+            },
+            "name": "Wich Addiction",
+            "phone": "+16192697269",
+            "rating": 4.5,
+            "review_count": 20,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/wich-addiction-san-diego-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "halloween-express-san-diego-8",
+            "categories": [
+                {
+                    "alias": "wigs",
+                    "title": "Wigs"
+                },
+                {
+                    "alias": "costumes",
+                    "title": "Costumes"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.76855,
+                "longitude": -117.1484
+            },
+            "display_phone": "(619) 272-5904",
+            "distance": 5212.192084973059,
+            "id": "o9mTm8RomP7qjtXjw3OHag",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vFUP6QXPNoydR7JdBE8RxA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1640 Camino Del Rio N",
+                "address2": "Ste 351",
+                "address3": null,
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "1640 Camino Del Rio N",
+                    "Ste 351",
+                    "San Diego, CA 92108"
+                ],
+                "state": "CA",
+                "zip_code": "92108"
+            },
+            "name": "Halloween Express",
+            "phone": "+16192725904",
+            "rating": 4.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/halloween-express-san-diego-8?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "iglow-beauty-bar-north-park-san-diego",
+            "categories": [
+                {
+                    "alias": "eyelashservice",
+                    "title": "Eyelash Service"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7557893,
+                "longitude": -117.1319459
+            },
+            "display_phone": "(619) 230-5751",
+            "distance": 5559.514813498779,
+            "id": "BJnuIKGVxN_3NVdgWklt3Q",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VKvrwL09YgHCjhSyt8lcCQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2878 El Cajon Blvd",
+                "address2": "Ste 101",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "2878 El Cajon Blvd",
+                    "Ste 101",
+                    "San Diego, CA 92104"
+                ],
+                "state": "CA",
+                "zip_code": "92104"
+            },
+            "name": "iGlow Beauty Bar - North Park",
+            "phone": "+16192305751",
+            "rating": 5.0,
+            "review_count": 6,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/iglow-beauty-bar-north-park-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "stella-jeans-ice-cream-san-diego",
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7574,
+                "longitude": -117.14645
+            },
+            "display_phone": "(619) 501-8252",
+            "distance": 5924.063253941587,
+            "id": "ls5E_YVqk3S23edAaLmTqA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PlcI1eX-IEhhTAdfTAWfjQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4404 Park Blvd",
+                "address2": "Ste B",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "4404 Park Blvd",
+                    "Ste B",
+                    "San Diego, CA 92116"
+                ],
+                "state": "CA",
+                "zip_code": "92116"
+            },
+            "name": "Stella Jean's Ice Cream",
+            "phone": "+16195018252",
+            "rating": 4.5,
+            "review_count": 59,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/stella-jeans-ice-cream-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 32.803765631622596,
+            "longitude": -117.11520659803116
+        }
+    },
+    "total": 16
+}

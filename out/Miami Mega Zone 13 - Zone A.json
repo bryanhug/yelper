@@ -1,0 +1,218 @@
+{
+    "businesses": [
+        {
+            "alias": "dannys-pizza-kitchen-boynton-beach",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.52777,
+                "longitude": -80.09914
+            },
+            "display_phone": "(561) 200-0739",
+            "distance": 1975.9023508969249,
+            "id": "uJCfxSDfoMKfpK96MKzqlA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iHMcFsfq5GbxXLzvIuEXRg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3501 W Boynton Beach Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Boynton Beach",
+                "country": "US",
+                "display_address": [
+                    "3501 W Boynton Beach Blvd",
+                    "Boynton Beach, FL 33436"
+                ],
+                "state": "FL",
+                "zip_code": "33436"
+            },
+            "name": "Danny's Pizza Kitchen",
+            "phone": "+15612000739",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dannys-pizza-kitchen-boynton-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "5150-chocolate-delray-beach",
+            "categories": [
+                {
+                    "alias": "chocolate",
+                    "title": "Chocolatiers & Shops"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.4768443035976,
+                "longitude": -80.0672214478254
+            },
+            "display_phone": "(561) 562-5731",
+            "distance": 4573.822865301471,
+            "id": "qtciKoGjC6Hp5IUNwDZcbQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/H5q1AXTV5Hyhaz50aXEEIg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1010 N Federal Hwy",
+                "address2": "",
+                "address3": null,
+                "city": "Delray Beach",
+                "country": "US",
+                "display_address": [
+                    "1010 N Federal Hwy",
+                    "Delray Beach, FL 33483"
+                ],
+                "state": "FL",
+                "zip_code": "33483"
+            },
+            "name": "5150 Chocolate",
+            "phone": "+15615625731",
+            "rating": 4.5,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/5150-chocolate-delray-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "contes-pizza-delray-beach",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.46752,
+                "longitude": -80.07095
+            },
+            "display_phone": "(561) 292-2020",
+            "distance": 5432.41913350438,
+            "id": "dKmE5XzOHlGK8NasW6WZ5Q",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kzhs0xyHKgjTPbTY-pCdqw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "309 NE 2nd Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Delray Beach",
+                "country": "US",
+                "display_address": [
+                    "309 NE 2nd Ave",
+                    "Delray Beach, FL 33444"
+                ],
+                "state": "FL",
+                "zip_code": "33444"
+            },
+            "name": "Conte's Pizza",
+            "phone": "+15612922020",
+            "rating": 5.0,
+            "review_count": 20,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/contes-pizza-delray-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "delray-goodies-delray-beach-3",
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.46447,
+                "longitude": -80.06885
+            },
+            "display_phone": "(561) 562-2568",
+            "distance": 5805.274416171154,
+            "id": "Cs5FHzTyPvs5pnwkOtcU2w",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/e73Ot1AHGCcfjcJegBTcQQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "155 Ne 4th Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Delray Beach",
+                "country": "US",
+                "display_address": [
+                    "155 Ne 4th Ave",
+                    "Delray Beach, FL 33483"
+                ],
+                "state": "FL",
+                "zip_code": "33483"
+            },
+            "name": "Delray Goodies",
+            "phone": "+15615622568",
+            "rating": 5.0,
+            "review_count": 27,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/delray-goodies-delray-beach-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tin-roof-delray-beach-2",
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "comfortfood",
+                    "title": "Comfort Food"
+                },
+                {
+                    "alias": "musicvenues",
+                    "title": "Music Venues"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.46136,
+                "longitude": -80.07274
+            },
+            "display_phone": "(561) 265-5310",
+            "distance": 6048.629198464988,
+            "id": "MAUgRrmShQwFPLtVVpOAbw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/naiiQesYYgFhkuEfBqQRiQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8 E Atlantic Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Delray Beach",
+                "country": "US",
+                "display_address": [
+                    "8 E Atlantic Ave",
+                    "Delray Beach, FL 33444"
+                ],
+                "state": "FL",
+                "zip_code": "33444"
+            },
+            "name": "Tin Roof",
+            "phone": "+15612655310",
+            "rating": 4.5,
+            "review_count": 15,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tin-roof-delray-beach-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 26.514546811894146,
+            "longitude": -80.0855978132178
+        }
+    },
+    "total": 5
+}

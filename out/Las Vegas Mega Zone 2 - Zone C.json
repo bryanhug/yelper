@@ -1,0 +1,340 @@
+{
+    "businesses": [
+        {
+            "alias": "100-degree-hot-pot-ramen-and-boba-henderson",
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "hotpot",
+                    "title": "Hot Pot"
+                }
+            ],
+            "coordinates": {
+                "latitude": 36.035602,
+                "longitude": -115.045399
+            },
+            "display_phone": "(702) 534-0095",
+            "distance": 1328.5830141540607,
+            "id": "mtQWaqLBtVILcHVS5lcCVA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yZVkpLlWiI0LRG1-bueuiw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "116 N Stephanie St",
+                "address2": "Ste 110",
+                "address3": null,
+                "city": "Henderson",
+                "country": "US",
+                "display_address": [
+                    "116 N Stephanie St",
+                    "Ste 110",
+                    "Henderson, NV 89074"
+                ],
+                "state": "NV",
+                "zip_code": "89074"
+            },
+            "name": "100 Degree Hot Pot, Ramen And Boba",
+            "phone": "+17025340095",
+            "rating": 4.0,
+            "review_count": 23,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/100-degree-hot-pot-ramen-and-boba-henderson?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "rodizio-grill-henderson",
+            "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "coordinates": {
+                "latitude": 36.067182,
+                "longitude": -115.041459
+            },
+            "display_phone": "(702) 781-5000",
+            "distance": 4069.1066828511707,
+            "id": "lg7C8UBkmnLh8SvdtFloag",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CDBu2CnH2j_lDtQ1Ww5Zfg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1300 W Sunset Rd",
+                "address2": "Ste 2950",
+                "address3": null,
+                "city": "Henderson",
+                "country": "US",
+                "display_address": [
+                    "1300 W Sunset Rd",
+                    "Ste 2950",
+                    "Henderson, NV 89014"
+                ],
+                "state": "NV",
+                "zip_code": "89014"
+            },
+            "name": "Rodizio Grill",
+            "phone": "+17027815000",
+            "rating": 4.5,
+            "review_count": 43,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/rodizio-grill-henderson?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bok-bok-chicken-henderson-2",
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 36.002172853593,
+                "longitude": -115.083365582602
+            },
+            "display_phone": "(702) 984-0534",
+            "distance": 4096.626085837209,
+            "id": "AyOKFrLeuFCp9CzGDB_qYw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/inmraCdrN4_lZi55PRBQkA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "725 S Green Valley Pkwy",
+                "address2": "Ste 150",
+                "address3": null,
+                "city": "Henderson",
+                "country": "US",
+                "display_address": [
+                    "725 S Green Valley Pkwy",
+                    "Ste 150",
+                    "Henderson, NV 89052"
+                ],
+                "state": "NV",
+                "zip_code": "89052"
+            },
+            "name": "Bok Bok Chicken",
+            "phone": "+17029840534",
+            "rating": 4.0,
+            "review_count": 77,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/bok-bok-chicken-henderson-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "organic-nail-lounge-henderson-2",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 36.07049,
+                "longitude": -115.07748
+            },
+            "display_phone": "(702) 458-8000",
+            "distance": 4360.742594218754,
+            "id": "ijJp7DyCCX0tVsFdlapikQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Vq7cVq2CA6WtSj47HmR9OA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4401 E Sunset Rd",
+                "address2": "Ste 10",
+                "address3": "",
+                "city": "Henderson",
+                "country": "US",
+                "display_address": [
+                    "4401 E Sunset Rd",
+                    "Ste 10",
+                    "Henderson, NV 89014"
+                ],
+                "state": "NV",
+                "zip_code": "89014"
+            },
+            "name": "Organic Nail Lounge",
+            "phone": "+17024588000",
+            "rating": 4.0,
+            "review_count": 17,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/organic-nail-lounge-henderson-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ashiana-north-india-cuisine-henderson",
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 35.9933695205097,
+                "longitude": -115.099739134312
+            },
+            "display_phone": "(702) 724-1474",
+            "distance": 5743.127595331138,
+            "id": "_p6hjGO6xq9VGhr19EYbcg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/94OFms8cQfQ7mnidL6VWrw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "10960 S Eastern Ave",
+                "address2": "Ste 107",
+                "address3": null,
+                "city": "Henderson",
+                "country": "US",
+                "display_address": [
+                    "10960 S Eastern Ave",
+                    "Ste 107",
+                    "Henderson, NV 89052"
+                ],
+                "state": "NV",
+                "zip_code": "89052"
+            },
+            "name": "Ashiana North India Cuisine",
+            "phone": "+17027241474",
+            "rating": 5.0,
+            "review_count": 45,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/ashiana-north-india-cuisine-henderson?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "zen-coffee-bar-henderson",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 35.99379,
+                "longitude": -115.0999
+            },
+            "display_phone": "(702) 546-0166",
+            "distance": 5748.254104086329,
+            "id": "9x5YH2z8c5K74-Hdf3NPkg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Z5qBBpbNHvZj-YAhkEmFLw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "10960 S Eastern Ave",
+                "address2": "Ste 103",
+                "address3": "",
+                "city": "Henderson",
+                "country": "US",
+                "display_address": [
+                    "10960 S Eastern Ave",
+                    "Ste 103",
+                    "Henderson, NV 89052"
+                ],
+                "state": "NV",
+                "zip_code": "89052"
+            },
+            "name": "Zen Coffee Bar",
+            "phone": "+17025460166",
+            "rating": 5.0,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/zen-coffee-bar-henderson?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "choco-latte-las-vegas-3",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 36.08546,
+                "longitude": -115.10181
+            },
+            "display_phone": "(661) 487-7226",
+            "distance": 6890.738292978295,
+            "id": "Y-dPS_ZMweASxWL-pUlPCQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/F-lFaeMW-RgXjisxvZ7Ynw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5715 S Pecos Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Las Vegas",
+                "country": "US",
+                "display_address": [
+                    "5715 S Pecos Rd",
+                    "Las Vegas, NV 89120"
+                ],
+                "state": "NV",
+                "zip_code": "89120"
+            },
+            "name": "Choco-Latte",
+            "phone": "+16614877226",
+            "rating": 4.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/choco-latte-las-vegas-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "jlf-las-vegas-2",
+            "categories": [
+                {
+                    "alias": "florists",
+                    "title": "Florists"
+                },
+                {
+                    "alias": "floraldesigners",
+                    "title": "Floral Designers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 36.09675,
+                "longitude": -115.19271
+            },
+            "display_phone": "(844) 707-0707",
+            "distance": 13851.9036472627,
+            "id": "AaTkvoFXCEFRPRVBc6ELCw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KIZCDd5cGzdOPCDgO4v4bA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4005 West Reno Ave",
+                "address2": "Unit G",
+                "address3": null,
+                "city": "Las Vegas",
+                "country": "US",
+                "display_address": [
+                    "4005 West Reno Ave",
+                    "Unit G",
+                    "Las Vegas, NV 89118"
+                ],
+                "state": "NV",
+                "zip_code": "89118"
+            },
+            "name": "JLF",
+            "phone": "+18447070707",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/jlf-las-vegas-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 36.033800787651934,
+            "longitude": -115.0600054937423
+        }
+    },
+    "total": 8
+}

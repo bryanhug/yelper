@@ -1,0 +1,337 @@
+{
+    "businesses": [
+        {
+            "alias": "vivi-bubble-tea-redmond-2",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.67602,
+                "longitude": -122.12724
+            },
+            "display_phone": "(425) 968-8200",
+            "distance": 1382.8168950371285,
+            "id": "EPZeu6ALh4zvSs06cLvmcg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/m5ufufclkzSIegUTo4mFHQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8145 161st Ave NE",
+                "address2": null,
+                "address3": "",
+                "city": "Redmond",
+                "country": "US",
+                "display_address": [
+                    "8145 161st Ave NE",
+                    "Redmond, WA 98052"
+                ],
+                "state": "WA",
+                "zip_code": "98052"
+            },
+            "name": "Vivi Bubble Tea",
+            "phone": "+14259688200",
+            "rating": 4.0,
+            "review_count": 52,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/vivi-bubble-tea-redmond-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "dong-ting-chun-redmond-redmond",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.67054,
+                "longitude": -122.1191
+            },
+            "display_phone": "(425) 882-7311",
+            "distance": 2140.609795487295,
+            "id": "u2gURhlXWlQFq0euIm_xQw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CjTVhZdxLIiNcurpLgV7fw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7425 166th Ave NE",
+                "address2": "Ste C230",
+                "address3": "",
+                "city": "Redmond",
+                "country": "US",
+                "display_address": [
+                    "7425 166th Ave NE",
+                    "Ste C230",
+                    "Redmond, WA 98052"
+                ],
+                "state": "WA",
+                "zip_code": "98052"
+            },
+            "name": "Dong Ting Chun Redmond",
+            "phone": "+14258827311",
+            "rating": 3.0,
+            "review_count": 14,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dong-ting-chun-redmond-redmond?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "cafe-bahar-kirkland",
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.70506,
+                "longitude": -122.176301
+            },
+            "display_phone": "(425) 823-8223",
+            "distance": 3681.767000880888,
+            "id": "Dnd6dQp-_E39f7_QynU88g",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6NbX9JLAPM1iI0jBBc3uOg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "11701 124th Ave NE",
+                "address2": null,
+                "address3": "",
+                "city": "Kirkland",
+                "country": "US",
+                "display_address": [
+                    "11701 124th Ave NE",
+                    "Kirkland, WA 98034"
+                ],
+                "state": "WA",
+                "zip_code": "98034"
+            },
+            "name": "Cafe Bahar",
+            "phone": "+14258238223",
+            "rating": 4.0,
+            "review_count": 20,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/cafe-bahar-kirkland?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "nine-way-\u7396\u5473-redmond",
+            "categories": [
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                },
+                {
+                    "alias": "szechuan",
+                    "title": "Szechuan"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.632292,
+                "longitude": -122.142317
+            },
+            "display_phone": "(425) 643-8000",
+            "distance": 5251.079357251902,
+            "id": "PCO999LRKHqF_JpihhBZRQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jZoDH6by7TtMehuBuJ-llg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "14808 NE 24th St",
+                "address2": "Ste A",
+                "address3": "",
+                "city": "Redmond",
+                "country": "US",
+                "display_address": [
+                    "14808 NE 24th St",
+                    "Ste A",
+                    "Redmond, WA 98052"
+                ],
+                "state": "WA",
+                "zip_code": "98052"
+            },
+            "name": "Nine Way \u7396\u5473",
+            "phone": "+14256438000",
+            "rating": 4.5,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/nine-way-%E7%8E%96%E5%91%B3-redmond?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "twilight-7-asian-dining-and-karaoke-lounge-bellevue-5",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "karaoke",
+                    "title": "Karaoke"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.63,
+                "longitude": -122.15376
+            },
+            "display_phone": "(425) 644-5000",
+            "distance": 5563.018321625512,
+            "id": "XT1Nkv3NbyOPfECQLXCTsQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/959_MqiAd7QiMVp5wLBq2A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2217 140th Ave NE",
+                "address2": "",
+                "address3": "",
+                "city": "Bellevue",
+                "country": "US",
+                "display_address": [
+                    "2217 140th Ave NE",
+                    "Bellevue, WA 98005"
+                ],
+                "state": "WA",
+                "zip_code": "98005"
+            },
+            "name": "Twilight 7 Asian Dining & Karaoke Lounge",
+            "phone": "+14256445000",
+            "rating": 4.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/twilight-7-asian-dining-and-karaoke-lounge-bellevue-5?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mr-wish-bellevue",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.62712,
+                "longitude": -122.14639
+            },
+            "display_phone": "(425) 208-2222",
+            "distance": 5814.802227524005,
+            "id": "a5VwhTHeo1C4_KI45T8f-A",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3Baxpe0pHWwljz3QKeBUfQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "14509 NE 20th St",
+                "address2": "",
+                "address3": null,
+                "city": "Bellevue",
+                "country": "US",
+                "display_address": [
+                    "14509 NE 20th St",
+                    "Bellevue, WA 98007"
+                ],
+                "state": "WA",
+                "zip_code": "98007"
+            },
+            "name": "Mr. Wish",
+            "phone": "+14252082222",
+            "rating": 4.5,
+            "review_count": 19,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mr-wish-bellevue?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "nuodle-bellevue-3",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                },
+                {
+                    "alias": "soup",
+                    "title": "Soup"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.62676,
+                "longitude": -122.14458
+            },
+            "display_phone": "(425) 395-9999",
+            "distance": 5868.019716097324,
+            "id": "uz1R3I-tSjBNRSuC8gY2wA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Yb0-PGn4r97XAAt4hYS5Bw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "14603 NE 20th St",
+                "address2": "Ste 06B",
+                "address3": null,
+                "city": "Bellevue",
+                "country": "US",
+                "display_address": [
+                    "14603 NE 20th St",
+                    "Ste 06B",
+                    "Bellevue, WA 98007"
+                ],
+                "state": "WA",
+                "zip_code": "98007"
+            },
+            "name": "Nuodle",
+            "phone": "+14253959999",
+            "rating": 3.0,
+            "review_count": 82,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/nuodle-bellevue-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mercurys-coffee-co-bellevue-6",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.62836,
+                "longitude": -122.16552
+            },
+            "display_phone": "(425) 307-1988",
+            "distance": 5898.017435828899,
+            "id": "jdUy9sfmxzI6vsAQNsT_Pw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TVRwhZ1bRyslwPZfWg_G0A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "13102 NE 20th St",
+                "address2": null,
+                "address3": "",
+                "city": "Bellevue",
+                "country": "US",
+                "display_address": [
+                    "13102 NE 20th St",
+                    "Bellevue, WA 98005"
+                ],
+                "state": "WA",
+                "zip_code": "98005"
+            },
+            "name": "Mercurys Coffee Co",
+            "phone": "+14253071988",
+            "rating": 4.0,
+            "review_count": 60,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mercurys-coffee-co-bellevue-6?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 47.67952712576237,
+            "longitude": -122.14498230035976
+        }
+    },
+    "total": 8
+}

@@ -1,0 +1,223 @@
+{
+    "businesses": [
+        {
+            "alias": "house-of-intuition-long-beach",
+            "categories": [
+                {
+                    "alias": "spiritual_shop",
+                    "title": "Spiritual Shop"
+                },
+                {
+                    "alias": "accessories",
+                    "title": "Accessories"
+                },
+                {
+                    "alias": "flowers",
+                    "title": "Flowers & Gifts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.76055,
+                "longitude": -118.13625
+            },
+            "display_phone": "(213) 413-8300",
+            "distance": 1329.376779300336,
+            "id": "zi-ZoD8_ug6N5e342G_vYw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QfS6PrzJUyuSMsd5PDZTJw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5018 E 2nd St",
+                "address2": "",
+                "address3": null,
+                "city": "Long Beach",
+                "country": "US",
+                "display_address": [
+                    "5018 E 2nd St",
+                    "Long Beach, CA 90803"
+                ],
+                "state": "CA",
+                "zip_code": "90803"
+            },
+            "name": "House of Intuition",
+            "phone": "+12134138300",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/house-of-intuition-long-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "philz-coffee-long-beach",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.76174,
+                "longitude": -118.13761
+            },
+            "display_phone": "",
+            "distance": 1438.3364513887286,
+            "id": "Mk4t0KlRnIXn3buHvxuPuA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BioSjPX_eA8J0QLLZhx6Sw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4801 E 2nd St",
+                "address2": "",
+                "address3": null,
+                "city": "Long Beach",
+                "country": "US",
+                "display_address": [
+                    "4801 E 2nd St",
+                    "Long Beach, CA 90803"
+                ],
+                "state": "CA",
+                "zip_code": "90803"
+            },
+            "name": "Philz Coffee",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/philz-coffee-long-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-lash-lounge-belmont-shore-long-beach-long-beach",
+            "categories": [
+                {
+                    "alias": "threadingservices",
+                    "title": "Threading Services"
+                },
+                {
+                    "alias": "eyebrowservices",
+                    "title": "Eyebrow Services"
+                },
+                {
+                    "alias": "eyelashservice",
+                    "title": "Eyelash Service"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7616345788853,
+                "longitude": -118.137789329421
+            },
+            "display_phone": "(562) 521-9465",
+            "distance": 1441.9540304830286,
+            "id": "e42B6rZAf9HUljCAHUPbeA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fpj0yam9ZBpf7BDvkKYb8g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4805 East 2nd St.",
+                "address2": null,
+                "address3": null,
+                "city": "Long Beach",
+                "country": "US",
+                "display_address": [
+                    "4805 East 2nd St.",
+                    "Long Beach, CA 90803"
+                ],
+                "state": "CA",
+                "zip_code": "90803"
+            },
+            "name": "The Lash Lounge - Belmont Shore Long Beach",
+            "phone": "+15625219465",
+            "rating": 4.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-lash-lounge-belmont-shore-long-beach-long-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "vibes-beach-cafe-long-beach",
+            "categories": [
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.74918,
+                "longitude": -118.12203
+            },
+            "display_phone": "(562) 343-5572",
+            "distance": 1443.3029177037056,
+            "id": "3jFSeFOIw5aFXlgdldJKvg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/l59BjEeCKnW05MnBJBUklA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "76 1/2 62nd Pl",
+                "address2": "",
+                "address3": null,
+                "city": "Long Beach",
+                "country": "US",
+                "display_address": [
+                    "76 1/2 62nd Pl",
+                    "Long Beach, CA 90803"
+                ],
+                "state": "CA",
+                "zip_code": "90803"
+            },
+            "name": "Vibes Beach Cafe",
+            "phone": "+15623435572",
+            "rating": 3.5,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/vibes-beach-cafe-long-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "boat-and-a-bottle-los-angeles",
+            "categories": [
+                {
+                    "alias": "boattours",
+                    "title": "Boat Tours"
+                },
+                {
+                    "alias": "boating",
+                    "title": "Boating"
+                },
+                {
+                    "alias": "boatcharters",
+                    "title": "Boat Charters"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7332038879395,
+                "longitude": -118.294395446777
+            },
+            "display_phone": "(310) 889-5432",
+            "distance": 13816.032178486783,
+            "id": "751fWmha1HJakRk2bPT7-w",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZMxI8yql5oxQPNX1aV92rQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "country": "US",
+                "display_address": [
+                    "Los Angeles, CA 90731"
+                ],
+                "state": "CA",
+                "zip_code": "90731"
+            },
+            "name": "Boat and a Bottle",
+            "phone": "+13108895432",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/boat-and-a-bottle-los-angeles?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 33.76219269436331,
+            "longitude": -118.1221164980276
+        }
+    },
+    "total": 5
+}

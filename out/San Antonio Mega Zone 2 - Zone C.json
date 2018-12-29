@@ -1,0 +1,250 @@
+{
+    "businesses": [
+        {
+            "alias": "tacos-n-salsa-san-antonio-5",
+            "categories": [
+                {
+                    "alias": "tex-mex",
+                    "title": "Tex-Mex"
+                },
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.55013,
+                "longitude": -98.54094
+            },
+            "display_phone": "(210) 538-5577",
+            "distance": 1976.522607680636,
+            "id": "aH0YzFyxCAIR3VIA0U1QqQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vPKvZgfxkgykl4k3WZis7A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "11860 Wurzbach Rd",
+                "address2": "",
+                "address3": null,
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "11860 Wurzbach Rd",
+                    "San Antonio, TX 78230"
+                ],
+                "state": "TX",
+                "zip_code": "78230"
+            },
+            "name": "Tacos n Salsa",
+            "phone": "+12105385577",
+            "rating": 4.5,
+            "review_count": 18,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tacos-n-salsa-san-antonio-5?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "zero-degrees-san-antonio",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.519222,
+                "longitude": -98.5069249
+            },
+            "display_phone": "(210) 368-2275",
+            "distance": 3153.712455852502,
+            "id": "bLkg0qxJ1Tq_Rw7aWHPOXw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eays2_6iYrHHcPOPN6x1dw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6903 Blanco Rd",
+                "address2": "",
+                "address3": null,
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "6903 Blanco Rd",
+                    "San Antonio, TX 78216"
+                ],
+                "state": "TX",
+                "zip_code": "78216"
+            },
+            "name": "Zero Degrees",
+            "phone": "+12103682275",
+            "rating": 3.5,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/zero-degrees-san-antonio?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "stumpys-hatchet-house-san-antonio",
+            "categories": [
+                {
+                    "alias": "axethrowing",
+                    "title": "Axe Throwing"
+                },
+                {
+                    "alias": "recreation",
+                    "title": "Recreation Centers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.53085,
+                "longitude": -98.48924
+            },
+            "display_phone": "(210) 693-6900",
+            "distance": 3477.943780220989,
+            "id": "0SbLO43vqorg4LeU5FV90g",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/123cC3SPyP1rSlBo4A_B9g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "758 Isom Rd",
+                "address2": null,
+                "address3": "",
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "758 Isom Rd",
+                    "San Antonio, TX 78216"
+                ],
+                "state": "TX",
+                "zip_code": "78216"
+            },
+            "name": "Stumpy's Hatchet House",
+            "phone": "+12106936900",
+            "rating": 5.0,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/stumpys-hatchet-house-san-antonio?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "burgerim-san-antonio-6",
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.51838,
+                "longitude": -98.49789
+            },
+            "display_phone": "(210) 350-3409",
+            "distance": 3782.88587172849,
+            "id": "bHnR43bYU1J6bOd-BVcW1g",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oHyfRrsG4z9ZQrCXIfjEnA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7400 San Pedro Ave",
+                "address2": "Ste 9",
+                "address3": null,
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "7400 San Pedro Ave",
+                    "Ste 9",
+                    "San Antonio, TX 78216"
+                ],
+                "state": "TX",
+                "zip_code": "78216"
+            },
+            "name": "Burgerim",
+            "phone": "+12103503409",
+            "rating": 4.0,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/burgerim-san-antonio-6?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "trio-modern-mediterranean-san-antonio-2",
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.52081,
+                "longitude": -98.57305
+            },
+            "display_phone": "(210) 202-1554",
+            "distance": 5619.213116049586,
+            "id": "mKudPNElaUOWud1mWZErmg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7V72Sj4qncqFjRvNx87RHg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8620 Fredericksburg Rd",
+                "address2": "",
+                "address3": null,
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "8620 Fredericksburg Rd",
+                    "San Antonio, TX 78240"
+                ],
+                "state": "TX",
+                "zip_code": "78240"
+            },
+            "name": "Trio Modern Mediterranean",
+            "phone": "+12102021554",
+            "rating": 4.0,
+            "review_count": 18,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/trio-modern-mediterranean-san-antonio-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "lucy-coopers-ice-house-san-antonio",
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.5868524686695,
+                "longitude": -98.4740504622459
+            },
+            "display_phone": "(210) 462-1894",
+            "distance": 6599.472372939395,
+            "id": "0OuFt5odhyAnQ8f0dl9g3g",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6IpR0FrDUCPoVazJIXGwGw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "16080 San Pedro Ave",
+                "address2": "",
+                "address3": null,
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "16080 San Pedro Ave",
+                    "San Antonio, TX 78232"
+                ],
+                "state": "TX",
+                "zip_code": "78232"
+            },
+            "name": "Lucy Cooper's Ice House",
+            "phone": "+12104621894",
+            "rating": 4.0,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/lucy-coopers-ice-house-san-antonio?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 29.544312619207542,
+            "longitude": -98.52163264510362
+        }
+    },
+    "total": 6
+}

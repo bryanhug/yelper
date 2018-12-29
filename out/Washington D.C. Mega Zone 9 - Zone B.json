@@ -1,0 +1,135 @@
+{
+    "businesses": [
+        {
+            "alias": "bgr-the-burger-joint-reston-2",
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.955625298363,
+                "longitude": -77.363478988409
+            },
+            "display_phone": "(571) 313-1021",
+            "distance": 989.8972932316632,
+            "id": "-H-212bShhAYKLPDxlBd-g",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jl6IyoBB-xAxAYrxn6McVA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "12100 Sunset Hills Rd",
+                "address2": "",
+                "address3": null,
+                "city": "Reston",
+                "country": "US",
+                "display_address": [
+                    "12100 Sunset Hills Rd",
+                    "Reston, VA 20190"
+                ],
+                "state": "VA",
+                "zip_code": "20190"
+            },
+            "name": "BGR The Burger Joint",
+            "phone": "+15713131021",
+            "rating": 4.0,
+            "review_count": 31,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bgr-the-burger-joint-reston-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mason-s-famous-lobster-rolls-reston",
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.9577297701046,
+                "longitude": -77.3594994571037
+            },
+            "display_phone": "",
+            "distance": 1395.479695307665,
+            "id": "JJKxCkggXhuDOdKCrGlRbg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8xZyTt8zyfotQWjDhXbnVA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "11939 Democracy Dr",
+                "address2": "",
+                "address3": null,
+                "city": "Reston",
+                "country": "US",
+                "display_address": [
+                    "11939 Democracy Dr",
+                    "Reston, VA 20190"
+                ],
+                "state": "VA",
+                "zip_code": "20190"
+            },
+            "name": "Mason\u2019s Famous Lobster Rolls",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 30,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mason-s-famous-lobster-rolls-reston?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "golden-crust-herndon",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.96671,
+                "longitude": -77.379
+            },
+            "display_phone": "(703) 796-6009",
+            "distance": 2103.6489470761394,
+            "id": "NJOfUrBNs7hLOZC-aVFWLA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RnKJ9-Ei3yF_sGDF2ti71Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "626 Grant St",
+                "address2": "Ste F",
+                "address3": "",
+                "city": "Herndon",
+                "country": "US",
+                "display_address": [
+                    "626 Grant St",
+                    "Ste F",
+                    "Herndon, VA 20170"
+                ],
+                "state": "VA",
+                "zip_code": "20170"
+            },
+            "name": "Golden Crust",
+            "phone": "+17037966009",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/golden-crust-herndon?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 38.94884449923553,
+            "longitude": -77.37089636225993
+        }
+    },
+    "total": 3
+}

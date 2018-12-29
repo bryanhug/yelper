@@ -1,0 +1,565 @@
+{
+    "businesses": [
+        {
+            "alias": "24-hour-fitness-downtown-long-beach-long-beach",
+            "categories": [
+                {
+                    "alias": "gyms",
+                    "title": "Gyms"
+                },
+                {
+                    "alias": "healthtrainers",
+                    "title": "Trainers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7675165,
+                "longitude": -118.1995521
+            },
+            "display_phone": "(562) 206-7150",
+            "distance": 1339.9389539383958,
+            "id": "vrLtkOqO6attHioS4bX4kw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_ERfVB6NqU3IzRx-95SU9A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1 World Trade Center",
+                "address2": "Ste. #110",
+                "address3": null,
+                "city": "Long Beach",
+                "country": "US",
+                "display_address": [
+                    "1 World Trade Center",
+                    "Ste. #110",
+                    "Long Beach, CA 90831"
+                ],
+                "state": "CA",
+                "zip_code": "90831"
+            },
+            "name": "24 Hour Fitness - Downtown Long Beach",
+            "phone": "+15622067150",
+            "rating": 3.0,
+            "review_count": 27,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/24-hour-fitness-downtown-long-beach-long-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "24-hr-fitness-long-beach",
+            "categories": [
+                {
+                    "alias": "gyms",
+                    "title": "Gyms"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7680440049504,
+                "longitude": -118.20046168107
+            },
+            "display_phone": "(562) 206-7150",
+            "distance": 1362.0242615019947,
+            "id": "HrbZKWSiMeERQ4Do5fXZXg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RXtoJBm9sepdgnLQum1Gyg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1 World Trade Ctr",
+                "address2": "",
+                "address3": null,
+                "city": "Long Beach",
+                "country": "US",
+                "display_address": [
+                    "1 World Trade Ctr",
+                    "Long Beach, CA 90802"
+                ],
+                "state": "CA",
+                "zip_code": "90802"
+            },
+            "name": "24 Hr Fitness",
+            "phone": "+15622067150",
+            "rating": 3.5,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/24-hr-fitness-long-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "next-door-long-beach-2",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.76961,
+                "longitude": -118.192
+            },
+            "display_phone": "(562) 435-7700",
+            "distance": 1622.050621738367,
+            "id": "5CGQEMlnOj6Q99x5XsYnYQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Yrem2Kd8gaZle-6FIosFwg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "200 Pine Ave",
+                "address2": "Ste B",
+                "address3": null,
+                "city": "Long Beach",
+                "country": "US",
+                "display_address": [
+                    "200 Pine Ave",
+                    "Ste B",
+                    "Long Beach, CA 90802"
+                ],
+                "state": "CA",
+                "zip_code": "90802"
+            },
+            "name": "Next Door",
+            "phone": "+15624357700",
+            "rating": 4.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/next-door-long-beach-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-ordinarie-long-beach",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7696,
+                "longitude": -118.19083
+            },
+            "display_phone": "(562) 676-4261",
+            "distance": 1655.5493178169395,
+            "id": "qzNG_yG_L7CDoNfoD8yRhQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ynbNwigOk43HUa0RfrLlTA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "210 The Promenade N",
+                "address2": "",
+                "address3": null,
+                "city": "Long Beach",
+                "country": "US",
+                "display_address": [
+                    "210 The Promenade N",
+                    "Long Beach, CA 90802"
+                ],
+                "state": "CA",
+                "zip_code": "90802"
+            },
+            "name": "The Ordinarie",
+            "phone": "+15626764261",
+            "rating": 4.5,
+            "review_count": 52,
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "url": "https://www.yelp.com/biz/the-ordinarie-long-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-4th-horseman-long-beach",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7717473184492,
+                "longitude": -118.192960786404
+            },
+            "display_phone": "(562) 513-3394",
+            "distance": 1814.9297432195515,
+            "id": "PSplZvlfRfUunozY0n8AYQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/55ezOFYikGldKjcreN1tLA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "121 W 4th St",
+                "address2": "",
+                "address3": null,
+                "city": "Long Beach",
+                "country": "US",
+                "display_address": [
+                    "121 W 4th St",
+                    "Long Beach, CA 90802"
+                ],
+                "state": "CA",
+                "zip_code": "90802"
+            },
+            "name": "The 4th Horseman",
+            "phone": "+15625133394",
+            "rating": 4.5,
+            "review_count": 30,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-4th-horseman-long-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "meant-to-be-cafe-long-beach",
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7691228,
+                "longitude": -118.1808857
+            },
+            "display_phone": "(562) 481-0876",
+            "distance": 2179.315243966148,
+            "id": "qwUQVLzUEKf58BJ5j5sW0Q",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cK6af40aOwvZ-CxebwubyQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "969 E Broadway",
+                "address2": "",
+                "address3": null,
+                "city": "Long Beach",
+                "country": "US",
+                "display_address": [
+                    "969 E Broadway",
+                    "Long Beach, CA 90802"
+                ],
+                "state": "CA",
+                "zip_code": "90802"
+            },
+            "name": "Meant To Be Cafe",
+            "phone": "+15624810876",
+            "rating": 5.0,
+            "review_count": 28,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/meant-to-be-cafe-long-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "nails-space-long-beach-2",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                },
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                },
+                {
+                    "alias": "eyelashservice",
+                    "title": "Eyelash Service"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.77551,
+                "longitude": -118.19184
+            },
+            "display_phone": "(562) 435-5533",
+            "distance": 2243.7938464433405,
+            "id": "_IRxaFlREtxc1MMnUg1qtQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/I1zvCxNwUY6RRMsr_pf0Ow/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "119 E 7th St",
+                "address2": null,
+                "address3": "",
+                "city": "Long Beach",
+                "country": "US",
+                "display_address": [
+                    "119 E 7th St",
+                    "Long Beach, CA 90813"
+                ],
+                "state": "CA",
+                "zip_code": "90813"
+            },
+            "name": "Nails Space",
+            "phone": "+15624355533",
+            "rating": 4.5,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/nails-space-long-beach-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "jj-italian-deli-long-beach-2",
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "pastashops",
+                    "title": "Pasta Shops"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.77506,
+                "longitude": -118.18991
+            },
+            "display_phone": "(562) 983-8998",
+            "distance": 2259.6658857517864,
+            "id": "MVvTEboTmIYjl544vNm-0A",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/k9MIDv-ln5cPQ9S2IFGuiQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "649 Long Beach Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Long Beach",
+                "country": "US",
+                "display_address": [
+                    "649 Long Beach Blvd",
+                    "Long Beach, CA 90813"
+                ],
+                "state": "CA",
+                "zip_code": "90813"
+            },
+            "name": "JJ Italian Deli",
+            "phone": "+15629838998",
+            "rating": 3.5,
+            "review_count": 3,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/jj-italian-deli-long-beach-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "energy-haus-long-beach",
+            "categories": [
+                {
+                    "alias": "reiki",
+                    "title": "Reiki"
+                },
+                {
+                    "alias": "spiritual_shop",
+                    "title": "Spiritual Shop"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.76421,
+                "longitude": -118.15339
+            },
+            "display_phone": "(562) 506-5386",
+            "distance": 4220.2361058368615,
+            "id": "7A7czRDduVGb4javOVXWdQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aBUmbDuC6jjcvwveIQnwAg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3300 E Broadway",
+                "address2": "",
+                "address3": "",
+                "city": "Long Beach",
+                "country": "US",
+                "display_address": [
+                    "3300 E Broadway",
+                    "Long Beach, CA 90803"
+                ],
+                "state": "CA",
+                "zip_code": "90803"
+            },
+            "name": "Energy Haus",
+            "phone": "+15625065386",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/energy-haus-long-beach?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "boat-and-a-bottle-los-angeles",
+            "categories": [
+                {
+                    "alias": "boattours",
+                    "title": "Boat Tours"
+                },
+                {
+                    "alias": "boating",
+                    "title": "Boating"
+                },
+                {
+                    "alias": "boatcharters",
+                    "title": "Boat Charters"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7332038879395,
+                "longitude": -118.294395446777
+            },
+            "display_phone": "(310) 889-5432",
+            "distance": 7084.807584416618,
+            "id": "751fWmha1HJakRk2bPT7-w",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZMxI8yql5oxQPNX1aV92rQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "country": "US",
+                "display_address": [
+                    "Los Angeles, CA 90731"
+                ],
+                "state": "CA",
+                "zip_code": "90731"
+            },
+            "name": "Boat and a Bottle",
+            "phone": "+13108895432",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/boat-and-a-bottle-los-angeles?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "massage-moore-spa-inglewood-4",
+            "categories": [
+                {
+                    "alias": "acupuncture",
+                    "title": "Acupuncture"
+                },
+                {
+                    "alias": "massage",
+                    "title": "Massage"
+                },
+                {
+                    "alias": "massage_therapy",
+                    "title": "Massage Therapy"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.9613696286029,
+                "longitude": -118.36613910321
+            },
+            "display_phone": "(323) 391-5997",
+            "distance": 27617.442876246114,
+            "id": "AuNYNsgPYYV-ZpOtlXsAEQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3OU52jrewpG7oCVSJBRqEQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "Inglewood",
+                "country": "US",
+                "display_address": [
+                    "Inglewood, CA 90001"
+                ],
+                "state": "CA",
+                "zip_code": "90001"
+            },
+            "name": "Massage Moore Spa",
+            "phone": "+13233915997",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/massage-moore-spa-inglewood-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hair-makeup-by-sydney-orange",
+            "categories": [
+                {
+                    "alias": "makeupartists",
+                    "title": "Makeup Artists"
+                },
+                {
+                    "alias": "hairstylists",
+                    "title": "Hair Stylists"
+                }
+            ],
+            "coordinates": {
+                "latitude": 33.7874,
+                "longitude": -117.82252
+            },
+            "display_phone": "(951) 552-5675",
+            "distance": 34871.004507271566,
+            "id": "lM7he-sB9ItDgdNz6xOxHg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EZmQYEkZ-tjK6nVsSS-SEQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2922 E Chapman Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Orange",
+                "country": "US",
+                "display_address": [
+                    "2922 E Chapman Ave",
+                    "Orange, CA 92869"
+                ],
+                "state": "CA",
+                "zip_code": "92869"
+            },
+            "name": "Hair + Makeup by Sydney",
+            "phone": "+19515525675",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hair-makeup-by-sydney-orange?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "otto-s-pizza-stix-los-angeles-2",
+            "categories": [
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "coordinates": {
+                "latitude": 34.0624708095338,
+                "longitude": -118.358365834324
+            },
+            "display_phone": "(562) 743-1964",
+            "distance": 37156.277942178385,
+            "id": "s-nSluuP5yRFqcdPOMbWNQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/H_f3gpWrxEWJ0pJWXAn9gw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5900 Wilshire Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "country": "US",
+                "display_address": [
+                    "5900 Wilshire Blvd",
+                    "Los Angeles, CA 90036"
+                ],
+                "state": "CA",
+                "zip_code": "90036"
+            },
+            "name": "Otto\u2019s Pizza Stix",
+            "phone": "+15627431964",
+            "rating": 4.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/otto-s-pizza-stix-los-angeles-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 33.75596907431752,
+            "longitude": -118.19798663946158
+        }
+    },
+    "total": 13
+}

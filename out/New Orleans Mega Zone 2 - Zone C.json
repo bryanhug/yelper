@@ -1,0 +1,135 @@
+{
+    "businesses": [
+        {
+            "alias": "pokeworks-metairie-3",
+            "categories": [
+                {
+                    "alias": "poke",
+                    "title": "Poke"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.0042748,
+                "longitude": -90.1586916
+            },
+            "display_phone": "(504) 218-5352",
+            "distance": 2079.2146263827494,
+            "id": "fQknpOKcW_JtfE6oIoGkKg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9YI--9EiMqhMnUZEknvgBg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3301 Veterans Memorial Pkwy",
+                "address2": "Ste 119",
+                "address3": null,
+                "city": "METAIRIE",
+                "country": "US",
+                "display_address": [
+                    "3301 Veterans Memorial Pkwy",
+                    "Ste 119",
+                    "METAIRIE, LA 70002"
+                ],
+                "state": "LA",
+                "zip_code": "70002"
+            },
+            "name": "Pokeworks",
+            "phone": "+15042185352",
+            "rating": 4.5,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/pokeworks-metairie-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "fireman-mikes-cafe-and-sweet-shop-new-orleans",
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.005923,
+                "longitude": -90.117256
+            },
+            "display_phone": "(504) 681-9911",
+            "distance": 2686.942448303696,
+            "id": "zNPf2S_oNh_JJUWcoPo2uQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VGg8nT7nRIcezQ09QEJ1iQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "203 W Harrison Ave",
+                "address2": null,
+                "address3": null,
+                "city": "New Orleans",
+                "country": "US",
+                "display_address": [
+                    "203 W Harrison Ave",
+                    "New Orleans, LA 70124"
+                ],
+                "state": "LA",
+                "zip_code": "70124"
+            },
+            "name": "Fireman Mike's Cafe & Sweet Shop",
+            "phone": "+15046819911",
+            "rating": 4.5,
+            "review_count": 6,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/fireman-mikes-cafe-and-sweet-shop-new-orleans?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "jbs-fuel-dock-new-orleans",
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.02386,
+                "longitude": -90.1148
+            },
+            "display_phone": "(504) 510-2260",
+            "distance": 4228.044824608084,
+            "id": "hVS67L6bYtNZyuvqDX2O6w",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/c0RN5zVMn22BMAV3k0oX5w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "126 S Roadway St",
+                "address2": null,
+                "address3": "",
+                "city": "New Orleans",
+                "country": "US",
+                "display_address": [
+                    "126 S Roadway St",
+                    "New Orleans, LA 70124"
+                ],
+                "state": "LA",
+                "zip_code": "70124"
+            },
+            "name": "JB's Fuel Dock",
+            "phone": "+15045102260",
+            "rating": 4.5,
+            "review_count": 15,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/jbs-fuel-dock-new-orleans?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 29.99340536457545,
+            "longitude": -90.14112280770287
+        }
+    },
+    "total": 3
+}

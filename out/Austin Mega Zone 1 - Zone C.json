@@ -1,0 +1,848 @@
+{
+    "businesses": [
+        {
+            "alias": "ali-usta-austin",
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.24159,
+                "longitude": -97.72904
+            },
+            "display_phone": "(512) 296-8343",
+            "distance": 1208.7768434404168,
+            "id": "-hfICuVtWWJn1UWgB8o-zA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-MDLNecvfO52fDG1qENX6Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1919 E Riverside Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "1919 E Riverside Rd",
+                    "Austin, TX 78741"
+                ],
+                "state": "TX",
+                "zip_code": "78741"
+            },
+            "name": "Ali Usta",
+            "phone": "+15122968343",
+            "rating": 4.5,
+            "review_count": 3,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/ali-usta-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "joanns-fine-foods-austin",
+            "categories": [
+                {
+                    "alias": "diners",
+                    "title": "Diners"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "tex-mex",
+                    "title": "Tex-Mex"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.25157,
+                "longitude": -97.74915
+            },
+            "display_phone": "(512) 358-6054",
+            "distance": 1778.7255224652704,
+            "id": "uR44pe0NmXYJ1bvvO6kUHw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/r5kfLAk19d7K7N2UFlf4uQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1224 S Congress Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "1224 S Congress Ave",
+                    "Austin, TX 78704"
+                ],
+                "state": "TX",
+                "zip_code": "78704"
+            },
+            "name": "Joann's Fine Foods",
+            "phone": "+15123586054",
+            "rating": 4.0,
+            "review_count": 32,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/joanns-fine-foods-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "dosa-labs-austin-2",
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.25096,
+                "longitude": -97.75421
+            },
+            "display_phone": "(737) 231-1460",
+            "distance": 1960.9749632980509,
+            "id": "1UjYefhiJcJyMpoXgXJvKw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0Hhyt4D__SzhoO-a-x0RqQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1311 S 1st St",
+                "address2": "",
+                "address3": null,
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "1311 S 1st St",
+                    "Austin, TX 78704"
+                ],
+                "state": "TX",
+                "zip_code": "78704"
+            },
+            "name": "Dosa Labs",
+            "phone": "+17372311460",
+            "rating": 3.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dosa-labs-austin-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "paper-route-bakery-austin-2",
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.2606150709564,
+                "longitude": -97.733610107085
+            },
+            "display_phone": "(512) 740-6494",
+            "distance": 2703.725231657293,
+            "id": "lnwSczhscBoGm-UtJtJlTg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BcUltw2QNbh90QuhDw7aLw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1010 E Cesar Chavez St",
+                "address2": "Ste D",
+                "address3": null,
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "1010 E Cesar Chavez St",
+                    "Ste D",
+                    "Austin, TX 78702"
+                ],
+                "state": "TX",
+                "zip_code": "78702"
+            },
+            "name": "Paper Route Bakery",
+            "phone": "+15127406494",
+            "rating": 5.0,
+            "review_count": 27,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/paper-route-bakery-austin-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ciclo-austin-2",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "latin",
+                    "title": "Latin American"
+                },
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.2623,
+                "longitude": -97.74273
+            },
+            "display_phone": "(512) 685-8300",
+            "distance": 2705.046882333284,
+            "id": "-VAdzjb7dHuL5ggeb_tX2Q",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bVCcL6b8GwH5ajcIYn_z0Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "98 San Jacinto Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "98 San Jacinto Blvd",
+                    "Austin, TX 78701"
+                ],
+                "state": "TX",
+                "zip_code": "78701"
+            },
+            "name": "Ciclo",
+            "phone": "+15126858300",
+            "rating": 4.0,
+            "review_count": 17,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ciclo-austin-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "deans-one-trick-pony-austin",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.26278,
+                "longitude": -97.74396
+            },
+            "display_phone": "(512) 473-1570",
+            "distance": 2841.2591791263976,
+            "id": "I9YphRPMIcEc31P7E7q4ag",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/papQY4ZP1IvPfFeZJINvrQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "111 E Cesar Chavez St",
+                "address2": "",
+                "address3": null,
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "111 E Cesar Chavez St",
+                    "Austin, TX 78701"
+                ],
+                "state": "TX",
+                "zip_code": "78701"
+            },
+            "name": "Dean's One Trick Pony",
+            "phone": "+15124731570",
+            "rating": 5.0,
+            "review_count": 18,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/deans-one-trick-pony-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sweet-chive-austin",
+            "categories": [
+                {
+                    "alias": "taiwanese",
+                    "title": "Taiwanese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.2538770926394,
+                "longitude": -97.7156530217538
+            },
+            "display_phone": "",
+            "distance": 3075.510062271758,
+            "id": "F6JdjM5d_Eok5tVnq1fmJg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HZLiKe9zb6uO_qiVU5AHOw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2515 E Cesar Chavez St",
+                "address2": "",
+                "address3": null,
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "2515 E Cesar Chavez St",
+                    "Austin, TX 78702"
+                ],
+                "state": "TX",
+                "zip_code": "78702"
+            },
+            "name": "Sweet chive",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sweet-chive-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "domo-alley-gato-austin",
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.2632414384273,
+                "longitude": -97.7261446495729
+            },
+            "display_phone": "",
+            "distance": 3236.544575615118,
+            "id": "g23A-0NiWi8OkEf6mynjAg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oy8Ma7yeirvNl_-4z6F9tw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1606 E 6th St",
+                "address2": "",
+                "address3": null,
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "1606 E 6th St",
+                    "Austin, TX 78702"
+                ],
+                "state": "TX",
+                "zip_code": "78702"
+            },
+            "name": "Domo Alley Gato",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/domo-alley-gato-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-carpenter-hotel-austin",
+            "categories": [
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                },
+                {
+                    "alias": "restaurants",
+                    "title": "Restaurants"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.26215,
+                "longitude": -97.75871
+            },
+            "display_phone": "(512) 682-5300",
+            "distance": 3254.468262243581,
+            "id": "vI93999w5UBLHTOVmGERXw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/d1WsT4tj1-K-lT0EgLf64Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "400 Josephine St",
+                "address2": null,
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "400 Josephine St",
+                    "Austin, TX 78704"
+                ],
+                "state": "TX",
+                "zip_code": "78704"
+            },
+            "name": "The Carpenter Hotel",
+            "phone": "+15126825300",
+            "rating": 4.0,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-carpenter-hotel-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "carpenters-hall-austin",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "hotels",
+                    "title": "Hotels"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.26215,
+                "longitude": -97.75871
+            },
+            "display_phone": "(512) 675-5020",
+            "distance": 3255.238606907584,
+            "id": "fszy3S_lTDUt32f9gb2-pg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mQ5LT8n8Z8r1qa6wPp_MNQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "400 Josephine St",
+                "address2": null,
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "400 Josephine St",
+                    "Austin, TX 78704"
+                ],
+                "state": "TX",
+                "zip_code": "78704"
+            },
+            "name": "Carpenters Hall",
+            "phone": "+15126755020",
+            "rating": 4.5,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/carpenters-hall-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "dumonts-down-low-bar-austin",
+            "categories": [
+                {
+                    "alias": "speakeasies",
+                    "title": "Speakeasies"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.26704,
+                "longitude": -97.74543
+            },
+            "display_phone": "(512) 291-3231",
+            "distance": 3337.3555185849073,
+            "id": "vWTXK1oFwqvuFMD3NwWX_w",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7BsHOlPxO427rr22wbSRxQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "214 W 4th St",
+                "address2": "Ste B",
+                "address3": null,
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "214 W 4th St",
+                    "Ste B",
+                    "Austin, TX 78701"
+                ],
+                "state": "TX",
+                "zip_code": "78701"
+            },
+            "name": "Dumont's Down Low Bar",
+            "phone": "+15122913231",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dumonts-down-low-bar-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "house-of-the-rising-tanuki-san-austin-3",
+            "categories": [
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                },
+                {
+                    "alias": "panasian",
+                    "title": "Pan Asian"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.2675,
+                "longitude": -97.74396
+            },
+            "display_phone": "(512) 394-7391",
+            "distance": 3385.585523715367,
+            "id": "8jEJdweqpZJpX9SXn5hacw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HsT4A3phyjm-vf-P59CrYw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "120 W 5th St",
+                "address2": null,
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "120 W 5th St",
+                    "Austin, TX 78701"
+                ],
+                "state": "TX",
+                "zip_code": "78701"
+            },
+            "name": "House of the Rising Tanuki-san",
+            "phone": "+15123947391",
+            "rating": 3.5,
+            "review_count": 25,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/house-of-the-rising-tanuki-san-austin-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "asador-austin-2",
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                },
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.26766,
+                "longitude": -97.73864
+            },
+            "display_phone": "(512) 869-9230",
+            "distance": 3396.0269830155303,
+            "id": "nNLO8Tb8YpzbueWDvsBujw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bNifd-ysLKX0ZOo6ggrBcw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "405 E 7th St",
+                "address2": null,
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "405 E 7th St",
+                    "Austin, TX 78701"
+                ],
+                "state": "TX",
+                "zip_code": "78701"
+            },
+            "name": "Asador",
+            "phone": "+15128699230",
+            "rating": 4.5,
+            "review_count": 13,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/asador-austin-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "darcys-donkey-austin",
+            "categories": [
+                {
+                    "alias": "irish",
+                    "title": "Irish"
+                },
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.26242,
+                "longitude": -97.76172
+            },
+            "display_phone": "(512) 330-4256",
+            "distance": 3427.3162316159783,
+            "id": "zQSIcTDTjRLyICotLr2BWA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/x7gqCC-whdp2xX-2PTAUcQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1608 Barton Springs Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "1608 Barton Springs Rd",
+                    "Austin, TX 78704"
+                ],
+                "state": "TX",
+                "zip_code": "78704"
+            },
+            "name": "Darcy's Donkey",
+            "phone": "+15123304256",
+            "rating": 4.0,
+            "review_count": 36,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/darcys-donkey-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "thoroughbread-austin",
+            "categories": [
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.25438,
+                "longitude": -97.77206
+            },
+            "display_phone": "(512) 922-7622",
+            "distance": 3525.143195301965,
+            "id": "QlpNG4q2tBLo2arUlJoHBA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SuZe6QEAWG2RpLQQKzNh6Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1709 Bluebonnet Ln",
+                "address2": null,
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "1709 Bluebonnet Ln",
+                    "Austin, TX 78704"
+                ],
+                "state": "TX",
+                "zip_code": "78704"
+            },
+            "name": "ThoroughBread",
+            "phone": "+15129227622",
+            "rating": 5.0,
+            "review_count": 14,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/thoroughbread-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "malibu-poke-austin",
+            "categories": [
+                {
+                    "alias": "poke",
+                    "title": "Poke"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.2662418534904,
+                "longitude": -97.7533801608977
+            },
+            "display_phone": "(512) 609-8510",
+            "distance": 3548.236219721573,
+            "id": "3A2eguX_oB2eTzfI56szxA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ypW-ZeFOQOF1RBXBoQQpcQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "211 Walter Seaholm Dr",
+                "address2": "LR 115",
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "211 Walter Seaholm Dr",
+                    "LR 115",
+                    "Austin, TX 78701"
+                ],
+                "state": "TX",
+                "zip_code": "78701"
+            },
+            "name": "Malibu Poke",
+            "phone": "+15126098510",
+            "rating": 4.0,
+            "review_count": 21,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/malibu-poke-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bidermans-deli-austin-2",
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "bagels",
+                    "title": "Bagels"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.26981,
+                "longitude": -97.74092
+            },
+            "display_phone": "(512) 712-5100",
+            "distance": 3645.2704116881614,
+            "id": "cSFs-zrZpGH4iXQRvoNxtA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OxTtFnE98-wjHpz2RYB2SA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "800 Brazos St",
+                "address2": "Ste 215",
+                "address3": null,
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "800 Brazos St",
+                    "Ste 215",
+                    "Austin, TX 78701"
+                ],
+                "state": "TX",
+                "zip_code": "78701"
+            },
+            "name": "Biderman's Deli",
+            "phone": "+15127125100",
+            "rating": 3.5,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bidermans-deli-austin-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "next-level-burger-austin",
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                },
+                {
+                    "alias": "gluten_free",
+                    "title": "Gluten-Free"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.27065,
+                "longitude": -97.7535599
+            },
+            "display_phone": "(737) 212-0411",
+            "distance": 3891.3097828186665,
+            "id": "uFiwHZsSeumU-Z6-OWh8vA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qDtP3qXwZSfpvMS8BZ-OfA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "525 N Lamar Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "525 N Lamar Blvd",
+                    "Austin, TX 78703"
+                ],
+                "state": "TX",
+                "zip_code": "78703"
+            },
+            "name": "Next Level Burger",
+            "phone": "+17372120411",
+            "rating": 4.0,
+            "review_count": 32,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/next-level-burger-austin?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "joy-organics-cbd-oil-austin-austin-2",
+            "categories": [
+                {
+                    "alias": "vitaminssupplements",
+                    "title": "Vitamins & Supplements"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.27429,
+                "longitude": -97.75292
+            },
+            "display_phone": "(512) 992-0288",
+            "distance": 4273.1268553626505,
+            "id": "JNmf0Sh1VW30xximtZdTYw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4vpgMBuBpEaPRZpwlVRZzA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "902 N Lamar Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "902 N Lamar Blvd",
+                    "Austin, TX 78703"
+                ],
+                "state": "TX",
+                "zip_code": "78703"
+            },
+            "name": "Joy Organics CBD Oil Austin",
+            "phone": "+15129920288",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/joy-organics-cbd-oil-austin-austin-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bacchus-and-brown-austin-2",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                }
+            ],
+            "coordinates": {
+                "latitude": 30.27392,
+                "longitude": -97.72037
+            },
+            "display_phone": "(504) 491-7430",
+            "distance": 4541.63271808629,
+            "id": "HxDmqEJj0VYXkEPVt-A-3g",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iApgwL27YJOwHpqLJJwgxw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1810 E 12th St",
+                "address2": null,
+                "address3": "",
+                "city": "Austin",
+                "country": "US",
+                "display_address": [
+                    "1810 E 12th St",
+                    "Austin, TX 78702"
+                ],
+                "state": "TX",
+                "zip_code": "78702"
+            },
+            "name": "Bacchus and Brown",
+            "phone": "+15044917430",
+            "rating": 5.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bacchus-and-brown-austin-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 30.237199219276985,
+            "longitude": -97.74119468779918
+        }
+    },
+    "total": 22
+}

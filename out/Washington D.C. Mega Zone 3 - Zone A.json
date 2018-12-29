@@ -1,0 +1,304 @@
+{
+    "businesses": [
+        {
+            "alias": "i-ce-ny-arlington-arlington",
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.84075,
+                "longitude": -77.08971
+            },
+            "display_phone": "(571) 207-6318",
+            "distance": 2784.206809710341,
+            "id": "U_p1dlIxalHH6wYw84LlfA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OG71Zj6remxaXOy-b2u4Zw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4150 Campbell Ave",
+                "address2": "Ste 101",
+                "address3": null,
+                "city": "Arlington",
+                "country": "US",
+                "display_address": [
+                    "4150 Campbell Ave",
+                    "Ste 101",
+                    "Arlington, VA 22206"
+                ],
+                "state": "VA",
+                "zip_code": "22206"
+            },
+            "name": "I-CE-NY Arlington",
+            "phone": "+15712076318",
+            "rating": 4.0,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/i-ce-ny-arlington-arlington?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "t-zo-alexandria",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.8047032545299,
+                "longitude": -77.1331557426005
+            },
+            "display_phone": "(571) 867-9139",
+            "distance": 2989.629473794225,
+            "id": "jjAYnuIsB7CNu8abULOwcA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9BNv0tfQh0tn-TVz8Hqtgw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5774 Dow Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Alexandria",
+                "country": "US",
+                "display_address": [
+                    "5774 Dow Ave",
+                    "Alexandria, VA 22304"
+                ],
+                "state": "VA",
+                "zip_code": "22304"
+            },
+            "name": "T-ZO",
+            "phone": "+15718679139",
+            "rating": 3.5,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/t-zo-alexandria?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hibachi-grill-and-supreme-buffet-falls-church",
+            "categories": [
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                },
+                {
+                    "alias": "buffets",
+                    "title": "Buffets"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.85443,
+                "longitude": -77.13557
+            },
+            "display_phone": "(703) 824-9000",
+            "distance": 4917.727354529409,
+            "id": "uTkqqhj5JBIdkrPqWiCUzg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/42YQhVlZYGj9jvmIOBhtnw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5900 Leesburg Pike",
+                "address2": null,
+                "address3": "",
+                "city": "Falls Church",
+                "country": "US",
+                "display_address": [
+                    "5900 Leesburg Pike",
+                    "Falls Church, VA 22041"
+                ],
+                "state": "VA",
+                "zip_code": "22041"
+            },
+            "name": "Hibachi Grill & Supreme Buffet",
+            "phone": "+17038249000",
+            "rating": 3.5,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hibachi-grill-and-supreme-buffet-falls-church?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "caspi-restaurant-and-lounge-arlington-2",
+            "categories": [
+                {
+                    "alias": "hookah_bars",
+                    "title": "Hookah Bars"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.86265,
+                "longitude": -77.08721
+            },
+            "display_phone": "(703) 566-4173",
+            "distance": 5134.183514017106,
+            "id": "LouNvrVzTA2eb68nIj-H5g",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HtOGbFi6JeRPirfuxviOEw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2901 Columbia Pike",
+                "address2": "",
+                "address3": null,
+                "city": "Arlington",
+                "country": "US",
+                "display_address": [
+                    "2901 Columbia Pike",
+                    "Arlington, VA 22204"
+                ],
+                "state": "VA",
+                "zip_code": "22204"
+            },
+            "name": "Caspi Restaurant and Lounge",
+            "phone": "+17035664173",
+            "rating": 4.5,
+            "review_count": 5,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/caspi-restaurant-and-lounge-arlington-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "josephines-italian-kitchen-arlington",
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.86394,
+                "longitude": -77.0847
+            },
+            "display_phone": "(571) 312-2850",
+            "distance": 5352.3552583803275,
+            "id": "ZZ8tirHQycyTdfnSk35E6g",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0D0Djbr0ETtKE6jyvmL6iA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2501 Columbia Pike",
+                "address2": null,
+                "address3": "",
+                "city": "Arlington",
+                "country": "US",
+                "display_address": [
+                    "2501 Columbia Pike",
+                    "Arlington, VA 22204"
+                ],
+                "state": "VA",
+                "zip_code": "22204"
+            },
+            "name": "Josephine's Italian Kitchen",
+            "phone": "+15713122850",
+            "rating": 3.5,
+            "review_count": 28,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/josephines-italian-kitchen-arlington?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "pho-ngon-alexandria-2",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.7732557940923,
+                "longitude": -77.1351078047123
+            },
+            "display_phone": "(571) 257-9205",
+            "distance": 5707.887779692095,
+            "id": "oT97mb6kH7RTHpiO7r90JA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oT_57BIReX4kUPOD7P6Amw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5810 Kingstowne Ctr",
+                "address2": "Ste 140",
+                "address3": null,
+                "city": "Alexandria",
+                "country": "US",
+                "display_address": [
+                    "5810 Kingstowne Ctr",
+                    "Ste 140",
+                    "Alexandria, VA 22315"
+                ],
+                "state": "VA",
+                "zip_code": "22315"
+            },
+            "name": "Pho Ngon",
+            "phone": "+15712579205",
+            "rating": 4.0,
+            "review_count": 19,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/pho-ngon-alexandria-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "dc-lash-bar-arlington-arlington",
+            "categories": [
+                {
+                    "alias": "eyelashservice",
+                    "title": "Eyelash Service"
+                },
+                {
+                    "alias": "spraytanning",
+                    "title": "Spray Tanning"
+                },
+                {
+                    "alias": "hairremoval",
+                    "title": "Hair Removal"
+                }
+            ],
+            "coordinates": {
+                "latitude": 38.87984,
+                "longitude": -77.11131
+            },
+            "display_phone": "(571) 312-8891",
+            "distance": 6832.172965766011,
+            "id": "68oBMNcgZJ8-zrfMrwRiUw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ztRMfITbCb0thzTpl_dbAA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4238 Wilson Blvd",
+                "address2": "Ste 1150",
+                "address3": "",
+                "city": "Arlington",
+                "country": "US",
+                "display_address": [
+                    "4238 Wilson Blvd",
+                    "Ste 1150",
+                    "Arlington, VA 22203"
+                ],
+                "state": "VA",
+                "zip_code": "22203"
+            },
+            "name": "DC Lash Bar- Arlington",
+            "phone": "+15713128891",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/dc-lash-bar-arlington-arlington?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 38.81821610710279,
+            "longitude": -77.10332567097896
+        }
+    },
+    "total": 7
+}

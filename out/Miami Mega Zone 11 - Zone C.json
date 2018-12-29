@@ -1,0 +1,134 @@
+{
+    "businesses": [
+        {
+            "alias": "shibuya-sushi-art-coral-springs",
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.2867800452055,
+                "longitude": -80.2768994808121
+            },
+            "display_phone": "(954) 757-7888",
+            "distance": 5031.483607452989,
+            "id": "dkL0Zsz6nCw8lTZN7ctoKA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0NaNaqRxmZIfcGlp6BtdUw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "11346 Wiles Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Coral Springs",
+                "country": "US",
+                "display_address": [
+                    "11346 Wiles Rd",
+                    "Coral Springs, FL 33076"
+                ],
+                "state": "FL",
+                "zip_code": "33076"
+            },
+            "name": "Shibuya Sushi Art",
+            "phone": "+19547577888",
+            "rating": 4.5,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/shibuya-sushi-art-coral-springs?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "lee-nails-and-spa-north-lauderdale",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                },
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                },
+                {
+                    "alias": "eyelashservice",
+                    "title": "Eyelash Service"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.2065310591207,
+                "longitude": -80.2313432259033
+            },
+            "display_phone": "(754) 800-7279",
+            "distance": 5266.262242187026,
+            "id": "9Z1KxpEEGjf6qI9Zgd6hmg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XMi5fjWHWEe056vu5laGRQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7966 W McNab Rd",
+                "address2": null,
+                "address3": "",
+                "city": "North Lauderdale",
+                "country": "US",
+                "display_address": [
+                    "7966 W McNab Rd",
+                    "North Lauderdale, FL 33068"
+                ],
+                "state": "FL",
+                "zip_code": "33068"
+            },
+            "name": "Lee Nails & Spa",
+            "phone": "+17548007279",
+            "rating": 3.5,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/lee-nails-and-spa-north-lauderdale?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bliss-nails-coral-springs",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 26.2866127885311,
+                "longitude": -80.2332527832824
+            },
+            "display_phone": "(954) 757-7556",
+            "distance": 5860.011215489036,
+            "id": "EKcBsK51ycteWOsu3L3fjw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MzgFLy6gksOMm12s_bFwkg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8034 Wiles Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Coral Springs",
+                "country": "US",
+                "display_address": [
+                    "8034 Wiles Rd",
+                    "Coral Springs, FL 33067"
+                ],
+                "state": "FL",
+                "zip_code": "33067"
+            },
+            "name": "Bliss Nails",
+            "phone": "+19547577556",
+            "rating": 3.5,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bliss-nails-coral-springs?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 26.242722019117835,
+            "longitude": -80.26539762149918
+        }
+    },
+    "total": 3
+}

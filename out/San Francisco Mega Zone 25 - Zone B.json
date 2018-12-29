@@ -1,0 +1,346 @@
+{
+    "businesses": [
+        {
+            "alias": "philz-coffee-lafayette-lafayette",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "coffeeroasteries",
+                    "title": "Coffee Roasteries"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.8912187,
+                "longitude": -122.1234963
+            },
+            "display_phone": "(925) 310-4529",
+            "distance": 2561.8278410005537,
+            "id": "E1U5tVYRyhr4yZe1wPrHfw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RFZqX4eNpKvTGsPLqFBqtw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3597 Mount Diablo Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Lafayette",
+                "country": "US",
+                "display_address": [
+                    "3597 Mount Diablo Blvd",
+                    "Lafayette, CA 94549"
+                ],
+                "state": "CA",
+                "zip_code": "94549"
+            },
+            "name": "Philz Coffee - Lafayette",
+            "phone": "+19253104529",
+            "rating": 5.0,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/philz-coffee-lafayette-lafayette?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "baygreens-salad-and-more-walnut-creek-2",
+            "categories": [
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.89719,
+                "longitude": -122.06233
+            },
+            "display_phone": "(925) 448-2289",
+            "distance": 2915.4408850432974,
+            "id": "K8mEl2Tak_OMA3o9hXfkgg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/n5i_B_kyX6AhVpmvk30MFw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1653 Mt Diablo Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Walnut Creek",
+                "country": "US",
+                "display_address": [
+                    "1653 Mt Diablo Blvd",
+                    "Walnut Creek, CA 94596"
+                ],
+                "state": "CA",
+                "zip_code": "94596"
+            },
+            "name": "Baygreens Salad & More",
+            "phone": "+19254482289",
+            "rating": 4.5,
+            "review_count": 13,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/baygreens-salad-and-more-walnut-creek-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "torsap-thai-kitchen-walnut-creek",
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.89883,
+                "longitude": -122.06169
+            },
+            "display_phone": "(925) 433-2166",
+            "distance": 3008.9084024764893,
+            "id": "OkG51vm9TONcL_6ADOBQVA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zEte4iQszTmsyYdriTxz7Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1388 Locust St",
+                "address2": null,
+                "address3": "",
+                "city": "Walnut Creek",
+                "country": "US",
+                "display_address": [
+                    "1388 Locust St",
+                    "Walnut Creek, CA 94596"
+                ],
+                "state": "CA",
+                "zip_code": "94596"
+            },
+            "name": "Torsap Thai Kitchen",
+            "phone": "+19254332166",
+            "rating": 4.0,
+            "review_count": 5,
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "url": "https://www.yelp.com/biz/torsap-thai-kitchen-walnut-creek?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "beauty-by-mi-walnut-creek-2",
+            "categories": [
+                {
+                    "alias": "eyelashservice",
+                    "title": "Eyelash Service"
+                },
+                {
+                    "alias": "hairremoval",
+                    "title": "Hair Removal"
+                },
+                {
+                    "alias": "makeupartists",
+                    "title": "Makeup Artists"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.89889,
+                "longitude": -122.06029
+            },
+            "display_phone": "(510) 610-9400",
+            "distance": 3136.1291776715334,
+            "id": "A0KlXIUzFmqr2-Egv5inTw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/49J4ph_uS3yTxrVs5KAJEw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1372 N Main St",
+                "address2": "Ste 203",
+                "address3": "",
+                "city": "Walnut Creek",
+                "country": "US",
+                "display_address": [
+                    "1372 N Main St",
+                    "Ste 203",
+                    "Walnut Creek, CA 94596"
+                ],
+                "state": "CA",
+                "zip_code": "94596"
+            },
+            "name": "Beauty By Mi",
+            "phone": "+15106109400",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/beauty-by-mi-walnut-creek-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "rituals-cosmetics-walnut-creek",
+            "categories": [
+                {
+                    "alias": "cosmetics",
+                    "title": "Cosmetics & Beauty Supply"
+                },
+                {
+                    "alias": "perfume",
+                    "title": "Perfume"
+                },
+                {
+                    "alias": "giftshops",
+                    "title": "Gift Shops"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.8957379980132,
+                "longitude": -122.058202468453
+            },
+            "display_phone": "(917) 265-8337",
+            "distance": 3267.8783246795488,
+            "id": "Oz4Zq4jDlySfuWlzw3rdsg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dCB6-BtoITGmoefoxwhl3Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1275 Broadway Plz",
+                "address2": "",
+                "address3": null,
+                "city": "Walnut Creek",
+                "country": "US",
+                "display_address": [
+                    "1275 Broadway Plz",
+                    "Walnut Creek, CA 94596"
+                ],
+                "state": "CA",
+                "zip_code": "94596"
+            },
+            "name": "Rituals Cosmetics",
+            "phone": "+19172658337",
+            "rating": 4.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/rituals-cosmetics-walnut-creek?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "madison-reed-color-bar-walnut-creek-walnut-creek-2",
+            "categories": [
+                {
+                    "alias": "hair",
+                    "title": "Hair Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.8963994590234,
+                "longitude": -122.057771321951
+            },
+            "display_phone": "(925) 239-4932",
+            "distance": 3275.064177972327,
+            "id": "g7D7DUTaEu5Zc2A5EEUHTw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pqocTlLA3l_mHfgBGDod7w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "21 Broadway Ln",
+                "address2": null,
+                "address3": "",
+                "city": "Walnut Creek",
+                "country": "US",
+                "display_address": [
+                    "21 Broadway Ln",
+                    "Walnut Creek, CA 94596"
+                ],
+                "state": "CA",
+                "zip_code": "94596"
+            },
+            "name": "Madison Reed Color Bar - Walnut Creek",
+            "phone": "+19252394932",
+            "rating": 5.0,
+            "review_count": 6,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/madison-reed-color-bar-walnut-creek-walnut-creek-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "la-finestra-moraga",
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.8355905000542,
+                "longitude": -122.127715926197
+            },
+            "display_phone": "(925) 376-4444",
+            "distance": 6741.3083280932715,
+            "id": "WoyMGn4KD5GLl4Tfb2ZnVg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oXln9YQhHK3i4NNtuyywCw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1419 Moraga Way",
+                "address2": "",
+                "address3": null,
+                "city": "Moraga",
+                "country": "US",
+                "display_address": [
+                    "1419 Moraga Way",
+                    "Moraga, CA 94556"
+                ],
+                "state": "CA",
+                "zip_code": "94556"
+            },
+            "name": "La Finestra",
+            "phone": "+19253764444",
+            "rating": 3.5,
+            "review_count": 22,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/la-finestra-moraga?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "keeku-da-dhaba-fremont",
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "coordinates": {
+                "latitude": 37.5530508,
+                "longitude": -121.9798298
+            },
+            "display_phone": "(510) 789-3437",
+            "distance": 38765.85932304733,
+            "id": "40DtuR_HxNuBVf_uSoy66Q",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/01Lkj-1u8DwBhRfzPqPFjw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "39200 Paseo Padre Pkwy",
+                "address2": "",
+                "address3": "Gateway Plaza",
+                "city": "Fremont",
+                "country": "US",
+                "display_address": [
+                    "39200 Paseo Padre Pkwy",
+                    "Gateway Plaza",
+                    "Fremont, CA 94538"
+                ],
+                "state": "CA",
+                "zip_code": "94538"
+            },
+            "name": "Keeku da Dhaba",
+            "phone": "+15107893437",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/keeku-da-dhaba-fremont?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 37.890154976777225,
+            "longitude": -122.09424550796643
+        }
+    },
+    "total": 8
+}

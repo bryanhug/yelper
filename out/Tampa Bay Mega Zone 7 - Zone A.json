@@ -1,0 +1,230 @@
+{
+    "businesses": [
+        {
+            "alias": "burgerim-brandon",
+            "categories": [
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "coordinates": {
+                "latitude": 27.93023,
+                "longitude": -82.32463
+            },
+            "display_phone": "(813) 662-4246",
+            "distance": 5298.397006394459,
+            "id": "lvU0w6fzxbzYKYtBnbCv5w",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6mp00U0zgefrt9E9KdK9QQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "459 Brandon Town Center Dr",
+                "address2": "",
+                "address3": "",
+                "city": "Brandon",
+                "country": "US",
+                "display_address": [
+                    "459 Brandon Town Center Dr",
+                    "Brandon, FL 33511"
+                ],
+                "state": "FL",
+                "zip_code": "33511"
+            },
+            "name": "Burgerim",
+            "phone": "+18136624246",
+            "rating": 3.0,
+            "review_count": 7,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/burgerim-brandon?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "truly-greek-brandon-3",
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "greek",
+                    "title": "Greek"
+                }
+            ],
+            "coordinates": {
+                "latitude": 27.8935251,
+                "longitude": -82.2716085
+            },
+            "display_phone": "(813) 324-7933",
+            "distance": 7708.009511468521,
+            "id": "Rz-tyulofvEnNeyQwFZw_w",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/z2OzYehdSyMSgy8jS6CiZA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "887 E Bloomingdale Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Brandon",
+                "country": "US",
+                "display_address": [
+                    "887 E Bloomingdale Ave",
+                    "Brandon, FL 33511"
+                ],
+                "state": "FL",
+                "zip_code": "33511"
+            },
+            "name": "Truly Greek",
+            "phone": "+18133247933",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/truly-greek-brandon-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "blooming-nails-and-spa-valrico",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                },
+                {
+                    "alias": "eyelashservice",
+                    "title": "Eyelash Service"
+                },
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                }
+            ],
+            "coordinates": {
+                "latitude": 27.8942166415112,
+                "longitude": -82.2499098
+            },
+            "display_phone": "(813) 654-6510",
+            "distance": 8006.813453989885,
+            "id": "chKYcbxS6qh5PFXB4UiPFg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HX33GkSCW1CJm0UV7F2vyA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2056 Bloomingdale Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Valrico",
+                "country": "US",
+                "display_address": [
+                    "2056 Bloomingdale Ave",
+                    "Valrico, FL 33596"
+                ],
+                "state": "FL",
+                "zip_code": "33596"
+            },
+            "name": "Blooming Nails & Spa",
+            "phone": "+18136546510",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/blooming-nails-and-spa-valrico?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "nekter-juice-bar-valrico",
+            "categories": [
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                },
+                {
+                    "alias": "acaibowls",
+                    "title": "Acai Bowls"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "coordinates": {
+                "latitude": 27.8911351,
+                "longitude": -82.241597
+            },
+            "display_phone": "(813) 409-2679",
+            "distance": 8734.6016261354,
+            "id": "MXP-VKFJYlu840ClSjxNSg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Yras-F5JgI1KUhiQ_f_N4A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3482 Lithia Pinecrest Rd",
+                "address2": "",
+                "address3": null,
+                "city": "Valrico",
+                "country": "US",
+                "display_address": [
+                    "3482 Lithia Pinecrest Rd",
+                    "Valrico, FL 33596"
+                ],
+                "state": "FL",
+                "zip_code": "33596"
+            },
+            "name": "Nekter Juice Bar",
+            "phone": "+18134092679",
+            "rating": 4.0,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/nekter-juice-bar-valrico?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "get-up-and-go-kayaking-crystal-river",
+            "categories": [
+                {
+                    "alias": "rafting",
+                    "title": "Rafting/Kayaking"
+                },
+                {
+                    "alias": "boattours",
+                    "title": "Boat Tours"
+                }
+            ],
+            "coordinates": {
+                "latitude": 28.8968550340356,
+                "longitude": -82.5944999714781
+            },
+            "display_phone": "(407) 212-7306",
+            "distance": 108576.01194392363,
+            "id": "W_k1CzXj1zf0zIXcEAmwWg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9Ray-7UyodoJflXkIfvEMw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "268 NW 3rd St",
+                "address2": null,
+                "address3": "",
+                "city": "Crystal River",
+                "country": "US",
+                "display_address": [
+                    "268 NW 3rd St",
+                    "Crystal River, FL 34428"
+                ],
+                "state": "FL",
+                "zip_code": "34428"
+            },
+            "name": "Get Up And Go Kayaking",
+            "phone": "+14072127306",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/get-up-and-go-kayaking-crystal-river?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 27.96004761866753,
+            "longitude": -82.28293259579534
+        }
+    },
+    "total": 5
+}

@@ -1,0 +1,264 @@
+{
+    "businesses": [
+        {
+            "alias": "the-sandbox-san-antonio",
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.576542,
+                "longitude": -98.632709
+            },
+            "display_phone": "(210) 277-0970",
+            "distance": 3684.0732155170385,
+            "id": "B0wd1mZOF1y5JILsS0_AKw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jQCGQHrAAU7IVeRdGw4pdg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "7280 Utsa Blvd",
+                "address2": "Ste 110",
+                "address3": null,
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "7280 Utsa Blvd",
+                    "Ste 110",
+                    "San Antonio, TX 78249"
+                ],
+                "state": "TX",
+                "zip_code": "78249"
+            },
+            "name": "The Sandbox",
+            "phone": "+12102770970",
+            "rating": 3.5,
+            "review_count": 33,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-sandbox-san-antonio?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bowl-and-box-japanese-and-korean-san-antonio",
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.5274631604325,
+                "longitude": -98.6400003769747
+            },
+            "display_phone": "(210) 626-8002",
+            "distance": 3714.700047334992,
+            "id": "dG3zD7UsvP7qtZYFrmMSTQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/m_AMlNAd5NEiz3ya5EbRZw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8910 Bandera Rd",
+                "address2": "Ste 211",
+                "address3": null,
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "8910 Bandera Rd",
+                    "Ste 211",
+                    "San Antonio, TX 78250"
+                ],
+                "state": "TX",
+                "zip_code": "78250"
+            },
+            "name": "Bowl & Box Japanese & Korean",
+            "phone": "+12106268002",
+            "rating": 5.0,
+            "review_count": 12,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bowl-and-box-japanese-and-korean-san-antonio?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "crepeccino-san-antonio",
+            "categories": [
+                {
+                    "alias": "desserts",
+                    "title": "Desserts"
+                },
+                {
+                    "alias": "creperies",
+                    "title": "Creperies"
+                },
+                {
+                    "alias": "gelato",
+                    "title": "Gelato"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.5168035209346,
+                "longitude": -98.597553878541
+            },
+            "display_phone": "(210) 600-3362",
+            "distance": 3827.998590811668,
+            "id": "5qUivpj_zEU2zfSGL1yr1g",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/76imvIZNntdrlvwKntRJDA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5500 Babcock Rd",
+                "address2": "Ste 104",
+                "address3": null,
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "5500 Babcock Rd",
+                    "Ste 104",
+                    "San Antonio, TX 78240"
+                ],
+                "state": "TX",
+                "zip_code": "78240"
+            },
+            "name": "Crepeccino",
+            "phone": "+12106003362",
+            "rating": 4.5,
+            "review_count": 34,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/crepeccino-san-antonio?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "blvd-bar-and-lounge-san-antonio",
+            "categories": [
+                {
+                    "alias": "danceclubs",
+                    "title": "Dance Clubs"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.579164,
+                "longitude": -98.586592
+            },
+            "display_phone": "(210) 343-1552",
+            "distance": 4060.8447742239987,
+            "id": "lq1TpPHGcoAwfiVRf0D4NA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RbPzC2cyQbXuA1UxdmbmWA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5138 Utsa Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "5138 Utsa Blvd",
+                    "San Antonio, TX 78249"
+                ],
+                "state": "TX",
+                "zip_code": "78249"
+            },
+            "name": "BLVD Bar & Lounge",
+            "phone": "+12103431552",
+            "rating": 4.0,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/blvd-bar-and-lounge-san-antonio?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "pokeworks-san-antonio-3",
+            "categories": [
+                {
+                    "alias": "poke",
+                    "title": "Poke"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.5920222976395,
+                "longitude": -98.6123203407226
+            },
+            "display_phone": "(210) 877-9999",
+            "distance": 4761.146039985285,
+            "id": "_8ZgUrS_y255wEwOJbdKrQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/y0bxcgsUNgTUctWfekPrvg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "15900 La Cantera Pkwy",
+                "address2": "Ste 26180",
+                "address3": null,
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "15900 La Cantera Pkwy",
+                    "Ste 26180",
+                    "San Antonio, TX 78256"
+                ],
+                "state": "TX",
+                "zip_code": "78256"
+            },
+            "name": "Pokeworks",
+            "phone": "+12108779999",
+            "rating": 4.5,
+            "review_count": 10,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/pokeworks-san-antonio-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "trio-modern-mediterranean-san-antonio-2",
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 29.52081,
+                "longitude": -98.57305
+            },
+            "display_phone": "(210) 202-1554",
+            "distance": 4833.814213173738,
+            "id": "mKudPNElaUOWud1mWZErmg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7V72Sj4qncqFjRvNx87RHg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "8620 Fredericksburg Rd",
+                "address2": "",
+                "address3": null,
+                "city": "San Antonio",
+                "country": "US",
+                "display_address": [
+                    "8620 Fredericksburg Rd",
+                    "San Antonio, TX 78240"
+                ],
+                "state": "TX",
+                "zip_code": "78240"
+            },
+            "name": "Trio Modern Mediterranean",
+            "phone": "+12102021554",
+            "rating": 4.0,
+            "review_count": 18,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/trio-modern-mediterranean-san-antonio-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 29.549222948730378,
+            "longitude": -98.61086499442088
+        }
+    },
+    "total": 6
+}

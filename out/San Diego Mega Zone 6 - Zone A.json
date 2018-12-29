@@ -1,0 +1,264 @@
+{
+    "businesses": [
+        {
+            "alias": "just-smother-it-san-diego",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "catering",
+                    "title": "Caterers"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7138557434082,
+                "longitude": -117.139297485352
+            },
+            "display_phone": "(858) 716-0489",
+            "distance": 1821.8098648533007,
+            "id": "AVOYU1r_aje-20t0Fzl1cA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VyqRoDGEK_S9PHXdS97Lsg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": null,
+                "address2": null,
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "San Diego, CA 92102"
+                ],
+                "state": "CA",
+                "zip_code": "92102"
+            },
+            "name": "Just Smother It",
+            "phone": "+18587160489",
+            "rating": 3.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/just-smother-it-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "beyond-babel-san-diego",
+            "categories": [
+                {
+                    "alias": "dancestudio",
+                    "title": "Dance Studios"
+                },
+                {
+                    "alias": "theater",
+                    "title": "Performing Arts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.70607,
+                "longitude": -117.1375
+            },
+            "display_phone": "(866) 811-4111",
+            "distance": 1855.403361061858,
+            "id": "XXu92coWcJ1Mr7UkGKI1wQ",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/O5CWM6DTD25F0OdezB0Rgw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2625 Imperial Ave",
+                "address2": "",
+                "address3": null,
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "2625 Imperial Ave",
+                    "San Diego, CA 92102"
+                ],
+                "state": "CA",
+                "zip_code": "92102"
+            },
+            "name": "Beyond Babel",
+            "phone": "+18668114111",
+            "rating": 5.0,
+            "review_count": 28,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/beyond-babel-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "enoteca-buona-forchetta-san-diego",
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.72112,
+                "longitude": -117.12994
+            },
+            "display_phone": "(614) 530-1252",
+            "distance": 2085.1378395402676,
+            "id": "xjZdUgNIuJgcEcg49Lpn-g",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BvSDFwavSCgCBNpRoxA2WA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3011 Beech St",
+                "address2": "",
+                "address3": null,
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "3011 Beech St",
+                    "San Diego, CA 92102"
+                ],
+                "state": "CA",
+                "zip_code": "92102"
+            },
+            "name": "Enoteca Buona Forchetta",
+            "phone": "+16145301252",
+            "rating": 4.5,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/enoteca-buona-forchetta-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "captain-sams-fish-and-chicken-san-diego-2",
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                },
+                {
+                    "alias": "fishnchips",
+                    "title": "Fish & Chips"
+                },
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.72316,
+                "longitude": -117.10682
+            },
+            "display_phone": "(619) 255-8688",
+            "distance": 2198.984299647034,
+            "id": "qApin0QcDp5AwzBSc-tIzQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Y509LPqXwc6cKbnu8_wAtA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4111 Home Ave",
+                "address2": "Ste A",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "4111 Home Ave",
+                    "Ste A",
+                    "San Diego, CA 92105"
+                ],
+                "state": "CA",
+                "zip_code": "92105"
+            },
+            "name": "Captain Sam's Fish & Chicken",
+            "phone": "+16192558688",
+            "rating": 5.0,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/captain-sams-fish-and-chicken-san-diego-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "fernside-san-diego-2",
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.72635,
+                "longitude": -117.12943
+            },
+            "display_phone": "(619) 255-9591",
+            "distance": 2569.690492670517,
+            "id": "DMFYWH0FRizH9IYaNKwf-A",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NjIKqAvjITEnREYNM4HfwA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1946 Fern St",
+                "address2": "",
+                "address3": null,
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "1946 Fern St",
+                    "San Diego, CA 92102"
+                ],
+                "state": "CA",
+                "zip_code": "92102"
+            },
+            "name": "Fernside",
+            "phone": "+16192559591",
+            "rating": 4.5,
+            "review_count": 65,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/fernside-san-diego-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "curryosity-san-diego",
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                },
+                {
+                    "alias": "gluten_free",
+                    "title": "Gluten-Free"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.72948,
+                "longitude": -117.12927
+            },
+            "display_phone": "(619) 255-0660",
+            "distance": 2883.78191099287,
+            "id": "0JmO9IUPf4qHa-lqTe8c3Q",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vUKIKL0pjPNd4fLhr_6RuQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3023 Juniper St",
+                "address2": null,
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "3023 Juniper St",
+                    "San Diego, CA 92104"
+                ],
+                "state": "CA",
+                "zip_code": "92104"
+            },
+            "name": "Curryosity",
+            "phone": "+16192550660",
+            "rating": 4.0,
+            "review_count": 41,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/curryosity-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 32.705465167592315,
+            "longitude": -117.11767073417953
+        }
+    },
+    "total": 6
+}

@@ -1,0 +1,52 @@
+{
+    "businesses": [
+        {
+            "alias": "bellys-crab-corner-miami",
+            "categories": [
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "coordinates": {
+                "latitude": 25.559648,
+                "longitude": -80.371661
+            },
+            "display_phone": "(786) 490-5976",
+            "distance": 4191.554100037977,
+            "id": "Ik3nmQbV9vvc0qLiprdM4Q",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/n0zSdVp0cEnpH97bV-AtfA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "22339 SW 112th Ave",
+                "address2": null,
+                "address3": null,
+                "city": "Miami",
+                "country": "US",
+                "display_address": [
+                    "22339 SW 112th Ave",
+                    "Miami, FL 33170"
+                ],
+                "state": "FL",
+                "zip_code": "33170"
+            },
+            "name": "Belly's Crab Corner",
+            "phone": "+17864905976",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bellys-crab-corner-miami?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 25.596907463335764,
+            "longitude": -80.36532224776708
+        }
+    },
+    "total": 1
+}

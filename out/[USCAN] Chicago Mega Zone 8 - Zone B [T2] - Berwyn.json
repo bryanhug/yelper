@@ -1,0 +1,104 @@
+{
+    "businesses": [
+        {
+            "alias": "cafe-media-noche-berwyn-2",
+            "categories": [
+                {
+                    "alias": "cuban",
+                    "title": "Cuban"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.83263,
+                "longitude": -87.79437
+            },
+            "display_phone": "(872) 600-6703",
+            "distance": 1773.1469081149255,
+            "id": "nmR_0Gci_uz0TYzXuhLH9g",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/c980yLLuNBXF-f_5of6Lig/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6836 Windsor Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Berwyn",
+                "country": "US",
+                "display_address": [
+                    "6836 Windsor Ave",
+                    "Berwyn, IL 60402"
+                ],
+                "state": "IL",
+                "zip_code": "60402"
+            },
+            "name": "Cafe Media Noche",
+            "phone": "+18726006703",
+            "rating": 5.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/cafe-media-noche-berwyn-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "grill-stop-berwyn",
+            "categories": [
+                {
+                    "alias": "cheesesteaks",
+                    "title": "Cheesesteaks"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 41.86493,
+                "longitude": -87.79111
+            },
+            "display_phone": "(708) 637-4999",
+            "distance": 4350.306306897746,
+            "id": "pJOwKBUohSFJh-6LDv-hUQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eeffZqlv_MK67MiodLFUbw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6623 Roosevelt Rd",
+                "address2": null,
+                "address3": "",
+                "city": "Berwyn",
+                "country": "US",
+                "display_address": [
+                    "6623 Roosevelt Rd",
+                    "Berwyn, IL 60402"
+                ],
+                "state": "IL",
+                "zip_code": "60402"
+            },
+            "name": "Grill Stop",
+            "phone": "+17086374999",
+            "rating": 4.5,
+            "review_count": 2,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/grill-stop-berwyn?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 41.830720137214,
+            "longitude": -87.81584776599
+        }
+    },
+    "total": 2
+}

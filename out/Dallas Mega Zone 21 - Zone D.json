@@ -1,0 +1,207 @@
+{
+    "businesses": [
+        {
+            "alias": "district-9-draught-haus-dallas",
+            "categories": [
+                {
+                    "alias": "brewpubs",
+                    "title": "Brewpubs"
+                },
+                {
+                    "alias": "german",
+                    "title": "German"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.8463088618057,
+                "longitude": -96.7108597733706
+            },
+            "display_phone": "(469) 709-9993",
+            "distance": 1806.8556857301419,
+            "id": "yW2D_RFdnyQtut3O7mTgjA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5plVIuXxMXj8s8fCF3nkBA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "718 N Buckner Blvd",
+                "address2": "Ste 215",
+                "address3": null,
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "718 N Buckner Blvd",
+                    "Ste 215",
+                    "Dallas, TX 75218"
+                ],
+                "state": "TX",
+                "zip_code": "75218"
+            },
+            "name": "District  9 Draught Haus",
+            "phone": "+14697099993",
+            "rating": 4.5,
+            "review_count": 6,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/district-9-draught-haus-dallas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mayas-modern-mediterranean-dallas-2",
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.8339521,
+                "longitude": -96.7016504
+            },
+            "display_phone": "(972) 707-0646",
+            "distance": 2178.5837586992075,
+            "id": "RjWgDlRqjv_nD1dRMTBThQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Wb694azfWz7IRISzU6ReCw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "9540 Garland Rd",
+                "address2": "Ste C362",
+                "address3": "",
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "9540 Garland Rd",
+                    "Ste C362",
+                    "Dallas, TX 75218"
+                ],
+                "state": "TX",
+                "zip_code": "75218"
+            },
+            "name": "Maya's Modern Mediterranean",
+            "phone": "+19727070646",
+            "rating": 4.5,
+            "review_count": 53,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/mayas-modern-mediterranean-dallas-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "aria-nail-bar-dallas-2",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.8343628776385,
+                "longitude": -96.7003727184984
+            },
+            "display_phone": "(972) 677-9540",
+            "distance": 2266.1649886288733,
+            "id": "qxPYU7bXGwn01-wcl-uwpQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PWoOuUCmXsyRBTJFpnlFWA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "9540 Garland Rd",
+                "address2": "Ste 396",
+                "address3": "",
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "9540 Garland Rd",
+                    "Ste 396",
+                    "Dallas, TX 75218"
+                ],
+                "state": "TX",
+                "zip_code": "75218"
+            },
+            "name": "Aria Nail Bar",
+            "phone": "+19726779540",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/aria-nail-bar-dallas-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "jaram-s-donuts-dallas",
+            "categories": [
+                {
+                    "alias": "donuts",
+                    "title": "Donuts"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.81574,
+                "longitude": -96.75323
+            },
+            "display_phone": "(469) 248-0257",
+            "distance": 3422.8194950275974,
+            "id": "8EBCLolrxS-9emtW2LSOCw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kGNcb4_lvdljhFBD0H2ICg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2117 Abrams Rd",
+                "address2": "",
+                "address3": null,
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "2117 Abrams Rd",
+                    "Dallas, TX 75214"
+                ],
+                "state": "TX",
+                "zip_code": "75214"
+            },
+            "name": "Jaram\u2019s Donuts",
+            "phone": "+14692480257",
+            "rating": 3.0,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/jaram-s-donuts-dallas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bliss-nail-spa-dallas",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.8565792404474,
+                "longitude": -96.7513766354431
+            },
+            "display_phone": "(214) 446-9827",
+            "distance": 3473.382262068839,
+            "id": "x1QSLZeC0eIq0dEU9nwHUA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iWfNy3xVCcPqFCMyOqMVCw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "6464 E Northwest Hwy",
+                "address2": "Ste 312",
+                "address3": "",
+                "city": "Dallas",
+                "country": "US",
+                "display_address": [
+                    "6464 E Northwest Hwy",
+                    "Ste 312",
+                    "Dallas, TX 75214"
+                ],
+                "state": "TX",
+                "zip_code": "75214"
+            },
+            "name": "Bliss Nail Spa",
+            "phone": "+12144469827",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bliss-nail-spa-dallas?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 32.834889996749816,
+            "longitude": -96.72461976529279
+        }
+    },
+    "total": 5
+}

@@ -1,0 +1,857 @@
+{
+    "businesses": [
+        {
+            "alias": "wingstop-portland-4",
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.56013,
+                "longitude": -122.661864
+            },
+            "display_phone": "(503) 894-8157",
+            "distance": 3771.951191769384,
+            "id": "70ma_UPtDi9ujrPHc5_AdQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OANCaVzJPvXnsVSgf97ynw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "5175 Ne Mlk Blvd Ste A2",
+                "address2": null,
+                "address3": null,
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "5175 Ne Mlk Blvd Ste A2",
+                    "Portland, OR 97211"
+                ],
+                "state": "OR",
+                "zip_code": "97211"
+            },
+            "name": "Wingstop",
+            "phone": "+15038948157",
+            "rating": 4.5,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/wingstop-portland-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "wild-fin-american-grill-vancouver",
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.6239701478128,
+                "longitude": -122.68064664418
+            },
+            "display_phone": "(360) 718-7701",
+            "distance": 4233.421826904083,
+            "id": "HHNS1GpxNO_X8xEXEE2Ocg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nyxbcxpXkhmqeVlQrgtMTA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "777 Waterfront Way",
+                "address2": "Ste 101",
+                "address3": null,
+                "city": "Vancouver",
+                "country": "US",
+                "display_address": [
+                    "777 Waterfront Way",
+                    "Ste 101",
+                    "Vancouver, WA 98660"
+                ],
+                "state": "WA",
+                "zip_code": "98660"
+            },
+            "name": "Wild Fin American Grill",
+            "phone": "+13607187701",
+            "rating": 4.0,
+            "review_count": 92,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/wild-fin-american-grill-vancouver?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "twigs-bistro-and-martini-bar-vancouver-4",
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.624145,
+                "longitude": -122.680948
+            },
+            "display_phone": "(360) 726-4011",
+            "distance": 4247.6607736842325,
+            "id": "U4ZJ37Rhg0Kf7udDXZVoVg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iPb-NaupUafsUTjxX8QDKg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "801 Waterfront Way",
+                "address2": "Ste 103",
+                "address3": null,
+                "city": "Vancouver",
+                "country": "US",
+                "display_address": [
+                    "801 Waterfront Way",
+                    "Ste 103",
+                    "Vancouver, WA 98660"
+                ],
+                "state": "WA",
+                "zip_code": "98660"
+            },
+            "name": "Twigs Bistro and Martini Bar",
+            "phone": "+13607264011",
+            "rating": 3.0,
+            "review_count": 57,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/twigs-bistro-and-martini-bar-vancouver-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "matta-portland",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "soulfood",
+                    "title": "Soul Food"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.55884,
+                "longitude": -122.64152
+            },
+            "display_phone": "(971) 258-2849",
+            "distance": 4997.201439919649,
+            "id": "GpJkcMmcxdaM0_3hYDMeCA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/p_Uruu_PbkJxCkVQXz9bAw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2314 NE Alberta St",
+                "address2": null,
+                "address3": "",
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "2314 NE Alberta St",
+                    "Portland, OR 97211"
+                ],
+                "state": "OR",
+                "zip_code": "97211"
+            },
+            "name": "MATTA",
+            "phone": "+19712582849",
+            "rating": 5.0,
+            "review_count": 6,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/matta-portland?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "avenue-23-tap-and-table-portland-3",
+            "categories": [
+                {
+                    "alias": "gastropubs",
+                    "title": "Gastropubs"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.5343531,
+                "longitude": -122.6985802
+            },
+            "display_phone": "(503) 755-5055",
+            "distance": 5846.604696052202,
+            "id": "dvlIHQzuJXh8Vcv8AOI23w",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xsECO0zK3zrUwegL-GCTYw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1620 NW 23rd Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "1620 NW 23rd Ave",
+                    "Portland, OR 97210"
+                ],
+                "state": "OR",
+                "zip_code": "97210"
+            },
+            "name": "Avenue 23 Tap & Table",
+            "phone": "+15037555055",
+            "rating": 4.5,
+            "review_count": 10,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/avenue-23-tap-and-table-portland-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "picnic-pdx-portland-2",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.53214,
+                "longitude": -122.699
+            },
+            "display_phone": "(503) 719-7768",
+            "distance": 6091.947628142919,
+            "id": "V0rxT9YujJKLCcDHapaeyA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-D-InMGdNkJmPWShewBJYA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1305 NW 23rd Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "1305 NW 23rd Ave",
+                    "Portland, OR 97210"
+                ],
+                "state": "OR",
+                "zip_code": "97210"
+            },
+            "name": "Picnic PDX",
+            "phone": "+15037197768",
+            "rating": 4.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/picnic-pdx-portland-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "west-portland-4",
+            "categories": [
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.53178,
+                "longitude": -122.69494
+            },
+            "display_phone": "(503) 208-2852",
+            "distance": 6113.231320403857,
+            "id": "_qAq7GI1d1l6WZnURSvJOw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/B94EEbXi-wTa7BPfNZRILA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1221 NW 21st Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "1221 NW 21st Ave",
+                    "Portland, OR 97209"
+                ],
+                "state": "OR",
+                "zip_code": "97209"
+            },
+            "name": "West",
+            "phone": "+15032082852",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/west-portland-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "botanist-bar-pdx-portland",
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "tapas",
+                    "title": "Tapas Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.5297,
+                "longitude": -122.6839
+            },
+            "display_phone": "(971) 533-8084",
+            "distance": 6351.729546526554,
+            "id": "zimZZDsjRcuRPgZWkyCRwg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uYF90QQPjGQ-YJ55fmd0XQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1300 NW Lovejoy St",
+                "address2": "",
+                "address3": null,
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "1300 NW Lovejoy St",
+                    "Portland, OR 97209"
+                ],
+                "state": "OR",
+                "zip_code": "97209"
+            },
+            "name": "Botanist Bar PDX",
+            "phone": "+19715338084",
+            "rating": 4.5,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/botanist-bar-pdx-portland?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bantam-tavern-portland-3",
+            "categories": [
+                {
+                    "alias": "brewpubs",
+                    "title": "Brewpubs"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.52946,
+                "longitude": -122.69433
+            },
+            "display_phone": "(503) 274-9032",
+            "distance": 6360.111100453456,
+            "id": "umw3Q6eW8fc8Kt-rXrYi-w",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/AYWsYmPICFWElHwLuV7odQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "922 NW 21st Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "922 NW 21st Ave",
+                    "Portland, OR 97209"
+                ],
+                "state": "OR",
+                "zip_code": "97209"
+            },
+            "name": "Bantam Tavern",
+            "phone": "+15032749032",
+            "rating": 4.5,
+            "review_count": 16,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bantam-tavern-portland-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "nw-style-salon-portland",
+            "categories": [
+                {
+                    "alias": "hair",
+                    "title": "Hair Salons"
+                },
+                {
+                    "alias": "eyelashservice",
+                    "title": "Eyelash Service"
+                },
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.52883,
+                "longitude": -122.69427
+            },
+            "display_phone": "(503) 227-2278",
+            "distance": 6437.174189547961,
+            "id": "p-xuuGIABbzSctQnWkgncw",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DzEMkEKxcngLOBaI9YI5ag/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "822 NW 21st Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "822 NW 21st Ave",
+                    "Portland, OR 97209"
+                ],
+                "state": "OR",
+                "zip_code": "97209"
+            },
+            "name": "NW Style Salon",
+            "phone": "+15032272278",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/nw-style-salon-portland?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bar-rione-portland",
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.52871,
+                "longitude": -122.68325
+            },
+            "display_phone": "(503) 954-1014",
+            "distance": 6479.575258994603,
+            "id": "tjCT7EyHjDxnB5NCjxCnRg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Zt-lws_GCOcgLPyfmjaohQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "804 NW 12th Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "804 NW 12th Ave",
+                    "Portland, OR 97209"
+                ],
+                "state": "OR",
+                "zip_code": "97209"
+            },
+            "name": "Bar Rione",
+            "phone": "+15039541014",
+            "rating": 4.5,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bar-rione-portland?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bhuna-portland",
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.5278598478315,
+                "longitude": -122.69416987896
+            },
+            "display_phone": "(971) 865-2176",
+            "distance": 6548.030834876797,
+            "id": "9YuN48Y2S-E70Oos9yHSMw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EYB4hiXQ156SILY6Xv-NUg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "704 NW 21st Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "704 NW 21st Ave",
+                    "Portland, OR 97209"
+                ],
+                "state": "OR",
+                "zip_code": "97209"
+            },
+            "name": "Bhuna ",
+            "phone": "+19718652176",
+            "rating": 4.0,
+            "review_count": 42,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bhuna-portland?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "pbjs-grilled-portland-6",
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.52741,
+                "longitude": -122.68482
+            },
+            "display_phone": "(702) 300-7734",
+            "distance": 6640.1129849032895,
+            "id": "It_G6mAnBRjdNfVbU8XhLA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lJ9pMvanMsmHW_PG-ya3lw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "611 NW 13th Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "611 NW 13th Ave",
+                    "Portland, OR 97209"
+                ],
+                "state": "OR",
+                "zip_code": "97209"
+            },
+            "name": "PBJ's Grilled",
+            "phone": "+17023007734",
+            "rating": 4.0,
+            "review_count": 26,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/pbjs-grilled-portland-6?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mds-bbq-portland",
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.53477,
+                "longitude": -122.64238
+            },
+            "display_phone": "(971) 888-4005",
+            "distance": 6954.830288364975,
+            "id": "9aOmkBmtVsRhaRSNDOTxzQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/giA-eFAv3UZO8VgSHB7Fgw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2226 NE Broadway St",
+                "address2": "",
+                "address3": null,
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "2226 NE Broadway St",
+                    "Portland, OR 97232"
+                ],
+                "state": "OR",
+                "zip_code": "97232"
+            },
+            "name": "MD's Bbq",
+            "phone": "+19718884005",
+            "rating": 4.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/mds-bbq-portland?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-boiling-bowl-portland",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.5237,
+                "longitude": -122.69475
+            },
+            "display_phone": "(971) 888-4255",
+            "distance": 6996.07938141075,
+            "id": "9hz5Il6RRyGBW7FcwdZtaQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eirzoD_ZerjKwS-yS-_NNA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "103 NW 21st St",
+                "address2": null,
+                "address3": "",
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "103 NW 21st St",
+                    "Portland, OR 97209"
+                ],
+                "state": "OR",
+                "zip_code": "97209"
+            },
+            "name": "The Boiling Bowl",
+            "phone": "+19718884255",
+            "rating": 4.5,
+            "review_count": 51,
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "url": "https://www.yelp.com/biz/the-boiling-bowl-portland?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "secret-sauce-burger-portland-2",
+            "categories": [
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.5233,
+                "longitude": -122.69162
+            },
+            "display_phone": "(503) 858-4775",
+            "distance": 7059.604036786834,
+            "id": "p1BqVBxSr6NthgqNzcrIVw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/d83EToHD3ceo_00gUexI_Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1981 W Burnside St",
+                "address2": null,
+                "address3": "",
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "1981 W Burnside St",
+                    "Portland, OR 97209"
+                ],
+                "state": "OR",
+                "zip_code": "97209"
+            },
+            "name": "Secret Sauce Burger",
+            "phone": "+15038584775",
+            "rating": 5.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/secret-sauce-burger-portland-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "la-neta-portland",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.52335,
+                "longitude": -122.67466
+            },
+            "display_phone": "(503) 770-0500",
+            "distance": 7160.637913095342,
+            "id": "simVdSlySRDEIWaAXiDOfQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ap5qjsPD5-VBj7i5Yli4sQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "15 NW 4th Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "15 NW 4th Ave",
+                    "Portland, OR 97209"
+                ],
+                "state": "OR",
+                "zip_code": "97209"
+            },
+            "name": "La Neta",
+            "phone": "+15037700500",
+            "rating": 3.5,
+            "review_count": 15,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/la-neta-portland?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "myprint-portland",
+            "categories": [
+                {
+                    "alias": "souvenirs",
+                    "title": "Souvenir Shops"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.5228351,
+                "longitude": -122.6819806
+            },
+            "display_phone": "(503) 719-5850",
+            "distance": 7164.941682816931,
+            "id": "2H7xTJlj79DElCVmMJDdDQ",
+            "image_url": "",
+            "is_closed": false,
+            "location": {
+                "address1": "1022 W Burnside St",
+                "address2": "West Burnside St",
+                "address3": null,
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "1022 W Burnside St",
+                    "West Burnside St",
+                    "Portland, OR 97209"
+                ],
+                "state": "OR",
+                "zip_code": "97209"
+            },
+            "name": "MYPRINT",
+            "phone": "+15037195850",
+            "rating": 4.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/myprint-portland?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "kozy-bar-portland-2",
+            "categories": [
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.5217174954584,
+                "longitude": -122.681023333333
+            },
+            "display_phone": "",
+            "distance": 7278.548049709634,
+            "id": "oMeyqbCzS0LTFkXzKPlWxQ",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/R-uoe8RHgu4oiXy-B1v6HQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "424 SW 10th Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "424 SW 10th Ave",
+                    "Portland, OR 97205"
+                ],
+                "state": "OR",
+                "zip_code": "97205"
+            },
+            "name": "Kozy Bar",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 3,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/kozy-bar-portland-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "bullard-portland-3",
+            "categories": [
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.520579918916,
+                "longitude": -122.680489942431
+            },
+            "display_phone": "(503) 222-1670",
+            "distance": 7409.074062726648,
+            "id": "n16Hf7v3TpWKwjpKoV_01A",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/a4oeP12egwAn0WP5CeELuw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "813 SW Alder St",
+                "address2": "",
+                "address3": null,
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "813 SW Alder St",
+                    "Portland, OR 97205"
+                ],
+                "state": "OR",
+                "zip_code": "97205"
+            },
+            "name": "Bullard",
+            "phone": "+15032221670",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/bullard-portland-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 45.58672709873571,
+            "longitude": -122.69194172189148
+        }
+    },
+    "total": 27
+}

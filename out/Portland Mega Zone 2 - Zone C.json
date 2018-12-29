@@ -1,0 +1,176 @@
+{
+    "businesses": [
+        {
+            "alias": "first-street-taqueria-beaverton",
+            "categories": [
+                {
+                    "alias": "tacos",
+                    "title": "Tacos"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.4865743247659,
+                "longitude": -122.806875631213
+            },
+            "display_phone": "(503) 616-2416",
+            "distance": 4885.786871726506,
+            "id": "QUpW8oyhrO4ukK49PzOF5A",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/K5bil4IPMQMPnlto0D_5Qw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "12655 SW 1st St",
+                "address2": "",
+                "address3": null,
+                "city": "Beaverton",
+                "country": "US",
+                "display_address": [
+                    "12655 SW 1st St",
+                    "Beaverton, OR 97005"
+                ],
+                "state": "OR",
+                "zip_code": "97005"
+            },
+            "name": "First Street Taqueria",
+            "phone": "+15036162416",
+            "rating": 3.5,
+            "review_count": 21,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/first-street-taqueria-beaverton?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "yun-s-surlungtang-beaverton",
+            "categories": [
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.49345,
+                "longitude": -122.80903
+            },
+            "display_phone": "",
+            "distance": 5439.5594013809905,
+            "id": "CeX0LBD7_GR0Jdi57cy3Dg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/33t3TSSVocdTLY3-M8NIWQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3655 SW Hall Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "Beaverton",
+                "country": "US",
+                "display_address": [
+                    "3655 SW Hall Blvd",
+                    "Beaverton, OR 97005"
+                ],
+                "state": "OR",
+                "zip_code": "97005"
+            },
+            "name": "Yun\u2019s Surlungtang",
+            "phone": "",
+            "rating": 4.5,
+            "review_count": 15,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/yun-s-surlungtang-beaverton?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sharetea-beaverton",
+            "categories": [
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "juicebars",
+                    "title": "Juice Bars & Smoothies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.500464,
+                "longitude": -122.809004
+            },
+            "display_phone": "(503) 626-2226",
+            "distance": 6118.439752103595,
+            "id": "edlA6hSakvNxRZQFbuf-Iw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/18QRtEtXW2MJYritFm7Bgw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2725 SW Cedar Hills Blvd",
+                "address2": "Ste 110",
+                "address3": "",
+                "city": "Beaverton",
+                "country": "US",
+                "display_address": [
+                    "2725 SW Cedar Hills Blvd",
+                    "Ste 110",
+                    "Beaverton, OR 97005"
+                ],
+                "state": "OR",
+                "zip_code": "97005"
+            },
+            "name": "Sharetea",
+            "phone": "+15036262226",
+            "rating": 4.0,
+            "review_count": 47,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sharetea-beaverton?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "tight-tacos-portland-2",
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                },
+                {
+                    "alias": "foodtrucks",
+                    "title": "Food Trucks"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "coordinates": {
+                "latitude": 45.51237,
+                "longitude": -122.62988
+            },
+            "display_phone": "(971) 336-5795",
+            "distance": 18030.04703550453,
+            "id": "lk_Pf67uaChin59jhW9F1g",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oD52h0Bf5Lf0zoAowkvpmA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3343 SE Hawthorne Blvd",
+                "address2": null,
+                "address3": "",
+                "city": "Portland",
+                "country": "US",
+                "display_address": [
+                    "3343 SE Hawthorne Blvd",
+                    "Portland, OR 97214"
+                ],
+                "state": "OR",
+                "zip_code": "97214"
+            },
+            "name": "Tight Tacos",
+            "phone": "+19713365795",
+            "rating": 4.0,
+            "review_count": 8,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/tight-tacos-portland-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 45.45128829481994,
+            "longitude": -122.84421028484637
+        }
+    },
+    "total": 4
+}

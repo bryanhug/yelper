@@ -1,0 +1,851 @@
+{
+    "businesses": [
+        {
+            "alias": "supernatural-sandwiches-san-diego-6",
+            "categories": [
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7270463,
+                "longitude": -117.1704264
+            },
+            "display_phone": "(619) 230-5976",
+            "distance": 776.4701190407432,
+            "id": "D5CernzCRztMuUhxTCRe9A",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hNrxmuY9Wnh73Tp2s2AE7Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "2171 Kettner Blvd",
+                "address2": "",
+                "address3": null,
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "2171 Kettner Blvd",
+                    "San Diego, CA 92101"
+                ],
+                "state": "CA",
+                "zip_code": "92101"
+            },
+            "name": "Supernatural Sandwiches",
+            "phone": "+16192305976",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/supernatural-sandwiches-san-diego-6?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "corner-cafe-san-diego-2",
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.74367,
+                "longitude": -117.1607
+            },
+            "display_phone": "(619) 542-9942",
+            "distance": 1325.762372393034,
+            "id": "F7s40xJYqICnRPuoHovD5g",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/a0qdAV540ysf_uFL8BAVMg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3614 Fifth Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "3614 Fifth Ave",
+                    "San Diego, CA 92103"
+                ],
+                "state": "CA",
+                "zip_code": "92103"
+            },
+            "name": "Corner Cafe",
+            "phone": "+16195429942",
+            "rating": 5.0,
+            "review_count": 28,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/corner-cafe-san-diego-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "wildflower-salon-san-diego",
+            "categories": [
+                {
+                    "alias": "hairstylists",
+                    "title": "Hair Stylists"
+                },
+                {
+                    "alias": "hair_extensions",
+                    "title": "Hair Extensions"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.72171,
+                "longitude": -117.16502
+            },
+            "display_phone": "(619) 717-4054",
+            "distance": 1397.685114205972,
+            "id": "0gu5JfkYYDVd0inpd1stQA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AezXMOurLRO55Pacadl75A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1550 Front St 5 San Diego",
+                "address2": null,
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "1550 Front St 5 San Diego",
+                    "San Diego, CA 92101"
+                ],
+                "state": "CA",
+                "zip_code": "92101"
+            },
+            "name": "Wildflower Salon",
+            "phone": "+16197174054",
+            "rating": 5.0,
+            "review_count": 1,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/wildflower-salon-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "hazel-and-jade-san-diego-2",
+            "categories": [
+                {
+                    "alias": "cakeshop",
+                    "title": "Patisserie/Cake Shop"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.74782,
+                "longitude": -117.16189
+            },
+            "display_phone": "(619) 295-2001",
+            "distance": 1673.622266693959,
+            "id": "Srs0Y0mvj81Sr2l7imznAg",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bM9J1tu1fo9LIlhlh4XZmw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3852 Fourth Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "3852 Fourth Ave",
+                    "San Diego, CA 92103"
+                ],
+                "state": "CA",
+                "zip_code": "92103"
+            },
+            "name": "Hazel & Jade",
+            "phone": "+16192952001",
+            "rating": 5.0,
+            "review_count": 5,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/hazel-and-jade-san-diego-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "creme-de-la-crepe-san-diego-san-diego",
+            "categories": [
+                {
+                    "alias": "french",
+                    "title": "French"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "creperies",
+                    "title": "Creperies"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.74841,
+                "longitude": -117.16308
+            },
+            "display_phone": "(619) 269-1886",
+            "distance": 1702.5636923332313,
+            "id": "5BebTUVpt9ZGs2XbKguXzw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/skRji4aU3jehATyA9KwKFQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "142 University Ave",
+                "address2": "Ste C",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "142 University Ave",
+                    "Ste C",
+                    "San Diego, CA 92103"
+                ],
+                "state": "CA",
+                "zip_code": "92103"
+            },
+            "name": "Creme De La Crepe - San Diego",
+            "phone": "+16192691886",
+            "rating": 5.0,
+            "review_count": 32,
+            "transactions": [
+                "pickup",
+                "restaurant_reservation",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/creme-de-la-crepe-san-diego-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "natural-style-chicken-san-diego-4",
+            "categories": [
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7481,
+                "longitude": -117.16019
+            },
+            "display_phone": "(619) 228-9442",
+            "distance": 1766.8938323145876,
+            "id": "bRltMYcNkTe5adUJMW6d_w",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bfdpcsFXiYhE0TnLA0u3OQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "501 University Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "501 University Ave",
+                    "San Diego, CA 92103"
+                ],
+                "state": "CA",
+                "zip_code": "92103"
+            },
+            "name": "Natural Style Chicken",
+            "phone": "+16192289442",
+            "rating": 5.0,
+            "review_count": 2,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/natural-style-chicken-san-diego-4?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-blazzin-buffalo-san-diego",
+            "categories": [
+                {
+                    "alias": "chicken_wings",
+                    "title": "Chicken Wings"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.75019,
+                "longitude": -117.16359
+            },
+            "display_phone": "(619) 542-9848",
+            "distance": 1867.8453987346957,
+            "id": "vdPjjIyUaLr_Qmg1aBQUhw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eIQr4DkGqBeu547eZzGi1A/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "120 Washington St",
+                "address2": "Ste B",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "120 Washington St",
+                    "Ste B",
+                    "San Diego, CA 92103"
+                ],
+                "state": "CA",
+                "zip_code": "92103"
+            },
+            "name": "The Blazzin Buffalo",
+            "phone": "+16195429848",
+            "rating": 5.0,
+            "review_count": 15,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/the-blazzin-buffalo-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-wild-thyme-table-san-diego",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.716611,
+                "longitude": -117.1676577
+            },
+            "display_phone": "(619) 269-7091",
+            "distance": 1941.0891316127386,
+            "id": "4TWbt_ji3c2xZ4xkvWyDVg",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NAs9MQ5ym7tBXqKBOjCOuQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "555 W C St",
+                "address2": "Ste 103",
+                "address3": null,
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "555 W C St",
+                    "Ste 103",
+                    "San Diego, CA 92101"
+                ],
+                "state": "CA",
+                "zip_code": "92101"
+            },
+            "name": "The Wild Thyme Table",
+            "phone": "+16192697091",
+            "rating": 4.5,
+            "review_count": 17,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-wild-thyme-table-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "del-friscos-double-eagle-steakhouse-san-diego-2",
+            "categories": [
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7165198,
+                "longitude": -117.1716937
+            },
+            "display_phone": "(619) 272-5060",
+            "distance": 1950.3640978776966,
+            "id": "N1_1pLtSdU4J_YG8vfkC3w",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FWsNuAprLt4L-tsg4kGPfw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "901 Bayfront Ct",
+                "address2": "Ste 105",
+                "address3": null,
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "901 Bayfront Ct",
+                    "Ste 105",
+                    "San Diego, CA 92101"
+                ],
+                "state": "CA",
+                "zip_code": "92101"
+            },
+            "name": "Del Frisco's Double Eagle Steakhouse",
+            "phone": "+16192725060",
+            "rating": 4.0,
+            "review_count": 58,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/del-friscos-double-eagle-steakhouse-san-diego-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "coffee-n-talk-san-diego",
+            "categories": [
+                {
+                    "alias": "coffeeroasteries",
+                    "title": "Coffee Roasteries"
+                },
+                {
+                    "alias": "coffee",
+                    "title": "Coffee & Tea"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.71738,
+                "longitude": -117.15901
+            },
+            "display_phone": "(619) 269-4977",
+            "distance": 2047.5541700096992,
+            "id": "amTYVughne2Nox_xT3LpHw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hNjLtyZm-JPnFHVK8Ns7sw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1143 6th Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "1143 6th Ave",
+                    "San Diego, CA 92101"
+                ],
+                "state": "CA",
+                "zip_code": "92101"
+            },
+            "name": "Coffee 'n' Talk",
+            "phone": "+16192694977",
+            "rating": 5.0,
+            "review_count": 30,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/coffee-n-talk-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "rendezvous-san-diego-2",
+            "categories": [
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7158550828369,
+                "longitude": -117.161822038298
+            },
+            "display_phone": "",
+            "distance": 2105.9516541812695,
+            "id": "xQUhLYb17NZcY4RdHcgrNw",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OymBYhCA86mw1KD1M0lAcg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "326 Broadway",
+                "address2": "",
+                "address3": null,
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "326 Broadway",
+                    "San Diego, CA 92101"
+                ],
+                "state": "CA",
+                "zip_code": "92101"
+            },
+            "name": "Rendezvous",
+            "phone": "",
+            "rating": 5.0,
+            "review_count": 7,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/rendezvous-san-diego-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "ad-libitum-san-diego-2",
+            "categories": [
+                {
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.74809,
+                "longitude": -117.15196
+            },
+            "display_phone": "(619) 487-0361",
+            "distance": 2227.845830232057,
+            "id": "GjGjIecsFoE3uQVUK3kiHA",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eTzMCbgzAFhyi0f8ocQnng/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "1263 University Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "1263 University Ave",
+                    "San Diego, CA 92103"
+                ],
+                "state": "CA",
+                "zip_code": "92103"
+            },
+            "name": "Ad Libitum",
+            "phone": "+16194870361",
+            "rating": 4.5,
+            "review_count": 29,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/ad-libitum-san-diego-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "the-morning-after-coming-soon-san-diego",
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.71343,
+                "longitude": -117.15953
+            },
+            "display_phone": "(619) 542-9664",
+            "distance": 2428.0259101816387,
+            "id": "2om250juRzAqIzKr_PgHPw",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Jr4iD9ToUz8En_9Oq87nPw/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "531 F St",
+                "address2": null,
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "531 F St",
+                    "San Diego, CA 92101"
+                ],
+                "state": "CA",
+                "zip_code": "92101"
+            },
+            "name": "The Morning After - COMING SOON",
+            "phone": "+16195429664",
+            "rating": 4.5,
+            "review_count": 9,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/the-morning-after-coming-soon-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "theatre-box-san-diego",
+            "categories": [
+                {
+                    "alias": "dinnertheater",
+                    "title": "Dinner Theater"
+                },
+                {
+                    "alias": "movietheaters",
+                    "title": "Cinema"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.712790312604,
+                "longitude": -117.159845642745
+            },
+            "display_phone": "(619) 814-2225",
+            "distance": 2488.0510128691794,
+            "id": "LNG3OiMWHduc1SjgeHpzAw",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zteFD2EamN7dasXo-xCY4Q/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "701 Fiftth Ave",
+                "address2": "",
+                "address3": null,
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "701 Fiftth Ave",
+                    "San Diego, CA 92101"
+                ],
+                "state": "CA",
+                "zip_code": "92101"
+            },
+            "name": "Theatre Box",
+            "phone": "+16198142225",
+            "rating": 4.0,
+            "review_count": 11,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/theatre-box-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "sugar-factory-american-brasserie-san-diego",
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7127601064874,
+                "longitude": -117.15974548644
+            },
+            "display_phone": "",
+            "distance": 2494.357720737983,
+            "id": "7l8uF1UAtapraNOXuGTYIQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SrehPcqE-sD4wRU7ntFzPg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "701 Fifth Ave",
+                "address2": "",
+                "address3": null,
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "701 Fifth Ave",
+                    "San Diego, CA 92101"
+                ],
+                "state": "CA",
+                "zip_code": "92101"
+            },
+            "name": "Sugar Factory American Brasserie",
+            "phone": "",
+            "rating": 4.0,
+            "review_count": 32,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/sugar-factory-american-brasserie-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "mattarello-cooking-lab-san-diego",
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7107024,
+                "longitude": -117.1593789
+            },
+            "display_phone": "(619) 788-2831",
+            "distance": 2719.6452967496066,
+            "id": "5lZEJRCK-FDPrzkejxI4yg",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0xakkQKPjxWQ1AtkzQigQA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "518 6th Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "518 6th Ave",
+                    "San Diego, CA 92101"
+                ],
+                "state": "CA",
+                "zip_code": "92101"
+            },
+            "name": "Mattarello Cooking Lab",
+            "phone": "+16197882831",
+            "rating": 4.5,
+            "review_count": 19,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/mattarello-cooking-lab-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "melvin-brewing-san-diego-3",
+            "categories": [
+                {
+                    "alias": "breweries",
+                    "title": "Breweries"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7117885768589,
+                "longitude": -117.152067571878
+            },
+            "display_phone": "(619) 269-2237",
+            "distance": 2909.262705868334,
+            "id": "qHRlTrwXxPHVHJrrWybYkQ",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OPx8rM2UKuJy23kkXkosAA/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "634 14th St",
+                "address2": "Ste 110",
+                "address3": null,
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "634 14th St",
+                    "Ste 110",
+                    "San Diego, CA 92101"
+                ],
+                "state": "CA",
+                "zip_code": "92101"
+            },
+            "name": "Melvin Brewing",
+            "phone": "+16192692237",
+            "rating": 4.5,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/melvin-brewing-san-diego-3?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "machu-picchu-bar-and-restaurant-san-diego-2",
+            "categories": [
+                {
+                    "alias": "peruvian",
+                    "title": "Peruvian"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7085555,
+                "longitude": -117.1602531
+            },
+            "display_phone": "(619) 892-7595",
+            "distance": 2911.3977624408476,
+            "id": "7MjyP5_JDtvgokPzPK1OFA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-NWQ7XbwwGfVwoRBExBq8w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "314 5th Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "314 5th Ave",
+                    "San Diego, CA 92101"
+                ],
+                "state": "CA",
+                "zip_code": "92101"
+            },
+            "name": "Machu Picchu Bar & Restaurant",
+            "phone": "+16198927595",
+            "rating": 3.0,
+            "review_count": 40,
+            "transactions": [
+                "restaurant_reservation"
+            ],
+            "url": "https://www.yelp.com/biz/machu-picchu-bar-and-restaurant-san-diego-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "whiphand-san-diego",
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.70914,
+                "longitude": -117.15616
+            },
+            "display_phone": "(619) 450-5515",
+            "distance": 2990.2207273868153,
+            "id": "c6RgsAQlnbhigcnFYUphLg",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/17dJDYTG-GOUIaLU68tmCQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "935 J St",
+                "address2": null,
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "935 J St",
+                    "San Diego, CA 92101"
+                ],
+                "state": "CA",
+                "zip_code": "92101"
+            },
+            "name": "WhipHand",
+            "phone": "+16194505515",
+            "rating": 5.0,
+            "review_count": 4,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/whiphand-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "stella-jeans-ice-cream-san-diego",
+            "categories": [
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "coordinates": {
+                "latitude": 32.7574,
+                "longitude": -117.14645
+            },
+            "display_phone": "(619) 501-8252",
+            "distance": 3345.0375287742017,
+            "id": "ls5E_YVqk3S23edAaLmTqA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PlcI1eX-IEhhTAdfTAWfjQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "4404 Park Blvd",
+                "address2": "Ste B",
+                "address3": "",
+                "city": "San Diego",
+                "country": "US",
+                "display_address": [
+                    "4404 Park Blvd",
+                    "Ste B",
+                    "San Diego, CA 92116"
+                ],
+                "state": "CA",
+                "zip_code": "92116"
+            },
+            "name": "Stella Jean's Ice Cream",
+            "phone": "+16195018252",
+            "rating": 4.5,
+            "review_count": 59,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/stella-jeans-ice-cream-san-diego?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 32.73388143401085,
+            "longitude": -117.16872735503253
+        }
+    },
+    "total": 21
+}

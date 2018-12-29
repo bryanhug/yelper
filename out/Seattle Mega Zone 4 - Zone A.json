@@ -1,0 +1,188 @@
+{
+    "businesses": [
+        {
+            "alias": "misora-teriyaki-lynnwood",
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.84571,
+                "longitude": -122.29418
+            },
+            "display_phone": "(425) 678-1819",
+            "distance": 1453.4666691710493,
+            "id": "xOkrZOdJv5Y3Y7n1N5e4Ew",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gQfwtRyhGUEJgcOimsg5OQ/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "16809 WA-99",
+                "address2": "Ste E",
+                "address3": null,
+                "city": "Lynnwood",
+                "country": "US",
+                "display_address": [
+                    "16809 WA-99",
+                    "Ste E",
+                    "Lynnwood, WA 98037"
+                ],
+                "state": "WA",
+                "zip_code": "98037"
+            },
+            "name": "Misora Teriyaki",
+            "phone": "+14256781819",
+            "rating": 4.5,
+            "review_count": 11,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/misora-teriyaki-lynnwood?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "pho-country-house-lynnwood",
+            "categories": [
+                {
+                    "alias": "vietnamese",
+                    "title": "Vietnamese"
+                },
+                {
+                    "alias": "soup",
+                    "title": "Soup"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.8378551068782,
+                "longitude": -122.300231494009
+            },
+            "display_phone": "(425) 678-1772",
+            "distance": 2432.6928146460336,
+            "id": "foub-9MHEaXSG9DQE2re8A",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oV6TR9Ei_Mu6kLHqZppR3w/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "17711 Hwy 99",
+                "address2": "Ste C",
+                "address3": null,
+                "city": "Lynnwood",
+                "country": "US",
+                "display_address": [
+                    "17711 Hwy 99",
+                    "Ste C",
+                    "Lynnwood, WA 98037"
+                ],
+                "state": "WA",
+                "zip_code": "98037"
+            },
+            "name": "Pho Country House",
+            "phone": "+14256781772",
+            "rating": 4.0,
+            "review_count": 8,
+            "transactions": [
+                "pickup",
+                "delivery"
+            ],
+            "url": "https://www.yelp.com/biz/pho-country-house-lynnwood?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "charm-gai-lynnwood-2",
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.8315,
+                "longitude": -122.27698
+            },
+            "display_phone": "(425) 678-1752",
+            "distance": 3160.288948367263,
+            "id": "lSOg5nPIQx4TGR4JhZi95w",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/I7XhxHP8EgAYysV0cWik_g/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "18415 33rd Ave W",
+                "address2": null,
+                "address3": "",
+                "city": "Lynnwood",
+                "country": "US",
+                "display_address": [
+                    "18415 33rd Ave W",
+                    "Lynnwood, WA 98037"
+                ],
+                "state": "WA",
+                "zip_code": "98037"
+            },
+            "name": "Charm Gai",
+            "phone": "+14256781752",
+            "rating": 5.0,
+            "review_count": 13,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/charm-gai-lynnwood-2?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        },
+        {
+            "alias": "anthony-vince-nail-spa-lynnwood",
+            "categories": [
+                {
+                    "alias": "othersalons",
+                    "title": "Nail Salons"
+                },
+                {
+                    "alias": "waxing",
+                    "title": "Waxing"
+                },
+                {
+                    "alias": "skincare",
+                    "title": "Skin Care"
+                }
+            ],
+            "coordinates": {
+                "latitude": 47.8294,
+                "longitude": -122.27376
+            },
+            "display_phone": "(425) 412-1938",
+            "distance": 3384.681553792923,
+            "id": "HK9PHZOvVrSlAy4pDQ3JSA",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2elpcmtsEuvWRCiLlWKrmg/o.jpg",
+            "is_closed": false,
+            "location": {
+                "address1": "3000 184th St SW",
+                "address2": "Ste 938",
+                "address3": "",
+                "city": "Lynnwood",
+                "country": "US",
+                "display_address": [
+                    "3000 184th St SW",
+                    "Ste 938",
+                    "Lynnwood, WA 98037"
+                ],
+                "state": "WA",
+                "zip_code": "98037"
+            },
+            "name": "Anthony Vince' Nail Spa",
+            "phone": "+14254121938",
+            "rating": 4.0,
+            "review_count": 23,
+            "transactions": [],
+            "url": "https://www.yelp.com/biz/anthony-vince-nail-spa-lynnwood?adjust_creative=wBW6HE4nirReynin1fNGKA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=wBW6HE4nirReynin1fNGKA"
+        }
+    ],
+    "region": {
+        "center": {
+            "latitude": 47.858560238901916,
+            "longitude": -122.28970189848567
+        }
+    },
+    "total": 4
+}
