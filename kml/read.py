@@ -15,7 +15,7 @@ def parse_description(geos, description):
     lng = split[5].split()[1]
     geos.write(name + ',' + area + ',' + lat + ',' + lng + '\n')
 
-with open('C5Dense.kml', 'rb') as f:
+with open('C1Dense.kml', 'rb') as f:
     """Opens kml file and outputs geos into coords.txt"""
     doc = f.read()
     k = kml.KML()
