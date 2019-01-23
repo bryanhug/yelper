@@ -3,6 +3,8 @@ import json
 from math import sqrt, pi
 import os
 import sys
+
+
 class GeoFence:
     def __init__(self, name, area_sqm, lat, lng):
         self.name = name
@@ -62,4 +64,4 @@ def write_to_file(req, out):
         print(json.dumps(geo_dic))
 
 
-read_geos()
+# read_geos()

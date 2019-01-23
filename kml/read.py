@@ -4,11 +4,21 @@ import re
 import os, sys
 import traceback
 
+def in_geo():
+    # implement with ray casting algorithm
+    return False
+
+
+
 def parse_placemark(geos, p):
     """Splits the kml description into name, area, lat, lng"""
     # Splits the Placemark description into 25 parts
     split = re.split(r'<br><br>|<br>', str(p.description))
-    
+    # tuple class
+    # print(p.geometry.exterior.coords)
+    print(len(p.geometry.exterior.coords))
+    print(len([x[0] for x in p.geometry.exterior.coords]))
+    sys.exit(0)
     try:
         #split[3]=area, split[4]=lat, split[5]=lng
         name = p.name.rstrip().lstrip().replace('/','').replace(',','')
@@ -16,8 +26,6 @@ def parse_placemark(geos, p):
         lat = split[4].split()[1]
         lng = split[5].split()[1]
     except(IndexError) as er:
-        # print (p.description)
-        # print(p(name='area_sqm'))
         print(name)
         print(split[4])
         print(er)
@@ -25,19 +33,20 @@ def parse_placemark(geos, p):
         sys.exit(0)
     geos.write(name + ',' + area + ',' + lat + ',' + lng + '\n')
 
-with open('FTEAssignments.kml', 'rb') as f:
-    """Opens kml file and outputs geos into coords.txt"""
-    doc = f.read()
-    k = kml.KML()
-    k.from_string(doc)
+def parse_kml(fname):    
+    with open(fname, 'rb') as f:
+        """Opens kml file and outputs geos into coords.txt"""
+        doc = f.read()
+        k = kml.KML()
+        k.from_string(doc)
 
-    #new version
-    features = list(k.features())
-    placemarks = list(features[0].features())
+        #new version
+        features = list(k.features())
+        placemarks = list(features[0].features())
 
-    geos = open(os.path.join(os.path.dirname(__file__), '../coords.txt'), 'w')
-    for p in placemarks:
-        parse_placemark(geos, p)
+        geos = open(os.path.join(os.path.dirname(__file__), '../coords.txt'), 'w')
+        for p in placemarks:
+            parse_placemark(geos, p)
 
-    geos.close()
-f.close()
+        geos.close()
+    f.close()
