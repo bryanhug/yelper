@@ -1,1 +1,1 @@
-from api.query import read_geos
+from api.query import query_yelp
