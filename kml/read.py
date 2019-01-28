@@ -4,34 +4,58 @@ import re
 import os, sys
 import traceback
 
+class Point2D:
+    def __init__(self,x,y):
+        self.x = x
+        self.y = y
+
 def in_geo():
     # implement with ray casting algorithm
     return False
 
+def compute_centroid(lst):
+    centroid = Point2D(0,0)
+    signedArea = 0
 
+    for idx, i in enumerate(lst):
+        x0 = i.x
+        y0 = i.y
+        x1 = lst[(idx + 1) % len(lst)].x
+        y1 = lst[(idx + 1) % len(lst)].y
+        a = x0*y1 - x1*y0
+        signedArea += a
+        centroid.x += (x0 + x1)*a
+        centroid.y += (y0 + y1)*a
+
+    signedArea = signedArea*0.5
+    centroid.x = centroid.x / (6*signedArea)
+    centroid.y = centroid.y / (6*signedArea)
+
+    return centroid
 
 def parse_placemark(geos, p):
     """Splits the kml description into name, area, lat, lng"""
-    # Splits the Placemark description into 25 parts
-    split = re.split(r'<br><br>|<br>', str(p.description))
-    # tuple class
-    # print(p.geometry.exterior.coords)
-    print(len(p.geometry.exterior.coords))
-    print(len([x[0] for x in p.geometry.exterior.coords]))
-    sys.exit(0)
     try:
-        #split[3]=area, split[4]=lat, split[5]=lng
         name = p.name.rstrip().lstrip().replace('/','').replace(',','')
-        area = split[3].split()[1]
-        lat = split[4].split()[1]
-        lng = split[5].split()[1]
-    except(IndexError) as er:
+        if p.geometry.geom_type == 'LineString':
+            coord_lst = [Point2D(i.x,i.y) for i in p.geometry.geoms]
+        elif(p.geometry.geom_type == 'MultiPolygon'):
+            for idx,i in enumerate(p.geometry.geoms):
+                coord_lst = [Point2D(j[0],j[1]) for j in i.exterior.coords]
+                centroid = compute_centroid(coord_lst)
+                geos.write(name + str(idx) + ',' + str(centroid.y) + ',' + str(centroid.x) + '\n')
+            return
+        else:
+            coord_lst = [Point2D(i[0],i[1]) for i in p.geometry.exterior.coords]
+
+    except() as err:
+        print(err)
         print(name)
-        print(split[4])
-        print(er)
-        traceback.print_exc()
+        print(p.geometry.geoms)
         sys.exit(0)
-    geos.write(name + ',' + area + ',' + lat + ',' + lng + '\n')
+
+    centroid = compute_centroid(coord_lst)
+    geos.write(name + ',' + str(centroid.y) + ',' + str(centroid.x) + '\n')
 
 def parse_kml(fname):    
     with open(fname, 'rb') as f:

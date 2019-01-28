@@ -4,18 +4,13 @@ from math import sqrt, pi
 import os
 import sys
 
-
 class GeoFence:
-    def __init__(self, name, area_sqm, lat, lng):
+    def __init__(self, name, lat, lng):
         self.name = name
-        self.area_sqm = area_sqm
         self.lat = lat
         self.lng = lng
-        #naive attempt
-        self.radius = sqrt(float(self.area_sqm)/pi)
-        #max yelp radius is 40,000
-        if (self.radius > 40000):
-            self.radius = 40000
+        #4000m ~ about 25 miles
+        self.radius = 40000
 
 def read_geos():
     #check if coords.txt exists in dir above
@@ -26,8 +21,8 @@ def read_geos():
             data = f.read().rstrip()
             
             for i in data.split('\n'):
-                name, area, lat, lng = i.split(',')
-                geo = GeoFence(name,area,lat,lng)
+                name, lat, lng = i.split(',')
+                geo = GeoFence(name,lat,lng)
                 query_yelp(geo)
         f.close()
 
@@ -62,6 +57,3 @@ def write_to_file(req, out):
             out.write('\n')
     except(KeyError):
         print(json.dumps(geo_dic))
-
-
-# read_geos()
